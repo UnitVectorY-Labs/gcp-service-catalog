@@ -30,7 +30,7 @@
         // Debounced function to limit filtering during rapid input.
         function debounceFilterServices() {
             clearTimeout(debounceTimeout);
-            debounceTimeout = setTimeout(filterServices, 1000);
+            debounceTimeout = setTimeout(filterServices, 500);
         }
       </script>
 </head>
@@ -45,7 +45,7 @@
         <section class="services">
             <h1>All Services</h1>
             <div class="search-container">
-                <input type="text" id="searchInput" onkeyup="debounceFilterServices()" placeholder="Search for services...">
+                <input type="text" id="searchInput" oninput="debounceFilterServices()" placeholder="Search for services...">
                 <span class="search-icon">&#128269;</span>
             </div>
             <table id="servicesTable">
