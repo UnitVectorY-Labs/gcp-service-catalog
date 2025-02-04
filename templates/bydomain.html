@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>By Domain - gcp-service-catalog</title>
+    <link rel="stylesheet" href="style.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script>
+      // Filtering function for the domains list.
+      function filterDomains() {
+          var input = document.getElementById('searchInput');
+          var filter = input.value.toLowerCase();
+          var ul = document.getElementById('domainList');
+          var li = ul.getElementsByTagName('li');
+          for (var i = 0; i < li.length; i++) {
+              var a = li[i].getElementsByTagName('a')[0];
+              var textValue = a.textContent || a.innerText;
+              if (textValue.toLowerCase().indexOf(filter) > -1) {
+                  li[i].style.display = "";
+              } else {
+                  li[i].style.display = "none";
+              }
+          }
+      }
+    </script>
+</head>
+<body>
+    <!-- Top Navigation -->
+    <div class="navbar">
+        <a href="index.html">gcp-service-catalog</a>
+        <a href="services.html">Services</a>
+        <a href="bydomain.html" class="active">By Domain</a>
+    </div>
+    <main>
+        <section class="by-domain">
+            <h1>Services by Domain</h1>
+            <div class="search-container">
+                <input type="text" id="searchInput" onkeyup="filterDomains()" placeholder="Filter domains...">
+                <span class="search-icon">&#128269;</span>
+            </div>
+            <ul id="domainList" class="item-list">
+                {{range .Domains}}
+                <li>
+                    <a href="{{.Link}}">{{.Domain}}</a> ({{.Count}})
+                </li>
+                {{end}}
+            </ul>
+        </section>
+    </main>
+    {{template "footer"}}
+</body>
+</html>

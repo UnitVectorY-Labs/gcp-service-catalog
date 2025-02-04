@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>{{.Domain}} Services - gcp-service-catalog</title>
+    <link rel="stylesheet" href="../style.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script>
+      // Search filtering for services in a specific domain.
+      function filterDomainServices() {
+          var input = document.getElementById('searchInput');
+          var filter = input.value.toLowerCase();
+          var table = document.getElementById('domainServicesTable');
+          var tr = table.getElementsByTagName('tr');
+          for (var i = 1; i < tr.length; i++) {
+              var tds = tr[i].getElementsByTagName('td');
+              var show = false;
+              for (var j = 0; j < tds.length; j++) {
+                  if (tds[j].innerText.toLowerCase().indexOf(filter) > -1) {
+                      show = true;
+                      break;
+                  }
+              }
+              tr[i].style.display = show ? "" : "none";
+          }
+      }
+    </script>
+</head>
+<body>
+    <!-- Top Navigation -->
+    <div class="navbar">
+        <a href="../index.html">gcp-service-catalog</a>
+        <a href="../services.html">Services</a>
+        <a href="../bydomain.html">By Domain</a>
+        <a href="domain-{{.Domain | urlquery}}.html" class="active">{{.Domain}}</a>
+    </div>
+    <main>
+        <section class="domain-detail">
+            <h1>Services in the "{{.Domain}}" Domain</h1>
+            <div class="search-container">
+                <input type="text" id="searchInput" onkeyup="filterDomainServices()" placeholder="Search services in this domain...">
+                <span class="search-icon">&#128269;</span>
+            </div>
+            <table id="domainServicesTable">
+                <thead>
+                    <tr>
+                        <th>Name</th>
+                        <th>Title</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    {{range .Services}}
+                    <tr>
+                        <td><a href="../service/{{.FileName}}.html">{{.Name}}</a></td>
+                        <td>{{.Title}}</td>
+                    </tr>
+                    {{end}}
+                </tbody>
+            </table>
+        </section>
+    </main>
+    {{template "footer"}}
+</body>
+</html>

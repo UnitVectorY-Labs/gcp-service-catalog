@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>{{.Name}} - gcp-service-catalog</title>
+    <link rel="stylesheet" href="../style.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body>
+    <!-- Top Navigation -->
+    <div class="navbar">
+        <a href="../index.html">gcp-service-catalog</a>
+        <a href="../services.html">Services</a>
+        <a href="../bydomain.html">By Domain</a>
+    </div>
+    <main>
+        <section class="service-detail">
+            <h1>{{.Title}}</h1>
+            <p><strong>Service Name:</strong> {{.Name}}</p>
+            {{if .Documentation}}
+            <p><strong>Documentation Summary:</strong> {{.Documentation}}</p>
+            {{end}}
+        </section>
+    </main>
+    {{template "footer"}}
+</body>
+</html>

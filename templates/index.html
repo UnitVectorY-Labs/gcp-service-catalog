@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>gcp-service-catalog Home</title>
+    <link rel="stylesheet" href="style.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body>
+    <!-- Top Navigation -->
+    <div class="navbar">
+        <a href="index.html" class="active">gcp-service-catalog</a>
+        <a href="services.html">Services</a>
+        <a href="bydomain.html">By Domain</a>
+    </div>
+    <main>
+        <section class="home">
+            <h1>Welcome to gcp-service-catalog</h1>
+            <p>Total Services: <strong>{{.TotalServices}}</strong></p>
+            <p>
+                gcp-service-catalog is a tool to browse and explore Google Cloud Platform services.
+                Use the navigation above to view all services or browse by domain.
+            </p>
+        </section>
+    </main>
+    {{template "footer"}}
+</body>
+</html>

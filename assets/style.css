@@ -1,0 +1,173 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    line-height: 1.6;
+    background-color: #f4f4f4;
+    color: #333;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+a {
+    color: #3b82f6;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+.navbar {
+    background-color: #3b82f6;
+    color: #fff;
+    padding: 15px 20px;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+.navbar a {
+    color: #fff;
+    margin-right: 20px;
+    font-size: 1em;
+    padding: 8px 12px;
+    border-radius: 4px;
+    transition: background-color 0.3s;
+}
+
+.navbar a:hover {
+    background-color: rgba(255, 255, 255, 0.2);
+}
+
+.navbar .active {
+    background-color: rgba(255, 255, 255, 0.3);
+}
+
+main {
+    flex: 1;
+    padding: 20px;
+}
+
+section {
+    background-color: #fff;
+    padding: 25px;
+    margin-bottom: 25px;
+    border-radius: 6px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+h1 {
+    font-size: 1.5em;
+    color: #2c3e50;
+    margin-bottom: 15px;
+}
+
+h2 {
+    font-size: 1em;
+    color: #2c3e50;
+    margin-bottom: 15px;
+}
+
+.muted-text {
+    color: #888;
+}
+
+ul.item-list {
+    list-style: none;
+    margin-top: 15px;
+}
+
+ul.item-list li {
+    padding: 5px 0;
+    border-bottom: 1px solid #ddd;
+}
+
+ul.item-list li:last-child {
+    border-bottom: none;
+}
+
+ul.item-list li a {
+    font-weight: 500;
+}
+
+ul.item-list li a:hover {
+    color: #0056b3;
+}
+
+.search-container {
+    position: relative;
+    margin-bottom: 1rem;
+}
+
+/* Updated CSS Selector: Changed from .search-input to #searchInput */
+#searchInput {
+    width: 100%;
+    padding: 0.5rem 2.5rem 0.5rem 1rem; /* Increased right padding to accommodate the search icon */
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    font-size: 1rem; /* Ensures consistent font size */
+}
+
+.search-icon {
+    position: absolute;
+    right: 1rem;
+    top: 50%;
+    transform: translateY(-50%);
+    color: #888;
+    pointer-events: none;
+    font-size: 1rem;
+}
+
+.home .features, .home .getting-started {
+    margin-top: 25px;
+}
+
+.home .features ul {
+    list-style: disc inside;
+    margin-left: 20px;
+}
+
+.home .features li {
+    margin-bottom: 12px;
+}
+
+.home .getting-started a {
+    color: #3b82f6;
+    font-weight: bold;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+table th, table td {
+    padding: 10px;
+    border-bottom: 1px solid #ddd;
+}
+
+footer {
+    background-color: #2c3e50; 
+    color: #ecf0f1;
+    font-size: 0.8em;
+    padding: 1rem;
+    border-top: 1px solid #e5e7eb;
+    text-align: center;
+    margin-top: auto;
+}
+
+footer a {
+    color: #9ca3af;
+    text-decoration: none;
+}
+
+footer a:hover {
+    text-decoration: none;
+}
