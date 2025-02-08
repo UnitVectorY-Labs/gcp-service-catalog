@@ -9,6 +9,8 @@ on:
 jobs:
   crawl:
     runs-on: ubuntu-latest
+    env:
+      GCP_PROJECT_ID: ${{ secrets.GCP_PROJECT_ID }}
 
     timeout-minutes: 20
 
