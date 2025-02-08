@@ -1,0 +1,60 @@
+name: Deploy Go Static Site Generator
+
+on:
+  # Additional trigger to ensure this is updated after crawl
+  schedule:
+    - cron: 30 11 * * *
+  # Runs on pushes to the default branch
+  push:
+    branches: ["main"]
+
+permissions:
+  contents: read  # Required to clone the repository
+  pages: write    # Allows publishing to GitHub Pages
+  id-token: write # Required for the `actions/deploy-pages@v4`
+
+concurrency:
+  group: generate
+  cancel-in-progress: false
+
+jobs:
+  # Build job
+  build:
+    runs-on: ubuntu-latest
+    env:
+      WEBSITE: ${{ secrets.WEBSITE }}
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: false
+
+      - name: Set up Go
+        uses: actions/setup-go@v5
+        with:
+          go-version: 1.23.6
+
+      - name: Build gcp-service-catalog
+        run: |
+          go build -o gcp-service-catalog main.go
+
+      - name: Run gcp-service-catalog with crawl parameter
+        run: |
+          ./gcp-service-catalog -generate
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: ./html  # Match the directory where the static files are generated
+
+  # Deployment job
+  deploy:
+    environment:
+      name: github-pages
+      url: gcp-service-catalog.unitvectorylabs.com
+    runs-on: ubuntu-latest
+    needs: build
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
