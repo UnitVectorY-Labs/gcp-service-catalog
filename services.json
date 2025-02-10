@@ -315,6 +315,11 @@
     "title": "Active Directory Self Service Password Reset"
   },
   {
+    "domain": "bigquery-connectors-public.cloud.goog",
+    "name": "activecampaign.endpoints.bigquery-connectors-public.cloud.goog",
+    "title": "ActiveCampaign by Windsor.ai"
+  },
+  {
     "domain": "cloudpartnerservices.goog",
     "name": "activemq-06-02-2020-miriinfotech-public.cloudpartnerservices.goog",
     "title": "Miri Infotech ACTIVEMQ"
@@ -387,6 +392,11 @@
     "domain": "bigquery-connectors-public.cloud.goog",
     "name": "adform-bigquery-connector.endpoints.bigquery-connectors-public.cloud.goog",
     "title": "Adform BigQuery Connector"
+  },
+  {
+    "domain": "bigquery-connectors-public.cloud.goog",
+    "name": "adform.endpoints.bigquery-connectors-public.cloud.goog",
+    "title": "Adform by Windsor.ai"
   },
   {
     "domain": "cloudpartnerservices.goog",
@@ -470,6 +480,11 @@
     "domain": "bigquery-connectors-public.cloud.goog",
     "name": "adroll-connector-by-windsor.ai.endpoints.bigquery-connectors-public.cloud.goog",
     "title": "AdRoll Connector by Windsor.ai"
+  },
+  {
+    "domain": "bigquery-connectors-public.cloud.goog",
+    "name": "adroll.endpoints.bigquery-connectors-public.cloud.goog",
+    "title": "AdRoll by Windsor.ai"
   },
   {
     "documentation": "API for executing Ads Data Hub queries.",
@@ -1299,6 +1314,11 @@
     "domain": "apps4rentllc-public.cloud.goog",
     "name": "ansible-on-debian11.endpoints.apps4rentllc-public.cloud.goog",
     "title": "Ansible on Debian11"
+  },
+  {
+    "domain": "apps4rentllc-public.cloud.goog",
+    "name": "ansible-on-debian12.endpoints.apps4rentllc-public.cloud.goog",
+    "title": "Ansible on Debian12"
   },
   {
     "domain": "apps4rentllc-public.cloud.goog",
@@ -2810,6 +2830,11 @@
     "title": "Basis DSP Connector by Windsor.ai"
   },
   {
+    "domain": "bigquery-connectors-public.cloud.goog",
+    "name": "basis.endpoints.bigquery-connectors-public.cloud.goog",
+    "title": "Basis DSP by Windsor.ai"
+  },
+  {
     "documentation": "An API to manage the running of Batch resources on Google Cloud Platform.",
     "domain": "googleapis.com",
     "name": "batch.googleapis.com",
@@ -3544,6 +3569,11 @@
     "domain": "cloudpartnerservices.goog",
     "name": "breathe-breathe-gcp-public-data.cloudpartnerservices.goog",
     "title": "BREATHE BioMedical Literature Dataset"
+  },
+  {
+    "domain": "bigquery-connectors-public.cloud.goog",
+    "name": "brevo-sendinblue.endpoints.bigquery-connectors-public.cloud.goog",
+    "title": "Brevo by Windsor.ai"
   },
   {
     "domain": "bigquery-connectors-public.cloud.goog",
@@ -8130,6 +8160,11 @@
     "title": "Display \u0026 Video 360 API"
   },
   {
+    "domain": "bigquery-connectors-public.cloud.goog",
+    "name": "displayvideo360.endpoints.bigquery-connectors-public.cloud.goog",
+    "title": "DV360 by Windsor.ai"
+  },
+  {
     "domain": "distatechnology-public.cloud.goog",
     "name": "dista-deliver.endpoints.distatechnology-public.cloud.goog",
     "title": "Dista Deliver"
@@ -11845,6 +11880,11 @@
   },
   {
     "domain": "bigquery-connectors-public.cloud.goog",
+    "name": "google-ad-manager-dfp.endpoints.bigquery-connectors-public.cloud.goog",
+    "title": "Google Ad Manager by Windsor.ai"
+  },
+  {
+    "domain": "bigquery-connectors-public.cloud.goog",
     "name": "google-ad-manager.endpoints.bigquery-connectors-public.cloud.goog",
     "title": "Google Ad Manager Connector by Windsor.ai"
   },
@@ -13482,6 +13522,11 @@
     "domain": "bigquery-connectors-public.cloud.goog",
     "name": "intercom-connector-by-windsor.ai.endpoints.bigquery-connectors-public.cloud.goog",
     "title": "Intercom Connector by Windsor.ai"
+  },
+  {
+    "domain": "bigquery-connectors-public.cloud.goog",
+    "name": "intercom.endpoints.bigquery-connectors-public.cloud.goog",
+    "title": "Intercom by Windsor.ai"
   },
   {
     "domain": "cloudpartnerservices.goog",
@@ -15422,51 +15467,6 @@
     "domain": "cognosys-public.cloud.goog",
     "name": "lemp-stack-ngnix-mysql-php-on-redhat-linux-8-34471.endpoints.cognosys-public.cloud.goog",
     "title": "LEMP Stack-Ngnix MySql PHP on Redhat linux 8"
-  },
-  {
-    "domain": "cognosys-public.cloud.goog",
-    "name": "lemp-stack-ngnix-mysql-php-on-redhat-linux-9-34470.endpoints.cognosys-public.cloud.goog",
-    "title": "LEMP Stack-Ngnix MySql PHP on Redhat linux 9"
-  },
-  {
-    "domain": "cognosys-public.cloud.goog",
-    "name": "lemp-stack-ngnix-mysql-php-on-ubuntu-2004-lts-focal-34465.endpoints.cognosys-public.cloud.goog",
-    "title": "LEMP Stack-Ngnix MySql PHP on Ubuntu 20.04 lts focal"
-  },
-  {
-    "domain": "cognosys-public.cloud.goog",
-    "name": "lemp-stack-ngnix-mysql-php-on-ubuntu-2204-lts-34463.endpoints.cognosys-public.cloud.goog",
-    "title": "LEMP Stack-Ngnix MySql PHP on Ubuntu 22.04 lts"
-  },
-  {
-    "domain": "cognosys-public.cloud.goog",
-    "name": "lemp-stack-ngnix-mysql-php-on-ubuntu-2310-lts-34460.endpoints.cognosys-public.cloud.goog",
-    "title": "LEMP Stack-Ngnix MySql PHP on Ubuntu 23.10 lts"
-  },
-  {
-    "domain": "cognosys-public.cloud.goog",
-    "name": "lemp-stack-ngnix-mysql-php-on-ubuntu-2404-lts-34461.endpoints.cognosys-public.cloud.goog",
-    "title": "LEMP Stack-Ngnix MySql PHP on Ubuntu 24.04 lts"
-  },
-  {
-    "domain": "apps4rentllc-public.cloud.goog",
-    "name": "lemp-stack-on-debian11.endpoints.apps4rentllc-public.cloud.goog",
-    "title": "LEMP Stack on Debian11"
-  },
-  {
-    "domain": "apps4rentllc-public.cloud.goog",
-    "name": "lemp-stack-on-debian12.endpoints.apps4rentllc-public.cloud.goog",
-    "title": "LEMP Stack on Debian12"
-  },
-  {
-    "domain": "apps4rentllc-public.cloud.goog",
-    "name": "lemp-stack-on-ubuntu20.endpoints.apps4rentllc-public.cloud.goog",
-    "title": " LEMP Stack on Ubuntu20.04"
-  },
-  {
-    "domain": "apps4rentllc-public.cloud.goog",
-    "name": "lemp-stack-on-ubuntu22.endpoints.apps4rentllc-public.cloud.goog",
-    "title": "LEMP Stack on Ubuntu22.04"
   },
   {
     "documentation": "Privileged Access Manager (PAM) helps you on your journey towards least privilege and helps mitigate risks tied to privileged access misuse or abuse. PAM allows you to shift from always-on standing privileges towards on-demand access with just-in-time, time-bound, and approval-based access elevations.\nPAM allows IAM administrators to create entitlements that can grant just-in-time, temporary access to any resource scope. Requesters can explore eligible entitlements and request the access needed for their task. Approvers are notified when approvals await their decision.\nStreamlined workflows facilitated by using PAM can support various use cases, including emergency access for incident responders, time-boxed access for developers for critical deployment or maintenance, temporary access for operators for data ingestion and audits, JIT access to service accounts for automated tasks, and more.\n",
