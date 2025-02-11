@@ -6836,6 +6836,11 @@
     "title": "CRMNEXT- BUSINESSNEXT Platform"
   },
   {
+    "domain": "croct-public.cloud.goog",
+    "name": "croct.endpoints.croct-public.cloud.goog",
+    "title": "Croct"
+  },
+  {
     "domain": "gcp-marketplace-project-427804.cloud.goog",
     "name": "cropin-grow.endpoints.gcp-marketplace-project-427804.cloud.goog",
     "title": "Cropin Grow"
@@ -7930,6 +7935,11 @@
     "domain": "cloudpartnerservices.goog",
     "name": "deps-dev-bigquery-public-data.cloudpartnerservices.goog",
     "title": "BigQuery Public Data Open Source Insights"
+  },
+  {
+    "domain": "googleapis.com",
+    "name": "designcenter.googleapis.com",
+    "title": "Design Center API"
   },
   {
     "domain": "deskbird-public.cloud.goog",
@@ -15457,16 +15467,6 @@
     "domain": "cognosys-public.cloud.goog",
     "name": "lemp-stack-ngnix-mysql-php-on-debian-34473.endpoints.cognosys-public.cloud.goog",
     "title": "LEMP Stack-Ngnix MySql PHP on Debian"
-  },
-  {
-    "domain": "cognosys-public.cloud.goog",
-    "name": "lemp-stack-ngnix-mysql-php-on-redhat-linux-7-34472.endpoints.cognosys-public.cloud.goog",
-    "title": "LEMP Stack-Ngnix MySql PHP on Redhat linux 7"
-  },
-  {
-    "domain": "cognosys-public.cloud.goog",
-    "name": "lemp-stack-ngnix-mysql-php-on-redhat-linux-8-34471.endpoints.cognosys-public.cloud.goog",
-    "title": "LEMP Stack-Ngnix MySql PHP on Redhat linux 8"
   },
   {
     "documentation": "Privileged Access Manager (PAM) helps you on your journey towards least privilege and helps mitigate risks tied to privileged access misuse or abuse. PAM allows you to shift from always-on standing privileges towards on-demand access with just-in-time, time-bound, and approval-based access elevations.\nPAM allows IAM administrators to create entitlements that can grant just-in-time, temporary access to any resource scope. Requesters can explore eligible entitlements and request the access needed for their task. Approvers are notified when approvals await their decision.\nStreamlined workflows facilitated by using PAM can support various use cases, including emergency access for incident responders, time-boxed access for developers for critical deployment or maintenance, temporary access for operators for data ingestion and audits, JIT access to service accounts for automated tasks, and more.\n",
