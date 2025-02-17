@@ -748,6 +748,11 @@
   },
   {
     "domain": "apps4rentllc-public.cloud.goog",
+    "name": "aiofiles-on-debian12.endpoints.apps4rentllc-public.cloud.goog",
+    "title": "Aiofiles on Debian12"
+  },
+  {
+    "domain": "apps4rentllc-public.cloud.goog",
     "name": "aiofiles-on-ubuntu-20-04.endpoints.apps4rentllc-public.cloud.goog",
     "title": "Aiofiles on Ubuntu 20.04"
   },
@@ -3607,6 +3612,11 @@
   },
   {
     "domain": "apps4rentllc-public.cloud.goog",
+    "name": "briefcase-on-debain12.endpoints.apps4rentllc-public.cloud.goog",
+    "title": "Briefcase on Debain12"
+  },
+  {
+    "domain": "apps4rentllc-public.cloud.goog",
     "name": "briefcase-on-ubuntu-20.endpoints.apps4rentllc-public.cloud.goog",
     "title": "Briefcase on Ubuntu 20.04"
   },
@@ -3644,6 +3654,31 @@
     "domain": "techlatest-public.cloud.goog",
     "name": "browser-based-ubuntu-2404.endpoints.techlatest-public.cloud.goog",
     "title": "Browser based Ubuntu 24.04 GUI Desktop accessible via https"
+  },
+  {
+    "domain": "apps4rentllc-public.cloud.goog",
+    "name": "brundle-on-debian11.endpoints.apps4rentllc-public.cloud.goog",
+    "title": "Brundle on Debian11"
+  },
+  {
+    "domain": "apps4rentllc-public.cloud.goog",
+    "name": "brundle-on-debian12.endpoints.apps4rentllc-public.cloud.goog",
+    "title": "Brundle on Debian12"
+  },
+  {
+    "domain": "apps4rentllc-public.cloud.goog",
+    "name": "brundle-on-ubuntu-20-04.endpoints.apps4rentllc-public.cloud.goog",
+    "title": "Brundle on Ubuntu 20.04"
+  },
+  {
+    "domain": "apps4rentllc-public.cloud.goog",
+    "name": "brundle-on-ubuntu-22-04.endpoints.apps4rentllc-public.cloud.goog",
+    "title": "Brundle on Ubuntu 22.04"
+  },
+  {
+    "domain": "apps4rentllc-public.cloud.goog",
+    "name": "brundle-on-ubuntu-24-04.endpoints.apps4rentllc-public.cloud.goog",
+    "title": "Brundle on Ubuntu 24.04"
   },
   {
     "domain": "techlatest-public.cloud.goog",
@@ -15682,41 +15717,6 @@
     "domain": "cognosys-public.cloud.goog",
     "name": "lemp-stack-ngnix-mysql-php-on-ubuntu-2004-lts-focal-34465.endpoints.cognosys-public.cloud.goog",
     "title": "LEMP Stack-Ngnix MySql PHP on Ubuntu 20.04 lts focal"
-  },
-  {
-    "domain": "cognosys-public.cloud.goog",
-    "name": "lemp-stack-ngnix-mysql-php-on-ubuntu-2204-lts-34463.endpoints.cognosys-public.cloud.goog",
-    "title": "LEMP Stack-Ngnix MySql PHP on Ubuntu 22.04 lts"
-  },
-  {
-    "domain": "cognosys-public.cloud.goog",
-    "name": "lemp-stack-ngnix-mysql-php-on-ubuntu-2310-lts-34460.endpoints.cognosys-public.cloud.goog",
-    "title": "LEMP Stack-Ngnix MySql PHP on Ubuntu 23.10 lts"
-  },
-  {
-    "domain": "cognosys-public.cloud.goog",
-    "name": "lemp-stack-ngnix-mysql-php-on-ubuntu-2404-lts-34461.endpoints.cognosys-public.cloud.goog",
-    "title": "LEMP Stack-Ngnix MySql PHP on Ubuntu 24.04 lts"
-  },
-  {
-    "domain": "apps4rentllc-public.cloud.goog",
-    "name": "lemp-stack-on-debian11.endpoints.apps4rentllc-public.cloud.goog",
-    "title": "LEMP Stack on Debian11"
-  },
-  {
-    "domain": "apps4rentllc-public.cloud.goog",
-    "name": "lemp-stack-on-debian12.endpoints.apps4rentllc-public.cloud.goog",
-    "title": "LEMP Stack on Debian12"
-  },
-  {
-    "domain": "apps4rentllc-public.cloud.goog",
-    "name": "lemp-stack-on-ubuntu20.endpoints.apps4rentllc-public.cloud.goog",
-    "title": " LEMP Stack on Ubuntu20.04"
-  },
-  {
-    "domain": "apps4rentllc-public.cloud.goog",
-    "name": "lemp-stack-on-ubuntu22.endpoints.apps4rentllc-public.cloud.goog",
-    "title": "LEMP Stack on Ubuntu22.04"
   },
   {
     "documentation": "Privileged Access Manager (PAM) helps you on your journey towards least privilege and helps mitigate risks tied to privileged access misuse or abuse. PAM allows you to shift from always-on standing privileges towards on-demand access with just-in-time, time-bound, and approval-based access elevations.\nPAM allows IAM administrators to create entitlements that can grant just-in-time, temporary access to any resource scope. Requesters can explore eligible entitlements and request the access needed for their task. Approvers are notified when approvals await their decision.\nStreamlined workflows facilitated by using PAM can support various use cases, including emergency access for incident responders, time-boxed access for developers for critical deployment or maintenance, temporary access for operators for data ingestion and audits, JIT access to service accounts for automated tasks, and more.\n",
