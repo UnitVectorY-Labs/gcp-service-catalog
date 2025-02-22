@@ -6421,6 +6421,11 @@
     "title": "Commvault Cloud - Foundational Protection BYOL"
   },
   {
+    "domain": "cvlt-marketplace-public.cloud.goog",
+    "name": "commvault-cloud-on-rocky-linux-byol.endpoints.cvlt-marketplace-public.cloud.goog",
+    "title": "Commvault Cloud on Rocky Linux BYOL"
+  },
+  {
     "domain": "cloudpartnerservices.goog",
     "name": "commvaultcomplete-cvlt-marketplace-public.cloudpartnerservices.goog",
     "title": "CommvaultComplete Reporting Service"
@@ -7702,6 +7707,16 @@
     "domain": "datadome-public-423915.cloud.goog",
     "name": "datadome-bot-online-fraud-mitigation.endpoints.datadome-public-423915.cloud.goog",
     "title": "DataDome Bot \u0026 Online Fraud Mitigation"
+  },
+  {
+    "domain": "dataedo-public.cloud.goog",
+    "name": "dataedo-portal-mssql-vm-linux-x86-64.endpoints.dataedo-public.cloud.goog",
+    "title": "Dataedo Portal + MSSQL Repository"
+  },
+  {
+    "domain": "dataedo-public.cloud.goog",
+    "name": "dataedo-portal-vm-linux-x86-64.endpoints.dataedo-public.cloud.goog",
+    "title": "Dataedo Portal"
   },
   {
     "documentation": "Manages Google Cloud Dataflow projects on Google Cloud Platform.",
@@ -15215,6 +15230,242 @@
     "domain": "konghq-public.cloud.goog",
     "name": "kong-konnect-enterprise.endpoints.konghq-public.cloud.goog",
     "title": "Kong Konnect Enterprise"
+  },
+  {
+    "domain": "cloudpartnerservices.goog",
+    "name": "kongenterprise21-konghq-public.cloudpartnerservices.goog",
+    "title": "Kong Enterprise 2.1 (BYOL)"
+  },
+  {
+    "domain": "cloudpartnerservices.goog",
+    "name": "kongkonnectenterprise25-konghq-public.cloudpartnerservices.goog",
+    "title": "Kong Konnect Enterprise 2.5 (BYOL)"
+  },
+  {
+    "domain": "konghq-public.cloud.goog",
+    "name": "konnect.endpoints.konghq-public.cloud.goog",
+    "title": "Konnect"
+  },
+  {
+    "domain": "korewireless-public.cloud.goog",
+    "name": "kora.endpoints.korewireless-public.cloud.goog",
+    "title": "LPHub"
+  },
+  {
+    "domain": "korewireless-public.cloud.goog",
+    "name": "kore-omnicore.endpoints.korewireless-public.cloud.goog",
+    "title": "KORE OmniCore"
+  },
+  {
+    "domain": "apps4rentllc-public.cloud.goog",
+    "name": "kotlin-on-debian11.endpoints.apps4rentllc-public.cloud.goog",
+    "title": "Kotlin on Debian11"
+  },
+  {
+    "domain": "apps4rentllc-public.cloud.goog",
+    "name": "kotlin-on-debian12.endpoints.apps4rentllc-public.cloud.goog",
+    "title": "Kotlin on Debian12"
+  },
+  {
+    "domain": "apps4rentllc-public.cloud.goog",
+    "name": "kotlin-on-ubuntu-20.endpoints.apps4rentllc-public.cloud.goog",
+    "title": "Kotlin on Ubuntu 20.04"
+  },
+  {
+    "domain": "apps4rentllc-public.cloud.goog",
+    "name": "kotlin-on-ubuntu-22.endpoints.apps4rentllc-public.cloud.goog",
+    "title": "Kotlin on Ubuntu 22.04"
+  },
+  {
+    "domain": "apps4rentllc-public.cloud.goog",
+    "name": "kotlin-on-ubuntu-24.endpoints.apps4rentllc-public.cloud.goog",
+    "title": "Kotlin on Ubuntu 24.04"
+  },
+  {
+    "domain": "dataknobs-public.cloud.goog",
+    "name": "kreate-websites.endpoints.dataknobs-public.cloud.goog",
+    "title": "Kreate Websites"
+  },
+  {
+    "domain": "dataknobs-public.cloud.goog",
+    "name": "kreatebots.endpoints.dataknobs-public.cloud.goog",
+    "title": "KreateBots"
+  },
+  {
+    "domain": "apps4rentllc-public.cloud.goog",
+    "name": "krita-on-windows-server-2016.endpoints.apps4rentllc-public.cloud.goog",
+    "title": "Krita on Windows Server 2016"
+  },
+  {
+    "domain": "apps4rentllc-public.cloud.goog",
+    "name": "krita-on-windows-server-2019.endpoints.apps4rentllc-public.cloud.goog",
+    "title": "Krita on Windows Server 2019"
+  },
+  {
+    "domain": "apps4rentllc-public.cloud.goog",
+    "name": "krita-on-windows-server-2022.endpoints.apps4rentllc-public.cloud.goog",
+    "title": "Krita on Windows Server 2022"
+  },
+  {
+    "domain": "googleapis.com",
+    "name": "krmapihosting.googleapis.com",
+    "title": "KRM API Hosting API"
+  },
+  {
+    "domain": "kubecost-public.cloud.goog",
+    "name": "kubecost-cloud.endpoints.kubecost-public.cloud.goog",
+    "title": "Kubecost - Cloud"
+  },
+  {
+    "domain": "kubecost-public.cloud.goog",
+    "name": "kubecost-ent.endpoints.kubecost-public.cloud.goog",
+    "title": "Kubecost - ENT"
+  },
+  {
+    "domain": "kubecost-public.cloud.goog",
+    "name": "kubecost.endpoints.kubecost-public.cloud.goog",
+    "title": "Kubecost"
+  },
+  {
+    "domain": "apps4rentllc-public.cloud.goog",
+    "name": "kubectl-on-debian11.endpoints.apps4rentllc-public.cloud.goog",
+    "title": "Kubectl on Debian11"
+  },
+  {
+    "domain": "apps4rentllc-public.cloud.goog",
+    "name": "kubectl-on-debian12.endpoints.apps4rentllc-public.cloud.goog",
+    "title": "Kubectl on Debian12"
+  },
+  {
+    "domain": "apps4rentllc-public.cloud.goog",
+    "name": "kubectl-on-ubuntu-20.endpoints.apps4rentllc-public.cloud.goog",
+    "title": "Kubectl on Ubuntu 20.04"
+  },
+  {
+    "domain": "apps4rentllc-public.cloud.goog",
+    "name": "kubectl-on-ubuntu-22.endpoints.apps4rentllc-public.cloud.goog",
+    "title": "Kubectl on Ubuntu 22.04"
+  },
+  {
+    "domain": "apps4rentllc-public.cloud.goog",
+    "name": "kubectl-on-ubuntu-24.endpoints.apps4rentllc-public.cloud.goog",
+    "title": "Kubectl on Ubuntu 24.04"
+  },
+  {
+    "domain": "appspot.com",
+    "name": "kubernetes-cost-attribution.mp-managedkube-public.appspot.com",
+    "title": "ManagedKube Kubernetes Cost Attribution"
+  },
+  {
+    "domain": "techlatest-public.cloud.goog",
+    "name": "kubernetes-with-minikube.endpoints.techlatest-public.cloud.goog",
+    "title": "Instant Kubernetes: K8 VM with Minikube, Kubectl \u0026 K8 Dashboard"
+  },
+  {
+    "documentation": "kubernetesmetadata.googleapis.com API.",
+    "domain": "googleapis.com",
+    "name": "kubernetesmetadata.googleapis.com",
+    "title": "Kubernetes Metadata API"
+  },
+  {
+    "domain": "cloudpartnerservices.goog",
+    "name": "kubernetessandbox-bitnami-launchpad.cloudpartnerservices.goog",
+    "title": "Bitnami Kubernetes Sandbox Certified by Bitnami"
+  },
+  {
+    "domain": "cloudpartnerservices.goog",
+    "name": "kubernetessandbox-click-to-deploy-images.cloudpartnerservices.goog",
+    "title": "Google Click to Deploy Kubernetes Sandbox"
+  },
+  {
+    "domain": "techlatest-public.cloud.goog",
+    "name": "kubesphere-vm.endpoints.techlatest-public.cloud.goog",
+    "title": "KubeSphere for Cloud-Native Scalable DevOps"
+  },
+  {
+    "domain": "kubit-public.cloud.goog",
+    "name": "kubit.endpoints.kubit-public.cloud.goog",
+    "title": "Kubit"
+  },
+  {
+    "domain": "kusanagi-for-gcp.cloud.goog",
+    "name": "kusanagi-9-for-gcp-almalinux-os-8.endpoints.kusanagi-for-gcp.cloud.goog",
+    "title": "KUSANAGI 9 for GCP (AlmaLinux OS 8)"
+  },
+  {
+    "domain": "kusanagi-for-gcp.cloud.goog",
+    "name": "kusanagi-9-for-gcp-almalinux-os-9.endpoints.kusanagi-for-gcp.cloud.goog",
+    "title": "KUSANAGI 9 for GCP (AlmaLinux OS 9)"
+  },
+  {
+    "domain": "kusanagi-for-gcp.cloud.goog",
+    "name": "kusanagi-9-for-gcp-business-edition-almalinux-os-8.endpoints.kusanagi-for-gcp.cloud.goog",
+    "title": "KUSANAGI 9 for GCP Business Edition (AlmaLinux OS 8)"
+  },
+  {
+    "domain": "kusanagi-for-gcp.cloud.goog",
+    "name": "kusanagi-9-for-gcp-business-edition-almalinux-os-9.endpoints.kusanagi-for-gcp.cloud.goog",
+    "title": "KUSANAGI 9 for GCP Business Edition (AlmaLinux OS 9)"
+  },
+  {
+    "domain": "kusanagi-for-gcp.cloud.goog",
+    "name": "kusanagi-9-for-gcp-centos-stream-9.endpoints.kusanagi-for-gcp.cloud.goog",
+    "title": "KUSANAGI 9 for GCP (CentOS Stream 9)"
+  },
+  {
+    "domain": "kusanagi-for-gcp.cloud.goog",
+    "name": "kusanagi-9-for-gcp-premium-edition-almalinux-os-8.endpoints.kusanagi-for-gcp.cloud.goog",
+    "title": "KUSANAGI 9 for GCP Premium Edition (AlmaLinux OS 8)"
+  },
+  {
+    "domain": "kusanagi-for-gcp.cloud.goog",
+    "name": "kusanagi-9-for-gcp-premium-edition-almalinux-os-9.endpoints.kusanagi-for-gcp.cloud.goog",
+    "title": "KUSANAGI 9 for GCP Premium Edition (AlmaLinux OS 9)"
+  },
+  {
+    "domain": "cloudpartnerservices.goog",
+    "name": "kusanagi-kusanagi-for-gcp.cloudpartnerservices.goog",
+    "title": "Prime Strategy Co.,Ltd. KUSANAGI for GCP"
+  },
+  {
+    "domain": "cloudpartnerservices.goog",
+    "name": "kusanagi9-kusanagi-for-gcp.cloudpartnerservices.goog",
+    "title": "Prime Strategy Co.,Ltd. KUSANAGI 9 for GCP"
+  },
+  {
+    "domain": "cloudpartnerservices.goog",
+    "name": "kusanagi9businessedition-kusanagi-for-gcp.cloudpartnerservices.goog",
+    "title": "Prime Strategy Co.,Ltd. KUSANAGI 9 for GCP Business Edition"
+  },
+  {
+    "domain": "cloudpartnerservices.goog",
+    "name": "kusanagi9premiumedition-kusanagi-for-gcp.cloudpartnerservices.goog",
+    "title": "Prime Strategy Co.,Ltd. KUSANAGI 9 for GCP Premium Edition"
+  },
+  {
+    "domain": "cloudpartnerservices.goog",
+    "name": "kusanagibusinessedition-kusanagi-for-gcp.cloudpartnerservices.goog",
+    "title": "Prime Strategy Co.,Ltd. KUSANAGI for GCP Business Edition"
+  },
+  {
+    "domain": "cloudpartnerservices.goog",
+    "name": "kusanagipremiumedition-kusanagi-for-gcp.cloudpartnerservices.goog",
+    "title": "Prime Strategy Co.,Ltd. KUSANAGI for GCP Premium Edition"
+  },
+  {
+    "domain": "cloudpartnerservices.goog",
+    "name": "kx-insights-kx-kdb-vm-public.cloudpartnerservices.goog",
+    "title": "Kx Systems KX Insights, kdb+ Cloud Edition"
+  },
+  {
+    "domain": "kyruushealth-public.cloud.goog",
+    "name": "kyruus-health.endpoints.kyruushealth-public.cloud.goog",
+    "title": "Kyruus Health"
+  },
+  {
+    "domain": "kyvosinsights-public.cloud.goog",
+    "name": "kyvos-free.endpoints.kyvosinsights-public.cloud.goog",
+    "title": "Kyvos Free "
   },
   {
     "documentation": "Privileged Access Manager (PAM) helps you on your journey towards least privilege and helps mitigate risks tied to privileged access misuse or abuse. PAM allows you to shift from always-on standing privileges towards on-demand access with just-in-time, time-bound, and approval-based access elevations.\nPAM allows IAM administrators to create entitlements that can grant just-in-time, temporary access to any resource scope. Requesters can explore eligible entitlements and request the access needed for their task. Approvers are notified when approvals await their decision.\nStreamlined workflows facilitated by using PAM can support various use cases, including emergency access for incident responders, time-boxed access for developers for critical deployment or maintenance, temporary access for operators for data ingestion and audits, JIT access to service accounts for automated tasks, and more.\n",
