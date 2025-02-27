@@ -158,12 +158,9 @@ func crawlServiceUsage(ctx context.Context) error {
 		it := client.ListServices(ctx, req)
 		for {
 			resp, err := it.Next()
-			if err == io.EOF {
+			if err != nil {
 				// Break out if iteration is done.
 				break
-			}
-			if err != nil {
-				return fmt.Errorf("error iterating services: %v", err)
 			}
 
 			name := resp.Config.Name
