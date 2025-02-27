@@ -41,6 +41,13 @@ a:hover {
     transition: background-color 0.3s;
 }
 
+.navbar span {
+    color: #fff;
+    font-size: 1em;
+    margin-right: 20px;
+    transition: background-color 0.3s;
+}
+
 .navbar a:hover {
     background-color: rgba(255, 255, 255, 0.2);
 }
@@ -151,6 +158,10 @@ table {
 table th, table td {
     padding: 10px;
     border-bottom: 1px solid #ddd;
+}
+
+.non-preferred {
+    background-color: #ffebee;
 }
 
 footer {

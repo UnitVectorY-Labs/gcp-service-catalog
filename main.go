@@ -50,6 +50,8 @@ type APIEntry struct {
 	Preferred         bool     `json:"preferred"`
 	Title             string   `json:"title"`
 	Version           string   `json:"version"`
+	// FileName is not saved in JSON; it is computed for linking pages.
+	FileName string `json:"-"`
 }
 
 // Icons represents the icon URLs for an API.
@@ -324,10 +326,29 @@ func generateHTML() error {
 	}
 	sort.Strings(domains)
 
+	// Load in all of the APIs from the directory.json file
+	directoryData, err := os.ReadFile("directory.json")
+	if err != nil {
+		log.Printf("Warning: Failed to read directory.json: %v", err)
+		// Continue
+	}
+
+	var directory DirectoryList
+	if err := json.Unmarshal(directoryData, &directory); err != nil {
+		log.Printf("Warning: Failed to parse directory.json: %v", err)
+		// Continue
+	}
+
+	// Sort the APIs by ID
+	sort.Slice(directory.Items, func(i, j int) bool {
+		return directory.Items[i].ID < directory.Items[j].ID
+	})
+
 	// Ensure output directories exist.
 	htmlDir := "html"
 	domainDir := filepath.Join(htmlDir, "domain")
 	serviceDir := filepath.Join(htmlDir, "service")
+	apiDir := filepath.Join(htmlDir, "api")
 	if err := os.MkdirAll(htmlDir, os.ModePerm); err != nil {
 		return fmt.Errorf("failed to create html directory: %v", err)
 	}
@@ -337,14 +358,22 @@ func generateHTML() error {
 	if err := os.MkdirAll(serviceDir, os.ModePerm); err != nil {
 		return fmt.Errorf("failed to create service directory: %v", err)
 	}
+	if err := os.MkdirAll(apiDir, os.ModePerm); err != nil {
+		return fmt.Errorf("failed to create api directory: %v", err)
+	}
 
 	// Copy style.css to the output directory.
 	if err := copyFile("assets/style.css", filepath.Join(htmlDir, "style.css")); err != nil {
 		log.Fatalf("Error copying style.css: %v", err)
 	}
 
-	// Parse all external templates.
-	tmpl, err := template.ParseGlob("templates/*.html")
+	// Create a template function map with the urlSafe function
+	funcMap := template.FuncMap{
+		"urlize": urlSafe,
+	}
+
+	// Parse all external templates with the function map.
+	tmpl, err := template.New("").Funcs(funcMap).ParseGlob("templates/*.html")
 	if err != nil {
 		return fmt.Errorf("failed to parse templates: %v", err)
 	}
@@ -354,8 +383,10 @@ func generateHTML() error {
 	// -----------------------------------
 	homeData := struct {
 		TotalServices int
+		TotalApis     int
 	}{
 		TotalServices: len(services),
+		TotalApis:     len(directory.Items),
 	}
 	homeFile := filepath.Join(htmlDir, "index.html")
 	homeOut, err := os.Create(homeFile)
@@ -468,6 +499,58 @@ func generateHTML() error {
 		log.Printf("Generated service page for %s: %s", svc.Name, serviceFilePath)
 	}
 
+	// -----------------------------------
+	// 6. Generate the API list
+	// -----------------------------------
+	// Generate the APIs page
+	apisData := struct {
+		Services []APIEntry
+	}{
+		Services: directory.Items,
+	}
+	apisFile := filepath.Join(htmlDir, "apis.html")
+	apisOut, err := os.Create(apisFile)
+	if err != nil {
+		log.Printf("Failed to create apis page: %v", err)
+		// Continue with execution
+	} else {
+		if err := tmpl.ExecuteTemplate(apisOut, "apis.html", apisData); err != nil {
+			log.Printf("Failed to execute apis template: %v", err)
+			apisOut.Close()
+			// Continue with execution
+		} else {
+			apisOut.Close()
+			log.Printf("Generated APIs page: %s", apisFile)
+		}
+	}
+
+	// -----------------------------------
+	// 7. Generate the individual API files
+	// -----------------------------------
+	// Generate individual API pages for each API in the directory file placing it in the "api" html folder
+	for _, api := range directory.Items {
+		// Create a safe filename by replacing the colon with underscore in the ID
+		safeID := strings.ReplaceAll(api.ID, ":", "_")
+
+		apiFileName := fmt.Sprintf("%s.html", safeID)
+		apiFilePath := filepath.Join(apiDir, apiFileName)
+
+		f, err := os.Create(apiFilePath)
+		if err != nil {
+			log.Printf("Failed to create API page for %s: %v", api.ID, err)
+			continue
+		}
+
+		if err := tmpl.ExecuteTemplate(f, "api.html", api); err != nil {
+			log.Printf("Failed to execute API template for %s: %v", api.ID, err)
+			f.Close()
+			continue
+		}
+
+		f.Close()
+		log.Printf("Generated API page for %s: %s", api.ID, apiFilePath)
+	}
+
 	// Generate sitemap.xml and robots.txt
 	if err := generateSitemap(htmlDir); err != nil {
 		return fmt.Errorf("failed to generate sitemap: %v", err)
@@ -484,6 +567,7 @@ func generateHTML() error {
 // urlSafe returns a version of the input string safe for use in URLs and file names.
 func urlSafe(s string) string {
 	s = strings.ReplaceAll(s, " ", "-")
+	s = strings.ReplaceAll(s, ":", "_")
 	return strings.ToLower(s)
 }
 

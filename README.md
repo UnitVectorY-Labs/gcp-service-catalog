@@ -14,7 +14,8 @@ This application is written in Go for both the data collection and site generati
 
 1. **Data Collection:**
     - A GitHub Action [gcp-service-catalog-crawl.yml](https://github.com/UnitVectorY-Labs/gcp-service-catalog/blob/main/.github/workflows/gcp-service-catalog-crawl.yml) runs daily to crawl the GCP API.
-    - It fetches all services, saving the data as JSON files in the repository in the [services.json](https://github.com/UnitVectorY-Labs/gcp-service-catalog/blob/main/services.json) file.
+    - It fetches all services, saving the data as a JSON file [services.json](https://github.com/UnitVectorY-Labs/gcp-service-catalog/blob/main/services.json).
+    - It fetches all APIs from the discovery endpoint, saving the data as a JSON file [directory.json](https://github.com/UnitVectorY-Labs/gcp-service-catalog/blob/main/directory.json)
 2. **Site Generation:**
     - Another GitHub Action [gcp-service-catalog-generate.yaml](https://github.com/UnitVectorY-Labs/gcp-service-catalog/blob/main/.github/workflows/gcp-service-catalog-generate.yaml) triggers upon updates to the `main` branch.
     - It generates static HTML pages from the JSON data using the Go application.

@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>GCP APIs - {{.Title}} - gcp-service-catalog</title>
+    <link rel="stylesheet" href="../style.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Details for the {{.Title}} API in the Google Cloud Platform (GCP).">
+</head>
+<body>
+    <!-- Top Navigation -->
+    <div class="navbar">
+        <a href="../index.html">gcp-service-catalog</a>
+        <a href="../services.html">Services</a>
+        <a href="../bydomain.html">By Domain</a>
+        <span>|</span>
+        <a href="../apis.html">APIs</a>
+    </div>
+    <main>
+        <section class="api-detail">
+            <h1>{{.Title}} <span class="version">{{.Version}}</span></h1>
+            
+            <div class="api-metadata">
+                <p><strong>ID:</strong> {{.ID}}</p>
+                <p><strong>Name:</strong> {{.Name}}</p>
+                <p><strong>Version:</strong> {{.Version}}</p>
+                <p><strong>Preferred Version:</strong> {{if .Preferred}}Yes{{else}}No{{end}}</p>
+                <p><strong>Description:</strong> {{.Description}}</p>
+                <p><strong>Documentation:</strong> <a href="{{.DocumentationLink}}" target="_blank">{{.DocumentationLink}}</a></p>
+                <p><strong>Discovery URL:</strong> <a href="{{.DiscoveryRestURL}}" target="_blank">{{.DiscoveryRestURL}}</a></p>
+            </div>
+        </section>
+    </main>
+    {{template "footer"}}
+</body>
+</html>

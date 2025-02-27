@@ -2,10 +2,10 @@
 <html>
 <head>
     <meta charset="UTF-8">
-    <title>GCP Services - All Services - gcp-service-catalog</title>
+    <title>GCP APIs - All APIs - gcp-service-catalog</title>
     <link rel="stylesheet" href="style.css">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Complete list of Google Cloud Platform (GCP) services. Search and browse all available GCP services.">
+    <meta name="description" content="Complete list of Google Cloud Platform (GCP) apis. Search and browse all available GCP APIs.">
     <script>
         let debounceTimeout;
   
@@ -39,30 +39,32 @@
     <!-- Top Navigation -->
     <div class="navbar">
         <a href="index.html">gcp-service-catalog</a>
-        <a href="services.html" class="active">Services</a>
+        <a href="services.html">Services</a>
         <a href="bydomain.html">By Domain</a>
         <span>|</span>
-        <a href="apis.html">APIs</a>
+        <a href="apis.html" class="active">APIs</a>
     </div>
     <main>
         <section class="services">
-            <h1>All Services</h1>
+            <h1>All Google Cloud APIs</h1>
             <div class="search-container">
-                <input type="text" id="searchInput" oninput="debounceFilterServices()" placeholder="Search for services...">
+                <input type="text" id="searchInput" oninput="debounceFilterServices()" placeholder="Search for APIs by ID or title...">
                 <span class="search-icon">&#128269;</span>
             </div>
             <table id="servicesTable">
                 <thead>
                     <tr>
-                        <th>Name</th>
                         <th>Title</th>
+                        <th>Version</th>
+                        <th>Description</th>
                     </tr>
                 </thead>
                 <tbody>
                     {{range .Services}}
-                    <tr>
-                        <td><a href="service/{{.FileName}}.html">{{.Name}}</a></td>
-                        <td>{{.Title}}</td>
+                    <tr class="{{if not .Preferred}}non-preferred{{end}}">
+                        <td><a href="api/{{.ID | urlize}}.html">{{.Title}}</a></td>
+                        <td>{{.Version}}</td>
+                        <td>{{.Description}}</td>
                     </tr>
                     {{end}}
                 </tbody>
