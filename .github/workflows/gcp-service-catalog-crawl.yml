@@ -48,6 +48,7 @@ jobs:
       - name: Delete services.json file
         run: |
           rm -rf services.json
+          rm -rf directory.json
 
       - name: Run gcp-service-catalog with crawl parameter
         run: |
@@ -62,7 +63,8 @@ jobs:
       - name: Commit changes
         run: |
           git add services.json
-          git commit -m "Updated services on $(date '+%Y-%m-%d %H:%M:%S')" || echo "No changes to commit"
+          git add directory.json
+          git commit -m "Updated on $(date '+%Y-%m-%d %H:%M:%S')" || echo "No changes to commit"
 
       - name: Push changes
         env:

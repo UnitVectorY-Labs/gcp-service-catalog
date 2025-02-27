@@ -1,1 +1,1 @@
-exclude=LICENSE,services.json,html
+exclude=LICENSE,services.json,directory.json,html

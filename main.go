@@ -3,12 +3,13 @@ package main
 import (
 	"context"
 	"encoding/json"
-	"encoding/xml" // <-- new import for XML handling
+	"encoding/xml"
 	"flag"
 	"fmt"
 	"html/template"
 	"io"
 	"log"
+	"net/http"
 	"os"
 	"path/filepath"
 	"sort"
@@ -26,6 +27,35 @@ type Service struct {
 	Domain        string `json:"domain,omitempty"`
 	// FileName is not saved in JSON; it is computed for linking pages.
 	FileName string `json:"-"`
+}
+
+// DirectoryList represents the main structure containing the API directory information.
+type DirectoryList struct {
+	DiscoveryVersion string     `json:"discoveryVersion"`
+	Items            []APIEntry `json:"items"`
+	Kind             string     `json:"kind"`
+}
+
+// APIEntry represents an individual API entry in the directory.
+type APIEntry struct {
+	Description       string   `json:"description"`
+	DiscoveryLink     string   `json:"discoveryLink"`
+	DiscoveryRestURL  string   `json:"discoveryRestUrl"`
+	DocumentationLink string   `json:"documentationLink"`
+	Icons             Icons    `json:"icons"`
+	ID                string   `json:"id"`
+	Kind              string   `json:"kind"`
+	Labels            []string `json:"labels,omitempty"`
+	Name              string   `json:"name"`
+	Preferred         bool     `json:"preferred"`
+	Title             string   `json:"title"`
+	Version           string   `json:"version"`
+}
+
+// Icons represents the icon URLs for an API.
+type Icons struct {
+	X16 string `json:"x16"`
+	X32 string `json:"x32"`
 }
 
 // SitemapURL represents a single URL entry in sitemap.xml.
@@ -75,9 +105,29 @@ func main() {
 }
 
 // crawlServices contacts the Service Usage API and writes a services.json file.
+// It also fetches the Google API Directory and writes a directory.json file.
 func crawlServices() error {
 	ctx := context.Background()
 
+	// Crawl service usage API
+	serviceUsageErr := crawlServiceUsage(ctx)
+	if serviceUsageErr != nil {
+		log.Printf("Warning: service usage crawl failed: %v", serviceUsageErr)
+		// We'll continue with the API directory crawl even if service usage fails
+	}
+
+	// Crawl API directory
+	if err := crawlAPIDirectory(); err != nil {
+		return fmt.Errorf("failed to crawl API directory: %v", err)
+	}
+
+	// Don't return an error if only the service usage part failed
+	// as we want to consider the crawl successful if we get the API directory
+	return nil
+}
+
+// crawlServiceUsage contacts the Service Usage API and writes a services.json file.
+func crawlServiceUsage(ctx context.Context) error {
 	client, err := serviceusage.NewClient(ctx)
 	if err != nil {
 		return fmt.Errorf("failed to create service usage client: %v", err)
@@ -108,9 +158,12 @@ func crawlServices() error {
 		it := client.ListServices(ctx, req)
 		for {
 			resp, err := it.Next()
-			if err != nil {
+			if err == io.EOF {
 				// Break out if iteration is done.
 				break
+			}
+			if err != nil {
+				return fmt.Errorf("error iterating services: %v", err)
 			}
 
 			name := resp.Config.Name
@@ -176,6 +229,59 @@ func crawlServices() error {
 	}
 
 	fmt.Println("Service catalog saved to services.json")
+	return nil
+}
+
+// crawlAPIDirectory fetches the Google API Directory and writes it to directory.json.
+func crawlAPIDirectory() error {
+	// The Discovery API URL for listing all available APIs
+	url := "https://www.googleapis.com/discovery/v1/apis"
+
+	// Create an HTTP client
+	client := &http.Client{}
+
+	// Create a new request
+	req, err := http.NewRequest("GET", url, nil)
+	if err != nil {
+		return fmt.Errorf("failed to create request for API directory: %v", err)
+	}
+
+	// Execute the request
+	resp, err := client.Do(req)
+	if err != nil {
+		return fmt.Errorf("failed to fetch API directory: %v", err)
+	}
+	defer resp.Body.Close()
+
+	// Check the response status
+	if resp.StatusCode != http.StatusOK {
+		body, _ := io.ReadAll(resp.Body)
+		return fmt.Errorf("API directory request failed with status %d: %s", resp.StatusCode, body)
+	}
+
+	// Read the response body
+	body, err := io.ReadAll(resp.Body)
+	if err != nil {
+		return fmt.Errorf("failed to read API directory response: %v", err)
+	}
+
+	// Parse the response into our struct
+	var directory DirectoryList
+	if err := json.Unmarshal(body, &directory); err != nil {
+		return fmt.Errorf("failed to parse API directory JSON: %v", err)
+	}
+
+	// Pretty print the JSON to a file
+	jsonData, err := json.MarshalIndent(directory, "", "  ")
+	if err != nil {
+		return fmt.Errorf("failed to marshal directory JSON: %v", err)
+	}
+
+	if err := os.WriteFile("directory.json", jsonData, 0644); err != nil {
+		return fmt.Errorf("failed to write directory.json: %v", err)
+	}
+
+	fmt.Println("API directory saved to directory.json")
 	return nil
 }
 
