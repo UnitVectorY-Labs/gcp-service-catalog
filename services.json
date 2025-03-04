@@ -424,6 +424,11 @@
     "title": "BroadStreet Area Deprivation Index (ADI)"
   },
   {
+    "domain": "calm-cab-386320.cloud.goog",
+    "name": "adi2025.endpoints.calm-cab-386320.cloud.goog",
+    "title": "AecorSoft Data Integrator 2025"
+  },
+  {
     "domain": "cloudpartnerservices.goog",
     "name": "aditum-aditum-marketplace-dev.cloudpartnerservices.goog",
     "title": "Custom Governance"
@@ -851,11 +856,6 @@
     "domain": "bitnami-launchpad.cloud.goog",
     "name": "airflow.endpoints.bitnami-launchpad.cloud.goog",
     "title": "Apache Airflow packaged by Bitnami"
-  },
-  {
-    "domain": "ergon-public.cloud.goog",
-    "name": "airlock-gateway-8-0.endpoints.ergon-public.cloud.goog",
-    "title": "Airlock Gateway 8.0"
   },
   {
     "domain": "cloudpartnerservices.goog",
@@ -1750,6 +1750,26 @@
     "domain": "cognosys-public.cloud.goog",
     "name": "apache-tomcat-on-ubuntu-2404-lts-34862.endpoints.cognosys-public.cloud.goog",
     "title": "Apache Tomcat on Ubuntu 24.04 lts"
+  },
+  {
+    "domain": "apps4rentllc-public.cloud.goog",
+    "name": "apache-tomcat-on-windows-server2016.endpoints.apps4rentllc-public.cloud.goog",
+    "title": "Apache Tomcat on Windows Server2016"
+  },
+  {
+    "domain": "apps4rentllc-public.cloud.goog",
+    "name": "apache-tomcat-on-windows-server2019.endpoints.apps4rentllc-public.cloud.goog",
+    "title": "Apache Tomcat on Windows Server2019"
+  },
+  {
+    "domain": "apps4rentllc-public.cloud.goog",
+    "name": "apache-tomcat-on-windows-server2022.endpoints.apps4rentllc-public.cloud.goog",
+    "title": "Apache Tomcat on Windows Server2022"
+  },
+  {
+    "domain": "apps4rentllc-public.cloud.goog",
+    "name": "apache-tomcat-on-windows-server2025.endpoints.apps4rentllc-public.cloud.goog",
+    "title": "Apache Tomcat on Windows Server2025"
   },
   {
     "domain": "cloudpartnerservices.goog",
@@ -3182,6 +3202,12 @@
     "domain": "googleapis.com",
     "name": "bigquerystorage.googleapis.com",
     "title": "BigQuery Storage API"
+  },
+  {
+    "documentation": "Allows users to enable all BigQuery dependencies for data streaming, scheduling and notebooks.",
+    "domain": "googleapis.com",
+    "name": "bigqueryunified.googleapis.com",
+    "title": "BigQuery Unified API"
   },
   {
     "documentation": "API for reading and writing the contents of Bigtable tables associated with a Google Cloud project.",
@@ -14963,6 +14989,483 @@
     "domain": "cloudpartnerservices.goog",
     "name": "joomla-with-ubuntu-server-20-04-lts-cognosys-public.cloudpartnerservices.goog",
     "title": "Cognosys Inc. Joomla With Ubuntu Server 20.04 LTS"
+  },
+  {
+    "domain": "cloudpartnerservices.goog",
+    "name": "jrubystack-bitnami-launchpad.cloudpartnerservices.goog",
+    "title": "Bitnami JRuby Certified by Bitnami"
+  },
+  {
+    "domain": "apps4rentllc-public.cloud.goog",
+    "name": "julia-on-debian11.endpoints.apps4rentllc-public.cloud.goog",
+    "title": "Julia on Debian11"
+  },
+  {
+    "domain": "apps4rentllc-public.cloud.goog",
+    "name": "julia-on-debian12.endpoints.apps4rentllc-public.cloud.goog",
+    "title": "Julia on Debian12"
+  },
+  {
+    "domain": "apps4rentllc-public.cloud.goog",
+    "name": "julia-on-ubuntu-20.endpoints.apps4rentllc-public.cloud.goog",
+    "title": "Julia on Ubuntu 20.04"
+  },
+  {
+    "domain": "apps4rentllc-public.cloud.goog",
+    "name": "julia-on-ubuntu-22.endpoints.apps4rentllc-public.cloud.goog",
+    "title": "Julia on Ubuntu 22.04"
+  },
+  {
+    "domain": "apps4rentllc-public.cloud.goog",
+    "name": "julia-on-ubuntu-24.endpoints.apps4rentllc-public.cloud.goog",
+    "title": "Julia on Ubuntu 24.04"
+  },
+  {
+    "domain": "marketplacejump-public.cloud.goog",
+    "name": "jump-insights.endpoints.marketplacejump-public.cloud.goog",
+    "title": "Jump Insights"
+  },
+  {
+    "domain": "marketplacejump-public.cloud.goog",
+    "name": "jump-personalizer.endpoints.marketplacejump-public.cloud.goog",
+    "title": "Jump Personalizer"
+  },
+  {
+    "domain": "cloudpartnerservices.goog",
+    "name": "jumpcloud-daas-gcp-jumpcloud-gcp.cloudpartnerservices.goog",
+    "title": "JumpCloud Directory-as-a-Service"
+  },
+  {
+    "domain": "jumpcloud-gcp.cloud.goog",
+    "name": "jumpcloud-open-directory-platform.endpoints.jumpcloud-gcp.cloud.goog",
+    "title": "JumpCloud Open Directory Platform"
+  },
+  {
+    "domain": "juniper-marketplace.cloud.goog",
+    "name": "juniper-cloud-native-router-byol.endpoints.juniper-marketplace.cloud.goog",
+    "title": "Juniper Cloud Native Router (Byol)"
+  },
+  {
+    "domain": "juniper-marketplace.cloud.goog",
+    "name": "juniper-mist-ai-native-networking.endpoints.juniper-marketplace.cloud.goog",
+    "title": "Juniper Mist AI-Native Networking"
+  },
+  {
+    "domain": "apps4rentllc-public.cloud.goog",
+    "name": "jupyter-notebook-on-debian11.endpoints.apps4rentllc-public.cloud.goog",
+    "title": "Jupyter Notebook on Debian11"
+  },
+  {
+    "domain": "apps4rentllc-public.cloud.goog",
+    "name": "jupyter-notebook-on-debian12.endpoints.apps4rentllc-public.cloud.goog",
+    "title": "Jupyter Notebook on Debian12"
+  },
+  {
+    "domain": "apps4rentllc-public.cloud.goog",
+    "name": "jupyter-notebook-on-ubuntu-20.endpoints.apps4rentllc-public.cloud.goog",
+    "title": "Jupyter Notebook on Ubuntu 20.04"
+  },
+  {
+    "domain": "apps4rentllc-public.cloud.goog",
+    "name": "jupyter-notebook-on-ubuntu-22.endpoints.apps4rentllc-public.cloud.goog",
+    "title": "Jupyter Notebook on Ubuntu 22.04"
+  },
+  {
+    "domain": "apps4rentllc-public.cloud.goog",
+    "name": "jupyter-notebook-on-ubuntu-24.endpoints.apps4rentllc-public.cloud.goog",
+    "title": "Jupyter Notebook on Ubuntu 24.04"
+  },
+  {
+    "domain": "cloudpartnerservices.goog",
+    "name": "jupyter-python-notebook-techlatest-public.cloudpartnerservices.goog",
+    "title": "Techlatest.net Cloud IDE for Python using Jupyter \u0026 Visual Studio Code"
+  },
+  {
+    "domain": "bitnami-launchpad.cloud.goog",
+    "name": "jupyterhub-arm64.endpoints.bitnami-launchpad.cloud.goog",
+    "title": "Bitnami package for JupyterHub (ARM64)"
+  },
+  {
+    "domain": "elmcomputing-public.cloud.goog",
+    "name": "jupyterhub-gpu-pytorch.endpoints.elmcomputing-public.cloud.goog",
+    "title": "Jupyterhub Server with GPU Support + PyTorch"
+  },
+  {
+    "domain": "elmcomputing-public.cloud.goog",
+    "name": "jupyterhub-server.endpoints.elmcomputing-public.cloud.goog",
+    "title": "JupyterHub Server"
+  },
+  {
+    "domain": "bitnami-launchpad.cloud.goog",
+    "name": "jupyterhub.endpoints.bitnami-launchpad.cloud.goog",
+    "title": "JupyterHub packaged by Bitnami"
+  },
+  {
+    "domain": "managedkube.com",
+    "name": "k8sbot.gcpmarketplace.managedkube.com",
+    "title": "ManagedKube Reporting Service"
+  },
+  {
+    "domain": "appspot.com",
+    "name": "k8ssandra-marketplace.mp-datastax-public.appspot.com",
+    "title": "DataStax K8ssandra - Marketplace Reporting Service"
+  },
+  {
+    "domain": "madiasoft-public.cloud.goog",
+    "name": "kafinea.endpoints.madiasoft-public.cloud.goog",
+    "title": "Kafinea"
+  },
+  {
+    "domain": "cloudpartnerservices.goog",
+    "name": "kafka-06-02-2020-miriinfotech-public.cloudpartnerservices.goog",
+    "title": "Miri Infotech kafka"
+  },
+  {
+    "domain": "cloudpartnerservices.goog",
+    "name": "kafka-bitnami-launchpad.cloudpartnerservices.goog",
+    "title": "Bitnami Kafka Certified by Bitnami"
+  },
+  {
+    "domain": "cloudpartnerservices.goog",
+    "name": "kafka-centos-cloud-infrastructure-services.cloudpartnerservices.goog",
+    "title": "Cloud Infrastructure Services Apache Kafka Server on CentOS 8.4 Server"
+  },
+  {
+    "domain": "cloudpartnerservices.goog",
+    "name": "kafka-click-to-deploy-images.cloudpartnerservices.goog",
+    "title": "Google Click to Deploy Kafka"
+  },
+  {
+    "domain": "cloudpartnerservices.goog",
+    "name": "kafka-cluster-bitnami-launchpad.cloudpartnerservices.goog",
+    "title": "Bitnami Kafka Cluster"
+  },
+  {
+    "domain": "cloudpartnerservices.goog",
+    "name": "kafka-ubuntu-cloud-infrastructure-services.cloudpartnerservices.goog",
+    "title": "Cloud Infrastructure Services Apache Kafka Server on Ubuntu Server 20.04"
+  },
+  {
+    "domain": "kafkaesque.io",
+    "name": "kafkaesque.gcpmarketplace.kafkaesque.io",
+    "title": "Kafkaesque Technologies Inc. Kafkaesque Reporting Service"
+  },
+  {
+    "domain": "bynet-public.cloud.goog",
+    "name": "kal-audio-ns-vm.endpoints.bynet-public.cloud.goog",
+    "title": "Kal-Audio-ns-VM"
+  },
+  {
+    "domain": "bynet-public.cloud.goog",
+    "name": "kal-audio-ns.endpoints.bynet-public.cloud.goog",
+    "title": "Kal-Audio-ns"
+  },
+  {
+    "domain": "bynet-public.cloud.goog",
+    "name": "kal-audio-saas.endpoints.bynet-public.cloud.goog",
+    "title": "Kal-Audio"
+  },
+  {
+    "domain": "bynet-public.cloud.goog",
+    "name": "kal-chat-ns-vm.endpoints.bynet-public.cloud.goog",
+    "title": "Kal-Chat-ns-VM"
+  },
+  {
+    "domain": "bynet-public.cloud.goog",
+    "name": "kal-chat-ns.endpoints.bynet-public.cloud.goog",
+    "title": "Kal-Chat-ns"
+  },
+  {
+    "domain": "bynet-public.cloud.goog",
+    "name": "kal-chat-saas.endpoints.bynet-public.cloud.goog",
+    "title": "Kal-Chat"
+  },
+  {
+    "domain": "bynet-public.cloud.goog",
+    "name": "kal-docs-ns-vm.endpoints.bynet-public.cloud.goog",
+    "title": "Kal-Docs-ns-VM"
+  },
+  {
+    "domain": "bynet-public.cloud.goog",
+    "name": "kal-docs-ns.endpoints.bynet-public.cloud.goog",
+    "title": "Kal-Docs-ns"
+  },
+  {
+    "domain": "bynet-public.cloud.goog",
+    "name": "kal-docs-s.endpoints.bynet-public.cloud.goog",
+    "title": "Kal-Docs-s"
+  },
+  {
+    "domain": "bynet-public.cloud.goog",
+    "name": "kal-iot-ns-vm.endpoints.bynet-public.cloud.goog",
+    "title": "Kal-IoT-ns-VM"
+  },
+  {
+    "domain": "bynet-public.cloud.goog",
+    "name": "kal-iot-ns.endpoints.bynet-public.cloud.goog",
+    "title": "Kal-IoT-ns"
+  },
+  {
+    "domain": "bynet-public.cloud.goog",
+    "name": "kal-iot.endpoints.bynet-public.cloud.goog",
+    "title": "Kal-IoT"
+  },
+  {
+    "domain": "bynet-public.cloud.goog",
+    "name": "kal-media-ns-vm.endpoints.bynet-public.cloud.goog",
+    "title": "Kal-Media-ns-VM"
+  },
+  {
+    "domain": "bynet-public.cloud.goog",
+    "name": "kal-media-ns.endpoints.bynet-public.cloud.goog",
+    "title": "Kal-Media-ns"
+  },
+  {
+    "domain": "bynet-public.cloud.goog",
+    "name": "kal-media.endpoints.bynet-public.cloud.goog",
+    "title": "Kal-Media"
+  },
+  {
+    "domain": "kaleido-public.cloud.goog",
+    "name": "kaleido-platform.endpoints.kaleido-public.cloud.goog",
+    "title": "Kaleido Platform"
+  },
+  {
+    "domain": "techlatest-public.cloud.goog",
+    "name": "kali-linux-browser.endpoints.techlatest-public.cloud.goog",
+    "title": "Browser based Kali Linux (No VNC required)"
+  },
+  {
+    "domain": "server-build-415714.cloud.goog",
+    "name": "kali-linux-web-desktop.endpoints.server-build-415714.cloud.goog",
+    "title": "Kali Linux Web Desktop"
+  },
+  {
+    "domain": "cloud-infra-services-public.cloud.goog",
+    "name": "kali-linux.endpoints.cloud-infra-services-public.cloud.goog",
+    "title": "kali-linux"
+  },
+  {
+    "domain": "lightbend-public.cloud.goog",
+    "name": "kalix.endpoints.lightbend-public.cloud.goog",
+    "title": "Kalix"
+  },
+  {
+    "domain": "cloudpartnerservices.goog",
+    "name": "kanboard-ubuntu-cloud-infrastructure-services.cloudpartnerservices.goog",
+    "title": "Cloud Infrastructure Services Kanboard Project Management Software on Ubuntu Server 20.04"
+  },
+  {
+    "domain": "kapiche-public.cloud.goog",
+    "name": "kapiche.endpoints.kapiche-public.cloud.goog",
+    "title": "Kapiche "
+  },
+  {
+    "domain": "kapturecx-public.cloud.goog",
+    "name": "kapture-insights.endpoints.kapturecx-public.cloud.goog",
+    "title": "Kapture Insights"
+  },
+  {
+    "domain": "kapturecx-public.cloud.goog",
+    "name": "kapture-service-cloud.endpoints.kapturecx-public.cloud.goog",
+    "title": "Kapture Service Cloud "
+  },
+  {
+    "domain": "apps4rentllc-public.cloud.goog",
+    "name": "karrio-on-debian11.endpoints.apps4rentllc-public.cloud.goog",
+    "title": "Karrio on Debian11"
+  },
+  {
+    "domain": "apps4rentllc-public.cloud.goog",
+    "name": "karrio-on-debian12.endpoints.apps4rentllc-public.cloud.goog",
+    "title": "Karrio on Debian12"
+  },
+  {
+    "domain": "apps4rentllc-public.cloud.goog",
+    "name": "karrio-on-ubuntu-20.endpoints.apps4rentllc-public.cloud.goog",
+    "title": "Karrio  on Ubuntu 20.04"
+  },
+  {
+    "domain": "plaid-public.cloud.goog",
+    "name": "karte-blocks.endpoints.plaid-public.cloud.goog",
+    "title": "KARTE Blocks"
+  },
+  {
+    "domain": "plaid-public.cloud.goog",
+    "name": "karte.endpoints.plaid-public.cloud.goog",
+    "title": "KARTE"
+  },
+  {
+    "domain": "cloudpartnerservices.goog",
+    "name": "kaspersky-hybrid-cloud-security-kasperskylab-public.cloudpartnerservices.goog",
+    "title": "Kaspersky Hybrid Cloud Security (BYOL)"
+  },
+  {
+    "domain": "appspot.com",
+    "name": "kasten-k10.mp-kasten-public.appspot.com",
+    "title": "Kasten Reporting Service"
+  },
+  {
+    "domain": "kx-kdb-vm-public.cloud.goog",
+    "name": "kdb-insights-and-insights-enterprise-license-only.endpoints.kx-kdb-vm-public.cloud.goog",
+    "title": "kdb Insights and Insights Enterprise - License Only"
+  },
+  {
+    "domain": "keboola-marketplace.cloud.goog",
+    "name": "keboola-europe-west3-saas.endpoints.keboola-marketplace.cloud.goog",
+    "title": "Keboola EU"
+  },
+  {
+    "domain": "apps4rentllc-public.cloud.goog",
+    "name": "kedro-on-debian11.endpoints.apps4rentllc-public.cloud.goog",
+    "title": "Kedro on Debian11 "
+  },
+  {
+    "domain": "apps4rentllc-public.cloud.goog",
+    "name": "kedro-on-ubuntu-20-04.endpoints.apps4rentllc-public.cloud.goog",
+    "title": "Kedro on Ubuntu 20.04"
+  },
+  {
+    "domain": "apps4rentllc-public.cloud.goog",
+    "name": "kedro-on-ubuntu-22-04.endpoints.apps4rentllc-public.cloud.goog",
+    "title": "Kedro on Ubuntu 22.04"
+  },
+  {
+    "domain": "apps4rentllc-public.cloud.goog",
+    "name": "kedro-on-ubuntu-24-04.endpoints.apps4rentllc-public.cloud.goog",
+    "title": "Kedro on Ubuntu 24.04"
+  },
+  {
+    "documentation": "The Google Keep API is used in an enterprise environment to manage Google Keep content and resolve issues identified by cloud security software.",
+    "domain": "googleapis.com",
+    "name": "keep.googleapis.com",
+    "title": "Google Keep API"
+  },
+  {
+    "domain": "kentik-tackle.cloud.goog",
+    "name": "kentik-network-observability-platform.endpoints.kentik-tackle.cloud.goog",
+    "title": "Kentik Network Observability Platform"
+  },
+  {
+    "domain": "apps4rentllc-public.cloud.goog",
+    "name": "keras-on-debian11.endpoints.apps4rentllc-public.cloud.goog",
+    "title": "Keras on Debian11"
+  },
+  {
+    "domain": "apps4rentllc-public.cloud.goog",
+    "name": "keras-on-debian12.endpoints.apps4rentllc-public.cloud.goog",
+    "title": "Keras on Debian12"
+  },
+  {
+    "domain": "apps4rentllc-public.cloud.goog",
+    "name": "keras-on-ubuntu-20.endpoints.apps4rentllc-public.cloud.goog",
+    "title": "Keras on Ubuntu 20.04"
+  },
+  {
+    "domain": "apps4rentllc-public.cloud.goog",
+    "name": "keras-on-ubuntu-22.endpoints.apps4rentllc-public.cloud.goog",
+    "title": "Keras on Ubuntu 22.04"
+  },
+  {
+    "domain": "apps4rentllc-public.cloud.goog",
+    "name": "keras-on-ubuntu-24.endpoints.apps4rentllc-public.cloud.goog",
+    "title": "Keras on Ubuntu 24.04"
+  },
+  {
+    "domain": "cloud-infra-services-public.cloud.goog",
+    "name": "keycloak.endpoints.cloud-infra-services-public.cloud.goog",
+    "title": "KeyCloak on Ubuntu 24.04"
+  },
+  {
+    "domain": "keyfactor-public.cloud.goog",
+    "name": "keyfactor-command.endpoints.keyfactor-public.cloud.goog",
+    "title": "Keyfactor Command"
+  },
+  {
+    "documentation": "Searches the Google Knowledge Graph for entities.",
+    "domain": "googleapis.com",
+    "name": "kgsearch.googleapis.com",
+    "title": "Knowledge Graph Search API"
+  },
+  {
+    "domain": "kibocommerce-public.cloud.goog",
+    "name": "kibo-ecommerce.endpoints.kibocommerce-public.cloud.goog",
+    "title": "Kibo Commerce"
+  },
+  {
+    "domain": "kinaxis-prod-marketplace.cloud.goog",
+    "name": "kinaxis-rapid-response.endpoints.kinaxis-prod-marketplace.cloud.goog",
+    "title": "Kinaxis RapidResponse"
+  },
+  {
+    "domain": "kindo-public.cloud.goog",
+    "name": "kindo.endpoints.kindo-public.cloud.goog",
+    "title": "Kindo"
+  },
+  {
+    "domain": "cloudpartnerservices.goog",
+    "name": "kirbycms-28-4-20-miriinfotech-public.cloudpartnerservices.goog",
+    "title": "Miri Infotech Kirby"
+  },
+  {
+    "domain": "cloudpartnerservices.goog",
+    "name": "kissflow-kissflow-p001-public.cloudpartnerservices.goog",
+    "title": "Kissflow Digital Workplace Reporting Service"
+  },
+  {
+    "domain": "kissflow-p001-public.cloud.goog",
+    "name": "kissflow.endpoints.kissflow-p001-public.cloud.goog",
+    "title": "Kissflow"
+  },
+  {
+    "domain": "marxent-3d-cloud-public.cloud.goog",
+    "name": "kitchen-designer-3d.endpoints.marxent-3d-cloud-public.cloud.goog",
+    "title": "3D Kitchen Designer with One-Click Kitchen Design"
+  },
+  {
+    "domain": "apps4rentllc-public.cloud.goog",
+    "name": "kivy-on-debian11.endpoints.apps4rentllc-public.cloud.goog",
+    "title": "Kivy on Debian11"
+  },
+  {
+    "domain": "apps4rentllc-public.cloud.goog",
+    "name": "kivy-on-debian12.endpoints.apps4rentllc-public.cloud.goog",
+    "title": "Kivy on Debian12 "
+  },
+  {
+    "domain": "apps4rentllc-public.cloud.goog",
+    "name": "kivy-on-ubuntu-20.endpoints.apps4rentllc-public.cloud.goog",
+    "title": "Kivy on Ubuntu 20.04"
+  },
+  {
+    "domain": "apps4rentllc-public.cloud.goog",
+    "name": "kivy-on-ubuntu-22.endpoints.apps4rentllc-public.cloud.goog",
+    "title": "Kivy on Ubuntu 22.04"
+  },
+  {
+    "domain": "apps4rentllc-public.cloud.goog",
+    "name": "kivy-on-ubuntu-24.endpoints.apps4rentllc-public.cloud.goog",
+    "title": "Kivy on Ubuntu 24.04"
+  },
+  {
+    "domain": "marketplace-4319.cloud.goog",
+    "name": "klarys.endpoints.marketplace-4319.cloud.goog",
+    "title": "Klarys"
+  },
+  {
+    "domain": "bigquery-connectors-public.cloud.goog",
+    "name": "klaviyo-connector.endpoints.bigquery-connectors-public.cloud.goog",
+    "title": "Klaviyo by Windsor.ai"
+  },
+  {
+    "domain": "bigquery-connectors-public.cloud.goog",
+    "name": "klaviyo.endpoints.bigquery-connectors-public.cloud.goog",
+    "title": "Klaviyo Connector by Windsor.ai"
+  },
+  {
+    "domain": "googleapis.com",
+    "name": "kmsinventory.googleapis.com",
+    "title": "KMS Inventory API"
   },
   {
     "documentation": "Privileged Access Manager (PAM) helps you on your journey towards least privilege and helps mitigate risks tied to privileged access misuse or abuse. PAM allows you to shift from always-on standing privileges towards on-demand access with just-in-time, time-bound, and approval-based access elevations.\nPAM allows IAM administrators to create entitlements that can grant just-in-time, temporary access to any resource scope. Requesters can explore eligible entitlements and request the access needed for their task. Approvers are notified when approvals await their decision.\nStreamlined workflows facilitated by using PAM can support various use cases, including emergency access for incident responders, time-boxed access for developers for critical deployment or maintenance, temporary access for operators for data ingestion and audits, JIT access to service accounts for automated tasks, and more.\n",
