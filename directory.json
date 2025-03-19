@@ -5154,6 +5154,22 @@
       "version": "v2"
     },
     {
+      "description": "",
+      "discoveryLink": "",
+      "discoveryRestUrl": "https://observability.googleapis.com/$discovery/rest?version=v1",
+      "documentationLink": "",
+      "icons": {
+        "x16": "https://www.gstatic.com/images/branding/product/1x/googleg_16dp.png",
+        "x32": "https://www.gstatic.com/images/branding/product/1x/googleg_32dp.png"
+      },
+      "id": "observability:v1",
+      "kind": "discovery#directoryItem",
+      "name": "observability",
+      "preferred": true,
+      "title": "Observability API",
+      "version": "v1"
+    },
+    {
       "description": "A service to scan container images for vulnerabilities.",
       "discoveryLink": "",
       "discoveryRestUrl": "https://ondemandscanning.googleapis.com/$discovery/rest?version=v1beta1",
