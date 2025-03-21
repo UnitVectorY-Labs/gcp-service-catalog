@@ -2809,6 +2809,11 @@
     "title": "Avataar's Creator Platform"
   },
   {
+    "domain": "datah2o-public.cloud.goog",
+    "name": "avatar.endpoints.datah2o-public.cloud.goog",
+    "title": "Avatar"
+  },
+  {
     "domain": "avathon-public.cloud.goog",
     "name": "avathon-industrial-ai-platform.endpoints.avathon-public.cloud.goog",
     "title": "Avathon Industrial AI Platform"
@@ -9917,6 +9922,11 @@
     "title": "Eagle-Step-Up"
   },
   {
+    "domain": "conversenow-441415.cloud.goog",
+    "name": "eapos.endpoints.conversenow-441415.cloud.goog",
+    "title": "Agent Portal (EAPOS)"
+  },
+  {
     "domain": "earthblox-public.cloud.goog",
     "name": "earth-blox-1-seat.endpoints.earthblox-public.cloud.goog",
     "title": "Earth Blox Platform"
@@ -12041,6 +12051,12 @@
     "domain": "gemsecurity-public.cloud.goog",
     "name": "gem-security.endpoints.gemsecurity-public.cloud.goog",
     "title": "Gem Security "
+  },
+  {
+    "documentation": "The AI-powered assistant for Google Cloud.\n",
+    "domain": "googleapis.com",
+    "name": "geminicloudassist.googleapis.com",
+    "title": "Gemini Cloud Assist API"
   },
   {
     "domain": "telefonicasoluciones-public.cloud.goog",
@@ -15200,21 +15216,6 @@
     "domain": "meetrix-public.cloud.goog",
     "name": "jitsi-meet-50-single-shard.endpoints.meetrix-public.cloud.goog",
     "title": "Jitsi Meet 50 concurrent user video conferencing setup"
-  },
-  {
-    "domain": "meetrix-public.cloud.goog",
-    "name": "jitsi-meet-50-user-video-conferencing-setup-with-recording.endpoints.meetrix-public.cloud.goog",
-    "title": "Jitsi Meet 50 user video conferencing setup with recording"
-  },
-  {
-    "domain": "meetrix-public.cloud.goog",
-    "name": "jitsi-meet-500-single-shard-with-recording.endpoints.meetrix-public.cloud.goog",
-    "title": "Jitsi Meet 500 user video conferencing setup with recording"
-  },
-  {
-    "domain": "meetrix-public.cloud.goog",
-    "name": "jitsi-meet-500-single-shard.endpoints.meetrix-public.cloud.goog",
-    "title": "Jitsi Meet 500 concurrent user video conferencing setup"
   },
   {
     "documentation": "Privileged Access Manager (PAM) helps you on your journey towards least privilege and helps mitigate risks tied to privileged access misuse or abuse. PAM allows you to shift from always-on standing privileges towards on-demand access with just-in-time, time-bound, and approval-based access elevations.\nPAM allows IAM administrators to create entitlements that can grant just-in-time, temporary access to any resource scope. Requesters can explore eligible entitlements and request the access needed for their task. Approvers are notified when approvals await their decision.\nStreamlined workflows facilitated by using PAM can support various use cases, including emergency access for incident responders, time-boxed access for developers for critical deployment or maintenance, temporary access for operators for data ingestion and audits, JIT access to service accounts for automated tasks, and more.\n",
