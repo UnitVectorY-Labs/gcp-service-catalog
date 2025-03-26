@@ -2343,10 +2343,10 @@
     "title": "Area120 Tables API"
   },
   {
-    "documentation": "Places Insights API.",
+    "documentation": "Places Aggregate API.",
     "domain": "googleapis.com",
     "name": "areainsights.googleapis.com",
-    "title": "Places Insights API"
+    "title": "Places Aggregate API"
   },
   {
     "domain": "techlatest-public.cloud.goog",
@@ -8752,6 +8752,11 @@
     "title": "Digital Asset Management Portal"
   },
   {
+    "domain": "mozark-marketplace.cloud.goog",
+    "name": "digital-life-monitor.endpoints.mozark-marketplace.cloud.goog",
+    "title": "Mobile Synthetic Monitor"
+  },
+  {
     "documentation": "Discovers relationships between online assets such as websites or mobile apps.",
     "domain": "googleapis.com",
     "name": "digitalassetlinks.googleapis.com",
@@ -11939,7 +11944,7 @@
     "documentation": "The Google Play Games Management API allows developers to manage resources from the Google\n     Play Game service.",
     "domain": "googleapis.com",
     "name": "gamesmanagement.googleapis.com",
-    "title": "Google Play Game Management"
+    "title": "Google Play Games Services Management API"
   },
   {
     "domain": "cloudpartnerservices.goog",
@@ -14553,6 +14558,11 @@
     "title": "InsightFinder Unified Intelligence Engine (UIE)"
   },
   {
+    "domain": "gcpgenai-418011.cloud.goog",
+    "name": "insightforge-brm-25-1.endpoints.gcpgenai-418011.cloud.goog",
+    "title": "InsightForge"
+  },
+  {
     "domain": "bigquery-connectors-public.cloud.goog",
     "name": "insightly-connector-by-windsor.ai.endpoints.bigquery-connectors-public.cloud.goog",
     "title": "Insightly Connector by Windsor.ai"
@@ -15457,16 +15467,6 @@
     "domain": "cloudpartnerservices.goog",
     "name": "jupyter-python-notebook-techlatest-public.cloudpartnerservices.goog",
     "title": "Techlatest.net Cloud IDE for Python using Jupyter \u0026 Visual Studio Code"
-  },
-  {
-    "domain": "bitnami-launchpad.cloud.goog",
-    "name": "jupyterhub-arm64.endpoints.bitnami-launchpad.cloud.goog",
-    "title": "Bitnami package for JupyterHub (ARM64)"
-  },
-  {
-    "domain": "elmcomputing-public.cloud.goog",
-    "name": "jupyterhub-gpu-pytorch.endpoints.elmcomputing-public.cloud.goog",
-    "title": "Jupyterhub Server with GPU Support + PyTorch"
   },
   {
     "documentation": "Privileged Access Manager (PAM) helps you on your journey towards least privilege and helps mitigate risks tied to privileged access misuse or abuse. PAM allows you to shift from always-on standing privileges towards on-demand access with just-in-time, time-bound, and approval-based access elevations.\nPAM allows IAM administrators to create entitlements that can grant just-in-time, temporary access to any resource scope. Requesters can explore eligible entitlements and request the access needed for their task. Approvers are notified when approvals await their decision.\nStreamlined workflows facilitated by using PAM can support various use cases, including emergency access for incident responders, time-boxed access for developers for critical deployment or maintenance, temporary access for operators for data ingestion and audits, JIT access to service accounts for automated tasks, and more.\n",
