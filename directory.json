@@ -3813,7 +3813,7 @@
       "description": "The Postmaster Tools API is a RESTful API that provides programmatic access to email traffic metrics (like spam reports, delivery errors etc) otherwise available through the Gmail Postmaster Tools UI currently.",
       "discoveryLink": "",
       "discoveryRestUrl": "https://gmailpostmastertools.googleapis.com/$discovery/rest?version=v1beta1",
-      "documentationLink": "https://developers.google.com/gmail/postmaster",
+      "documentationLink": "https://developers.google.com/workspace/gmail/postmaster",
       "icons": {
         "x16": "https://www.gstatic.com/images/branding/product/1x/googleg_16dp.png",
         "x32": "https://www.gstatic.com/images/branding/product/1x/googleg_32dp.png"
@@ -3829,7 +3829,7 @@
       "description": "The Postmaster Tools API is a RESTful API that provides programmatic access to email traffic metrics (like spam reports, delivery errors etc) otherwise available through the Gmail Postmaster Tools UI currently.",
       "discoveryLink": "",
       "discoveryRestUrl": "https://gmailpostmastertools.googleapis.com/$discovery/rest?version=v1",
-      "documentationLink": "https://developers.google.com/gmail/postmaster",
+      "documentationLink": "https://developers.google.com/workspace/gmail/postmaster",
       "icons": {
         "x16": "https://www.gstatic.com/images/branding/product/1x/googleg_16dp.png",
         "x32": "https://www.gstatic.com/images/branding/product/1x/googleg_32dp.png"
