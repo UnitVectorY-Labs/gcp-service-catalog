@@ -2969,6 +2969,11 @@
     "title": "BangDB"
   },
   {
+    "domain": "hclsw-gcp-mrktplc-public.cloud.goog",
+    "name": "bank-genie.endpoints.hclsw-gcp-mrktplc-public.cloud.goog",
+    "title": "BankGenie"
+  },
+  {
     "documentation": "Provides ways to manage Bare Metal Solution hardware installed in a regional extension located near a Google Cloud data center.",
     "domain": "googleapis.com",
     "name": "baremetalsolution.googleapis.com",
@@ -2998,6 +3003,11 @@
     "domain": "cloudpartnerservices.goog",
     "name": "barracuda-web-application-firewall-payg-barracuda-release.cloudpartnerservices.goog",
     "title": "Barracuda Networks, Inc. Barracuda CloudGen WAF (PAYG)"
+  },
+  {
+    "domain": "base64ai-public.cloud.goog",
+    "name": "base64ai-saas-test.endpoints.base64ai-public.cloud.goog",
+    "title": "Base64.ai SaaS test"
   },
   {
     "domain": "baseten-public.cloud.goog",
@@ -8433,6 +8443,16 @@
   },
   {
     "domain": "us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "name": "deloitte-aml-investigation-agent-standalone.endpoints.us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "title": "AML Investigation Agent"
+  },
+  {
+    "domain": "us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "name": "deloitte-care-finder-agent-standalone.endpoints.us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "title": "Care Finder Agent"
+  },
+  {
+    "domain": "us-con-gcp-sbx-0000427-020625.cloud.goog",
     "name": "deloitte-contract-guard-agent-suite.endpoints.us-con-gcp-sbx-0000427-020625.cloud.goog",
     "title": "Contract Guard Agent Suite"
   },
@@ -8450,6 +8470,16 @@
     "domain": "us-con-gcp-sbx-0000427-020625.cloud.goog",
     "name": "deloitte-marketing-content-and-campaign-agent-suite.endpoints.us-con-gcp-sbx-0000427-020625.cloud.goog",
     "title": "Marketing Content and Campaign Agent Suite"
+  },
+  {
+    "domain": "us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "name": "deloitte-retail-merchandizing-agent-standalone.endpoints.us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "title": "Retail Merchandizing Agent"
+  },
+  {
+    "domain": "us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "name": "deloitte-risk-calculator-agent-standalone.endpoints.us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "title": "Risk Calculator Agent"
   },
   {
     "domain": "us-con-gcp-sbx-0000427-020625.cloud.goog",
@@ -11286,6 +11316,11 @@
     "domain": "cloudpartnerservices.goog",
     "name": "filezilla-ftp-server-cloud-infrastructure-services.cloudpartnerservices.goog",
     "title": "Cloud Infrastructure Services Secure FTP Server Windows 2016"
+  },
+  {
+    "domain": "hclsw-gcp-mrktplc-public.cloud.goog",
+    "name": "financial-advisor.endpoints.hclsw-gcp-mrktplc-public.cloud.goog",
+    "title": "Financial Advisor"
   },
   {
     "domain": "corpsvc-gpm-da-mp-prd-5817.cloud.goog",
@@ -14768,6 +14803,11 @@
     "title": "Intercom by Windsor.ai"
   },
   {
+    "domain": "hclsw-gcp-mrktplc-public.cloud.goog",
+    "name": "interior-designer.endpoints.hclsw-gcp-mrktplc-public.cloud.goog",
+    "title": "Interior Designer"
+  },
+  {
     "domain": "cloudpartnerservices.goog",
     "name": "international-census-data-united-states-census-bureau.cloudpartnerservices.goog",
     "title": "United States Census Bureau International Census Data"
@@ -15427,46 +15467,6 @@
     "domain": "cloudpartnerservices.goog",
     "name": "joomla-30-september-2019-miriinfotech-public.cloudpartnerservices.goog",
     "title": "Miri Infotech JOOMLA"
-  },
-  {
-    "domain": "cloudpartnerservices.goog",
-    "name": "joomla-analog-public.cloudpartnerservices.goog",
-    "title": "ANALOG INDUSTRIES LLP Accelerated Joomla"
-  },
-  {
-    "domain": "cloudpartnerservices.goog",
-    "name": "joomla-bitnami-launchpad.cloudpartnerservices.goog",
-    "title": "Bitnami Joomla! Certified by Bitnami"
-  },
-  {
-    "domain": "cloudpartnerservices.goog",
-    "name": "joomla-centos-cloud-infrastructure-services.cloudpartnerservices.goog",
-    "title": "Cloud Infrastructure Services Joomla Server + MySQL Server + Apache + phpMyadmin on CentOS 8.3"
-  },
-  {
-    "domain": "cloudpartnerservices.goog",
-    "name": "joomla-click-to-deploy-images.cloudpartnerservices.goog",
-    "title": "Google Click to Deploy Joomla!"
-  },
-  {
-    "domain": "cognosys-public.cloud.goog",
-    "name": "joomla-on-windows-server-2022-34503.endpoints.cognosys-public.cloud.goog",
-    "title": "Joomla on Windows server 2022"
-  },
-  {
-    "domain": "cloudpartnerservices.goog",
-    "name": "joomla-ubuntu-cloud-infrastructure-services.cloudpartnerservices.goog",
-    "title": "Cloud Infrastructure Services Joomla Server + MySQL + Apache + phpMyadmin Ubuntu Server 20.04"
-  },
-  {
-    "domain": "gc-image-pub.cloud.goog",
-    "name": "joomla-with-openlitespeed.endpoints.gc-image-pub.cloud.goog",
-    "title": "Joomla With OpenLiteSpeed"
-  },
-  {
-    "domain": "cognosys-public.cloud.goog",
-    "name": "joomla-with-ubuntu-server-20-04-lts-510.endpoints.cognosys-public.cloud.goog",
-    "title": "Joomla-The Ultimate CMS for Ubuntu 14.04 lts and GCP"
   },
   {
     "documentation": "Privileged Access Manager (PAM) helps you on your journey towards least privilege and helps mitigate risks tied to privileged access misuse or abuse. PAM allows you to shift from always-on standing privileges towards on-demand access with just-in-time, time-bound, and approval-based access elevations.\nPAM allows IAM administrators to create entitlements that can grant just-in-time, temporary access to any resource scope. Requesters can explore eligible entitlements and request the access needed for their task. Approvers are notified when approvals await their decision.\nStreamlined workflows facilitated by using PAM can support various use cases, including emergency access for incident responders, time-boxed access for developers for critical deployment or maintenance, temporary access for operators for data ingestion and audits, JIT access to service accounts for automated tasks, and more.\n",
