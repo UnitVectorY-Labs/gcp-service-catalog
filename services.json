@@ -2440,6 +2440,11 @@
     "title": "Ascend.io Data Automation Cloud"
   },
   {
+    "domain": "bigquery-connectors-public.cloud.goog",
+    "name": "ashby.endpoints.bigquery-connectors-public.cloud.goog",
+    "title": "Ashby by Windsor.ai"
+  },
+  {
     "domain": "ask-ai-public.cloud.goog",
     "name": "ask-ai.endpoints.ask-ai-public.cloud.goog",
     "title": "Ask-AI "
@@ -4234,6 +4239,11 @@
     "domain": "apps4rentllc-public.cloud.goog",
     "name": "carla-on-ubuntu-22.endpoints.apps4rentllc-public.cloud.goog",
     "title": "Carla on Ubuntu 22.04"
+  },
+  {
+    "domain": "bigquery-connectors-public.cloud.goog",
+    "name": "cart.endpoints.bigquery-connectors-public.cloud.goog",
+    "title": "Cart.com by Windsor.ai"
   },
   {
     "domain": "cloudpartnerservices.goog",
@@ -6986,6 +6996,11 @@
     "title": "ConverSense"
   },
   {
+    "domain": "bigquery-connectors-public.cloud.goog",
+    "name": "convertkit.endpoints.bigquery-connectors-public.cloud.goog",
+    "title": "ConvertKit by Windsor.ai"
+  },
+  {
     "domain": "convin-public-435415.cloud.goog",
     "name": "convin.endpoints.convin-public-435415.cloud.goog",
     "title": "Convin"
@@ -7247,6 +7262,11 @@
     "title": "BigQuery Public Data country-codes"
   },
   {
+    "domain": "bigquery-connectors-public.cloud.goog",
+    "name": "courier.endpoints.bigquery-connectors-public.cloud.goog",
+    "title": "Courier by Windsor.ai"
+  },
+  {
     "domain": "covergo-public.cloud.goog",
     "name": "covergo-for-health.endpoints.covergo-public.cloud.goog",
     "title": "CoverGo for Health"
@@ -7390,6 +7410,11 @@
     "domain": "bbpsaas-public.cloud.goog",
     "name": "cree8-enterprise.endpoints.bbpsaas-public.cloud.goog",
     "title": "CREE8 Enterprise"
+  },
+  {
+    "domain": "cresta-public.cloud.goog",
+    "name": "cresta-intelligence-real-time-expertise-platform.endpoints.cresta-public.cloud.goog",
+    "title": "Cresta Intelligence Real-Time Expertise Platform"
   },
   {
     "domain": "cribl-public.cloud.goog",
@@ -7884,6 +7909,11 @@
     "title": "DAI-DMF"
   },
   {
+    "domain": "bigquery-connectors-public.cloud.goog",
+    "name": "daisycon.endpoints.bigquery-connectors-public.cloud.goog",
+    "title": "Daisycon by Windsor.ai"
+  },
+  {
     "domain": "darktrace-public.cloud.goog",
     "name": "darktrace-vsensor-terraform.endpoints.darktrace-public.cloud.goog",
     "title": "Darktrace vSensor (Terraform)"
@@ -8000,6 +8030,11 @@
     "title": "Datadog"
   },
   {
+    "domain": "bigquery-connectors-public.cloud.goog",
+    "name": "datadog.endpoints.bigquery-connectors-public.cloud.goog",
+    "title": "Datadog by Windsor.ai"
+  },
+  {
     "domain": "datadome-public-423915.cloud.goog",
     "name": "datadome-bot-online-fraud-mitigation.endpoints.datadome-public-423915.cloud.goog",
     "title": "DataDome Bot \u0026 Online Fraud Mitigation"
@@ -8072,6 +8107,11 @@
     "domain": "softserve-public.cloud.goog",
     "name": "datamask.endpoints.softserve-public.cloud.goog",
     "title": "DATAMASK"
+  },
+  {
+    "domain": "bigquery-connectors-public.cloud.goog",
+    "name": "datamediq.endpoints.bigquery-connectors-public.cloud.goog",
+    "title": "DatamedIQ by Windsor.ai"
   },
   {
     "documentation": "Manage Cloud Database Migration Service resources on Google Cloud Platform.",
@@ -8453,8 +8493,38 @@
   },
   {
     "domain": "us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "name": "deloitte-clinical-trial-agent-suite.endpoints.us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "title": "Clinical Trial Agent Suite"
+  },
+  {
+    "domain": "us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "name": "deloitte-code-and-data-management-agent-suite.endpoints.us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "title": "Code and Data Management Agent Suite"
+  },
+  {
+    "domain": "us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "name": "deloitte-commercial-customer-onboarding-agent.endpoints.us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "title": "Commercial Customer Onboarding Agent"
+  },
+  {
+    "domain": "us-con-gcp-sbx-0000427-020625.cloud.goog",
     "name": "deloitte-contract-guard-agent-suite.endpoints.us-con-gcp-sbx-0000427-020625.cloud.goog",
     "title": "Contract Guard Agent Suite"
+  },
+  {
+    "domain": "us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "name": "deloitte-customer-insights-agent-suite.endpoints.us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "title": "Customer Insights Agent Suite"
+  },
+  {
+    "domain": "us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "name": "deloitte-data-visualization-report-converter-agent-suite.endpoints.us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "title": "Data Visualization Report Converter Agent Suite"
+  },
+  {
+    "domain": "us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "name": "deloitte-financial-market-mentor-agent.endpoints.us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "title": "Financial Market Mentor Agent"
   },
   {
     "domain": "us-con-gcp-sbx-0000427-020625.cloud.goog",
@@ -8463,8 +8533,23 @@
   },
   {
     "domain": "us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "name": "deloitte-innovation-support-agent-suite.endpoints.us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "title": "Innovation Support Agent Suite"
+  },
+  {
+    "domain": "us-con-gcp-sbx-0000427-020625.cloud.goog",
     "name": "deloitte-inventory-and-order-management-agent-suite.endpoints.us-con-gcp-sbx-0000427-020625.cloud.goog",
     "title": "Inventory and Order Management Agent Suite"
+  },
+  {
+    "domain": "us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "name": "deloitte-legal-assist-agent.endpoints.us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "title": "Legal Assist Agent"
+  },
+  {
+    "domain": "us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "name": "deloitte-life-sciences-enterprise-agent.endpoints.us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "title": "Life Sciences Enterprise Agent"
   },
   {
     "domain": "us-con-gcp-sbx-0000427-020625.cloud.goog",
@@ -8473,8 +8558,28 @@
   },
   {
     "domain": "us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "name": "deloitte-patient-navigator-agent-suite.endpoints.us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "title": "Patient Navigator Agent Suite"
+  },
+  {
+    "domain": "us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "name": "deloitte-project-optimizer-agent-suite.endpoints.us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "title": "Project Optimizer Agent Suite"
+  },
+  {
+    "domain": "us-con-gcp-sbx-0000427-020625.cloud.goog",
     "name": "deloitte-retail-merchandizing-agent-standalone.endpoints.us-con-gcp-sbx-0000427-020625.cloud.goog",
     "title": "Retail Merchandizing Agent"
+  },
+  {
+    "domain": "us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "name": "deloitte-retail-store-optimization-agent-suite.endpoints.us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "title": "Retail Store Optimization Agent Suite"
+  },
+  {
+    "domain": "us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "name": "deloitte-revenue-cycle-insights-agent-suite.endpoints.us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "title": "Revenue Cycle Insights Agent Suite"
   },
   {
     "domain": "us-con-gcp-sbx-0000427-020625.cloud.goog",
@@ -8490,6 +8595,21 @@
     "domain": "us-con-gcp-sbx-0000427-020625.cloud.goog",
     "name": "deloitte-sales-management-agent-suite.endpoints.us-con-gcp-sbx-0000427-020625.cloud.goog",
     "title": "Sales Management Agent Suite"
+  },
+  {
+    "domain": "us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "name": "deloitte-security-and-incident-management-agent-suite.endpoints.us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "title": "Security and Incident Management Agent Suite"
+  },
+  {
+    "domain": "us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "name": "deloitte-talk2data-agent-suite.endpoints.us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "title": "Talk2Data Agent Suite"
+  },
+  {
+    "domain": "us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "name": "deloitte-treasury-insights-agent-standalone.endpoints.us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "title": "Treasury Insights Agent"
   },
   {
     "domain": "cloudpartnerservices.goog",
@@ -9659,6 +9779,11 @@
     "title": "Dragonfly Cloud"
   },
   {
+    "domain": "bigquery-connectors-public.cloud.goog",
+    "name": "dragonmetrics.endpoints.bigquery-connectors-public.cloud.goog",
+    "title": "Dragon Metrics by Windsor.ai"
+  },
+  {
     "domain": "drata-public.cloud.goog",
     "name": "drata-security-compliance-automation-platform.endpoints.drata-public.cloud.goog",
     "title": "Drata Security \u0026 Compliance Automation Platform"
@@ -10745,6 +10870,11 @@
     "title": "Eventarc Publishing API"
   },
   {
+    "domain": "bigquery-connectors-public.cloud.goog",
+    "name": "everflow.endpoints.bigquery-connectors-public.cloud.goog",
+    "title": "Everflow by Windsor.ai"
+  },
+  {
     "domain": "evergent-inc-public.cloud.goog",
     "name": "evergent-monetization-platform.endpoints.evergent-inc-public.cloud.goog",
     "title": "Evergent Monetization Platform"
@@ -10773,6 +10903,11 @@
     "domain": "cloudpartnerservices.goog",
     "name": "exasol-analytic-database-payg-public-marketplace.cloudpartnerservices.goog",
     "title": "Exasol Analytics Database PAYG"
+  },
+  {
+    "domain": "bigquery-connectors-public.cloud.goog",
+    "name": "exchange-rates.endpoints.bigquery-connectors-public.cloud.goog",
+    "title": "Exchange Rates by Windsor.ai"
   },
   {
     "domain": "bisees-public.cloud.goog",
@@ -11110,6 +11245,11 @@
     "title": "Factors.ai"
   },
   {
+    "domain": "bigquery-connectors-public.cloud.goog",
+    "name": "faker.endpoints.bigquery-connectors-public.cloud.goog",
+    "title": "Faker by Windsor.ai"
+  },
+  {
     "domain": "cloudpartnerservices.goog",
     "name": "falcon-agent-for-cloud-workload-protection-crowdstrike-public.cloudpartnerservices.goog",
     "title": "CrowdStrike Inc Falcon Agent for Cloud Workload Protection (CWP)"
@@ -11203,6 +11343,11 @@
     "domain": "apps4rentllc-public.cloud.goog",
     "name": "fast-version-on-ubuntu-24-04.endpoints.apps4rentllc-public.cloud.goog",
     "title": "Fast-version on Ubuntu 24.04"
+  },
+  {
+    "domain": "bigquery-connectors-public.cloud.goog",
+    "name": "fastbill.endpoints.bigquery-connectors-public.cloud.goog",
+    "title": "FastBill by Windsor.ai"
   },
   {
     "domain": "cloudpartnerservices.goog",
@@ -11648,6 +11793,11 @@
     "title": "Flex-VM"
   },
   {
+    "domain": "bigquery-connectors-public.cloud.goog",
+    "name": "flexport.endpoints.bigquery-connectors-public.cloud.goog",
+    "title": "Flexport by Windsor.ai"
+  },
+  {
     "domain": "bitnami-launchpad.cloud.goog",
     "name": "flink-arm64.endpoints.bitnami-launchpad.cloud.goog",
     "title": "Bitnami package for Apache Flink (ARM64)"
@@ -12022,6 +12172,11 @@
     "domain": "futureai-public.cloud.goog",
     "name": "futureai.endpoints.futureai-public.cloud.goog",
     "title": "FutureAI"
+  },
+  {
+    "domain": "bigquery-connectors-public.cloud.goog",
+    "name": "gainsight-px.endpoints.bigquery-connectors-public.cloud.goog",
+    "title": "Gainsight PX by Windsor.ai"
   },
   {
     "domain": "galileo-public.cloud.goog",
@@ -13084,6 +13239,11 @@
   },
   {
     "domain": "bigquery-connectors-public.cloud.goog",
+    "name": "google-webfonts.endpoints.bigquery-connectors-public.cloud.goog",
+    "title": "Google Fonts by Windsor.ai"
+  },
+  {
+    "domain": "bigquery-connectors-public.cloud.goog",
     "name": "googleads.endpoints.bigquery-connectors-public.cloud.goog",
     "title": "Google Ads by Windsor.ai"
   },
@@ -13796,9 +13956,19 @@
     "title": "Harness Software Delivery Platform"
   },
   {
+    "domain": "bigquery-connectors-public.cloud.goog",
+    "name": "harness.endpoints.bigquery-connectors-public.cloud.goog",
+    "title": "Harness by Windsor.ai"
+  },
+  {
     "domain": "cloudpartnerservices.goog",
     "name": "harpocrates-privacy1-ab-public.cloudpartnerservices.goog",
     "title": "Privacy1 AB Privacy1"
+  },
+  {
+    "domain": "bigquery-connectors-public.cloud.goog",
+    "name": "harvest.endpoints.bigquery-connectors-public.cloud.goog",
+    "title": "Harvest by Windsor.ai"
   },
   {
     "domain": "cloudpartnerservices.goog",
@@ -14135,6 +14305,11 @@
     "domain": "hytrust-datacontrol-public.cloud.goog",
     "name": "htkc-v10-hytrust-datacontrol.endpoints.hytrust-datacontrol-public.cloud.goog",
     "title": "Entrust KeyControl"
+  },
+  {
+    "domain": "bigquery-connectors-public.cloud.goog",
+    "name": "hubplanner.endpoints.bigquery-connectors-public.cloud.goog",
+    "title": "HubPlanner by Windsor.ai"
   },
   {
     "domain": "appiworks-for-bigquery-public.cloud.goog",
@@ -14693,6 +14868,11 @@
     "title": "Insightly Connector by Windsor.ai"
   },
   {
+    "domain": "bigquery-connectors-public.cloud.goog",
+    "name": "insightly.endpoints.bigquery-connectors-public.cloud.goog",
+    "title": "Insightly by Windsor.ai"
+  },
+  {
     "domain": "netapp-instaclustr-marketplace.cloud.goog",
     "name": "instacluster-saas-riia.endpoints.netapp-instaclustr-marketplace.cloud.goog",
     "title": "Instaclustr"
@@ -14731,6 +14911,11 @@
     "domain": "cloudpartnerservices.goog",
     "name": "instant-31-january-2020-miriinfotech-public.cloudpartnerservices.goog",
     "title": "Miri Infotech instant"
+  },
+  {
+    "domain": "bigquery-connectors-public.cloud.goog",
+    "name": "instatus.endpoints.bigquery-connectors-public.cloud.goog",
+    "title": "Instatus by Windsor.ai"
   },
   {
     "domain": "instruqt-gcp-marketplace.cloud.goog",
@@ -14781,692 +14966,6 @@
     "domain": "intellitable-aip.cloud.goog",
     "name": "intellitable-aip.endpoints.intellitable-aip.cloud.goog",
     "title": "Intellitable"
-  },
-  {
-    "domain": "intenseye-public.cloud.goog",
-    "name": "intenseye.endpoints.intenseye-public.cloud.goog",
-    "title": "Intenseye"
-  },
-  {
-    "domain": "namogoo-public.cloud.goog",
-    "name": "intent-based-promotions-personalized-real-time-promotions.endpoints.namogoo-public.cloud.goog",
-    "title": "Intent-Based Promotions: Personalized Real-Time Promotions"
-  },
-  {
-    "domain": "bigquery-connectors-public.cloud.goog",
-    "name": "intercom-connector-by-windsor.ai.endpoints.bigquery-connectors-public.cloud.goog",
-    "title": "Intercom Connector by Windsor.ai"
-  },
-  {
-    "domain": "bigquery-connectors-public.cloud.goog",
-    "name": "intercom.endpoints.bigquery-connectors-public.cloud.goog",
-    "title": "Intercom by Windsor.ai"
-  },
-  {
-    "domain": "hclsw-gcp-mrktplc-public.cloud.goog",
-    "name": "interior-designer.endpoints.hclsw-gcp-mrktplc-public.cloud.goog",
-    "title": "Interior Designer"
-  },
-  {
-    "domain": "cloudpartnerservices.goog",
-    "name": "international-census-data-united-states-census-bureau.cloudpartnerservices.goog",
-    "title": "United States Census Bureau International Census Data"
-  },
-  {
-    "domain": "cloudpartnerservices.goog",
-    "name": "international-debt-the-world-bank.cloudpartnerservices.goog",
-    "title": "The World Bank International Debt"
-  },
-  {
-    "domain": "cloudpartnerservices.goog",
-    "name": "internet-archive-the-gdelt-project-data.cloudpartnerservices.goog",
-    "title": "The GDELT Project Internet Archive eBooks"
-  },
-  {
-    "domain": "cognosys-public.cloud.goog",
-    "name": "internet-information-server-on-windows-server-2022-34859.endpoints.cognosys-public.cloud.goog",
-    "title": "Internet Information Server on Windows server 2022"
-  },
-  {
-    "domain": "cloudpartnerservices.goog",
-    "name": "internet-information-server-with-windows-2016-cognosys-public.cloudpartnerservices.goog",
-    "title": "Cognosys Inc. Internet Information Server with Windows 2016"
-  },
-  {
-    "domain": "cognosys-public.cloud.goog",
-    "name": "internet-information-server-with-windows-2019-7905.endpoints.cognosys-public.cloud.goog",
-    "title": "Internet Information Server (IIS) for Windows"
-  },
-  {
-    "domain": "cloudpartnerservices.goog",
-    "name": "internet-information-server-with-windows-2019-cognosys-public.cloudpartnerservices.goog",
-    "title": "Cognosys Inc. Internet Information Server with Windows 2019"
-  },
-  {
-    "domain": "cloudpartnerservices.goog",
-    "name": "intersystems-iris-byol-intersystems-launcher.cloudpartnerservices.goog",
-    "title": "InterSystems Corporation InterSystems IRIS Data Platform"
-  },
-  {
-    "domain": "onetouch-dce-vm-public.cloud.goog",
-    "name": "inventa-vm.endpoints.onetouch-dce-vm-public.cloud.goog",
-    "title": "Inventa"
-  },
-  {
-    "domain": "ismart-public.cloud.goog",
-    "name": "inventory-smart.endpoints.ismart-public.cloud.goog",
-    "title": "Inventory Smart"
-  },
-  {
-    "domain": "cloudpartnerservices.goog",
-    "name": "inventurist-ai-product-market-analysis-inventurist-public.cloudpartnerservices.goog",
-    "title": "Inventurist AI for Product-Market Analysis"
-  },
-  {
-    "domain": "inventurist.com",
-    "name": "inventurist-product-market-intelligence.gcpmarketplace.inventurist.com",
-    "title": "Inventurist Reporting Service"
-  },
-  {
-    "domain": "invoca-public.cloud.goog",
-    "name": "invoca-public.endpoints.invoca-public.cloud.goog",
-    "title": "invoca"
-  },
-  {
-    "domain": "adlucent-public.cloud.goog",
-    "name": "iocom-by-adlucent.endpoints.adlucent-public.cloud.goog",
-    "title": "IOCOM by Adlucent"
-  },
-  {
-    "domain": "apps4rentllc-public.cloud.goog",
-    "name": "ionic-cli-on-debian11.endpoints.apps4rentllc-public.cloud.goog",
-    "title": "Ionic CLI on Debian11"
-  },
-  {
-    "domain": "apps4rentllc-public.cloud.goog",
-    "name": "ionic-cli-on-debian12.endpoints.apps4rentllc-public.cloud.goog",
-    "title": "Ionic CLI on Debian12"
-  },
-  {
-    "domain": "apps4rentllc-public.cloud.goog",
-    "name": "ionic-cli-on-ubuntu-20.endpoints.apps4rentllc-public.cloud.goog",
-    "title": "Ionic CLI on Ubuntu 20.04"
-  },
-  {
-    "domain": "apps4rentllc-public.cloud.goog",
-    "name": "ionic-cli-on-ubuntu-22.endpoints.apps4rentllc-public.cloud.goog",
-    "title": "Ionic CLI on Ubuntu 22.04"
-  },
-  {
-    "domain": "apps4rentllc-public.cloud.goog",
-    "name": "ionic-cli-on-ubuntu-24.endpoints.apps4rentllc-public.cloud.goog",
-    "title": "Ionic CLI on Ubuntu 24.04"
-  },
-  {
-    "domain": "ionq-public.cloud.goog",
-    "name": "ionq.endpoints.ionq-public.cloud.goog",
-    "title": "IonQ Quantum Cloud"
-  },
-  {
-    "domain": "cloudpartnerservices.goog",
-    "name": "iowa-liquor-sales-iowa-department-of-commerce.cloudpartnerservices.goog",
-    "title": "Iowa Department of Commerce Iowa Liquor Retail Sales"
-  },
-  {
-    "domain": "ttecdigital-public.cloud.goog",
-    "name": "ip-verint-wfe.endpoints.ttecdigital-public.cloud.goog",
-    "title": "Verint Workforce Engagement for Google Cloud"
-  },
-  {
-    "domain": "ipinfo-public.cloud.goog",
-    "name": "ipinfo-free-ip-to-country-and-asn-database.endpoints.ipinfo-public.cloud.goog",
-    "title": "IPinfo: Free IP to Country and ASN Database"
-  },
-  {
-    "domain": "ipinfo-public.cloud.goog",
-    "name": "ipinfo-ip-address-geolocation-and-intelligence-database.endpoints.ipinfo-public.cloud.goog",
-    "title": "IPinfo: IP address geolocation and intelligence database"
-  },
-  {
-    "domain": "iproov-public.cloud.goog",
-    "name": "iproov-authentication.endpoints.iproov-public.cloud.goog",
-    "title": "iProov Authentication"
-  },
-  {
-    "domain": "iproov-public.cloud.goog",
-    "name": "iproov-liveness-detection.endpoints.iproov-public.cloud.goog",
-    "title": "iProov Liveness Detection"
-  },
-  {
-    "domain": "iproov-public.cloud.goog",
-    "name": "iproov-remote-onboarding.endpoints.iproov-public.cloud.goog",
-    "title": "iProov Remote Onboarding"
-  },
-  {
-    "domain": "ironmountain-public.cloud.goog",
-    "name": "irmdrms.endpoints.ironmountain-public.cloud.goog",
-    "title": "Iron Mountain Data Restoration and Migration Services"
-  },
-  {
-    "domain": "ironmountain-public.cloud.goog",
-    "name": "irmmas.endpoints.ironmountain-public.cloud.goog",
-    "title": "Iron Mountain Media \u0026 Archive Services"
-  },
-  {
-    "domain": "ironmountain-public.cloud.goog",
-    "name": "iron-mountain-insight-dxp.endpoints.ironmountain-public.cloud.goog",
-    "title": "Iron Mountain InSight® DXP"
-  },
-  {
-    "domain": "ironmountain-public.cloud.goog",
-    "name": "iron-mountain-smart-vault.endpoints.ironmountain-public.cloud.goog",
-    "title": "Iron Mountain Smart Vault"
-  },
-  {
-    "domain": "cloudpartnerservices.goog",
-    "name": "ironmountain-for-gcp-ironmountain-public.cloudpartnerservices.goog",
-    "title": "Iron Mountain InSight Enterprise Edition Reporting Service"
-  },
-  {
-    "domain": "cloudpartnerservices.goog",
-    "name": "irs-990-internal-revenue-service.cloudpartnerservices.goog",
-    "title": "U.S. Internal Revenue Service IRS 990"
-  },
-  {
-    "domain": "cloudpartnerservices.goog",
-    "name": "isb-cgc-cancer-data-gcp-public-data-isb-cgc.cloudpartnerservices.goog",
-    "title": "ISB Cancer Gateway ISB-CGC Cancer Gateway in the Cloud"
-  },
-  {
-    "domain": "ischoolconnect-public.cloud.goog",
-    "name": "ischool360.endpoints.ischoolconnect-public.cloud.goog",
-    "title": "iSchool360"
-  },
-  {
-    "domain": "opsmx-public.cloud.goog",
-    "name": "isd-argo.endpoints.opsmx-public.cloud.goog",
-    "title": "ISD-Argo (Intelligent Software Delivery powered by Argo)"
-  },
-  {
-    "domain": "opsmx-public.cloud.goog",
-    "name": "isd-spinnaker.endpoints.opsmx-public.cloud.goog",
-    "title": "ISD-Spinnaker (Intelligent Software Delivery)"
-  },
-  {
-    "domain": "atma-on-gcmp.cloud.goog",
-    "name": "isn-seller-app.endpoints.atma-on-gcmp.cloud.goog",
-    "title": "Retail ISN Seller App for ONDC by Adya"
-  },
-  {
-    "domain": "googleapis.com",
-    "name": "issuerswitch.googleapis.com",
-    "title": "Issuer switch API"
-  },
-  {
-    "domain": "atma-on-gcmp.cloud.goog",
-    "name": "issues-grievance-management-igm-app.endpoints.atma-on-gcmp.cloud.goog",
-    "title": "Issues \u0026 Grievance Management (IGM) App"
-  },
-  {
-    "domain": "cloudpartnerservices.goog",
-    "name": "itop-30-january-2020-miriinfotech-public.cloudpartnerservices.goog",
-    "title": "Miri Infotech iTop"
-  },
-  {
-    "domain": "cielo-798b3393.cloud.goog",
-    "name": "itopia-monitoring-and-management.endpoints.cielo-798b3393.cloud.goog",
-    "title": "Cloud Compliance Manager"
-  },
-  {
-    "domain": "cielo-798b3393.cloud.goog",
-    "name": "itopia-spaces.endpoints.cielo-798b3393.cloud.goog",
-    "title": "itopia Spaces"
-  },
-  {
-    "domain": "cloudpartnerservices.goog",
-    "name": "itsmine-dlp-itsmine-public.cloudpartnerservices.goog",
-    "title": "ITsMine Beyond DLP"
-  },
-  {
-    "domain": "corpsvc-gpm-da-mp-prd-5817.cloud.goog",
-    "name": "ixi-affluence-index.endpoints.corpsvc-gpm-da-mp-prd-5817.cloud.goog",
-    "title": "Affluence Index™"
-  },
-  {
-    "domain": "corpsvc-gpm-da-mp-prd-5817.cloud.goog",
-    "name": "ixi-spending-power.endpoints.corpsvc-gpm-da-mp-prd-5817.cloud.goog",
-    "title": " Spending Power™"
-  },
-  {
-    "domain": "bitnami-launchpad.cloud.goog",
-    "name": "jaeger.endpoints.bitnami-launchpad.cloud.goog",
-    "title": "Jaeger packaged by Bitnami"
-  },
-  {
-    "domain": "jaidehealth-public.cloud.goog",
-    "name": "jaide-health-interpreter.endpoints.jaidehealth-public.cloud.goog",
-    "title": "Jaide Health Interpreter"
-  },
-  {
-    "domain": "jaidehealth-public.cloud.goog",
-    "name": "jaide-health-translator.endpoints.jaidehealth-public.cloud.goog",
-    "title": "Jaide Health Translator"
-  },
-  {
-    "domain": "cloudpartnerservices.goog",
-    "name": "jamba-1-5-large.cloudpartnerservices.goog",
-    "title": ""
-  },
-  {
-    "domain": "cloudpartnerservices.goog",
-    "name": "jamba-1-5.cloudpartnerservices.goog",
-    "title": ""
-  },
-  {
-    "domain": "jasper-marketplace-public.cloud.goog",
-    "name": "jasper-for-business.endpoints.jasper-marketplace-public.cloud.goog",
-    "title": "Jasper for Business"
-  },
-  {
-    "domain": "cloudpartnerservices.goog",
-    "name": "javascript-developer-kit-techlatest-public.cloudpartnerservices.goog",
-    "title": "Techlatest.net javascript-developer-kit"
-  },
-  {
-    "domain": "apps4rentllc-public.cloud.goog",
-    "name": "jax-on-debian-12.endpoints.apps4rentllc-public.cloud.goog",
-    "title": "JAX on Debian 12"
-  },
-  {
-    "domain": "apps4rentllc-public.cloud.goog",
-    "name": "jax-on-ubuntu-20.endpoints.apps4rentllc-public.cloud.goog",
-    "title": "JAX on Ubuntu 20.04"
-  },
-  {
-    "domain": "apps4rentllc-public.cloud.goog",
-    "name": "jax-on-ubuntu-22.endpoints.apps4rentllc-public.cloud.goog",
-    "title": "JAX on Ubuntu 22.04"
-  },
-  {
-    "domain": "apps4rentllc-public.cloud.goog",
-    "name": "jax-on-ubuntu-24.endpoints.apps4rentllc-public.cloud.goog",
-    "title": "JAX on Ubuntu 24.04"
-  },
-  {
-    "domain": "miriinfotech-public.cloud.goog",
-    "name": "jekyll.endpoints.miriinfotech-public.cloud.goog",
-    "title": "Jekyll"
-  },
-  {
-    "domain": "cloudpartnerservices.goog",
-    "name": "jelastic53-jelastic-on-gcl.cloudpartnerservices.goog",
-    "title": "Jelastic PaaS Light Edition Jelastic PaaS Lite Edition"
-  },
-  {
-    "domain": "cloudpartnerservices.goog",
-    "name": "jenkins-14-november-2019-miriinfotech-public.cloudpartnerservices.goog",
-    "title": "Miri Infotech JENKINS"
-  },
-  {
-    "domain": "cloudpartnerservices.goog",
-    "name": "jenkins-20-07-2020-miriinfotech-public.cloudpartnerservices.goog",
-    "title": "Miri Infotech JENKINS"
-  },
-  {
-    "domain": "cloudpartnerservices.goog",
-    "name": "jenkins-2016-cloud-infrastructure-services.cloudpartnerservices.goog",
-    "title": "Cloud Infrastructure Services Jenkins on Windows Server 2016"
-  },
-  {
-    "domain": "cloudpartnerservices.goog",
-    "name": "jenkins-2019-cloud-infrastructure-services.cloudpartnerservices.goog",
-    "title": "Cloud Infrastructure Services Jenkins on Windows Server 2019"
-  },
-  {
-    "domain": "bitnami-launchpad.cloud.goog",
-    "name": "jenkins-arm64.endpoints.bitnami-launchpad.cloud.goog",
-    "title": "Bitnami package for Jenkins (ARM64)"
-  },
-  {
-    "domain": "cloudpartnerservices.goog",
-    "name": "jenkins-automation-cloudup-infotech-public.cloudpartnerservices.goog",
-    "title": "CLOUDUP INFOTECH PRIVATE LIMITED Jenkins-automation"
-  },
-  {
-    "domain": "cloudpartnerservices.goog",
-    "name": "jenkins-bitnami-launchpad.cloudpartnerservices.goog",
-    "title": "Bitnami Jenkins Certified by Bitnami"
-  },
-  {
-    "domain": "cloudpartnerservices.goog",
-    "name": "jenkins-centos-cloud-infrastructure-services.cloudpartnerservices.goog",
-    "title": "Cloud Infrastructure Services Jenkins Server on CentOS Server 8.3"
-  },
-  {
-    "domain": "cloudpartnerservices.goog",
-    "name": "jenkins-click-to-deploy-images.cloudpartnerservices.goog",
-    "title": "Google Click to Deploy Jenkins"
-  },
-  {
-    "domain": "cognosys-public.cloud.goog",
-    "name": "jenkins-on-centos-6-34548.endpoints.cognosys-public.cloud.goog",
-    "title": "Jenkins on Centos 6"
-  },
-  {
-    "domain": "cognosys-public.cloud.goog",
-    "name": "jenkins-on-centos-8-stream-34547.endpoints.cognosys-public.cloud.goog",
-    "title": "Jenkins on Centos 8 stream"
-  },
-  {
-    "domain": "cognosys-public.cloud.goog",
-    "name": "jenkins-on-centos-9-34546.endpoints.cognosys-public.cloud.goog",
-    "title": "Jenkins on Centos 9"
-  },
-  {
-    "domain": "cognosys-public.cloud.goog",
-    "name": "jenkins-on-centos-9-stream-34545.endpoints.cognosys-public.cloud.goog",
-    "title": "Jenkins on Centos 9 stream"
-  },
-  {
-    "domain": "cognosys-public.cloud.goog",
-    "name": "jenkins-on-centos-latest-34544.endpoints.cognosys-public.cloud.goog",
-    "title": "Jenkins on Centos latest"
-  },
-  {
-    "domain": "cognosys-public.cloud.goog",
-    "name": "jenkins-on-debian-10-34543.endpoints.cognosys-public.cloud.goog",
-    "title": "Jenkins on Debian 10"
-  },
-  {
-    "domain": "cognosys-public.cloud.goog",
-    "name": "jenkins-on-debian-11-34542.endpoints.cognosys-public.cloud.goog",
-    "title": "Jenkins on Debian 11"
-  },
-  {
-    "domain": "cognosys-public.cloud.goog",
-    "name": "jenkins-on-debian-12-34541.endpoints.cognosys-public.cloud.goog",
-    "title": "Jenkins on Debian 12"
-  },
-  {
-    "domain": "cognosys-public.cloud.goog",
-    "name": "jenkins-on-debian-34540.endpoints.cognosys-public.cloud.goog",
-    "title": "Jenkins on Debian"
-  },
-  {
-    "domain": "apps4rentllc-public.cloud.goog",
-    "name": "jenkins-on-debian10.endpoints.apps4rentllc-public.cloud.goog",
-    "title": "Jenkins on Debian10"
-  },
-  {
-    "domain": "apps4rentllc-public.cloud.goog",
-    "name": "jenkins-on-debian11.endpoints.apps4rentllc-public.cloud.goog",
-    "title": "Jenkins-on-Debian11"
-  },
-  {
-    "domain": "apps4rentllc-public.cloud.goog",
-    "name": "jenkins-on-debian12.endpoints.apps4rentllc-public.cloud.goog",
-    "title": "Jenkins-on-Debian12"
-  },
-  {
-    "domain": "cognosys-public.cloud.goog",
-    "name": "jenkins-on-redhat-linux-8-34539.endpoints.cognosys-public.cloud.goog",
-    "title": "Jenkins on Redhat linux 8"
-  },
-  {
-    "domain": "cognosys-public.cloud.goog",
-    "name": "jenkins-on-redhat-linux-9-34538.endpoints.cognosys-public.cloud.goog",
-    "title": "Jenkins on Redhat linux 9"
-  },
-  {
-    "domain": "cognosys-public.cloud.goog",
-    "name": "jenkins-on-suse-12-34536.endpoints.cognosys-public.cloud.goog",
-    "title": "Jenkins on Suse 12"
-  },
-  {
-    "domain": "cognosys-public.cloud.goog",
-    "name": "jenkins-on-suse-15-34535.endpoints.cognosys-public.cloud.goog",
-    "title": "Jenkins on Suse 15"
-  },
-  {
-    "domain": "cognosys-public.cloud.goog",
-    "name": "jenkins-on-suse-34534.endpoints.cognosys-public.cloud.goog",
-    "title": "Jenkins on Suse"
-  },
-  {
-    "domain": "apps4rentllc-public.cloud.goog",
-    "name": "jenkins-on-ubuntu20.endpoints.apps4rentllc-public.cloud.goog",
-    "title": "Jenkins-on-Ubuntu20.04"
-  },
-  {
-    "domain": "apps4rentllc-public.cloud.goog",
-    "name": "jenkins-on-ubuntu22.endpoints.apps4rentllc-public.cloud.goog",
-    "title": "Jenkins-on-Ubuntu22.04"
-  },
-  {
-    "domain": "apps4rentllc-public.cloud.goog",
-    "name": "jenkins-on-ubuntu24.endpoints.apps4rentllc-public.cloud.goog",
-    "title": "Jenkins-on-Ubuntu24.04"
-  },
-  {
-    "domain": "cloudpartnerservices.goog",
-    "name": "jenkins-ubuntu-cloud-infrastructure-services.cloudpartnerservices.goog",
-    "title": "Cloud Infrastructure Services Jenkins Server on Ubuntu Server 20.04"
-  },
-  {
-    "domain": "cognosys-public.cloud.goog",
-    "name": "jenkins-with-centos-7-7.endpoints.cognosys-public.cloud.goog",
-    "title": "Optimized Jenkins for Centos 7 Deployments"
-  },
-  {
-    "domain": "cognosys-public.cloud.goog",
-    "name": "jenkins-with-centos-8-3-7847.endpoints.cognosys-public.cloud.goog",
-    "title": "Jenkins-Automate Your Centos 8 and GCP Workflows"
-  },
-  {
-    "domain": "cloudpartnerservices.goog",
-    "name": "jenkins-with-centos-8-stream-cognosys-public.cloudpartnerservices.goog",
-    "title": "Cognosys Inc. Jenkins With CentOS 8-stream"
-  },
-  {
-    "domain": "cognosys-public.cloud.goog",
-    "name": "jenkins-with-ubuntu-server-1804-lts.endpoints.cognosys-public.cloud.goog",
-    "title": "Optimized Jenkins for Ubuntu 18.04 lts bionic Deployments"
-  },
-  {
-    "domain": "appspot.com",
-    "name": "jetstack-secure-for-cert-manager.mp-jetstack-public.appspot.com",
-    "title": "Jetstack Secure for cert-manager"
-  },
-  {
-    "domain": "cloudpartnerservices.goog",
-    "name": "jfrog-ent-plus-saas-jfrog-gc-mp.cloudpartnerservices.goog",
-    "title": "JFrog DevOps Platform - Enterprise+"
-  },
-  {
-    "domain": "cloudpartnerservices.goog",
-    "name": "jfrog-ent-saas-jfrog-gc-mp.cloudpartnerservices.goog",
-    "title": "JFrog DevOps Platform - Enterprise X"
-  },
-  {
-    "domain": "cloudpartnerservices.goog",
-    "name": "jfrog-k8s-jfrog-gc-mp.cloudpartnerservices.goog",
-    "title": "JFrog Artifactory Enterprise"
-  },
-  {
-    "domain": "cloudpartnerservices.goog",
-    "name": "jfrog-pro-team-saas-jfrog-gc-mp.cloudpartnerservices.goog",
-    "title": "JFrog DevOps Cloud Platform - Pro Team - 30 Day Free Trial"
-  },
-  {
-    "domain": "jfrog-gc-mp.cloud.goog",
-    "name": "jfrog-software-supply-chain.endpoints.jfrog-gc-mp.cloud.goog",
-    "title": "JFrog Software Supply Chain Platform"
-  },
-  {
-    "domain": "bynet-public.cloud.goog",
-    "name": "jfrog.endpoints.bynet-public.cloud.goog",
-    "title": "jfrog"
-  },
-  {
-    "domain": "jinaai-public.cloud.goog",
-    "name": "jina-clip-v2.endpoints.jinaai-public.cloud.goog",
-    "title": "Jina CLIP v2"
-  },
-  {
-    "domain": "jinaai-public.cloud.goog",
-    "name": "jina-colbert-v2-128-dimensions.endpoints.jinaai-public.cloud.goog",
-    "title": "Jina ColBERT v2 - 128 dimensions"
-  },
-  {
-    "domain": "jinaai-public.cloud.goog",
-    "name": "jina-colbert-v2-64-dimensions.endpoints.jinaai-public.cloud.goog",
-    "title": "Jina ColBERT v2 - 64 dimensions"
-  },
-  {
-    "domain": "jinaai-public.cloud.goog",
-    "name": "jina-embeddings-v3.endpoints.jinaai-public.cloud.goog",
-    "title": "Jina embeddings v3"
-  },
-  {
-    "domain": "jinaai-public.cloud.goog",
-    "name": "jina-reranker-v2-base-multilingual.endpoints.jinaai-public.cloud.goog",
-    "title": "Jina Reranker v2 Base - Multilingual"
-  },
-  {
-    "domain": "bigquery-connectors-public.cloud.goog",
-    "name": "jira-connector-by-windsor.ai.endpoints.bigquery-connectors-public.cloud.goog",
-    "title": "Jira Connector by Windsor.ai"
-  },
-  {
-    "domain": "bigquery-connectors-public.cloud.goog",
-    "name": "jira.endpoints.bigquery-connectors-public.cloud.goog",
-    "title": "Jira by Windsor.ai"
-  },
-  {
-    "domain": "jit-public.cloud.goog",
-    "name": "jit-security.endpoints.jit-public.cloud.goog",
-    "title": "Jit Security"
-  },
-  {
-    "domain": "cloudpartnerservices.goog",
-    "name": "jitsi-koinfit-publish.cloudpartnerservices.goog",
-    "title": "ANALOG INNOVATION PVT LTD jitsi"
-  },
-  {
-    "domain": "meetrix-public.cloud.goog",
-    "name": "jitsi-meet-100-concurrent-user-video-conferencing-setup.endpoints.meetrix-public.cloud.goog",
-    "title": " Jitsi Meet 100 concurrent user video conferencing setup"
-  },
-  {
-    "domain": "meetrix-public.cloud.goog",
-    "name": "jitsi-meet-100-single-shard-with-recording.endpoints.meetrix-public.cloud.goog",
-    "title": "Jitsi Meet 100 user video conferencing setup with recording"
-  },
-  {
-    "domain": "meetrix-public.cloud.goog",
-    "name": "jitsi-meet-250-single-shard-with-recording.endpoints.meetrix-public.cloud.goog",
-    "title": "Jitsi Meet 250 user video conferencing setup with recording"
-  },
-  {
-    "domain": "meetrix-public.cloud.goog",
-    "name": "jitsi-meet-250-single-shard.endpoints.meetrix-public.cloud.goog",
-    "title": "Jitsi Meet 250 concurrent user video conferencing setup"
-  },
-  {
-    "domain": "meetrix-public.cloud.goog",
-    "name": "jitsi-meet-50-single-shard.endpoints.meetrix-public.cloud.goog",
-    "title": "Jitsi Meet 50 concurrent user video conferencing setup"
-  },
-  {
-    "domain": "meetrix-public.cloud.goog",
-    "name": "jitsi-meet-50-user-video-conferencing-setup-with-recording.endpoints.meetrix-public.cloud.goog",
-    "title": "Jitsi Meet 50 user video conferencing setup with recording"
-  },
-  {
-    "domain": "meetrix-public.cloud.goog",
-    "name": "jitsi-meet-500-single-shard-with-recording.endpoints.meetrix-public.cloud.goog",
-    "title": "Jitsi Meet 500 user video conferencing setup with recording"
-  },
-  {
-    "domain": "meetrix-public.cloud.goog",
-    "name": "jitsi-meet-500-single-shard.endpoints.meetrix-public.cloud.goog",
-    "title": "Jitsi Meet 500 concurrent user video conferencing setup"
-  },
-  {
-    "domain": "cloudpartnerservices.goog",
-    "name": "jitsi-meet-cloud-infrastructure-services.cloudpartnerservices.goog",
-    "title": "Cloud Infrastructure Services Jitsi Meet Video Conferencing on Ubuntu"
-  },
-  {
-    "domain": "apps4rentllc-public.cloud.goog",
-    "name": "joblib-on-debian11.endpoints.apps4rentllc-public.cloud.goog",
-    "title": "Joblib on Debian11"
-  },
-  {
-    "domain": "apps4rentllc-public.cloud.goog",
-    "name": "joblib-on-debian12.endpoints.apps4rentllc-public.cloud.goog",
-    "title": "Joblib on Debian12 "
-  },
-  {
-    "domain": "apps4rentllc-public.cloud.goog",
-    "name": "joblib-on-ubuntu-20.endpoints.apps4rentllc-public.cloud.goog",
-    "title": "Joblib on Ubuntu 20.04"
-  },
-  {
-    "domain": "apps4rentllc-public.cloud.goog",
-    "name": "joblib-on-ubuntu-22.endpoints.apps4rentllc-public.cloud.goog",
-    "title": "Joblib on Ubuntu 22.04"
-  },
-  {
-    "domain": "apps4rentllc-public.cloud.goog",
-    "name": "joblib-on-ubuntu-24.endpoints.apps4rentllc-public.cloud.goog",
-    "title": "Joblib on Ubuntu 24.04"
-  },
-  {
-    "documentation": "Cloud Talent Solution provides the capability to create, read, update, and delete job postings, as well as search jobs based on keywords and filters.\n",
-    "domain": "googleapis.com",
-    "name": "jobs.googleapis.com",
-    "title": "Cloud Talent Solution API"
-  },
-  {
-    "domain": "apps4rentllc-public.cloud.goog",
-    "name": "joeflow-on-debian11.endpoints.apps4rentllc-public.cloud.goog",
-    "title": "Joeflow on Debian11"
-  },
-  {
-    "domain": "apps4rentllc-public.cloud.goog",
-    "name": "joeflow-on-debian12.endpoints.apps4rentllc-public.cloud.goog",
-    "title": "Joeflow on Debian12"
-  },
-  {
-    "domain": "apps4rentllc-public.cloud.goog",
-    "name": "joeflow-on-ubuntu-20.endpoints.apps4rentllc-public.cloud.goog",
-    "title": "Joeflow on Ubuntu 20.04"
-  },
-  {
-    "domain": "apps4rentllc-public.cloud.goog",
-    "name": "joeflow-on-ubuntu-22.endpoints.apps4rentllc-public.cloud.goog",
-    "title": "Joeflow on Ubuntu 22.04"
-  },
-  {
-    "domain": "apps4rentllc-public.cloud.goog",
-    "name": "joeflow-on-ubuntu-24.endpoints.apps4rentllc-public.cloud.goog",
-    "title": "Joeflow on Ubuntu 24.04"
-  },
-  {
-    "domain": "jogetinc-public.cloud.goog",
-    "name": "joget-dx-8-enterprise-edition-vm.endpoints.jogetinc-public.cloud.goog",
-    "title": "Joget DX 8 Enterprise Edition - VM"
-  },
-  {
-    "domain": "cloudpartnerservices.goog",
-    "name": "joget-dx-vm-jogetinc-public.cloudpartnerservices.goog",
-    "title": "Joget Inc Joget DX Enterprise Edition - VM"
-  },
-  {
-    "domain": "cloudpartnerservices.goog",
-    "name": "joomla-30-september-2019-miriinfotech-public.cloudpartnerservices.goog",
-    "title": "Miri Infotech JOOMLA"
   },
   {
     "documentation": "Privileged Access Manager (PAM) helps you on your journey towards least privilege and helps mitigate risks tied to privileged access misuse or abuse. PAM allows you to shift from always-on standing privileges towards on-demand access with just-in-time, time-bound, and approval-based access elevations.\nPAM allows IAM administrators to create entitlements that can grant just-in-time, temporary access to any resource scope. Requesters can explore eligible entitlements and request the access needed for their task. Approvers are notified when approvals await their decision.\nStreamlined workflows facilitated by using PAM can support various use cases, including emergency access for incident responders, time-boxed access for developers for critical deployment or maintenance, temporary access for operators for data ingestion and audits, JIT access to service accounts for automated tasks, and more.\n",
