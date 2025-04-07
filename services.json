@@ -732,6 +732,11 @@
     "title": "AI Resolve"
   },
   {
+    "domain": "paloaltonetworks-public.cloud.goog",
+    "name": "ai-runtime-security.endpoints.paloaltonetworks-public.cloud.goog",
+    "title": "AI Runtime Security"
+  },
+  {
     "domain": "paloaltonetworksgcp-public.cloud.goog",
     "name": "ai-runtime-security.endpoints.paloaltonetworksgcp-public.cloud.goog",
     "title": "AI Runtime Security"
@@ -2207,6 +2212,11 @@
     "domain": "applivery-public.cloud.goog",
     "name": "applivery-uem.endpoints.applivery-public.cloud.goog",
     "title": "Applivery UEM"
+  },
+  {
+    "domain": "hclsw-gcp-mrktplc-public.cloud.goog",
+    "name": "appmod-assist.endpoints.hclsw-gcp-mrktplc-public.cloud.goog",
+    "title": "AppMod Assist"
   },
   {
     "domain": "saas-aod-mplace-public.cloud.goog",
@@ -9661,6 +9671,11 @@
   },
   {
     "domain": "hclsw-gcp-mrktplc-public.cloud.goog",
+    "name": "doctor-appointment-scheduling.endpoints.hclsw-gcp-mrktplc-public.cloud.goog",
+    "title": "Doctor Appointment Scheduling"
+  },
+  {
+    "domain": "hclsw-gcp-mrktplc-public.cloud.goog",
     "name": "document-extractor.endpoints.hclsw-gcp-mrktplc-public.cloud.goog",
     "title": "Document Extractor"
   },
@@ -11350,6 +11365,11 @@
     "title": "Fansportiz"
   },
   {
+    "domain": "hclsw-gcp-mrktplc-public.cloud.goog",
+    "name": "faq-generator.endpoints.hclsw-gcp-mrktplc-public.cloud.goog",
+    "title": "FAQ Generator"
+  },
+  {
     "domain": "faraday-public.cloud.goog",
     "name": "faraday.endpoints.faraday-public.cloud.goog",
     "title": "Faraday"
@@ -11521,6 +11541,11 @@
     "domain": "vionlabs-public.cloud.goog",
     "name": "fingerprinter-plus.endpoints.vionlabs-public.cloud.goog",
     "title": "Vionlabs Fingerprint Plus"
+  },
+  {
+    "domain": "hclsw-gcp-mrktplc-public.cloud.goog",
+    "name": "finops-reporting.endpoints.hclsw-gcp-mrktplc-public.cloud.goog",
+    "title": "FinOps Reporting"
   },
   {
     "documentation": "The Firebase Management API enables programmatic setup and management of Firebase projects, including a project's Firebase resources and Firebase apps.",
@@ -14317,6 +14342,11 @@
     "title": "HPE NonStop DevEnv On GCP Windows"
   },
   {
+    "domain": "hclsw-gcp-mrktplc-public.cloud.goog",
+    "name": "hr-assist.endpoints.hclsw-gcp-mrktplc-public.cloud.goog",
+    "title": "HR Assist"
+  },
+  {
     "domain": "cloudpartnerservices.goog",
     "name": "hrrr-noaa-public.cloudpartnerservices.goog",
     "title": "NOAA High Resolution Rapid Refresh Model (HRRR)"
@@ -15186,36 +15216,6 @@
     "domain": "ironmountain-public.cloud.goog",
     "name": "iron-mountain-insight-dxp.endpoints.ironmountain-public.cloud.goog",
     "title": "Iron Mountain InSight® DXP"
-  },
-  {
-    "domain": "ironmountain-public.cloud.goog",
-    "name": "iron-mountain-smart-vault.endpoints.ironmountain-public.cloud.goog",
-    "title": "Iron Mountain Smart Vault"
-  },
-  {
-    "domain": "cloudpartnerservices.goog",
-    "name": "ironmountain-for-gcp-ironmountain-public.cloudpartnerservices.goog",
-    "title": "Iron Mountain InSight Enterprise Edition Reporting Service"
-  },
-  {
-    "domain": "cloudpartnerservices.goog",
-    "name": "irs-990-internal-revenue-service.cloudpartnerservices.goog",
-    "title": "U.S. Internal Revenue Service IRS 990"
-  },
-  {
-    "domain": "cloudpartnerservices.goog",
-    "name": "isb-cgc-cancer-data-gcp-public-data-isb-cgc.cloudpartnerservices.goog",
-    "title": "ISB Cancer Gateway ISB-CGC Cancer Gateway in the Cloud"
-  },
-  {
-    "domain": "ischoolconnect-public.cloud.goog",
-    "name": "ischool360.endpoints.ischoolconnect-public.cloud.goog",
-    "title": "iSchool360"
-  },
-  {
-    "domain": "opsmx-public.cloud.goog",
-    "name": "isd-argo.endpoints.opsmx-public.cloud.goog",
-    "title": "ISD-Argo (Intelligent Software Delivery powered by Argo)"
   },
   {
     "documentation": "Privileged Access Manager (PAM) helps you on your journey towards least privilege and helps mitigate risks tied to privileged access misuse or abuse. PAM allows you to shift from always-on standing privileges towards on-demand access with just-in-time, time-bound, and approval-based access elevations.\nPAM allows IAM administrators to create entitlements that can grant just-in-time, temporary access to any resource scope. Requesters can explore eligible entitlements and request the access needed for their task. Approvers are notified when approvals await their decision.\nStreamlined workflows facilitated by using PAM can support various use cases, including emergency access for incident responders, time-boxed access for developers for critical deployment or maintenance, temporary access for operators for data ingestion and audits, JIT access to service accounts for automated tasks, and more.\n",
