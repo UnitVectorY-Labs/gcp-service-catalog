@@ -7949,6 +7949,11 @@
     "title": "Darktrace vSensor (Terraform)"
   },
   {
+    "domain": "bcloud-public.cloud.goog",
+    "name": "dash.endpoints.bcloud-public.cloud.goog",
+    "title": "Dash"
+  },
+  {
     "domain": "apps4rentllc-public.cloud.goog",
     "name": "dask-on-ubuntu-22.endpoints.apps4rentllc-public.cloud.goog",
     "title": "Dask on Ubuntu 22.04"
@@ -10888,6 +10893,11 @@
     "title": "Ethereum Validator Node (Solo Staking \u0026 Native Restaking)"
   },
   {
+    "domain": "bcloud-public.cloud.goog",
+    "name": "etherpad.endpoints.bcloud-public.cloud.goog",
+    "title": "Etherpad"
+  },
+  {
     "domain": "nodeconnect-public.cloud.goog",
     "name": "ethtrace-pro.endpoints.nodeconnect-public.cloud.goog",
     "title": "EthTrace Pro"
@@ -12772,6 +12782,11 @@
     "title": "Google Click to Deploy Ghost"
   },
   {
+    "domain": "bcloud-public.cloud.goog",
+    "name": "gibbon1.endpoints.bcloud-public.cloud.goog",
+    "title": "Gibbon1"
+  },
+  {
     "domain": "gigaspaces-public.cloud.goog",
     "name": "gigaspaces-smart-dih.endpoints.gigaspaces-public.cloud.goog",
     "title": "GigaSpaces Smart DIH"
@@ -13042,6 +13057,11 @@
     "domain": "cloudpartnerservices.goog",
     "name": "gnomad-broad-institute.cloudpartnerservices.goog",
     "title": "Broad Institute of MIT and Harvard gnomAD"
+  },
+  {
+    "domain": "bcloud-public.cloud.goog",
+    "name": "gnucash.endpoints.bcloud-public.cloud.goog",
+    "title": "Gnucash"
   },
   {
     "domain": "cloudpartnerservices.goog",
@@ -14546,6 +14566,11 @@
     "title": "Converge Enterprise Cloud with IBM Power for Google Cloud"
   },
   {
+    "domain": "bcloud-public.cloud.goog",
+    "name": "icecast.endpoints.bcloud-public.cloud.goog",
+    "title": "Icecast"
+  },
+  {
     "domain": "cloudpartnerservices.goog",
     "name": "icharts-cloud-business-intelligence-icharts-cloud-bi.cloudpartnerservices.goog",
     "title": "iCharts Cloud Business Intelligence and Analytics iCharts"
@@ -14569,6 +14594,11 @@
     "domain": "careai-public.cloud.goog",
     "name": "ida-platform.endpoints.careai-public.cloud.goog",
     "title": "care.ai Smart Care Facility Platform"
+  },
+  {
+    "domain": "jetbrains-public.cloud.goog",
+    "name": "ide-services-cloud.endpoints.jetbrains-public.cloud.goog",
+    "title": "IDE Services Cloud"
   },
   {
     "domain": "bigquery-connectors-public.cloud.goog",
@@ -15437,36 +15467,6 @@
     "domain": "cognosys-public.cloud.goog",
     "name": "jenkins-on-centos-9-34546.endpoints.cognosys-public.cloud.goog",
     "title": "Jenkins on Centos 9"
-  },
-  {
-    "domain": "cognosys-public.cloud.goog",
-    "name": "jenkins-on-centos-9-stream-34545.endpoints.cognosys-public.cloud.goog",
-    "title": "Jenkins on Centos 9 stream"
-  },
-  {
-    "domain": "cognosys-public.cloud.goog",
-    "name": "jenkins-on-centos-latest-34544.endpoints.cognosys-public.cloud.goog",
-    "title": "Jenkins on Centos latest"
-  },
-  {
-    "domain": "cognosys-public.cloud.goog",
-    "name": "jenkins-on-debian-10-34543.endpoints.cognosys-public.cloud.goog",
-    "title": "Jenkins on Debian 10"
-  },
-  {
-    "domain": "cognosys-public.cloud.goog",
-    "name": "jenkins-on-debian-11-34542.endpoints.cognosys-public.cloud.goog",
-    "title": "Jenkins on Debian 11"
-  },
-  {
-    "domain": "cognosys-public.cloud.goog",
-    "name": "jenkins-on-debian-12-34541.endpoints.cognosys-public.cloud.goog",
-    "title": "Jenkins on Debian 12"
-  },
-  {
-    "domain": "cognosys-public.cloud.goog",
-    "name": "jenkins-on-debian-34540.endpoints.cognosys-public.cloud.goog",
-    "title": "Jenkins on Debian"
   },
   {
     "documentation": "Privileged Access Manager (PAM) helps you on your journey towards least privilege and helps mitigate risks tied to privileged access misuse or abuse. PAM allows you to shift from always-on standing privileges towards on-demand access with just-in-time, time-bound, and approval-based access elevations.\nPAM allows IAM administrators to create entitlements that can grant just-in-time, temporary access to any resource scope. Requesters can explore eligible entitlements and request the access needed for their task. Approvers are notified when approvals await their decision.\nStreamlined workflows facilitated by using PAM can support various use cases, including emergency access for incident responders, time-boxed access for developers for critical deployment or maintenance, temporary access for operators for data ingestion and audits, JIT access to service accounts for automated tasks, and more.\n",
