@@ -11893,6 +11893,11 @@
     "title": "flooid app suite v2"
   },
   {
+    "domain": "florbs-sa-public.cloud.goog",
+    "name": "florbs-sa-public.endpoints.florbs-sa-public.cloud.goog",
+    "title": "Florbs File Security for Google Drive"
+  },
+  {
     "domain": "techlatest-public.cloud.goog",
     "name": "flowise-langchain-vm.endpoints.techlatest-public.cloud.goog",
     "title": "No-Code LLM \u0026 AI Development using LangChain \u0026 Flowise"
@@ -15713,11 +15718,6 @@
     "domain": "meetrix-public.cloud.goog",
     "name": "jitsi-meet-500-single-shard.endpoints.meetrix-public.cloud.goog",
     "title": "Jitsi Meet 500 concurrent user video conferencing setup"
-  },
-  {
-    "domain": "cloudpartnerservices.goog",
-    "name": "jitsi-meet-cloud-infrastructure-services.cloudpartnerservices.goog",
-    "title": "Cloud Infrastructure Services Jitsi Meet Video Conferencing on Ubuntu"
   },
   {
     "documentation": "Privileged Access Manager (PAM) helps you on your journey towards least privilege and helps mitigate risks tied to privileged access misuse or abuse. PAM allows you to shift from always-on standing privileges towards on-demand access with just-in-time, time-bound, and approval-based access elevations.\nPAM allows IAM administrators to create entitlements that can grant just-in-time, temporary access to any resource scope. Requesters can explore eligible entitlements and request the access needed for their task. Approvers are notified when approvals await their decision.\nStreamlined workflows facilitated by using PAM can support various use cases, including emergency access for incident responders, time-boxed access for developers for critical deployment or maintenance, temporary access for operators for data ingestion and audits, JIT access to service accounts for automated tasks, and more.\n",
