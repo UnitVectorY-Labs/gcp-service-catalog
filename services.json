@@ -12291,7 +12291,7 @@
   {
     "domain": "fusionauth-public.cloud.goog",
     "name": "fusionauth-enterprise.endpoints.fusionauth-public.cloud.goog",
-    "title": "FusionAuth CIAM"
+    "title": "FusionAuth Enterprise"
   },
   {
     "domain": "fusionhub-image.cloud.goog",
