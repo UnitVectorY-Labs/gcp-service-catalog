@@ -117,7 +117,7 @@
       "description": "Admin SDK lets administrators of enterprise domains to view and manage resources like user, groups etc. It also provides audit and usage reports of domain.",
       "discoveryLink": "",
       "discoveryRestUrl": "https://admin.googleapis.com/$discovery/rest?version=datatransfer_v1",
-      "documentationLink": "https://developers.google.com/admin-sdk/",
+      "documentationLink": "https://developers.google.com/workspace/admin/",
       "icons": {
         "x16": "https://www.gstatic.com/images/branding/product/1x/googleg_16dp.png",
         "x32": "https://www.gstatic.com/images/branding/product/1x/googleg_32dp.png"
@@ -133,7 +133,7 @@
       "description": "Admin SDK lets administrators of enterprise domains to view and manage resources like user, groups etc. It also provides audit and usage reports of domain.",
       "discoveryLink": "",
       "discoveryRestUrl": "https://admin.googleapis.com/$discovery/rest?version=directory_v1",
-      "documentationLink": "https://developers.google.com/admin-sdk/",
+      "documentationLink": "https://developers.google.com/workspace/admin/",
       "icons": {
         "x16": "https://www.gstatic.com/images/branding/product/1x/googleg_16dp.png",
         "x32": "https://www.gstatic.com/images/branding/product/1x/googleg_32dp.png"
@@ -149,7 +149,7 @@
       "description": "Admin SDK lets administrators of enterprise domains to view and manage resources like user, groups etc. It also provides audit and usage reports of domain.",
       "discoveryLink": "",
       "discoveryRestUrl": "https://admin.googleapis.com/$discovery/rest?version=reports_v1",
-      "documentationLink": "https://developers.google.com/admin-sdk/",
+      "documentationLink": "https://developers.google.com/workspace/admin/",
       "icons": {
         "x16": "https://www.gstatic.com/images/branding/product/1x/googleg_16dp.png",
         "x32": "https://www.gstatic.com/images/branding/product/1x/googleg_32dp.png"
@@ -1349,7 +1349,7 @@
       "description": "Manages classes, rosters, and invitations in Google Classroom.",
       "discoveryLink": "",
       "discoveryRestUrl": "https://classroom.googleapis.com/$discovery/rest?version=v1",
-      "documentationLink": "https://developers.google.com/classroom",
+      "documentationLink": "https://developers.google.com/workspace/classroom",
       "icons": {
         "x16": "https://www.gstatic.com/images/branding/product/1x/googleg_16dp.png",
         "x32": "https://www.gstatic.com/images/branding/product/1x/googleg_32dp.png"
