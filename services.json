@@ -4215,6 +4215,11 @@
     "title": "ANALOG INDUSTRIES LLP Accelerated Caprover"
   },
   {
+    "domain": "captana-storage-public.cloud.goog",
+    "name": "captana-cloud-storage.endpoints.captana-storage-public.cloud.goog",
+    "title": "Captana Cloud Storage"
+  },
+  {
     "domain": "noviqtech-public.cloud.goog",
     "name": "carbon-central-standalone.endpoints.noviqtech-public.cloud.goog",
     "title": "Carbon Central"
@@ -15468,6 +15473,251 @@
     "domain": "cloudpartnerservices.goog",
     "name": "jamba-1-5.cloudpartnerservices.goog",
     "title": ""
+  },
+  {
+    "domain": "cloudpartnerservices.goog",
+    "name": "jamba-large-1-6.cloudpartnerservices.goog",
+    "title": ""
+  },
+  {
+    "domain": "jasper-marketplace-public.cloud.goog",
+    "name": "jasper-for-business.endpoints.jasper-marketplace-public.cloud.goog",
+    "title": "Jasper for Business"
+  },
+  {
+    "domain": "cloudpartnerservices.goog",
+    "name": "javascript-developer-kit-techlatest-public.cloudpartnerservices.goog",
+    "title": "Techlatest.net javascript-developer-kit"
+  },
+  {
+    "domain": "apps4rentllc-public.cloud.goog",
+    "name": "jax-on-debian-12.endpoints.apps4rentllc-public.cloud.goog",
+    "title": "JAX on Debian 12"
+  },
+  {
+    "domain": "apps4rentllc-public.cloud.goog",
+    "name": "jax-on-ubuntu-20.endpoints.apps4rentllc-public.cloud.goog",
+    "title": "JAX on Ubuntu 20.04"
+  },
+  {
+    "domain": "apps4rentllc-public.cloud.goog",
+    "name": "jax-on-ubuntu-22.endpoints.apps4rentllc-public.cloud.goog",
+    "title": "JAX on Ubuntu 22.04"
+  },
+  {
+    "domain": "apps4rentllc-public.cloud.goog",
+    "name": "jax-on-ubuntu-24.endpoints.apps4rentllc-public.cloud.goog",
+    "title": "JAX on Ubuntu 24.04"
+  },
+  {
+    "domain": "miriinfotech-public.cloud.goog",
+    "name": "jekyll.endpoints.miriinfotech-public.cloud.goog",
+    "title": "Jekyll"
+  },
+  {
+    "domain": "cloudpartnerservices.goog",
+    "name": "jelastic53-jelastic-on-gcl.cloudpartnerservices.goog",
+    "title": "Jelastic PaaS Light Edition Jelastic PaaS Lite Edition"
+  },
+  {
+    "domain": "bcloud-public.cloud.goog",
+    "name": "jellyfin.endpoints.bcloud-public.cloud.goog",
+    "title": "Jellyfin"
+  },
+  {
+    "domain": "cloudpartnerservices.goog",
+    "name": "jenkins-14-november-2019-miriinfotech-public.cloudpartnerservices.goog",
+    "title": "Miri Infotech JENKINS"
+  },
+  {
+    "domain": "cloudpartnerservices.goog",
+    "name": "jenkins-20-07-2020-miriinfotech-public.cloudpartnerservices.goog",
+    "title": "Miri Infotech JENKINS"
+  },
+  {
+    "domain": "cloudpartnerservices.goog",
+    "name": "jenkins-2016-cloud-infrastructure-services.cloudpartnerservices.goog",
+    "title": "Cloud Infrastructure Services Jenkins on Windows Server 2016"
+  },
+  {
+    "domain": "cloudpartnerservices.goog",
+    "name": "jenkins-2019-cloud-infrastructure-services.cloudpartnerservices.goog",
+    "title": "Cloud Infrastructure Services Jenkins on Windows Server 2019"
+  },
+  {
+    "domain": "bitnami-launchpad.cloud.goog",
+    "name": "jenkins-arm64.endpoints.bitnami-launchpad.cloud.goog",
+    "title": "Bitnami package for Jenkins (ARM64)"
+  },
+  {
+    "domain": "cloudpartnerservices.goog",
+    "name": "jenkins-automation-cloudup-infotech-public.cloudpartnerservices.goog",
+    "title": "CLOUDUP INFOTECH PRIVATE LIMITED Jenkins-automation"
+  },
+  {
+    "domain": "cloudpartnerservices.goog",
+    "name": "jenkins-bitnami-launchpad.cloudpartnerservices.goog",
+    "title": "Bitnami Jenkins Certified by Bitnami"
+  },
+  {
+    "domain": "cloudpartnerservices.goog",
+    "name": "jenkins-centos-cloud-infrastructure-services.cloudpartnerservices.goog",
+    "title": "Cloud Infrastructure Services Jenkins Server on CentOS Server 8.3"
+  },
+  {
+    "domain": "cloudpartnerservices.goog",
+    "name": "jenkins-click-to-deploy-images.cloudpartnerservices.goog",
+    "title": "Google Click to Deploy Jenkins"
+  },
+  {
+    "domain": "cognosys-public.cloud.goog",
+    "name": "jenkins-on-centos-6-34548.endpoints.cognosys-public.cloud.goog",
+    "title": "Jenkins on Centos 6"
+  },
+  {
+    "domain": "cognosys-public.cloud.goog",
+    "name": "jenkins-on-centos-8-stream-34547.endpoints.cognosys-public.cloud.goog",
+    "title": "Jenkins on Centos 8 stream"
+  },
+  {
+    "domain": "cognosys-public.cloud.goog",
+    "name": "jenkins-on-centos-9-34546.endpoints.cognosys-public.cloud.goog",
+    "title": "Jenkins on Centos 9"
+  },
+  {
+    "domain": "cognosys-public.cloud.goog",
+    "name": "jenkins-on-centos-9-stream-34545.endpoints.cognosys-public.cloud.goog",
+    "title": "Jenkins on Centos 9 stream"
+  },
+  {
+    "domain": "cognosys-public.cloud.goog",
+    "name": "jenkins-on-centos-latest-34544.endpoints.cognosys-public.cloud.goog",
+    "title": "Jenkins on Centos latest"
+  },
+  {
+    "domain": "cognosys-public.cloud.goog",
+    "name": "jenkins-on-debian-10-34543.endpoints.cognosys-public.cloud.goog",
+    "title": "Jenkins on Debian 10"
+  },
+  {
+    "domain": "cognosys-public.cloud.goog",
+    "name": "jenkins-on-debian-11-34542.endpoints.cognosys-public.cloud.goog",
+    "title": "Jenkins on Debian 11"
+  },
+  {
+    "domain": "cognosys-public.cloud.goog",
+    "name": "jenkins-on-debian-12-34541.endpoints.cognosys-public.cloud.goog",
+    "title": "Jenkins on Debian 12"
+  },
+  {
+    "domain": "cognosys-public.cloud.goog",
+    "name": "jenkins-on-debian-34540.endpoints.cognosys-public.cloud.goog",
+    "title": "Jenkins on Debian"
+  },
+  {
+    "domain": "apps4rentllc-public.cloud.goog",
+    "name": "jenkins-on-debian10.endpoints.apps4rentllc-public.cloud.goog",
+    "title": "Jenkins on Debian10"
+  },
+  {
+    "domain": "apps4rentllc-public.cloud.goog",
+    "name": "jenkins-on-debian11.endpoints.apps4rentllc-public.cloud.goog",
+    "title": "Jenkins-on-Debian11"
+  },
+  {
+    "domain": "apps4rentllc-public.cloud.goog",
+    "name": "jenkins-on-debian12.endpoints.apps4rentllc-public.cloud.goog",
+    "title": "Jenkins-on-Debian12"
+  },
+  {
+    "domain": "cognosys-public.cloud.goog",
+    "name": "jenkins-on-redhat-linux-8-34539.endpoints.cognosys-public.cloud.goog",
+    "title": "Jenkins on Redhat linux 8"
+  },
+  {
+    "domain": "cognosys-public.cloud.goog",
+    "name": "jenkins-on-redhat-linux-9-34538.endpoints.cognosys-public.cloud.goog",
+    "title": "Jenkins on Redhat linux 9"
+  },
+  {
+    "domain": "cognosys-public.cloud.goog",
+    "name": "jenkins-on-suse-12-34536.endpoints.cognosys-public.cloud.goog",
+    "title": "Jenkins on Suse 12"
+  },
+  {
+    "domain": "cognosys-public.cloud.goog",
+    "name": "jenkins-on-suse-15-34535.endpoints.cognosys-public.cloud.goog",
+    "title": "Jenkins on Suse 15"
+  },
+  {
+    "domain": "cognosys-public.cloud.goog",
+    "name": "jenkins-on-suse-34534.endpoints.cognosys-public.cloud.goog",
+    "title": "Jenkins on Suse"
+  },
+  {
+    "domain": "apps4rentllc-public.cloud.goog",
+    "name": "jenkins-on-ubuntu20.endpoints.apps4rentllc-public.cloud.goog",
+    "title": "Jenkins-on-Ubuntu20.04"
+  },
+  {
+    "domain": "apps4rentllc-public.cloud.goog",
+    "name": "jenkins-on-ubuntu22.endpoints.apps4rentllc-public.cloud.goog",
+    "title": "Jenkins-on-Ubuntu22.04"
+  },
+  {
+    "domain": "apps4rentllc-public.cloud.goog",
+    "name": "jenkins-on-ubuntu24.endpoints.apps4rentllc-public.cloud.goog",
+    "title": "Jenkins-on-Ubuntu24.04"
+  },
+  {
+    "domain": "cloudpartnerservices.goog",
+    "name": "jenkins-ubuntu-cloud-infrastructure-services.cloudpartnerservices.goog",
+    "title": "Cloud Infrastructure Services Jenkins Server on Ubuntu Server 20.04"
+  },
+  {
+    "domain": "cognosys-public.cloud.goog",
+    "name": "jenkins-with-centos-7-7.endpoints.cognosys-public.cloud.goog",
+    "title": "Optimized Jenkins for Centos 7 Deployments"
+  },
+  {
+    "domain": "cognosys-public.cloud.goog",
+    "name": "jenkins-with-centos-8-3-7847.endpoints.cognosys-public.cloud.goog",
+    "title": "Jenkins-Automate Your Centos 8 and GCP Workflows"
+  },
+  {
+    "domain": "cloudpartnerservices.goog",
+    "name": "jenkins-with-centos-8-stream-cognosys-public.cloudpartnerservices.goog",
+    "title": "Cognosys Inc. Jenkins With CentOS 8-stream"
+  },
+  {
+    "domain": "cognosys-public.cloud.goog",
+    "name": "jenkins-with-ubuntu-server-1804-lts.endpoints.cognosys-public.cloud.goog",
+    "title": "Optimized Jenkins for Ubuntu 18.04 lts bionic Deployments"
+  },
+  {
+    "domain": "anarion-technologies-public.cloud.goog",
+    "name": "jenkins.endpoints.anarion-technologies-public.cloud.goog",
+    "title": "Jenkins v2.492.2 on Ubuntu v24"
+  },
+  {
+    "domain": "appspot.com",
+    "name": "jetstack-secure-for-cert-manager.mp-jetstack-public.appspot.com",
+    "title": "Jetstack Secure for cert-manager"
+  },
+  {
+    "domain": "cloudpartnerservices.goog",
+    "name": "jfrog-ent-plus-saas-jfrog-gc-mp.cloudpartnerservices.goog",
+    "title": "JFrog DevOps Platform - Enterprise+"
+  },
+  {
+    "domain": "cloudpartnerservices.goog",
+    "name": "jfrog-ent-saas-jfrog-gc-mp.cloudpartnerservices.goog",
+    "title": "JFrog DevOps Platform - Enterprise X"
+  },
+  {
+    "domain": "cloudpartnerservices.goog",
+    "name": "jfrog-k8s-jfrog-gc-mp.cloudpartnerservices.goog",
+    "title": "JFrog Artifactory Enterprise"
   },
   {
     "documentation": "Privileged Access Manager (PAM) helps you on your journey towards least privilege and helps mitigate risks tied to privileged access misuse or abuse. PAM allows you to shift from always-on standing privileges towards on-demand access with just-in-time, time-bound, and approval-based access elevations.\nPAM allows IAM administrators to create entitlements that can grant just-in-time, temporary access to any resource scope. Requesters can explore eligible entitlements and request the access needed for their task. Approvers are notified when approvals await their decision.\nStreamlined workflows facilitated by using PAM can support various use cases, including emergency access for incident responders, time-boxed access for developers for critical deployment or maintenance, temporary access for operators for data ingestion and audits, JIT access to service accounts for automated tasks, and more.\n",
