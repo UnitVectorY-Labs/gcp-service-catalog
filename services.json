@@ -4596,6 +4596,11 @@
     "title": "Chargebee by Windsor.ai"
   },
   {
+    "domain": "bigquery-connectors-public.cloud.goog",
+    "name": "chargify-maxio.endpoints.bigquery-connectors-public.cloud.goog",
+    "title": "Maxio (Chargify) by Windsor.ai"
+  },
+  {
     "domain": "stromasys-public.cloud.goog",
     "name": "charon-ssp-virtual-sparc.endpoints.stromasys-public.cloud.goog",
     "title": "Charon SSP Virtual SPARC"
@@ -6517,6 +6522,11 @@
     "title": "CockroachDB (pay-as-you-go)"
   },
   {
+    "domain": "bigquery-connectors-public.cloud.goog",
+    "name": "coda-windsor.endpoints.bigquery-connectors-public.cloud.goog",
+    "title": "Coda by Windsor.ai"
+  },
+  {
     "domain": "plaid-public.cloud.goog",
     "name": "codatum.endpoints.plaid-public.cloud.goog",
     "title": "Codatum"
@@ -6638,6 +6648,11 @@
   },
   {
     "domain": "bigquery-connectors-public.cloud.goog",
+    "name": "coin-api.endpoints.bigquery-connectors-public.cloud.goog",
+    "title": "Coin API by Windsor.ai"
+  },
+  {
+    "domain": "bigquery-connectors-public.cloud.goog",
     "name": "coingecko-coins.endpoints.bigquery-connectors-public.cloud.goog",
     "title": "Coingecko Coins by Windsor.ai"
   },
@@ -6710,6 +6725,11 @@
     "domain": "commercetools-public.cloud.goog",
     "name": "commercetools-platform.endpoints.commercetools-public.cloud.goog",
     "title": "Commercetools Platform"
+  },
+  {
+    "domain": "bigquery-connectors-public.cloud.goog",
+    "name": "commercetools.endpoints.bigquery-connectors-public.cloud.goog",
+    "title": "Commercetools by Windsor.ai"
   },
   {
     "domain": "bigquery-connectors-public.cloud.goog",
@@ -7109,6 +7129,11 @@
     "domain": "cloudpartnerservices.goog",
     "name": "cooperative-patent-classification-patents-public-data.cloudpartnerservices.goog",
     "title": "Google Patents Public Datasets Cooperative Patent Classification Data"
+  },
+  {
+    "domain": "bigquery-connectors-public.cloud.goog",
+    "name": "copper.endpoints.bigquery-connectors-public.cloud.goog",
+    "title": "Copper by Windsor.ai"
   },
   {
     "domain": "cloudpartnerservices.goog",
@@ -13305,6 +13330,11 @@
   },
   {
     "domain": "bigquery-connectors-public.cloud.goog",
+    "name": "gong.endpoints.bigquery-connectors-public.cloud.goog",
+    "title": "Gong by Windsor.ai"
+  },
+  {
+    "domain": "bigquery-connectors-public.cloud.goog",
     "name": "google-ad-manager-dfp.endpoints.bigquery-connectors-public.cloud.goog",
     "title": "Google Ad Manager by Windsor.ai"
   },
@@ -15420,6 +15450,11 @@
     "title": "IT Tickets Solutioning Agent"
   },
   {
+    "domain": "bigquery-connectors-public.cloud.goog",
+    "name": "iterable.endpoints.bigquery-connectors-public.cloud.goog",
+    "title": "Iterable by Windsor.ai"
+  },
+  {
     "domain": "cloudpartnerservices.goog",
     "name": "itop-30-january-2020-miriinfotech-public.cloudpartnerservices.goog",
     "title": "Miri Infotech iTop"
@@ -15683,41 +15718,6 @@
     "domain": "cognosys-public.cloud.goog",
     "name": "jenkins-with-centos-8-3-7847.endpoints.cognosys-public.cloud.goog",
     "title": "Jenkins-Automate Your Centos 8 and GCP Workflows"
-  },
-  {
-    "domain": "cloudpartnerservices.goog",
-    "name": "jenkins-with-centos-8-stream-cognosys-public.cloudpartnerservices.goog",
-    "title": "Cognosys Inc. Jenkins With CentOS 8-stream"
-  },
-  {
-    "domain": "cognosys-public.cloud.goog",
-    "name": "jenkins-with-ubuntu-server-1804-lts.endpoints.cognosys-public.cloud.goog",
-    "title": "Optimized Jenkins for Ubuntu 18.04 lts bionic Deployments"
-  },
-  {
-    "domain": "anarion-technologies-public.cloud.goog",
-    "name": "jenkins.endpoints.anarion-technologies-public.cloud.goog",
-    "title": "Jenkins v2.492.2 on Ubuntu v24"
-  },
-  {
-    "domain": "appspot.com",
-    "name": "jetstack-secure-for-cert-manager.mp-jetstack-public.appspot.com",
-    "title": "Jetstack Secure for cert-manager"
-  },
-  {
-    "domain": "cloudpartnerservices.goog",
-    "name": "jfrog-ent-plus-saas-jfrog-gc-mp.cloudpartnerservices.goog",
-    "title": "JFrog DevOps Platform - Enterprise+"
-  },
-  {
-    "domain": "cloudpartnerservices.goog",
-    "name": "jfrog-ent-saas-jfrog-gc-mp.cloudpartnerservices.goog",
-    "title": "JFrog DevOps Platform - Enterprise X"
-  },
-  {
-    "domain": "cloudpartnerservices.goog",
-    "name": "jfrog-k8s-jfrog-gc-mp.cloudpartnerservices.goog",
-    "title": "JFrog Artifactory Enterprise"
   },
   {
     "documentation": "Privileged Access Manager (PAM) helps you on your journey towards least privilege and helps mitigate risks tied to privileged access misuse or abuse. PAM allows you to shift from always-on standing privileges towards on-demand access with just-in-time, time-bound, and approval-based access elevations.\nPAM allows IAM administrators to create entitlements that can grant just-in-time, temporary access to any resource scope. Requesters can explore eligible entitlements and request the access needed for their task. Approvers are notified when approvals await their decision.\nStreamlined workflows facilitated by using PAM can support various use cases, including emergency access for incident responders, time-boxed access for developers for critical deployment or maintenance, temporary access for operators for data ingestion and audits, JIT access to service accounts for automated tasks, and more.\n",
