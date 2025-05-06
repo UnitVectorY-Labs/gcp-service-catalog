@@ -461,6 +461,11 @@
     "title": "Admin SDK API"
   },
   {
+    "domain": "bcloud-public.cloud.goog",
+    "name": "adminer.endpoints.bcloud-public.cloud.goog",
+    "title": "Adminer"
+  },
+  {
     "documentation": "The AdMob API allows publishers to programmatically get information about their AdMob account.\n",
     "domain": "googleapis.com",
     "name": "admob.googleapis.com",
@@ -1012,6 +1017,11 @@
     "domain": "akooda-public.cloud.goog",
     "name": "akooda-enterprise-search.endpoints.akooda-public.cloud.goog",
     "title": "Akooda Enterprise Search"
+  },
+  {
+    "domain": "aktus-ai-platform-public.cloud.goog",
+    "name": "aktus-ai-platform-free.endpoints.aktus-ai-platform-public.cloud.goog",
+    "title": "Aktus Platform"
   },
   {
     "domain": "akuity-public.cloud.goog",
@@ -2269,6 +2279,11 @@
     "domain": "googleapis.com",
     "name": "appsmarket.googleapis.com",
     "title": "Google Workspace Marketplace API"
+  },
+  {
+    "domain": "bcloud-public.cloud.goog",
+    "name": "appsmith.endpoints.bcloud-public.cloud.goog",
+    "title": "Appsmith"
   },
   {
     "domain": "cloudpartnerservices.goog",
@@ -4733,6 +4748,11 @@
     "title": "Core Connect"
   },
   {
+    "domain": "bcloud-public.cloud.goog",
+    "name": "cherrypy.endpoints.bcloud-public.cloud.goog",
+    "title": "CherryPy"
+  },
+  {
     "domain": "cloudpartnerservices.goog",
     "name": "chicago-crime-city-of-chicago.cloudpartnerservices.goog",
     "title": "City of Chicago Chicago Crime Data"
@@ -4792,7 +4812,7 @@
     "title": "Chronicle SecOps"
   },
   {
-    "documentation": "The Chronicle API serves all customer endpoints.",
+    "documentation": "The Google Cloud Security Operations API, popularly known as the Chronicle API, serves endpoints that enable security analysts to analyze and mitigate a security threat throughout its lifecycle",
     "domain": "googleapis.com",
     "name": "chronicle.googleapis.com",
     "title": "Chronicle API"
@@ -8002,6 +8022,11 @@
     "domain": "cynerio-public.cloud.goog",
     "name": "cynerio.endpoints.cynerio-public.cloud.goog",
     "title": "Cynerio 360 Platform"
+  },
+  {
+    "domain": "cyrebro-public.cloud.goog",
+    "name": "cyrebro-total-protect.endpoints.cyrebro-public.cloud.goog",
+    "title": "CYREBRO Total Protect"
   },
   {
     "domain": "cyrebro-public.cloud.goog",
@@ -12133,6 +12158,11 @@
     "title": "Foretify"
   },
   {
+    "domain": "bcloud-public.cloud.goog",
+    "name": "forgejo.endpoints.bcloud-public.cloud.goog",
+    "title": "Forgejo"
+  },
+  {
     "domain": "formbio-public.cloud.goog",
     "name": "form-bio.endpoints.formbio-public.cloud.goog",
     "title": "Form Bio Multiomics Suite"
@@ -15085,6 +15115,11 @@
     "title": "Google Click to Deploy InfluxDB"
   },
   {
+    "domain": "bcloud-public.cloud.goog",
+    "name": "influxdb.endpoints.bcloud-public.cloud.goog",
+    "title": "InfluxDB"
+  },
+  {
     "domain": "bitnami-launchpad.cloud.goog",
     "name": "influxdb.endpoints.bitnami-launchpad.cloud.goog",
     "title": "InfluxDB packaged by Bitnami"
@@ -15420,6 +15455,11 @@
     "title": "Ionic CLI on Ubuntu 24.04"
   },
   {
+    "domain": "bcloud-public.cloud.goog",
+    "name": "ionic.endpoints.bcloud-public.cloud.goog",
+    "title": "ionic"
+  },
+  {
     "domain": "ionq-public.cloud.goog",
     "name": "ionq.endpoints.ionq-public.cloud.goog",
     "title": "IonQ Quantum Cloud"
@@ -15428,46 +15468,6 @@
     "domain": "cloudpartnerservices.goog",
     "name": "iowa-liquor-sales-iowa-department-of-commerce.cloudpartnerservices.goog",
     "title": "Iowa Department of Commerce Iowa Liquor Retail Sales"
-  },
-  {
-    "domain": "ttecdigital-public.cloud.goog",
-    "name": "ip-verint-wfe.endpoints.ttecdigital-public.cloud.goog",
-    "title": "Verint Workforce Engagement for Google Cloud"
-  },
-  {
-    "domain": "ipinfo-public.cloud.goog",
-    "name": "ipinfo-free-ip-to-country-and-asn-database.endpoints.ipinfo-public.cloud.goog",
-    "title": "IPinfo: Free IP to Country and ASN Database"
-  },
-  {
-    "domain": "ipinfo-public.cloud.goog",
-    "name": "ipinfo-ip-address-geolocation-and-intelligence-database.endpoints.ipinfo-public.cloud.goog",
-    "title": "IPinfo: IP address geolocation and intelligence database"
-  },
-  {
-    "domain": "iproov-public.cloud.goog",
-    "name": "iproov-authentication.endpoints.iproov-public.cloud.goog",
-    "title": "iProov Authentication"
-  },
-  {
-    "domain": "iproov-public.cloud.goog",
-    "name": "iproov-liveness-detection.endpoints.iproov-public.cloud.goog",
-    "title": "iProov Liveness Detection"
-  },
-  {
-    "domain": "iproov-public.cloud.goog",
-    "name": "iproov-remote-onboarding.endpoints.iproov-public.cloud.goog",
-    "title": "iProov Remote Onboarding"
-  },
-  {
-    "domain": "infinite-reality-public.cloud.goog",
-    "name": "ir-enterprise.endpoints.infinite-reality-public.cloud.goog",
-    "title": "iR Enterprise"
-  },
-  {
-    "domain": "ironmountain-public.cloud.goog",
-    "name": "irmdrms.endpoints.ironmountain-public.cloud.goog",
-    "title": "Iron Mountain Data Restoration and Migration Services"
   },
   {
     "documentation": "Privileged Access Manager (PAM) helps you on your journey towards least privilege and helps mitigate risks tied to privileged access misuse or abuse. PAM allows you to shift from always-on standing privileges towards on-demand access with just-in-time, time-bound, and approval-based access elevations.\nPAM allows IAM administrators to create entitlements that can grant just-in-time, temporary access to any resource scope. Requesters can explore eligible entitlements and request the access needed for their task. Approvers are notified when approvals await their decision.\nStreamlined workflows facilitated by using PAM can support various use cases, including emergency access for incident responders, time-boxed access for developers for critical deployment or maintenance, temporary access for operators for data ingestion and audits, JIT access to service accounts for automated tasks, and more.\n",
