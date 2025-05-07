@@ -6848,6 +6848,11 @@
   },
   {
     "domain": "furtherworldwide-public.cloud.goog",
+    "name": "compass-marketing-intelligence-services.endpoints.furtherworldwide-public.cloud.goog",
+    "title": "Compass Marketing Intelligence Services"
+  },
+  {
+    "domain": "furtherworldwide-public.cloud.goog",
     "name": "compass-marketing-intelligence.endpoints.furtherworldwide-public.cloud.goog",
     "title": "Compass Marketing Intelligence"
   },
@@ -6936,6 +6941,7 @@
     "title": "Infrastructure Manager API"
   },
   {
+    "documentation": "ConfigDelivery service manages the deployment of kubernetes configuration to a fleet of kubernetes clusters.\n",
     "domain": "googleapis.com",
     "name": "configdelivery.googleapis.com",
     "title": "Config Delivery API"
@@ -10373,6 +10379,11 @@
     "title": "EasyTax on Rcloud"
   },
   {
+    "domain": "echo3d-public.cloud.goog",
+    "name": "echo3d.endpoints.echo3d-public.cloud.goog",
+    "title": "3D Digital Asset Management (DAM)"
+  },
+  {
     "domain": "cloudpartnerservices.goog",
     "name": "eclipse-megamovie-gcp-public-data.cloudpartnerservices.goog",
     "title": "Google Cloud Public Datasets Program Eclipse Megamovie"
@@ -11133,6 +11144,11 @@
     "domain": "cloudpartnerservices.goog",
     "name": "exasol-analytic-database-payg-public-marketplace.cloudpartnerservices.goog",
     "title": "Exasol Analytics Database PAYG"
+  },
+  {
+    "domain": "exavault-public.cloud.goog",
+    "name": "exavault.endpoints.exavault-public.cloud.goog",
+    "title": "ExaVault - Free SFTP and FTP File Sharing and Transfer Appliance"
   },
   {
     "domain": "bcloud-public.cloud.goog",
@@ -15468,6 +15484,241 @@
     "domain": "cloudpartnerservices.goog",
     "name": "iowa-liquor-sales-iowa-department-of-commerce.cloudpartnerservices.goog",
     "title": "Iowa Department of Commerce Iowa Liquor Retail Sales"
+  },
+  {
+    "domain": "ttecdigital-public.cloud.goog",
+    "name": "ip-verint-wfe.endpoints.ttecdigital-public.cloud.goog",
+    "title": "Verint Workforce Engagement for Google Cloud"
+  },
+  {
+    "domain": "bcloud-public.cloud.goog",
+    "name": "iperf.endpoints.bcloud-public.cloud.goog",
+    "title": "iperf"
+  },
+  {
+    "domain": "ipinfo-public.cloud.goog",
+    "name": "ipinfo-free-ip-to-country-and-asn-database.endpoints.ipinfo-public.cloud.goog",
+    "title": "IPinfo: Free IP to Country and ASN Database"
+  },
+  {
+    "domain": "ipinfo-public.cloud.goog",
+    "name": "ipinfo-ip-address-geolocation-and-intelligence-database.endpoints.ipinfo-public.cloud.goog",
+    "title": "IPinfo: IP address geolocation and intelligence database"
+  },
+  {
+    "domain": "iproov-public.cloud.goog",
+    "name": "iproov-authentication.endpoints.iproov-public.cloud.goog",
+    "title": "iProov Authentication"
+  },
+  {
+    "domain": "iproov-public.cloud.goog",
+    "name": "iproov-liveness-detection.endpoints.iproov-public.cloud.goog",
+    "title": "iProov Liveness Detection"
+  },
+  {
+    "domain": "iproov-public.cloud.goog",
+    "name": "iproov-remote-onboarding.endpoints.iproov-public.cloud.goog",
+    "title": "iProov Remote Onboarding"
+  },
+  {
+    "domain": "infinite-reality-public.cloud.goog",
+    "name": "ir-enterprise.endpoints.infinite-reality-public.cloud.goog",
+    "title": "iR Enterprise"
+  },
+  {
+    "domain": "ironmountain-public.cloud.goog",
+    "name": "irmdrms.endpoints.ironmountain-public.cloud.goog",
+    "title": "Iron Mountain Data Restoration and Migration Services"
+  },
+  {
+    "domain": "ironmountain-public.cloud.goog",
+    "name": "irmmas.endpoints.ironmountain-public.cloud.goog",
+    "title": "Iron Mountain Media \u0026 Archive Services"
+  },
+  {
+    "domain": "ironmountain-public.cloud.goog",
+    "name": "iron-mountain-insight-dxp.endpoints.ironmountain-public.cloud.goog",
+    "title": "Iron Mountain InSight® DXP"
+  },
+  {
+    "domain": "ironmountain-public.cloud.goog",
+    "name": "iron-mountain-smart-vault.endpoints.ironmountain-public.cloud.goog",
+    "title": "Iron Mountain Smart Vault"
+  },
+  {
+    "domain": "cloudpartnerservices.goog",
+    "name": "ironmountain-for-gcp-ironmountain-public.cloudpartnerservices.goog",
+    "title": "Iron Mountain InSight Enterprise Edition Reporting Service"
+  },
+  {
+    "domain": "cloudpartnerservices.goog",
+    "name": "irs-990-internal-revenue-service.cloudpartnerservices.goog",
+    "title": "U.S. Internal Revenue Service IRS 990"
+  },
+  {
+    "domain": "cloudpartnerservices.goog",
+    "name": "isb-cgc-cancer-data-gcp-public-data-isb-cgc.cloudpartnerservices.goog",
+    "title": "ISB Cancer Gateway ISB-CGC Cancer Gateway in the Cloud"
+  },
+  {
+    "domain": "ischoolconnect-public.cloud.goog",
+    "name": "ischool360.endpoints.ischoolconnect-public.cloud.goog",
+    "title": "iSchool360"
+  },
+  {
+    "domain": "opsmx-public.cloud.goog",
+    "name": "isd-argo.endpoints.opsmx-public.cloud.goog",
+    "title": "ISD-Argo (Intelligent Software Delivery powered by Argo)"
+  },
+  {
+    "domain": "opsmx-public.cloud.goog",
+    "name": "isd-spinnaker.endpoints.opsmx-public.cloud.goog",
+    "title": "ISD-Spinnaker (Intelligent Software Delivery)"
+  },
+  {
+    "domain": "atma-on-gcmp.cloud.goog",
+    "name": "isn-seller-app.endpoints.atma-on-gcmp.cloud.goog",
+    "title": "Retail ISN Seller App for ONDC by Adya"
+  },
+  {
+    "domain": "isolution-public.cloud.goog",
+    "name": "isolajmanopendataportal.endpoints.isolution-public.cloud.goog",
+    "title": "Ajman Open DATA Portal by isolution"
+  },
+  {
+    "domain": "isolution-public.cloud.goog",
+    "name": "isolbayanat02.endpoints.isolution-public.cloud.goog",
+    "title": "Bayanat Open Data Portal"
+  },
+  {
+    "domain": "isolution-public.cloud.goog",
+    "name": "isolksaopendataportal.endpoints.isolution-public.cloud.goog",
+    "title": "isolKSAOpenDataportal"
+  },
+  {
+    "domain": "isolution-public.cloud.goog",
+    "name": "isolqnas03.endpoints.isolution-public.cloud.goog",
+    "title": "QNAS - NATIONAL ADDRESS SERVICE BY ISOLUTION"
+  },
+  {
+    "domain": "googleapis.com",
+    "name": "issuerswitch.googleapis.com",
+    "title": "Issuer switch API"
+  },
+  {
+    "domain": "atma-on-gcmp.cloud.goog",
+    "name": "issues-grievance-management-igm-app.endpoints.atma-on-gcmp.cloud.goog",
+    "title": "Issues \u0026 Grievance Management (IGM) App"
+  },
+  {
+    "domain": "us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "name": "it-tickets-solutioning-agent.endpoints.us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "title": "IT Tickets Solutioning Agent"
+  },
+  {
+    "domain": "bigquery-connectors-public.cloud.goog",
+    "name": "iterable.endpoints.bigquery-connectors-public.cloud.goog",
+    "title": "Iterable by Windsor.ai"
+  },
+  {
+    "domain": "cloudpartnerservices.goog",
+    "name": "itop-30-january-2020-miriinfotech-public.cloudpartnerservices.goog",
+    "title": "Miri Infotech iTop"
+  },
+  {
+    "domain": "cielo-798b3393.cloud.goog",
+    "name": "itopia-monitoring-and-management.endpoints.cielo-798b3393.cloud.goog",
+    "title": "Cloud Compliance Manager"
+  },
+  {
+    "domain": "cielo-798b3393.cloud.goog",
+    "name": "itopia-spaces.endpoints.cielo-798b3393.cloud.goog",
+    "title": "itopia Spaces"
+  },
+  {
+    "domain": "cloudpartnerservices.goog",
+    "name": "itsmine-dlp-itsmine-public.cloudpartnerservices.goog",
+    "title": "ITsMine Beyond DLP"
+  },
+  {
+    "domain": "corpsvc-gpm-da-mp-prd-5817.cloud.goog",
+    "name": "ixi-affluence-index.endpoints.corpsvc-gpm-da-mp-prd-5817.cloud.goog",
+    "title": "Affluence Index™"
+  },
+  {
+    "domain": "corpsvc-gpm-da-mp-prd-5817.cloud.goog",
+    "name": "ixi-spending-power.endpoints.corpsvc-gpm-da-mp-prd-5817.cloud.goog",
+    "title": " Spending Power™"
+  },
+  {
+    "domain": "bitnami-launchpad.cloud.goog",
+    "name": "jaeger.endpoints.bitnami-launchpad.cloud.goog",
+    "title": "Jaeger packaged by Bitnami"
+  },
+  {
+    "domain": "jaidehealth-public.cloud.goog",
+    "name": "jaide-health-interpreter.endpoints.jaidehealth-public.cloud.goog",
+    "title": "Jaide Health Interpreter"
+  },
+  {
+    "domain": "jaidehealth-public.cloud.goog",
+    "name": "jaide-health-translator.endpoints.jaidehealth-public.cloud.goog",
+    "title": "Jaide Health Translator"
+  },
+  {
+    "domain": "cloudpartnerservices.goog",
+    "name": "jamba-1-5-large.cloudpartnerservices.goog",
+    "title": ""
+  },
+  {
+    "domain": "cloudpartnerservices.goog",
+    "name": "jamba-1-5.cloudpartnerservices.goog",
+    "title": ""
+  },
+  {
+    "domain": "cloudpartnerservices.goog",
+    "name": "jamba-large-1-6.cloudpartnerservices.goog",
+    "title": ""
+  },
+  {
+    "domain": "jasper-marketplace-public.cloud.goog",
+    "name": "jasper-for-business.endpoints.jasper-marketplace-public.cloud.goog",
+    "title": "Jasper for Business"
+  },
+  {
+    "domain": "bcloud-public.cloud.goog",
+    "name": "java.endpoints.bcloud-public.cloud.goog",
+    "title": "Java"
+  },
+  {
+    "domain": "cloudpartnerservices.goog",
+    "name": "javascript-developer-kit-techlatest-public.cloudpartnerservices.goog",
+    "title": "Techlatest.net javascript-developer-kit"
+  },
+  {
+    "domain": "apps4rentllc-public.cloud.goog",
+    "name": "jax-on-debian-12.endpoints.apps4rentllc-public.cloud.goog",
+    "title": "JAX on Debian 12"
+  },
+  {
+    "domain": "apps4rentllc-public.cloud.goog",
+    "name": "jax-on-ubuntu-20.endpoints.apps4rentllc-public.cloud.goog",
+    "title": "JAX on Ubuntu 20.04"
+  },
+  {
+    "domain": "apps4rentllc-public.cloud.goog",
+    "name": "jax-on-ubuntu-22.endpoints.apps4rentllc-public.cloud.goog",
+    "title": "JAX on Ubuntu 22.04"
+  },
+  {
+    "domain": "apps4rentllc-public.cloud.goog",
+    "name": "jax-on-ubuntu-24.endpoints.apps4rentllc-public.cloud.goog",
+    "title": "JAX on Ubuntu 24.04"
+  },
+  {
+    "domain": "miriinfotech-public.cloud.goog",
+    "name": "jekyll.endpoints.miriinfotech-public.cloud.goog",
+    "title": "Jekyll"
   },
   {
     "documentation": "Privileged Access Manager (PAM) helps you on your journey towards least privilege and helps mitigate risks tied to privileged access misuse or abuse. PAM allows you to shift from always-on standing privileges towards on-demand access with just-in-time, time-bound, and approval-based access elevations.\nPAM allows IAM administrators to create entitlements that can grant just-in-time, temporary access to any resource scope. Requesters can explore eligible entitlements and request the access needed for their task. Approvers are notified when approvals await their decision.\nStreamlined workflows facilitated by using PAM can support various use cases, including emergency access for incident responders, time-boxed access for developers for critical deployment or maintenance, temporary access for operators for data ingestion and audits, JIT access to service accounts for automated tasks, and more.\n",
