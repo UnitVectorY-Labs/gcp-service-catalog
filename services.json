@@ -712,11 +712,6 @@
     "title": "AI Cockpit - AI-Driven Software Engineering Platform"
   },
   {
-    "domain": "ai-cockpit-project.cloud.goog",
-    "name": "ai-cockpit.standalone.product.endpoints.ai-cockpit-project.cloud.goog",
-    "title": "AI Cockpit - AI-Driven Software Engineering Platform"
-  },
-  {
     "domain": "onna-public.cloud.goog",
     "name": "ai-data-preprocessing.endpoints.onna-public.cloud.goog",
     "title": "AI Data Preprocessing"
@@ -2070,6 +2065,11 @@
     "domain": "anarion-technologies-public.cloud.goog",
     "name": "apachekafka.endpoints.anarion-technologies-public.cloud.goog",
     "title": "Apache Kafka v4.0.0 on Ubuntu24"
+  },
+  {
+    "domain": "bcloud-public.cloud.goog",
+    "name": "apachesubversion.endpoints.bcloud-public.cloud.goog",
+    "title": "apachesubversion"
   },
   {
     "domain": "cloudpartnerservices.goog",
@@ -8583,6 +8583,11 @@
     "title": "Pre-configured DBeaver for Seamless Database Management"
   },
   {
+    "domain": "dbt-marketplace-public.cloud.goog",
+    "name": "dbt-cloud.endpoints.dbt-marketplace-public.cloud.goog",
+    "title": "dbt Cloud"
+  },
+  {
     "domain": "cloudpartnerservices.goog",
     "name": "dbx-xtremedatainc-public.cloudpartnerservices.goog",
     "title": "XtremeData, Inc. dbX"
@@ -9189,6 +9194,11 @@
   },
   {
     "domain": "dialpad-public.cloud.goog",
+    "name": "dialpad-professional-services.endpoints.dialpad-public.cloud.goog",
+    "title": "Dialpad Professional Services"
+  },
+  {
+    "domain": "dialpad-public.cloud.goog",
     "name": "dialpad.endpoints.dialpad-public.cloud.goog",
     "title": "Dialpad"
   },
@@ -9293,6 +9303,11 @@
     "domain": "googleapis.com",
     "name": "directions-backend.googleapis.com",
     "title": "Directions API"
+  },
+  {
+    "domain": "bcloud-public.cloud.goog",
+    "name": "directus.endpoints.bcloud-public.cloud.goog",
+    "title": "Directus"
   },
   {
     "domain": "cloudpartnerservices.goog",
@@ -10116,6 +10131,11 @@
     "domain": "googleapis.com",
     "name": "drivelabels.googleapis.com",
     "title": "Drive Labels API"
+  },
+  {
+    "domain": "bcloud-public.cloud.goog",
+    "name": "druid.endpoints.bcloud-public.cloud.goog",
+    "title": "Apache Druid"
   },
   {
     "domain": "cloudpartnerservices.goog",
@@ -12064,6 +12084,11 @@
     "title": "Fivetran Data Pipelines"
   },
   {
+    "domain": "bcloud-public.cloud.goog",
+    "name": "flame.endpoints.bcloud-public.cloud.goog",
+    "title": "Flame"
+  },
+  {
     "domain": "cloudpartnerservices.goog",
     "name": "flarum-08-09-2021-miriinfotech-public.cloudpartnerservices.goog",
     "title": "Miri Infotech flarum-08-09-2021"
@@ -12458,6 +12483,11 @@
     "domain": "anarion-technologies-public.cloud.goog",
     "name": "freepbx.endpoints.anarion-technologies-public.cloud.goog",
     "title": "FreePBX v17 on Ubuntu v20"
+  },
+  {
+    "domain": "fc-freepik-marketplace-public.cloud.goog",
+    "name": "freepik-marketplace-saas.endpoints.fc-freepik-marketplace-public.cloud.goog",
+    "title": "Freepik"
   },
   {
     "domain": "cloud-infra-services-public.cloud.goog",
@@ -15189,36 +15219,6 @@
     "domain": "cloudpartnerservices.goog",
     "name": "indicative-analytics-indicative-public.cloudpartnerservices.goog",
     "title": "Indicative Customer Analytics Reporting Service"
-  },
-  {
-    "domain": "indicio-public.cloud.goog",
-    "name": "indicio-node-ubuntu-20.endpoints.indicio-public.cloud.goog",
-    "title": "Indicio NoDe (Ubuntu 20.04)"
-  },
-  {
-    "domain": "indicio-public.cloud.goog",
-    "name": "indicio-node.endpoints.indicio-public.cloud.goog",
-    "title": "Indicio NoDe"
-  },
-  {
-    "domain": "indicio-public.cloud.goog",
-    "name": "indicio-proven-aca-py-mediator.endpoints.indicio-public.cloud.goog",
-    "title": "Indicio Proven ACA-Py Mediator"
-  },
-  {
-    "domain": "indicio-public.cloud.goog",
-    "name": "indicio-proven-vm.endpoints.indicio-public.cloud.goog",
-    "title": "Indicio Proven VM"
-  },
-  {
-    "domain": "blp-public.cloud.goog",
-    "name": "industry.ai.endpoints.blp-public.cloud.goog",
-    "title": "Industry.AI"
-  },
-  {
-    "domain": "infamarketplace.cloud.goog",
-    "name": "infa-edc-1053.endpoints.infamarketplace.cloud.goog",
-    "title": "Informatica Enterprise Data Catalog 10.5.3"
   },
   {
     "documentation": "Privileged Access Manager (PAM) helps you on your journey towards least privilege and helps mitigate risks tied to privileged access misuse or abuse. PAM allows you to shift from always-on standing privileges towards on-demand access with just-in-time, time-bound, and approval-based access elevations.\nPAM allows IAM administrators to create entitlements that can grant just-in-time, temporary access to any resource scope. Requesters can explore eligible entitlements and request the access needed for their task. Approvers are notified when approvals await their decision.\nStreamlined workflows facilitated by using PAM can support various use cases, including emergency access for incident responders, time-boxed access for developers for critical deployment or maintenance, temporary access for operators for data ingestion and audits, JIT access to service accounts for automated tasks, and more.\n",
