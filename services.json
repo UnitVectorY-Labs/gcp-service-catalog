@@ -682,6 +682,11 @@
     "title": "Agentic AI"
   },
   {
+    "domain": "sellmetric-public.cloud.goog",
+    "name": "agentic-saas.endpoints.sellmetric-public.cloud.goog",
+    "title": "Agentic Saas"
+  },
+  {
     "domain": "amnex-agrogate-mp-public.cloud.goog",
     "name": "agrogate7039.endpoints.amnex-agrogate-mp-public.cloud.goog",
     "title": "Agrogate"
@@ -6029,6 +6034,11 @@
     "domain": "googleapis.com",
     "name": "cloudbuild.googleapis.com",
     "title": "Cloud Build API"
+  },
+  {
+    "domain": "cloudcadi-public.cloud.goog",
+    "name": "cloudcadi-vmimage.endpoints.cloudcadi-public.cloud.goog",
+    "title": "CloudCADI"
   },
   {
     "documentation": "The Cloud Channel API enables Google Cloud partners to have a single unified resale platform and APIs across all of Google Cloud including GCP, Workspace, Maps and Chrome.",
@@ -15459,16 +15469,6 @@
     "domain": "cloudpartnerservices.goog",
     "name": "instant-31-january-2020-miriinfotech-public.cloudpartnerservices.goog",
     "title": "Miri Infotech instant"
-  },
-  {
-    "domain": "bigquery-connectors-public.cloud.goog",
-    "name": "instatus.endpoints.bigquery-connectors-public.cloud.goog",
-    "title": "Instatus by Windsor.ai"
-  },
-  {
-    "domain": "instruqt-gcp-marketplace.cloud.goog",
-    "name": "instruqt.endpoints.instruqt-gcp-marketplace.cloud.goog",
-    "title": "Instruqt"
   },
   {
     "documentation": "Privileged Access Manager (PAM) helps you on your journey towards least privilege and helps mitigate risks tied to privileged access misuse or abuse. PAM allows you to shift from always-on standing privileges towards on-demand access with just-in-time, time-bound, and approval-based access elevations.\nPAM allows IAM administrators to create entitlements that can grant just-in-time, temporary access to any resource scope. Requesters can explore eligible entitlements and request the access needed for their task. Approvers are notified when approvals await their decision.\nStreamlined workflows facilitated by using PAM can support various use cases, including emergency access for incident responders, time-boxed access for developers for critical deployment or maintenance, temporary access for operators for data ingestion and audits, JIT access to service accounts for automated tasks, and more.\n",
