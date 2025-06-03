@@ -969,6 +969,11 @@
     "title": "AITA"
   },
   {
+    "domain": "expandel-public.cloud.goog",
+    "name": "aitutor.endpoints.expandel-public.cloud.goog",
+    "title": "aiTutor"
+  },
+  {
     "domain": "cloudpartnerservices.goog",
     "name": "aiven-cassandra-aiven-saas.cloudpartnerservices.goog",
     "title": "Aiven for Apache Cassandra"
@@ -11400,6 +11405,11 @@
     "title": "Exepno Infrastructure"
   },
   {
+    "domain": "expandel-public.cloud.goog",
+    "name": "expandel-work.endpoints.expandel-public.cloud.goog",
+    "title": "Expandel Work"
+  },
+  {
     "domain": "expanso-public-420818.cloud.goog",
     "name": "expanso-testing.endpoints.expanso-public-420818.cloud.goog",
     "title": "expanso-testing"
@@ -12144,6 +12154,11 @@
     "title": "Fireblocks"
   },
   {
+    "domain": "firemon-marketplace.cloud.goog",
+    "name": "firemon-sip-byol.endpoints.firemon-marketplace.cloud.goog",
+    "title": "FireMon Security Manager for Google Cloud "
+  },
+  {
     "documentation": "Accesses the NoSQL document database built for automatic scaling, high performance, and ease of application development.\n",
     "domain": "googleapis.com",
     "name": "firestore.googleapis.com",
@@ -12577,6 +12592,11 @@
     "domain": "fractal-c3-public.cloud.goog",
     "name": "fractal-ai-applications.endpoints.fractal-c3-public.cloud.goog",
     "title": "Fractal AI Applications"
+  },
+  {
+    "domain": "innovateframebanking-public.cloud.goog",
+    "name": "frame-banking.endpoints.innovateframebanking-public.cloud.goog",
+    "title": "Frame Banking"
   },
   {
     "domain": "prod-sardine-gcp-marketplace.cloud.goog",
@@ -14743,6 +14763,11 @@
     "title": "Himawari 8/9"
   },
   {
+    "domain": "hirundo-public.cloud.goog",
+    "name": "hirundo-dataset-qa.endpoints.hirundo-public.cloud.goog",
+    "title": "Hirundo Dataset QA"
+  },
+  {
     "domain": "cloudpartnerservices.goog",
     "name": "historical-air-quality-epa-public-data.cloudpartnerservices.goog",
     "title": "Environmental Protection Agency Historical Air Quality"
@@ -15443,31 +15468,6 @@
     "domain": "beyondnow-public.cloud.goog",
     "name": "infonova-saas.endpoints.beyondnow-public.cloud.goog",
     "title": "Infonova Digital Marketplace"
-  },
-  {
-    "domain": "infamarketplace.cloud.goog",
-    "name": "informatica-axon-data-governance-7-3-1-1.endpoints.infamarketplace.cloud.goog",
-    "title": "Informatica Axon Data Governance 7.3.1.1"
-  },
-  {
-    "domain": "infamarketplace.cloud.goog",
-    "name": "informatica-axon-data-governance-license-subscription.endpoints.infamarketplace.cloud.goog",
-    "title": "Informatica Axon Data Governance License Subscription"
-  },
-  {
-    "domain": "infamarketplace.cloud.goog",
-    "name": "informatica-data-quality-10.endpoints.infamarketplace.cloud.goog",
-    "title": "Informatica Data Quality 10.5.4"
-  },
-  {
-    "domain": "infamarketplace.cloud.goog",
-    "name": "informatica-data-quality-license-subscription.endpoints.infamarketplace.cloud.goog",
-    "title": "Informatica Data Quality License Subscription"
-  },
-  {
-    "domain": "infamarketplace.cloud.goog",
-    "name": "informatica-enterprise-data-catalog-1054.endpoints.infamarketplace.cloud.goog",
-    "title": "Informatica Enterprise Data Catalog 10.5.4"
   },
   {
     "documentation": "Privileged Access Manager (PAM) helps you on your journey towards least privilege and helps mitigate risks tied to privileged access misuse or abuse. PAM allows you to shift from always-on standing privileges towards on-demand access with just-in-time, time-bound, and approval-based access elevations.\nPAM allows IAM administrators to create entitlements that can grant just-in-time, temporary access to any resource scope. Requesters can explore eligible entitlements and request the access needed for their task. Approvers are notified when approvals await their decision.\nStreamlined workflows facilitated by using PAM can support various use cases, including emergency access for incident responders, time-boxed access for developers for critical deployment or maintenance, temporary access for operators for data ingestion and audits, JIT access to service accounts for automated tasks, and more.\n",
