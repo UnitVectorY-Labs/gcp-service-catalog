@@ -1335,6 +1335,11 @@
     "title": "Analytics Hub API"
   },
   {
+    "domain": "anaplan-limited-public.cloud.goog",
+    "name": "anaplan-limited.endpoints.anaplan-limited-public.cloud.goog",
+    "title": "Anaplan Limited"
+  },
+  {
     "domain": "anaplan-public.cloud.goog",
     "name": "anaplan.endpoints.anaplan-public.cloud.goog",
     "title": "Anaplan"
@@ -4538,6 +4543,11 @@
     "domain": "gcp-cdp-marketplace-public.cloud.goog",
     "name": "cdp-for-gcp.endpoints.gcp-cdp-marketplace-public.cloud.goog",
     "title": "Cloudera on Google Cloud"
+  },
+  {
+    "domain": "anarion-technologies-public.cloud.goog",
+    "name": "celery.endpoints.anarion-technologies-public.cloud.goog",
+    "title": "Celery v5.5.2 on Ubuntu24"
   },
   {
     "domain": "cloudpartnerservices.goog",
@@ -14125,6 +14135,11 @@
     "title": "Grafana v11.3.1 on Ubuntu v20"
   },
   {
+    "domain": "anarion-technologies-public.cloud.goog",
+    "name": "grafana.endpoints.anarion-technologies-public.cloud.goog",
+    "title": "Grafana v12.0.1 on Ubuntu24"
+  },
+  {
     "domain": "bcloud-public.cloud.goog",
     "name": "grafana.endpoints.bcloud-public.cloud.goog",
     "title": "Grafana"
@@ -15453,21 +15468,6 @@
     "domain": "ddn-public.cloud.goog",
     "name": "infinia-hp-gcp-mp.endpoints.ddn-public.cloud.goog",
     "title": "infinia-hp-gcp-mp"
-  },
-  {
-    "domain": "ddn-public.cloud.goog",
-    "name": "infinia.endpoints.ddn-public.cloud.goog",
-    "title": "Infinia"
-  },
-  {
-    "domain": "infinite-reality-public.cloud.goog",
-    "name": "infinite-reality.endpoints.infinite-reality-public.cloud.goog",
-    "title": "Infinite Reality"
-  },
-  {
-    "domain": "infilect-public.cloud.goog",
-    "name": "infiviz.endpoints.infilect-public.cloud.goog",
-    "title": "InfiViz"
   },
   {
     "documentation": "Privileged Access Manager (PAM) helps you on your journey towards least privilege and helps mitigate risks tied to privileged access misuse or abuse. PAM allows you to shift from always-on standing privileges towards on-demand access with just-in-time, time-bound, and approval-based access elevations.\nPAM allows IAM administrators to create entitlements that can grant just-in-time, temporary access to any resource scope. Requesters can explore eligible entitlements and request the access needed for their task. Approvers are notified when approvals await their decision.\nStreamlined workflows facilitated by using PAM can support various use cases, including emergency access for incident responders, time-boxed access for developers for critical deployment or maintenance, temporary access for operators for data ingestion and audits, JIT access to service accounts for automated tasks, and more.\n",
