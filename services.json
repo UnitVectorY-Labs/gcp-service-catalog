@@ -7225,7 +7225,7 @@
     "title": "Kubernetes Engine API"
   },
   {
-    "documentation": "This API is a prerequisite for leveraging Artifact Analysis scanning\ncapabilities in both Artifact Registry and with Advanced Vulnerability\nInsights (runtime scanning) in GKE.\n\nIn addition, the Container Analysis API is an implementation of the Grafeas\nAPI, which enables storing, querying, and retrieval of critical metadata\nabout all of your software artifacts.",
+    "documentation": "This API is a prerequisite for leveraging Artifact Analysis scanning\ncapabilities in Artifact Registry.\n\nIn addition, the Container Analysis API is an implementation of the Grafeas\nAPI, which enables storing, querying, and retrieval of critical metadata\nabout all of your software artifacts.",
     "domain": "googleapis.com",
     "name": "containeranalysis.googleapis.com",
     "title": "Container Analysis API"
