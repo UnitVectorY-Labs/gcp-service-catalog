@@ -9409,6 +9409,11 @@
   },
   {
     "domain": "tpisoftware-digirunner-public.cloud.goog",
+    "name": "digirunner-standalone.endpoints.tpisoftware-digirunner-public.cloud.goog",
+    "title": "digiRunner - Standalone"
+  },
+  {
+    "domain": "tpisoftware-digirunner-public.cloud.goog",
     "name": "digirunner.endpoints.tpisoftware-digirunner-public.cloud.goog",
     "title": "digiRunner"
   },
@@ -15208,11 +15213,6 @@
     "domain": "cloudpartnerservices.goog",
     "name": "hurricanes-noaa-public.cloudpartnerservices.goog",
     "title": "NOAA Global Hurricane Tracks (IBTrACS)"
-  },
-  {
-    "domain": "gen-ai-firewall.cloud.goog",
-    "name": "hydrox-genai-firewall.endpoints.gen-ai-firewall.cloud.goog",
-    "title": "HydroX AI Gen AI Firewall"
   },
   {
     "documentation": "Manages identity and access control for Google Cloud resources, including the creation of service accounts, which you can use to authenticate to Google and make API calls. Enabling this API also enables the IAM Service Account Credentials API (iamcredentials.googleapis.com). However, disabling this API doesn't disable the IAM Service Account Credentials API.\n",
