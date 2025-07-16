@@ -6144,6 +6144,11 @@
     "title": "CloudBees Core (BYOL)"
   },
   {
+    "domain": "cje-marketplace-dev.cloud.goog",
+    "name": "cloudbees-enterprise.endpoints.cje-marketplace-dev.cloud.goog",
+    "title": "CloudBees Enterprise"
+  },
+  {
     "domain": "cloudpartnerservices.goog",
     "name": "cloudbeesci-for-gcp-cloudbees.cloudpartnerservices.goog",
     "title": "CloudBees cloudbeesci-for-gcp Reporting Service"
@@ -12645,6 +12650,11 @@
     "title": "Fortinet Inc. FortiAnalyzer Centralized Logging/Reporting"
   },
   {
+    "domain": "fortigcp-project-001.cloud.goog",
+    "name": "fortiappsec.cloud.payg.endpoints.fortigcp-project-001.cloud.goog",
+    "title": "Fortinet FortiAppSec Cloud Web Application and API Protection"
+  },
+  {
     "domain": "cloudpartnerservices.goog",
     "name": "fortigate-fortigcp-project-001.cloudpartnerservices.goog",
     "title": "Fortinet Inc. FortiGate Next-Generation Firewall (BYOL)"
@@ -15709,16 +15719,6 @@
     "domain": "rocketmarketplace-public.cloud.goog",
     "name": "inframod-ea-win.endpoints.rocketmarketplace-public.cloud.goog",
     "title": "Rocket® Enterprise Analyzer on Windows Server"
-  },
-  {
-    "domain": "rocketmarketplace-public.cloud.goog",
-    "name": "inframod-ede-rhel.endpoints.rocketmarketplace-public.cloud.goog",
-    "title": "Rocket® Enterprise Developer for Eclipse"
-  },
-  {
-    "domain": "rocketmarketplace-public.cloud.goog",
-    "name": "inframod-ede-win.endpoints.rocketmarketplace-public.cloud.goog",
-    "title": "Rocket® Enterprise Developer for Eclipse"
   },
   {
     "documentation": "Privileged Access Manager (PAM) helps you on your journey towards least privilege and helps mitigate risks tied to privileged access misuse or abuse. PAM allows you to shift from always-on standing privileges towards on-demand access with just-in-time, time-bound, and approval-based access elevations.\nPAM allows IAM administrators to create entitlements that can grant just-in-time, temporary access to any resource scope. Requesters can explore eligible entitlements and request the access needed for their task. Approvers are notified when approvals await their decision.\nStreamlined workflows facilitated by using PAM can support various use cases, including emergency access for incident responders, time-boxed access for developers for critical deployment or maintenance, temporary access for operators for data ingestion and audits, JIT access to service accounts for automated tasks, and more.\n",
