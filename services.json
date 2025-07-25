@@ -2760,11 +2760,6 @@
     "title": "AtScale"
   },
   {
-    "domain": "atsign-public.cloud.goog",
-    "name": "atsign-atserver-cluster.endpoints.atsign-public.cloud.goog",
-    "title": "NoPorts™ by Atsign"
-  },
-  {
     "domain": "zouz-public.cloud.goog",
     "name": "attribute.endpoints.zouz-public.cloud.goog",
     "title": "Attribute"
@@ -14901,6 +14896,11 @@
     "domain": "hclsw-gcp-mrktplc-public.cloud.goog",
     "name": "hcl-discover.endpoints.hclsw-gcp-mrktplc-public.cloud.goog",
     "title": "HCL Discover - Digital Experience Analytics (Private Offer Only)"
+  },
+  {
+    "domain": "hclsw-gcp-mrktplc-public.cloud.goog",
+    "name": "hcl-icontrol.endpoints.hclsw-gcp-mrktplc-public.cloud.goog",
+    "title": "HCL iControl"
   },
   {
     "domain": "hclsw-gcp-mrktplc-public.cloud.goog",
