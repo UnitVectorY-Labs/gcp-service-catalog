@@ -112,14 +112,13 @@ ul.item-list li a:hover {
     margin-bottom: 1rem;
 }
 
-/* Updated CSS Selector: Changed from .search-input to #searchInput */
 #searchInput {
     width: 100%;
-    padding: 0.5rem 2.5rem 0.5rem 1rem; /* Increased right padding to accommodate the search icon */
+    padding: 0.5rem 2.5rem 0.5rem 1rem;
     border: 1px solid #ccc;
     border-radius: 4px;
     box-sizing: border-box;
-    font-size: 1rem; /* Ensures consistent font size */
+    font-size: 1rem;
 }
 
 .search-icon {
@@ -132,7 +131,8 @@ ul.item-list li a:hover {
     font-size: 1rem;
 }
 
-.home .features, .home .getting-started {
+.home .features,
+.home .getting-started {
     margin-top: 25px;
 }
 
@@ -155,7 +155,8 @@ table {
     border-collapse: collapse;
 }
 
-table th, table td {
+table th,
+table td {
     padding: 10px;
     border-bottom: 1px solid #ddd;
 }
@@ -165,20 +166,26 @@ table th, table td {
 }
 
 footer {
-    background-color: #2c3e50; 
-    color: #ecf0f1;
-    font-size: 0.8em;
-    padding: 1rem;
-    border-top: 1px solid #e5e7eb;
+    background-color: #2c3e50;
+    color: #9ca3af;
     text-align: center;
+    padding: 1rem;
+    font-size: 0.8em;
+    border-top: 1px solid #e5e7eb;
     margin-top: auto;
+}
+
+footer p {
+    margin: 0;
+    line-height: 1.4;
 }
 
 footer a {
     color: #9ca3af;
     text-decoration: none;
+    transition: color 0.2s;
 }
 
 footer a:hover {
-    text-decoration: none;
+    color: #fff;
 }
