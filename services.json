@@ -15215,6 +15215,226 @@
     "title": "Cloud Infrastructure Services HPC Pack 2019 Cluster on Windows Server 2016"
   },
   {
+    "domain": "cloudpartnerservices.goog",
+    "name": "hpc2019-windows-2019-cloud-infrastructure-services.cloudpartnerservices.goog",
+    "title": "Cloud Infrastructure Services HPC Pack 2019 Cluster on Windows Server 2019"
+  },
+  {
+    "domain": "drizti-public.cloud.goog",
+    "name": "hpcbox-2025-byol.endpoints.drizti-public.cloud.goog",
+    "title": "HPCBOX BYOL"
+  },
+  {
+    "domain": "hpe-aruba-networking-public.cloud.goog",
+    "name": "hpe-aruba-networking-sd-branch-virtual-gateway.endpoints.hpe-aruba-networking-public.cloud.goog",
+    "title": "HPE Aruba Networking SD-Branch Virtual Gateway"
+  },
+  {
+    "domain": "hpe-managed-kaops.cloud.goog",
+    "name": "hpe-managed-application-operations-services-for-kubernetes.endpoints.hpe-managed-kaops.cloud.goog",
+    "title": "HPE Managed Application Operations Services for Kubernetes"
+  },
+  {
+    "domain": "hpe-managed-hpc-cloud-burst.cloud.goog",
+    "name": "hpe-managed-hpc-cloud-bursting.endpoints.hpe-managed-hpc-cloud-burst.cloud.goog",
+    "title": "HPE Managed HPC Cloud Bursting"
+  },
+  {
+    "domain": "hpensdevenvwinongcp-public.cloud.goog",
+    "name": "hpenonstopdevenvwingcp.endpoints.hpensdevenvwinongcp-public.cloud.goog",
+    "title": "HPE NonStop DevEnv On GCP Windows"
+  },
+  {
+    "domain": "hclsw-gcp-mrktplc-public.cloud.goog",
+    "name": "hr-assist.endpoints.hclsw-gcp-mrktplc-public.cloud.goog",
+    "title": "HR Assist"
+  },
+  {
+    "domain": "cloudpartnerservices.goog",
+    "name": "hrrr-noaa-public.cloudpartnerservices.goog",
+    "title": "NOAA High Resolution Rapid Refresh Model (HRRR)"
+  },
+  {
+    "domain": "cloudpartnerservices.goog",
+    "name": "htcondor-on-gcp-kbatch-public.cloudpartnerservices.goog",
+    "title": "Batch on GKE HTCondor on GCP"
+  },
+  {
+    "domain": "hytrust-datacontrol-public.cloud.goog",
+    "name": "htkc-keycontrol-vault101.endpoints.hytrust-datacontrol-public.cloud.goog",
+    "title": "Entrust KeyControl Vault v10.1"
+  },
+  {
+    "domain": "hytrust-datacontrol-public.cloud.goog",
+    "name": "htkc-keycontrol-vault102.endpoints.hytrust-datacontrol-public.cloud.goog.endpoints.hytrust-datacontrol-public.cloud.goog",
+    "title": "Entrust KeyControl Vault v10.2"
+  },
+  {
+    "domain": "hytrust-datacontrol-public.cloud.goog",
+    "name": "htkc-v10-hytrust-datacontrol.endpoints.hytrust-datacontrol-public.cloud.goog",
+    "title": "Entrust KeyControl"
+  },
+  {
+    "domain": "bigquery-connectors-public.cloud.goog",
+    "name": "hubplanner.endpoints.bigquery-connectors-public.cloud.goog",
+    "title": "HubPlanner by Windsor.ai"
+  },
+  {
+    "domain": "appiworks-for-bigquery-public.cloud.goog",
+    "name": "hubspot-appiworks-for-bigquery.endpoints.appiworks-for-bigquery-public.cloud.goog",
+    "title": "HubSpot AppiWorks for BigQuery"
+  },
+  {
+    "domain": "bigquery-connectors-public.cloud.goog",
+    "name": "hubspot-connector-by-windsor.ai.endpoints.bigquery-connectors-public.cloud.goog",
+    "title": "HubSpot Connector by Windsor.ai"
+  },
+  {
+    "domain": "bigquery-connectors-public.cloud.goog",
+    "name": "hubspot.endpoints.bigquery-connectors-public.cloud.goog",
+    "title": "HubSpot by Windsor.ai"
+  },
+  {
+    "domain": "apps4rentllc-public.cloud.goog",
+    "name": "hugo-on-debian11.endpoints.apps4rentllc-public.cloud.goog",
+    "title": "Hugo on Debian11"
+  },
+  {
+    "domain": "apps4rentllc-public.cloud.goog",
+    "name": "hugo-on-debian12.endpoints.apps4rentllc-public.cloud.goog",
+    "title": "Hugo on Debian12"
+  },
+  {
+    "domain": "apps4rentllc-public.cloud.goog",
+    "name": "hugo-on-ubuntu-20.endpoints.apps4rentllc-public.cloud.goog",
+    "title": "Hugo on Ubuntu 20.04"
+  },
+  {
+    "domain": "apps4rentllc-public.cloud.goog",
+    "name": "hugo-on-ubuntu-22.endpoints.apps4rentllc-public.cloud.goog",
+    "title": "Hugo on Ubuntu 22.04"
+  },
+  {
+    "domain": "apps4rentllc-public.cloud.goog",
+    "name": "hugo-on-ubuntu-24.endpoints.apps4rentllc-public.cloud.goog",
+    "title": "Hugo on Ubuntu 24.04"
+  },
+  {
+    "domain": "bcloud-public.cloud.goog",
+    "name": "hugo.endpoints.bcloud-public.cloud.goog",
+    "title": "Hugo"
+  },
+  {
+    "domain": "huggingface-public.cloud.goog",
+    "name": "hugs.endpoints.huggingface-public.cloud.goog",
+    "title": "HUGS (Hugging Face Generative AI Services)"
+  },
+  {
+    "domain": "virtual-wall-395904.cloud.goog",
+    "name": "human-animal-conflict-mitigation-system.endpoints.virtual-wall-395904.cloud.goog",
+    "title": "Human-Animal Conflict Mitigation System"
+  },
+  {
+    "domain": "humanapi.co",
+    "name": "human-api.gcpmarketplace.humanapi.co",
+    "title": "Human API Reporting Service"
+  },
+  {
+    "domain": "cloudpartnerservices.goog",
+    "name": "human-genome-variants-bigquery-public-data.cloudpartnerservices.goog",
+    "title": "BigQuery Public Data Human Genome Variants"
+  },
+  {
+    "domain": "humanfirst-public.cloud.goog",
+    "name": "humanfirst-studio.endpoints.humanfirst-public.cloud.goog",
+    "title": "HumanFirst Studio"
+  },
+  {
+    "domain": "humanitec-public.cloud.goog",
+    "name": "humanitec-platform-orchestrator.endpoints.humanitec-public.cloud.goog",
+    "title": "Humanitec Platform Orchestrator"
+  },
+  {
+    "domain": "humu-public.cloud.goog",
+    "name": "humu.endpoints.humu-public.cloud.goog",
+    "title": "Humu"
+  },
+  {
+    "domain": "ms-public.cloud.goog",
+    "name": "hundred-ms.endpoints.ms-public.cloud.goog",
+    "title": "100ms"
+  },
+  {
+    "domain": "hunj-joonix-producer.cloud.goog",
+    "name": "hunj-joonix-saas-product.endpoints.hunj-joonix-producer.cloud.goog",
+    "title": "hunj-joonix-saas-product"
+  },
+  {
+    "domain": "cloudpartnerservices.goog",
+    "name": "hurricanes-noaa-public.cloudpartnerservices.goog",
+    "title": "NOAA Global Hurricane Tracks (IBTrACS)"
+  },
+  {
+    "domain": "gen-ai-firewall.cloud.goog",
+    "name": "hydrox-genai-firewall.endpoints.gen-ai-firewall.cloud.goog",
+    "title": "HydroX AI Gen AI Firewall"
+  },
+  {
+    "domain": "bcloud-public.cloud.goog",
+    "name": "hyper.endpoints.bcloud-public.cloud.goog",
+    "title": "Hyper"
+  },
+  {
+    "domain": "hs-public.cloud.goog",
+    "name": "hypercell-for-genai.endpoints.hs-public.cloud.goog",
+    "title": "Hypercell for GenAI"
+  },
+  {
+    "domain": "mendel-public.cloud.goog",
+    "name": "hypercube.endpoints.mendel-public.cloud.goog",
+    "title": "Hypercube"
+  },
+  {
+    "domain": "hyperglance-public.cloud.goog",
+    "name": "hyperglance-1000.endpoints.hyperglance-public.cloud.goog",
+    "title": "Hyperglance 1000"
+  },
+  {
+    "domain": "hyperglance-public.cloud.goog",
+    "name": "hyperglance-2000.endpoints.hyperglance-public.cloud.goog",
+    "title": "Hyperglance: Up to 2000 resources"
+  },
+  {
+    "domain": "hyperglance-public.cloud.goog",
+    "name": "hyperglance-500.endpoints.hyperglance-public.cloud.goog",
+    "title": "Hyperglance: Up to 500 resources"
+  },
+  {
+    "domain": "hyperglance-public.cloud.goog",
+    "name": "hyperglance-5000.endpoints.hyperglance-public.cloud.goog",
+    "title": "Hyperglance: Up to 5000 resources"
+  },
+  {
+    "domain": "hyperglance-public.cloud.goog",
+    "name": "hyperglance-byol.endpoints.hyperglance-public.cloud.goog",
+    "title": "Hyperglance BYOL"
+  },
+  {
+    "domain": "cloudpartnerservices.goog",
+    "name": "hyperledger-fabric-and-composer-click-to-deploy-images.cloudpartnerservices.goog",
+    "title": "Google Click to Deploy Hyperledger Fabric and Composer"
+  },
+  {
+    "domain": "hyperzod-public.cloud.goog",
+    "name": "hyperzodquickcommerce.endpoints.hyperzod-public.cloud.goog",
+    "title": "Hyperzod: Quick Commerce Solution"
+  },
+  {
+    "domain": "itr-marketplace.cloud.goog",
+    "name": "i-tracing-google-chronicle-managed-services.endpoints.itr-marketplace.cloud.goog",
+    "title": "Managed Detection \u0026 Response powered by Google Chronicle "
+  },
+  {
     "documentation": "Manages identity and access control for Google Cloud resources, including the creation of service accounts, which you can use to authenticate to Google and make API calls. Enabling this API also enables the IAM Service Account Credentials API (iamcredentials.googleapis.com). However, disabling this API doesn't disable the IAM Service Account Credentials API.\n",
     "domain": "googleapis.com",
     "name": "iam.googleapis.com",
@@ -15225,6 +15445,27 @@
     "domain": "googleapis.com",
     "name": "iamcredentials.googleapis.com",
     "title": "IAM Service Account Credentials API"
+  },
+  {
+    "documentation": "Controls access to cloud applications running on Google Cloud Platform.",
+    "domain": "googleapis.com",
+    "name": "iap.googleapis.com",
+    "title": "Cloud Identity-Aware Proxy API"
+  },
+  {
+    "domain": "gpcloudtest.com",
+    "name": "ibm-power-cloud-for-gcp.gcpmarketplace.gpcloudtest.com",
+    "title": "Converge Enterprise Cloud with IBM Power for Google Cloud"
+  },
+  {
+    "domain": "anarion-technologies-public.cloud.goog",
+    "name": "icecast.endpoints.anarion-technologies-public.cloud.goog",
+    "title": "Icecast v2.4.4 on Ubuntu24"
+  },
+  {
+    "domain": "bcloud-public.cloud.goog",
+    "name": "icecast.endpoints.bcloud-public.cloud.goog",
+    "title": "Icecast"
   },
   {
     "documentation": "\u003cp\u003ePrivileged Access Manager (PAM) helps you to follow least privilege best practice to mitigate risks tied to privileged access misuse and abuse. You can shift from always-on standing privileges to on-demand access using time-bound and approval-based access elevations.\u003c/p\u003e \u003cp\u003eIAM administrators specifically can use PAM to create entitlements that can grant temporary access to a specific resource scope. Requesters can explore eligible entitlements and request the access needed for their task, and approvers are notified when approvals require their attention.\u003c/p\u003e \u003cp\u003eStreamlined workflows facilitated using PAM support several use cases, including the following:\u003c/p\u003e \u003cul\u003e\n    \u003cli\u003eEmergency access for incident responders\u003c/li\u003e\n    \u003cli\u003eTime-boxed access for developers for critical deployment or maintenance\u003c/li\u003e\n    \u003cli\u003eTemporary access for operators for data ingestion and audits\u003c/li\u003e\n    \u003cli\u003eTemporary access to service accounts for automated tasks\u003c/li\u003e\n\u003c/ul\u003e\n",
