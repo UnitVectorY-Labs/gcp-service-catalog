@@ -2498,7 +2498,7 @@
       "version": "v1"
     },
     {
-      "description": "Dataplex API is used to manage the lifecycle of data lakes.",
+      "description": "A unified, intelligent governance solution for data and AI assets.",
       "discoveryLink": "",
       "discoveryRestUrl": "https://dataplex.googleapis.com/$discovery/rest?version=v1",
       "documentationLink": "https://cloud.google.com/dataplex/docs",
