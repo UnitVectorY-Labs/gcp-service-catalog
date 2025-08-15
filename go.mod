@@ -1,6 +1,6 @@
 module github.com/UnitVectorY-Labs/gcp-service-catalog
 
-go 1.24.6 // GOVERSION
+go 1.25.0 // GOVERSION
 
 require cloud.google.com/go/serviceusage v1.9.6
 
