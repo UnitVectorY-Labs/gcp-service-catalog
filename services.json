@@ -757,6 +757,11 @@
     "title": "AI Photoshop"
   },
   {
+    "domain": "ramppai-public.cloud.goog",
+    "name": "ai-powered-revops.endpoints.ramppai-public.cloud.goog",
+    "title": "Rampp.ai Platform"
+  },
+  {
     "domain": "ascendo-ai-public.cloud.goog",
     "name": "ai-resolve.endpoints.ascendo-ai-public.cloud.goog",
     "title": "AI Resolve"
@@ -4160,6 +4165,11 @@
     "domain": "bufbuild-public.cloud.goog",
     "name": "buf-schema-registry.endpoints.bufbuild-public.cloud.goog",
     "title": "Buf Schema Registry"
+  },
+  {
+    "domain": "bufbuild-public.cloud.goog",
+    "name": "bufstream.endpoints.bufbuild-public.cloud.goog",
+    "title": "Bufstream"
   },
   {
     "domain": "cloudpartnerservices.goog",
@@ -7923,6 +7933,11 @@
     "title": "CREE8 Enterprise"
   },
   {
+    "domain": "crestdata-public.cloud.goog",
+    "name": "crest-integration.endpoints.crestdata-public.cloud.goog",
+    "title": "Crest Data Integration Development Services"
+  },
+  {
     "domain": "cresta-public.cloud.goog",
     "name": "cresta-intelligence-real-time-expertise-platform.endpoints.cresta-public.cloud.goog",
     "title": "Cresta Intelligence Real-Time Expertise Platform"
@@ -9059,8 +9074,18 @@
   },
   {
     "domain": "us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "name": "deloitte-auditgen-compliance-insights-agent.endpoints.us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "title": "AuditGen Compliance Insights Agent"
+  },
+  {
+    "domain": "us-con-gcp-sbx-0000427-020625.cloud.goog",
     "name": "deloitte-brandguard-compliance-review-agent.endpoints.us-con-gcp-sbx-0000427-020625.cloud.goog",
     "title": "BrandGuard Compliance Review Agent"
+  },
+  {
+    "domain": "us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "name": "deloitte-campaigncraft-agent.endpoints.us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "title": "CampaignCraft - Content Generation Agent"
   },
   {
     "domain": "us-con-gcp-sbx-0000427-020625.cloud.goog",
@@ -9124,8 +9149,18 @@
   },
   {
     "domain": "us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "name": "deloitte-inno-synth-scientific-research-synthesizer-agent.endpoints.us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "title": "InnoSynth - Scientific Research Synthesizer Agent"
+  },
+  {
+    "domain": "us-con-gcp-sbx-0000427-020625.cloud.goog",
     "name": "deloitte-innovation-support-agent-suite.endpoints.us-con-gcp-sbx-0000427-020625.cloud.goog",
     "title": "Innovation Support Agent Suite"
+  },
+  {
+    "domain": "us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "name": "deloitte-insightedge-competitive-intelligence-agent.endpoints.us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "title": "InsightEdge - Competitive Intelligence Agent"
   },
   {
     "domain": "us-con-gcp-sbx-0000427-020625.cloud.goog",
@@ -9156,6 +9191,16 @@
     "domain": "us-con-gcp-sbx-0000427-020625.cloud.goog",
     "name": "deloitte-patient-navigator-agent-suite.endpoints.us-con-gcp-sbx-0000427-020625.cloud.goog",
     "title": "Patient Navigator Agent Suite"
+  },
+  {
+    "domain": "us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "name": "deloitte-policy-pulse-hr-policy-qa-agent.endpoints.us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "title": "PolicyPulse: HR Policy Q\u0026A Agent"
+  },
+  {
+    "domain": "us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "name": "deloitte-product-description-pro-agent.endpoints.us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "title": "Product Description Pro Agent"
   },
   {
     "domain": "us-con-gcp-sbx-0000427-020625.cloud.goog",
@@ -9194,8 +9239,28 @@
   },
   {
     "domain": "us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "name": "deloitte-sales-pitch-pro-agent.endpoints.us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "title": "Sales PitchPro Agent"
+  },
+  {
+    "domain": "us-con-gcp-sbx-0000427-020625.cloud.goog",
     "name": "deloitte-security-and-incident-management-agent-suite.endpoints.us-con-gcp-sbx-0000427-020625.cloud.goog",
     "title": "Security and Incident Management Agent Suite"
+  },
+  {
+    "domain": "us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "name": "deloitte-skillsprint-training-content-generator.endpoints.us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "title": "SkillSprint - Training Content Generator"
+  },
+  {
+    "domain": "us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "name": "deloitte-socialpulse-feedback-analyzer-agent.endpoints.us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "title": "SocialPulse Feedback Analyzer Agent"
+  },
+  {
+    "domain": "us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "name": "deloitte-surveysense-insights-agent.endpoints.us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "title": "SurveySense Insights Agent"
   },
   {
     "domain": "us-con-gcp-sbx-0000427-020625.cloud.goog",
@@ -9211,6 +9276,11 @@
     "domain": "us-con-gcp-sbx-0000427-020625.cloud.goog",
     "name": "deloitte-talk2data-agent-suite.endpoints.us-con-gcp-sbx-0000427-020625.cloud.goog",
     "title": "Talk2Data Agent Suite"
+  },
+  {
+    "domain": "us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "name": "deloitte-threatlens-security-incident-summarizer.endpoints.us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "title": "ThreatLens - Security Incident Summarizer"
   },
   {
     "domain": "us-con-gcp-sbx-0000427-020625.cloud.goog",
@@ -15220,6 +15290,11 @@
     "title": "US Dept of Housing and Urban Development Point-in-Time Homelessness Count"
   },
   {
+    "domain": "hoopdev-public.cloud.goog",
+    "name": "hoopdev-platform.endpoints.hoopdev-public.cloud.goog",
+    "title": "Hoopdev"
+  },
+  {
     "domain": "hopsworks-public.cloud.goog",
     "name": "hopsworks-saas.endpoints.hopsworks-public.cloud.goog",
     "title": "Hopsworks SaaS"
@@ -15465,6 +15540,61 @@
     "title": "HydroX AI Gen AI Firewall"
   },
   {
+    "domain": "bcloud-public.cloud.goog",
+    "name": "hyper.endpoints.bcloud-public.cloud.goog",
+    "title": "Hyper"
+  },
+  {
+    "domain": "hs-public.cloud.goog",
+    "name": "hypercell-for-genai.endpoints.hs-public.cloud.goog",
+    "title": "Hypercell for GenAI"
+  },
+  {
+    "domain": "mendel-public.cloud.goog",
+    "name": "hypercube.endpoints.mendel-public.cloud.goog",
+    "title": "Hypercube"
+  },
+  {
+    "domain": "hyperglance-public.cloud.goog",
+    "name": "hyperglance-1000.endpoints.hyperglance-public.cloud.goog",
+    "title": "Hyperglance 1000"
+  },
+  {
+    "domain": "hyperglance-public.cloud.goog",
+    "name": "hyperglance-2000.endpoints.hyperglance-public.cloud.goog",
+    "title": "Hyperglance: Up to 2000 resources"
+  },
+  {
+    "domain": "hyperglance-public.cloud.goog",
+    "name": "hyperglance-500.endpoints.hyperglance-public.cloud.goog",
+    "title": "Hyperglance: Up to 500 resources"
+  },
+  {
+    "domain": "hyperglance-public.cloud.goog",
+    "name": "hyperglance-5000.endpoints.hyperglance-public.cloud.goog",
+    "title": "Hyperglance: Up to 5000 resources"
+  },
+  {
+    "domain": "hyperglance-public.cloud.goog",
+    "name": "hyperglance-byol.endpoints.hyperglance-public.cloud.goog",
+    "title": "Hyperglance BYOL"
+  },
+  {
+    "domain": "cloudpartnerservices.goog",
+    "name": "hyperledger-fabric-and-composer-click-to-deploy-images.cloudpartnerservices.goog",
+    "title": "Google Click to Deploy Hyperledger Fabric and Composer"
+  },
+  {
+    "domain": "hyperzod-public.cloud.goog",
+    "name": "hyperzodquickcommerce.endpoints.hyperzod-public.cloud.goog",
+    "title": "Hyperzod: Quick Commerce Solution"
+  },
+  {
+    "domain": "itr-marketplace.cloud.goog",
+    "name": "i-tracing-google-chronicle-managed-services.endpoints.itr-marketplace.cloud.goog",
+    "title": "Managed Detection \u0026 Response powered by Google Chronicle "
+  },
+  {
     "documentation": "Manages identity and access control for Google Cloud resources, including the creation of service accounts, which you can use to authenticate to Google and make API calls. Enabling this API also enables the IAM Service Account Credentials API (iamcredentials.googleapis.com). However, disabling this API doesn't disable the IAM Service Account Credentials API.\n",
     "domain": "googleapis.com",
     "name": "iam.googleapis.com",
@@ -15475,6 +15605,119 @@
     "domain": "googleapis.com",
     "name": "iamcredentials.googleapis.com",
     "title": "IAM Service Account Credentials API"
+  },
+  {
+    "documentation": "Controls access to cloud applications running on Google Cloud Platform.",
+    "domain": "googleapis.com",
+    "name": "iap.googleapis.com",
+    "title": "Cloud Identity-Aware Proxy API"
+  },
+  {
+    "domain": "gpcloudtest.com",
+    "name": "ibm-power-cloud-for-gcp.gcpmarketplace.gpcloudtest.com",
+    "title": "Converge Enterprise Cloud with IBM Power for Google Cloud"
+  },
+  {
+    "domain": "anarion-technologies-public.cloud.goog",
+    "name": "icecast.endpoints.anarion-technologies-public.cloud.goog",
+    "title": "Icecast v2.4.4 on Ubuntu24"
+  },
+  {
+    "domain": "bcloud-public.cloud.goog",
+    "name": "icecast.endpoints.bcloud-public.cloud.goog",
+    "title": "Icecast"
+  },
+  {
+    "domain": "cloudpartnerservices.goog",
+    "name": "icharts-cloud-business-intelligence-icharts-cloud-bi.cloudpartnerservices.goog",
+    "title": "iCharts Cloud Business Intelligence and Analytics iCharts"
+  },
+  {
+    "domain": "cloudpartnerservices.goog",
+    "name": "icoads-noaa-public.cloudpartnerservices.goog",
+    "title": "NOAA ICOADS"
+  },
+  {
+    "domain": "iconik-public.cloud.goog",
+    "name": "iconik.endpoints.iconik-public.cloud.goog",
+    "title": "iconik"
+  },
+  {
+    "domain": "idme-public.cloud.goog",
+    "name": "id.me.endpoints.idme-public.cloud.goog",
+    "title": "ID.me"
+  },
+  {
+    "domain": "careai-public.cloud.goog",
+    "name": "ida-platform.endpoints.careai-public.cloud.goog",
+    "title": "care.ai Smart Care Facility Platform"
+  },
+  {
+    "domain": "jetbrains-public.cloud.goog",
+    "name": "ide-services-cloud.endpoints.jetbrains-public.cloud.goog",
+    "title": "IDE Services Cloud"
+  },
+  {
+    "domain": "bigquery-connectors-public.cloud.goog",
+    "name": "idealo-connector-by-windsor.ai.endpoints.bigquery-connectors-public.cloud.goog",
+    "title": "Idealo Connector by Windsor.ai"
+  },
+  {
+    "domain": "bigquery-connectors-public.cloud.goog",
+    "name": "idealo.endpoints.bigquery-connectors-public.cloud.goog",
+    "title": "Idealo by Windsor.ai"
+  },
+  {
+    "domain": "cloudpartnerservices.goog",
+    "name": "identity-cloud-forgerock-public.cloudpartnerservices.goog",
+    "title": "ForgeRock Identity Cloud Reporting Service"
+  },
+  {
+    "domain": "transmitsecurity-marketplace.cloud.goog",
+    "name": "identity-verification.endpoints.transmitsecurity-marketplace.cloud.goog",
+    "title": "Identity Verification"
+  },
+  {
+    "documentation": "The Google Identity Toolkit API lets you use open standards to verify a\n    user's identity.",
+    "domain": "googleapis.com",
+    "name": "identitytoolkit.googleapis.com",
+    "title": "Identity Toolkit API"
+  },
+  {
+    "domain": "inehealthteamsl-public.cloud.goog",
+    "name": "idonia.endpoints.inehealthteamsl-public.cloud.goog",
+    "title": "Idonia"
+  },
+  {
+    "domain": "infamarketplace.cloud.goog",
+    "name": "idq-10511.endpoints.infamarketplace.cloud.goog",
+    "title": "Informatica Data Quality 10.5.1.1"
+  },
+  {
+    "documentation": "Cloud IDS (Cloud Intrusion Detection System) detects malware, spyware, command-and-control attacks, and other network-based threats. Its security efficacy is industry leading, built with Palo Alto Networks technologies. When you use this product, your organization name and consumption levels will be shared with Palo Alto Networks.",
+    "domain": "googleapis.com",
+    "name": "ids.googleapis.com",
+    "title": "Cloud IDS API"
+  },
+  {
+    "domain": "cloudpartnerservices.goog",
+    "name": "ifi-claims-patent-data-enrichments-patents-public-data.cloudpartnerservices.goog",
+    "title": "Google Patents Public Datasets IFI CLAIMS Patent Data Enrichments"
+  },
+  {
+    "domain": "corpsvc-gpm-da-mp-prd-5817.cloud.goog",
+    "name": "ignite-campain-insights-dashboard.endpoints.corpsvc-gpm-da-mp-prd-5817.cloud.goog",
+    "title": "Campaign Insights Dashboard"
+  },
+  {
+    "domain": "gunpowder-public.cloud.goog",
+    "name": "ignite-gp.endpoints.gunpowder-public.cloud.goog",
+    "title": "Ignite-GP"
+  },
+  {
+    "domain": "corpsvc-gpm-da-mp-prd-5817.cloud.goog",
+    "name": "ignite-portfolio-insights-dashboard.endpoints.corpsvc-gpm-da-mp-prd-5817.cloud.goog",
+    "title": "Portfolio Insights Dashboard"
   },
   {
     "documentation": "\u003cp\u003ePrivileged Access Manager (PAM) helps you to follow least privilege best practice to mitigate risks tied to privileged access misuse and abuse. You can shift from always-on standing privileges to on-demand access using time-bound and approval-based access elevations.\u003c/p\u003e \u003cp\u003eIAM administrators specifically can use PAM to create entitlements that can grant temporary access to a specific resource scope. Requesters can explore eligible entitlements and request the access needed for their task, and approvers are notified when approvals require their attention.\u003c/p\u003e \u003cp\u003eStreamlined workflows facilitated using PAM support several use cases, including the following:\u003c/p\u003e \u003cul\u003e\n    \u003cli\u003eEmergency access for incident responders\u003c/li\u003e\n    \u003cli\u003eTime-boxed access for developers for critical deployment or maintenance\u003c/li\u003e\n    \u003cli\u003eTemporary access for operators for data ingestion and audits\u003c/li\u003e\n    \u003cli\u003eTemporary access to service accounts for automated tasks\u003c/li\u003e\n\u003c/ul\u003e\n",
