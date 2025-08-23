@@ -5354,6 +5354,16 @@
   },
   {
     "domain": "cis-public.cloud.goog",
+    "name": "cis-hi-stig-on-ubuntu-2204.endpoints.cis-public.cloud.goog",
+    "title": "CIS Hardened STIG Image on Ubuntu Linux Server 22.04 LTS"
+  },
+  {
+    "domain": "cis-public.cloud.goog",
+    "name": "cis-hi-stig-on-ubuntu-2404.endpoints.cis-public.cloud.goog",
+    "title": "CIS Hardened Image STIG on Ubuntu Linux Server 24.04"
+  },
+  {
+    "domain": "cis-public.cloud.goog",
     "name": "cis-microsoft-windows-server-2022-stig-benchmark.endpoints.cis-public.cloud.goog",
     "title": "CIS Microsoft Windows Server 2022 STIG Benchmark"
   },
@@ -14716,6 +14726,11 @@
     "title": "Digital Science \u0026 Research Solutions Inc GRID: Global Database of Research Institutes"
   },
   {
+    "domain": "gridgain-public.cloud.goog",
+    "name": "gridgain9-byol.endpoints.gridgain-public.cloud.goog",
+    "title": "GridGain 9 (BYOL) Unified Real-Time Data Platform"
+  },
+  {
     "domain": "gridspace-marketplace-public.cloud.goog",
     "name": "gridspace-sift-for-gcp.endpoints.gridspace-marketplace-public.cloud.goog",
     "title": "Gridspace Sift"
@@ -14946,272 +14961,6 @@
     "domain": "haivision-public.cloud.goog",
     "name": "haivision-srt-gateway-payg.endpoints.haivision-public.cloud.goog",
     "title": "Haivision SRT Gateway (PAYG)"
-  },
-  {
-    "domain": "cloudpartnerservices.goog",
-    "name": "hammerspace-explorer-hammerspace-public.cloudpartnerservices.goog",
-    "title": "Hammerspace"
-  },
-  {
-    "domain": "cloudpartnerservices.goog",
-    "name": "hammerspace-hammerspace-public.cloudpartnerservices.goog",
-    "title": "Hammerspace"
-  },
-  {
-    "domain": "happeo-public.cloud.goog",
-    "name": "happeo.endpoints.happeo-public.cloud.goog",
-    "title": "Happeo"
-  },
-  {
-    "domain": "cloudpartnerservices.goog",
-    "name": "happierwork-searce-cloud-products.cloudpartnerservices.goog",
-    "title": "happierWork"
-  },
-  {
-    "domain": "cloudpartnerservices.goog",
-    "name": "haproxy-click-to-deploy-images.cloudpartnerservices.goog",
-    "title": "Google Click to Deploy HAProxy"
-  },
-  {
-    "domain": "cloud-infra-services-public.cloud.goog",
-    "name": "haproxy.endpoints.cloud-infra-services-public.cloud.goog",
-    "title": "HAProxy on Ubuntu"
-  },
-  {
-    "domain": "bitnami-launchpad.cloud.goog",
-    "name": "harbor.endpoints.bitnami-launchpad.cloud.goog",
-    "title": "Harbor packaged by Bitnami"
-  },
-  {
-    "domain": "cloudpartnerservices.goog",
-    "name": "hardened-centos-7-atomized-frontline-public.cloudpartnerservices.goog",
-    "title": "Frontline Hardened CentOS 7"
-  },
-  {
-    "domain": "cloudpartnerservices.goog",
-    "name": "hardened-centos-8-atomized-frontline-public.cloudpartnerservices.goog",
-    "title": "Frontline Hardened CentOS 8"
-  },
-  {
-    "domain": "cloudpartnerservices.goog",
-    "name": "hardened-debian-10-atomized-frontline-public.cloudpartnerservices.goog",
-    "title": "Frontline Hardened Debian 10"
-  },
-  {
-    "domain": "cloudpartnerservices.goog",
-    "name": "hardened-debian-9-atomized-frontline-public.cloudpartnerservices.goog",
-    "title": "Frontline Hardened Debian 9"
-  },
-  {
-    "domain": "cloudpartnerservices.goog",
-    "name": "hardened-red-hat-7-atomized-frontline-public.cloudpartnerservices.goog",
-    "title": "Frontline Hardened Red Hat 7"
-  },
-  {
-    "domain": "cloudpartnerservices.goog",
-    "name": "hardened-red-hat-8-atomized-frontline-public.cloudpartnerservices.goog",
-    "title": "Frontline Hardened Red Hat 8"
-  },
-  {
-    "domain": "cognosys-public.cloud.goog",
-    "name": "hardened-red-hat-enterprise-linux-7-490.endpoints.cognosys-public.cloud.goog",
-    "title": "Golden Hardened Image for Redhat linux 7"
-  },
-  {
-    "domain": "cloudpartnerservices.goog",
-    "name": "hardened-red-hat-enterprise-linux-7-cognosys-public.cloudpartnerservices.goog",
-    "title": "Cognosys Inc. Hardened Red Hat Enterprise Linux 7"
-  },
-  {
-    "domain": "cognosys-public.cloud.goog",
-    "name": "hardened-ubuntu-14-04-lts-1237.endpoints.cognosys-public.cloud.goog",
-    "title": "Golden Hardened Image for Ubuntu 14.04 lts"
-  },
-  {
-    "domain": "cloudpartnerservices.goog",
-    "name": "hardened-ubuntu-14-04-lts-cognosys-public.cloudpartnerservices.goog",
-    "title": "Cognosys Inc. Hardened Ubuntu 14.04 LTS"
-  },
-  {
-    "domain": "cloudpartnerservices.goog",
-    "name": "hardened-ubuntu-16-atomized-frontline-public.cloudpartnerservices.goog",
-    "title": "Frontline Hardened Ubuntu 16"
-  },
-  {
-    "domain": "cloudpartnerservices.goog",
-    "name": "hardened-ubuntu-18-atomized-frontline-public.cloudpartnerservices.goog",
-    "title": "Frontline Hardened Ubuntu 18"
-  },
-  {
-    "domain": "cloudpartnerservices.goog",
-    "name": "hardened-ubuntu-20-atomized-frontline-public.cloudpartnerservices.goog",
-    "title": "Frontline Hardened Ubuntu 20"
-  },
-  {
-    "domain": "bcloud-public.cloud.goog",
-    "name": "hardhat.endpoints.bcloud-public.cloud.goog",
-    "title": "Hardhat"
-  },
-  {
-    "domain": "harmonic-public.cloud.goog",
-    "name": "harmonic-vos-solution.endpoints.harmonic-public.cloud.goog",
-    "title": "Harmonic VOS Solution"
-  },
-  {
-    "domain": "harmonya-public.cloud.goog",
-    "name": "harmonya-cpg-product-data-enrichment-with-pricing.endpoints.harmonya-public.cloud.goog",
-    "title": "Harmonya CPG Product Data Enrichment"
-  },
-  {
-    "domain": "harmonya-public.cloud.goog",
-    "name": "harmonya-cpg-product-data-enrichment.endpoints.harmonya-public.cloud.goog",
-    "title": "Harmonya CPG Product Data Enrichment"
-  },
-  {
-    "domain": "harness.io",
-    "name": "harness-continuous-delivery.gcpmarketplace.harness.io",
-    "title": "Harness, Inc. Harness Continuous Delivery Reporting Service"
-  },
-  {
-    "domain": "harness-public.cloud.goog",
-    "name": "harness-software-delivery-platform.endpoints.harness-public.cloud.goog",
-    "title": "Harness Software Delivery Platform"
-  },
-  {
-    "domain": "bigquery-connectors-public.cloud.goog",
-    "name": "harness.endpoints.bigquery-connectors-public.cloud.goog",
-    "title": "Harness by Windsor.ai"
-  },
-  {
-    "domain": "cloudpartnerservices.goog",
-    "name": "harpocrates-privacy1-ab-public.cloudpartnerservices.goog",
-    "title": "Privacy1 AB Privacy1"
-  },
-  {
-    "domain": "bigquery-connectors-public.cloud.goog",
-    "name": "harvest.endpoints.bigquery-connectors-public.cloud.goog",
-    "title": "Harvest by Windsor.ai"
-  },
-  {
-    "domain": "cloudpartnerservices.goog",
-    "name": "hashicorp-consul-gcp-hashicorp-marketplace-public.cloudpartnerservices.goog",
-    "title": "HashiCorp Consul"
-  },
-  {
-    "domain": "cloudpartnerservices.goog",
-    "name": "hashicorp-for-gcp-hashicorp-marketplace-public.cloudpartnerservices.goog",
-    "title": "HashiCorp Terraform Enterprise Reporting Service"
-  },
-  {
-    "domain": "cloudpartnerservices.goog",
-    "name": "hashicorp-vault-gcp-hashicorp-marketplace-public.cloudpartnerservices.goog",
-    "title": "HashiCorp Vault Reporting Service"
-  },
-  {
-    "domain": "hasura-public.cloud.goog",
-    "name": "hasura-enterprise.endpoints.hasura-public.cloud.goog",
-    "title": "Hasura Enterprise"
-  },
-  {
-    "domain": "apps4rentllc-public.cloud.goog",
-    "name": "hat-qt-on-ubuntu-20.endpoints.apps4rentllc-public.cloud.goog",
-    "title": "Hat-qt on Ubuntu 20.04"
-  },
-  {
-    "domain": "apps4rentllc-public.cloud.goog",
-    "name": "hatch-on-debain12.endpoints.apps4rentllc-public.cloud.goog",
-    "title": "Hatch on Debain12"
-  },
-  {
-    "domain": "apps4rentllc-public.cloud.goog",
-    "name": "hatch-on-ubuntu-20.endpoints.apps4rentllc-public.cloud.goog",
-    "title": "Hatch on Ubuntu 20.04"
-  },
-  {
-    "domain": "apps4rentllc-public.cloud.goog",
-    "name": "hatch-on-ubuntu-22.endpoints.apps4rentllc-public.cloud.goog",
-    "title": "Hatch on Ubuntu 22.04  "
-  },
-  {
-    "domain": "apps4rentllc-public.cloud.goog",
-    "name": "hatch-on-ubuntu-24.endpoints.apps4rentllc-public.cloud.goog",
-    "title": "Hatch on ubuntu 24.04"
-  },
-  {
-    "domain": "cloudpartnerservices.goog",
-    "name": "hathitrust-books-the-gdelt-project-data.cloudpartnerservices.goog",
-    "title": "The GDELT Project HathiTrust Books"
-  },
-  {
-    "domain": "cloudpartnerservices.goog",
-    "name": "hazelcast-cloud-enterprise-hazelcast-gcp-production.cloudpartnerservices.goog",
-    "title": "Hazelcast Viridian Dedicated"
-  },
-  {
-    "domain": "hclsw-gcp-mrktplc-public.cloud.goog",
-    "name": "hcl-commerce-cloud.endpoints.hclsw-gcp-mrktplc-public.cloud.goog",
-    "title": "HCL Commerce Cloud (Private Offer Only)"
-  },
-  {
-    "domain": "hclsw-gcp-mrktplc-public.cloud.goog",
-    "name": "hcl-discover.endpoints.hclsw-gcp-mrktplc-public.cloud.goog",
-    "title": "HCL Discover - Digital Experience Analytics (Private Offer Only)"
-  },
-  {
-    "domain": "hclsw-gcp-mrktplc-public.cloud.goog",
-    "name": "hcl-icontrol.endpoints.hclsw-gcp-mrktplc-public.cloud.goog",
-    "title": "HCL iControl"
-  },
-  {
-    "domain": "hclsw-gcp-mrktplc-public.cloud.goog",
-    "name": "hcl-marketing-cloud.endpoints.hclsw-gcp-mrktplc-public.cloud.goog",
-    "title": "HCL Marketing Cloud"
-  },
-  {
-    "domain": "cloudpartnerservices.goog",
-    "name": "hcpcs-health-and-human-services.cloudpartnerservices.goog",
-    "title": "U.S. Department of Health \u0026 Human Services HCPCS Level II"
-  },
-  {
-    "domain": "hydrolix-public.cloud.goog",
-    "name": "hdxgke.endpoints.hydrolix-public.cloud.goog",
-    "title": "Hydrolix Turbine for GKE"
-  },
-  {
-    "domain": "headspin.io",
-    "name": "headspin-gcp-public.gcpmarketplace.headspin.io",
-    "title": "HeadSpin HeadSpin Mobile Performance Reporting Service"
-  },
-  {
-    "domain": "cloudpartnerservices.goog",
-    "name": "health-professional-shortage-areas-health-and-human-services.cloudpartnerservices.goog",
-    "title": "U.S. Department of Health \u0026 Human Services Health Professional Shortage Areas"
-  },
-  {
-    "documentation": "Manage, store, and access healthcare data in Google Cloud Platform.",
-    "domain": "googleapis.com",
-    "name": "healthcare.googleapis.com",
-    "title": "Cloud Healthcare API"
-  },
-  {
-    "domain": "cloudpartnerservices.goog",
-    "name": "hedera-mirror-node-mirror-node-public.cloudpartnerservices.goog",
-    "title": "Hedera Hashgraph, LLC Hedera Mirror Node"
-  },
-  {
-    "domain": "heimdall-data-public.cloud.goog",
-    "name": "heimdall-proxy-enterprise-edition-plus.endpoints.heimdall-data-public.cloud.goog",
-    "title": "Heimdall Proxy Enterprise Edition PLUS"
-  },
-  {
-    "domain": "cloudpartnerservices.goog",
-    "name": "heimdall-proxy-enterprise-heimdall-data-public.cloudpartnerservices.goog",
-    "title": "Heimdall Data heimdall-proxy-enterprise"
-  },
-  {
-    "domain": "cloudpartnerservices.goog",
-    "name": "heimdall-proxy-standard-heimdall-data-public.cloudpartnerservices.goog",
-    "title": "Heimdall Data heimdall-proxy-standard"
   },
   {
     "documentation": "Manages identity and access control for Google Cloud resources, including the creation of service accounts, which you can use to authenticate to Google and make API calls. Enabling this API also enables the IAM Service Account Credentials API (iamcredentials.googleapis.com). However, disabling this API doesn't disable the IAM Service Account Credentials API.\n",
