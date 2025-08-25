@@ -13390,6 +13390,11 @@
     "title": "Gemini Cloud Assist API"
   },
   {
+    "domain": "googleapis.com",
+    "name": "geminidataanalytics.googleapis.com",
+    "title": "Data Analytics API with Gemini"
+  },
+  {
     "domain": "telefonicasoluciones-public.cloud.goog",
     "name": "genbox-ai.endpoints.telefonicasoluciones-public.cloud.goog",
     "title": "GenBox AI"
@@ -15458,11 +15463,6 @@
     "domain": "hytrust-datacontrol-public.cloud.goog",
     "name": "htkc-keycontrol-vault101.endpoints.hytrust-datacontrol-public.cloud.goog",
     "title": "Entrust KeyControl Vault v10.1"
-  },
-  {
-    "domain": "hytrust-datacontrol-public.cloud.goog",
-    "name": "htkc-keycontrol-vault102.endpoints.hytrust-datacontrol-public.cloud.goog.endpoints.hytrust-datacontrol-public.cloud.goog",
-    "title": "Entrust KeyControl Vault v10.2"
   },
   {
     "documentation": "Manages identity and access control for Google Cloud resources, including the creation of service accounts, which you can use to authenticate to Google and make API calls. Enabling this API also enables the IAM Service Account Credentials API (iamcredentials.googleapis.com). However, disabling this API doesn't disable the IAM Service Account Credentials API.\n",
