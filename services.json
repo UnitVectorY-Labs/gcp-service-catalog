@@ -11159,6 +11159,11 @@
     "title": "Cloud Document AI API"
   },
   {
+    "domain": "ath-infosystems-public.cloud.goog",
+    "name": "documentaiocrprocessor.endpoints.ath-infosystems-public.cloud.goog",
+    "title": "Document AI OCR Processor"
+  },
+  {
     "domain": "louaosh-acn-ai-agent-marketpla.cloud.goog",
     "name": "documind-summarizer-team.endpoints.louaosh-acn-ai-agent-marketpla.cloud.goog",
     "title": "DocuMind_Summarizer_Team"
@@ -14212,9 +14217,24 @@
     "title": "Data Analytics API with Gemini"
   },
   {
+    "domain": "ath-infosystems-public.cloud.goog",
+    "name": "geminiproversion.endpoints.ath-infosystems-public.cloud.goog",
+    "title": "Gemini Pro Version"
+  },
+  {
     "domain": "telefonicasoluciones-public.cloud.goog",
     "name": "genbox-ai.endpoints.telefonicasoluciones-public.cloud.goog",
     "title": "GenBox AI"
+  },
+  {
+    "domain": "ath-infosystems-public.cloud.goog",
+    "name": "gencoreaifororacleobjectstorage.endpoints.ath-infosystems-public.cloud.goog",
+    "title": "Gencore AI for Oracle Object Storage"
+  },
+  {
+    "domain": "ath-infosystems-public.cloud.goog",
+    "name": "gencoreaiforslackenterprise.endpoints.ath-infosystems-public.cloud.goog",
+    "title": "Gencore AI for Slack Enterprise"
   },
   {
     "domain": "cloudpartnerservices.goog",
@@ -15191,276 +15211,6 @@
     "domain": "cloudpartnerservices.goog",
     "name": "gospel-technologies-gcp-gospel-technology-public.cloudpartnerservices.goog",
     "title": "Gospel Technology"
-  },
-  {
-    "domain": "gsc-marketplace-3ad684.cloud.goog",
-    "name": "gospotcheck-by-form.endpoints.gsc-marketplace-3ad684.cloud.goog",
-    "title": "GoSpotCheck by FORM"
-  },
-  {
-    "domain": "apps4rentllc-public.cloud.goog",
-    "name": "gradio-on-debian11.endpoints.apps4rentllc-public.cloud.goog",
-    "title": "Gradio-on-Debian11"
-  },
-  {
-    "domain": "apps4rentllc-public.cloud.goog",
-    "name": "gradio-on-debian12.endpoints.apps4rentllc-public.cloud.goog",
-    "title": "Gradio-on-Debian12"
-  },
-  {
-    "domain": "apps4rentllc-public.cloud.goog",
-    "name": "gradio-on-ubuntu20.endpoints.apps4rentllc-public.cloud.goog",
-    "title": "Gradio-on-Ubuntu20.04"
-  },
-  {
-    "domain": "apps4rentllc-public.cloud.goog",
-    "name": "gradio-on-ubuntu22.endpoints.apps4rentllc-public.cloud.goog",
-    "title": "Gradio-on-Ubuntu22.04"
-  },
-  {
-    "domain": "apps4rentllc-public.cloud.goog",
-    "name": "gradio-on-ubuntu24.endpoints.apps4rentllc-public.cloud.goog",
-    "title": "Gradio-on-Ubuntu24.04"
-  },
-  {
-    "domain": "apps4rentllc-public.cloud.goog",
-    "name": "gradle-on-debian10.endpoints.apps4rentllc-public.cloud.goog",
-    "title": "Gradle on Debian10"
-  },
-  {
-    "domain": "apps4rentllc-public.cloud.goog",
-    "name": "gradle-on-debian11.endpoints.apps4rentllc-public.cloud.goog",
-    "title": "Gradle on Debian11"
-  },
-  {
-    "domain": "apps4rentllc-public.cloud.goog",
-    "name": "gradle-on-debian12.endpoints.apps4rentllc-public.cloud.goog",
-    "title": "Gradle on Debian12"
-  },
-  {
-    "domain": "apps4rentllc-public.cloud.goog",
-    "name": "gradle-on-ubuntu-24.endpoints.apps4rentllc-public.cloud.goog",
-    "title": "Gradle on Ubuntu 24.04"
-  },
-  {
-    "domain": "apps4rentllc-public.cloud.goog",
-    "name": "gradle-on-ubuntu20.endpoints.apps4rentllc-public.cloud.goog",
-    "title": "Gradle on Ubuntu20.04"
-  },
-  {
-    "domain": "apps4rentllc-public.cloud.goog",
-    "name": "gradle-on-windows-server-2016.endpoints.apps4rentllc-public.cloud.goog",
-    "title": "Gradle on Windows Server 2016"
-  },
-  {
-    "domain": "apps4rentllc-public.cloud.goog",
-    "name": "gradle-on-windows-server-2019.endpoints.apps4rentllc-public.cloud.goog",
-    "title": "Gradle on Windows Server 2019"
-  },
-  {
-    "domain": "apps4rentllc-public.cloud.goog",
-    "name": "gradle-on-windows-server-2022.endpoints.apps4rentllc-public.cloud.goog",
-    "title": "Gradle on Windows Server 2022"
-  },
-  {
-    "domain": "corpsvc-gpm-da-mp-prd-5817.cloud.goog",
-    "name": "graduate-outcomes.endpoints.corpsvc-gpm-da-mp-prd-5817.cloud.goog",
-    "title": "Graduate Outcomes"
-  },
-  {
-    "domain": "cloudpartnerservices.goog",
-    "name": "grafana-07-04-2020-miriinfotech-public.cloudpartnerservices.goog",
-    "title": "Miri Infotech Grafana"
-  },
-  {
-    "domain": "cloudpartnerservices.goog",
-    "name": "grafana-click-to-deploy-images.cloudpartnerservices.goog",
-    "title": "Google Click to Deploy Grafana"
-  },
-  {
-    "domain": "grafana-public.cloud.goog",
-    "name": "grafana-cloud-commit.endpoints.grafana-public.cloud.goog",
-    "title": "Grafana Cloud Commit"
-  },
-  {
-    "domain": "cloudpartnerservices.goog",
-    "name": "grafana-cloud-grafana-public.cloudpartnerservices.goog",
-    "title": "Grafana Cloud"
-  },
-  {
-    "domain": "grafana-public.cloud.goog",
-    "name": "grafana-cloud-subscription.endpoints.grafana-public.cloud.goog",
-    "title": "Grafana Cloud observability platform"
-  },
-  {
-    "domain": "bynet-public.cloud.goog",
-    "name": "grafana-enterprise-1y-contract.endpoints.bynet-public.cloud.goog",
-    "title": "Grafana Enterprise "
-  },
-  {
-    "domain": "bynet-public.cloud.goog",
-    "name": "grafana-enterprise.endpoints.bynet-public.cloud.goog",
-    "title": "Grafana enterprise"
-  },
-  {
-    "domain": "cognosys-public.cloud.goog",
-    "name": "grafana-on-centos-6-34572.endpoints.cognosys-public.cloud.goog",
-    "title": "Grafana on Centos 6"
-  },
-  {
-    "domain": "cognosys-public.cloud.goog",
-    "name": "grafana-on-centos-7-34571.endpoints.cognosys-public.cloud.goog",
-    "title": "Grafana on Centos 7"
-  },
-  {
-    "domain": "cognosys-public.cloud.goog",
-    "name": "grafana-on-centos-8-34570.endpoints.cognosys-public.cloud.goog",
-    "title": "Grafana on Centos 8"
-  },
-  {
-    "domain": "cognosys-public.cloud.goog",
-    "name": "grafana-on-centos-8-stream-34569.endpoints.cognosys-public.cloud.goog",
-    "title": "Grafana on Centos 8 stream"
-  },
-  {
-    "domain": "cognosys-public.cloud.goog",
-    "name": "grafana-on-centos-9-34568.endpoints.cognosys-public.cloud.goog",
-    "title": "Grafana on Centos 9"
-  },
-  {
-    "domain": "cognosys-public.cloud.goog",
-    "name": "grafana-on-centos-9-stream-34567.endpoints.cognosys-public.cloud.goog",
-    "title": "Grafana on Centos 9 stream"
-  },
-  {
-    "domain": "cognosys-public.cloud.goog",
-    "name": "grafana-on-centos-latest-34566.endpoints.cognosys-public.cloud.goog",
-    "title": "Grafana on Centos latest"
-  },
-  {
-    "domain": "cognosys-public.cloud.goog",
-    "name": "grafana-on-debian-12-34563.endpoints.cognosys-public.cloud.goog",
-    "title": "Grafana on Debian 12"
-  },
-  {
-    "domain": "cognosys-public.cloud.goog",
-    "name": "grafana-on-debian-34562.endpoints.cognosys-public.cloud.goog",
-    "title": "Grafana on Debian"
-  },
-  {
-    "domain": "apps4rentllc-public.cloud.goog",
-    "name": "grafana-on-debian11.endpoints.apps4rentllc-public.cloud.goog",
-    "title": "Grafana on Debian11"
-  },
-  {
-    "domain": "apps4rentllc-public.cloud.goog",
-    "name": "grafana-on-debian12.endpoints.apps4rentllc-public.cloud.goog",
-    "title": "Grafana on Debian12"
-  },
-  {
-    "domain": "cognosys-public.cloud.goog",
-    "name": "grafana-on-redhat-linux-7-34561.endpoints.cognosys-public.cloud.goog",
-    "title": "Grafana on Redhat linux 7"
-  },
-  {
-    "domain": "cognosys-public.cloud.goog",
-    "name": "grafana-on-redhat-linux-8-34560.endpoints.cognosys-public.cloud.goog",
-    "title": "Grafana on Redhat linux 8"
-  },
-  {
-    "domain": "cognosys-public.cloud.goog",
-    "name": "grafana-on-redhat-linux-9-34559.endpoints.cognosys-public.cloud.goog",
-    "title": "Grafana on Redhat linux 9"
-  },
-  {
-    "domain": "cognosys-public.cloud.goog",
-    "name": "grafana-on-suse-12-34557.endpoints.cognosys-public.cloud.goog",
-    "title": "Grafana on Suse 12"
-  },
-  {
-    "domain": "cognosys-public.cloud.goog",
-    "name": "grafana-on-suse-15-34556.endpoints.cognosys-public.cloud.goog",
-    "title": "Grafana on Suse 15"
-  },
-  {
-    "domain": "cognosys-public.cloud.goog",
-    "name": "grafana-on-suse-34555.endpoints.cognosys-public.cloud.goog",
-    "title": "Grafana on Suse"
-  },
-  {
-    "domain": "apps4rentllc-public.cloud.goog",
-    "name": "grafana-on-ubuntu20.endpoints.apps4rentllc-public.cloud.goog",
-    "title": "Grafana on Ubuntu20.04"
-  },
-  {
-    "domain": "apps4rentllc-public.cloud.goog",
-    "name": "grafana-on-ubuntu22.endpoints.apps4rentllc-public.cloud.goog",
-    "title": "Grafana on Ubuntu22.04"
-  },
-  {
-    "domain": "apps4rentllc-public.cloud.goog",
-    "name": "grafana-on-ubuntu24.endpoints.apps4rentllc-public.cloud.goog",
-    "title": "Grafana on Ubuntu24.04"
-  },
-  {
-    "domain": "anarion-technologies-public.cloud.goog",
-    "name": "grafana-v11.on-ubuntu-v20.endpoints.anarion-technologies-public.cloud.goog",
-    "title": "Grafana v11.3.1 on Ubuntu v20"
-  },
-  {
-    "domain": "anarion-technologies-public.cloud.goog",
-    "name": "grafana.endpoints.anarion-technologies-public.cloud.goog",
-    "title": "Grafana v12.0.1 on Ubuntu24"
-  },
-  {
-    "domain": "bcloud-public.cloud.goog",
-    "name": "grafana.endpoints.bcloud-public.cloud.goog",
-    "title": "Grafana"
-  },
-  {
-    "domain": "granica-public.cloud.goog",
-    "name": "granica-screen.endpoints.granica-public.cloud.goog",
-    "title": "Granica Screen"
-  },
-  {
-    "domain": "apps4rentllc-public.cloud.goog",
-    "name": "grapdb-on-debian11.endpoints.apps4rentllc-public.cloud.goog",
-    "title": "Grapdb on Debian11"
-  },
-  {
-    "domain": "apps4rentllc-public.cloud.goog",
-    "name": "grapdb-on-debian12.endpoints.apps4rentllc-public.cloud.goog",
-    "title": "Grapdb on Debian12"
-  },
-  {
-    "domain": "apps4rentllc-public.cloud.goog",
-    "name": "grapdb-on-ubuntu-20-04.endpoints.apps4rentllc-public.cloud.goog",
-    "title": "Grapdb on Ubuntu 20.04"
-  },
-  {
-    "domain": "apps4rentllc-public.cloud.goog",
-    "name": "grapdb-on-ubuntu-22-04.endpoints.apps4rentllc-public.cloud.goog",
-    "title": "Grapdb on Ubuntu 22.04 "
-  },
-  {
-    "domain": "apps4rentllc-public.cloud.goog",
-    "name": "grapdb-on-ubuntu-24-04.endpoints.apps4rentllc-public.cloud.goog",
-    "title": "Grapdb on Ubuntu 24.04"
-  },
-  {
-    "domain": "apps4rentllc-public.cloud.goog",
-    "name": "graphviz-on-debian11.endpoints.apps4rentllc-public.cloud.goog",
-    "title": "Graphviz on Debain11"
-  },
-  {
-    "domain": "apps4rentllc-public.cloud.goog",
-    "name": "graphviz-on-debian12.endpoints.apps4rentllc-public.cloud.goog",
-    "title": "Graphviz on Debain12"
-  },
-  {
-    "domain": "apps4rentllc-public.cloud.goog",
-    "name": "graphviz-on-ubuntu-20-04.endpoints.apps4rentllc-public.cloud.goog",
-    "title": "Graphviz on Ubuntu 20.04 "
   },
   {
     "documentation": "Manages identity and access control for Google Cloud resources, including the creation of service accounts, which you can use to authenticate to Google and make API calls. Enabling this API also enables the IAM Service Account Credentials API (iamcredentials.googleapis.com). However, disabling this API doesn't disable the IAM Service Account Credentials API.\n",
