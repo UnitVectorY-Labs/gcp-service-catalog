@@ -4234,6 +4234,11 @@
     "title": "Bling by Windsor.ai"
   },
   {
+    "domain": "blitzy-public.cloud.goog",
+    "name": "blitzy.endpoints.blitzy-public.cloud.goog",
+    "title": "Blitzy"
+  },
+  {
     "domain": "blockapt-marketplace-9f8154c8.cloud.goog",
     "name": "blockapt.endpoints.blockapt-marketplace-9f8154c8.cloud.goog",
     "title": "BlockAPT"
@@ -5677,6 +5682,11 @@
     "domain": "miriinfotech-public.cloud.goog",
     "name": "churchinfo.endpoints.miriinfotech-public.cloud.goog",
     "title": "churchinfo"
+  },
+  {
+    "domain": "churneypartnergcp.cloud.goog",
+    "name": "churney-acquisition.endpoints.churneypartnergcp.cloud.goog",
+    "title": "Churney's predicted LTV for Acquisition"
   },
   {
     "domain": "reachfive-public.cloud.goog",
@@ -13255,9 +13265,19 @@
     "title": "FeatherStore on Ubuntu 22.04"
   },
   {
+    "domain": "quectoai-public.cloud.goog",
+    "name": "feature-toggle.endpoints.quectoai-public.cloud.goog",
+    "title": "Feature Toggle"
+  },
+  {
     "domain": "cloudpartnerservices.goog",
     "name": "fec-campaign-finance-federal-election-commission.cloudpartnerservices.goog",
     "title": "Federal Election Commission FEC Campaign Finance"
+  },
+  {
+    "domain": "festive-vim-466116-c7.cloud.goog",
+    "name": "federated-queries.endpoints.festive-vim-466116-c7.cloud.goog",
+    "title": "Federated Queries​"
   },
   {
     "domain": "federato-public.cloud.goog",
@@ -15210,6 +15230,237 @@
     "domain": "cloudpartnerservices.goog",
     "name": "google-books-ngrams-2020-bigquery-public-data.cloudpartnerservices.goog",
     "title": "BigQuery Public Data google-books-ngrams-2020"
+  },
+  {
+    "domain": "openlink-virtuoso-byol-public.cloud.goog",
+    "name": "google-cloud-openlink-virtuoso-ubuntu-byol-vm.endpoints.openlink-virtuoso-byol-public.cloud.goog",
+    "title": "Google Cloud OpenLink Virtuoso Ubuntu BYOL VM"
+  },
+  {
+    "domain": "openlink-virtuoso-pago-public.cloud.goog",
+    "name": "google-cloud-openlink-virtuoso-ubuntu-pago-vm.endpoints.openlink-virtuoso-pago-public.cloud.goog",
+    "title": "Google Cloud OpenLink Virtuoso Ubuntu PAGO VM"
+  },
+  {
+    "domain": "cloudpartnerservices.goog",
+    "name": "google-cloud-release-notes-bq-public-data.cloudpartnerservices.goog",
+    "title": "BigQuery Public Datasets Program Google Cloud Release Notes"
+  },
+  {
+    "domain": "cloudpartnerservices.goog",
+    "name": "google-cloud-storage-2364.cloudpartnerservices.goog",
+    "title": "Google Cloud Storage Transfers (Beta)"
+  },
+  {
+    "domain": "sada-public.cloud.goog",
+    "name": "google-cloud-vmware-datacenter-modernization.endpoints.sada-public.cloud.goog",
+    "title": "Google Cloud VMware Datacenter Modernization"
+  },
+  {
+    "domain": "namogoo-public.cloud.goog",
+    "name": "google-data-layer-and-google-analytics-enrichment.endpoints.namogoo-public.cloud.goog",
+    "title": "Google Data Layer AND Google Analytics Enrichment"
+  },
+  {
+    "domain": "cloudpartnerservices.goog",
+    "name": "google-diversity-annual-report-bq-public-data.cloudpartnerservices.goog",
+    "title": "BigQuery Public Datasets Program Google's Diversity Annual Report Data"
+  },
+  {
+    "domain": "bigquery-connectors-public.cloud.goog",
+    "name": "google-my--business.endpoints.bigquery-connectors-public.cloud.goog",
+    "title": "Google My Business by Windsor.ai"
+  },
+  {
+    "domain": "bigquery-connectors-public.cloud.goog",
+    "name": "google-my-business.endpoints.bigquery-connectors-public.cloud.goog",
+    "title": "Google My Business Connector by Windsor.ai"
+  },
+  {
+    "domain": "bigquery-connectors-public.cloud.goog",
+    "name": "google-pagespeed-bigquery-connector.endpoints.bigquery-connectors-public.cloud.goog",
+    "title": "Google PageSpeed BigQuery Connector"
+  },
+  {
+    "domain": "bigquery-connectors-public.cloud.goog",
+    "name": "google-pagespeed.endpoints.bigquery-connectors-public.cloud.goog",
+    "title": "Google PageSpeed by Windsor.ai"
+  },
+  {
+    "domain": "cloudpartnerservices.goog",
+    "name": "google-patents-public-data-patents-public-data.cloudpartnerservices.goog",
+    "title": "Google Patents Public Datasets Google Patents Public Data"
+  },
+  {
+    "domain": "cloudpartnerservices.goog",
+    "name": "google-patents-research-data-patents-public-data.cloudpartnerservices.goog",
+    "title": "Google Patents Public Datasets Google Patents Research Data"
+  },
+  {
+    "domain": "cloudpartnerservices.goog",
+    "name": "google-political-ads-transparency-report.cloudpartnerservices.goog",
+    "title": "Transparency Report Political Advertising on Google"
+  },
+  {
+    "domain": "bigquery-connectors-public.cloud.goog",
+    "name": "google-search-console.endpoints.bigquery-connectors-public.cloud.goog",
+    "title": "Google Search Console Connector by Windsor.ai"
+  },
+  {
+    "domain": "cloudpartnerservices.goog",
+    "name": "google-search-trends-bq-public-data.cloudpartnerservices.goog",
+    "title": "BigQuery Public Datasets Program Google Trends"
+  },
+  {
+    "domain": "reliancecyber-public.cloud.goog",
+    "name": "google-secops-xdr-service.endpoints.reliancecyber-public.cloud.goog",
+    "title": "Google SecOps XDR Service"
+  },
+  {
+    "domain": "cloudpartnerservices.goog",
+    "name": "google-trends-intl-bq-public-data.cloudpartnerservices.goog",
+    "title": "BigQuery Public Datasets Program Google Trends - International"
+  },
+  {
+    "domain": "bigquery-connectors-public.cloud.goog",
+    "name": "google-webfonts.endpoints.bigquery-connectors-public.cloud.goog",
+    "title": "Google Fonts by Windsor.ai"
+  },
+  {
+    "domain": "bigquery-connectors-public.cloud.goog",
+    "name": "googleads.endpoints.bigquery-connectors-public.cloud.goog",
+    "title": "Google Ads by Windsor.ai"
+  },
+  {
+    "documentation": "Manage your Google Ads accounts, campaigns, and reports with this API.",
+    "domain": "googleapis.com",
+    "name": "googleads.googleapis.com",
+    "title": "Google Ads API"
+  },
+  {
+    "domain": "bigquery-connectors-public.cloud.goog",
+    "name": "googleanalytics.endpoints.bigquery-connectors-public.cloud.goog",
+    "title": "Google Analytics 4 by Windsor.ai"
+  },
+  {
+    "domain": "bigquery-connectors-public.cloud.goog",
+    "name": "googleanalytics4.endpoints.bigquery-connectors-public.cloud.goog",
+    "title": "Google Analytics 4 (GA4) Connector by Windsor.ai"
+  },
+  {
+    "domain": "cloudpartnerservices.goog",
+    "name": "gospel-technologies-gcp-gospel-technology-public.cloudpartnerservices.goog",
+    "title": "Gospel Technology"
+  },
+  {
+    "domain": "gsc-marketplace-3ad684.cloud.goog",
+    "name": "gospotcheck-by-form.endpoints.gsc-marketplace-3ad684.cloud.goog",
+    "title": "GoSpotCheck by FORM"
+  },
+  {
+    "domain": "apps4rentllc-public.cloud.goog",
+    "name": "gradio-on-debian11.endpoints.apps4rentllc-public.cloud.goog",
+    "title": "Gradio-on-Debian11"
+  },
+  {
+    "domain": "apps4rentllc-public.cloud.goog",
+    "name": "gradio-on-debian12.endpoints.apps4rentllc-public.cloud.goog",
+    "title": "Gradio-on-Debian12"
+  },
+  {
+    "domain": "apps4rentllc-public.cloud.goog",
+    "name": "gradio-on-ubuntu20.endpoints.apps4rentllc-public.cloud.goog",
+    "title": "Gradio-on-Ubuntu20.04"
+  },
+  {
+    "domain": "apps4rentllc-public.cloud.goog",
+    "name": "gradio-on-ubuntu22.endpoints.apps4rentllc-public.cloud.goog",
+    "title": "Gradio-on-Ubuntu22.04"
+  },
+  {
+    "domain": "apps4rentllc-public.cloud.goog",
+    "name": "gradio-on-ubuntu24.endpoints.apps4rentllc-public.cloud.goog",
+    "title": "Gradio-on-Ubuntu24.04"
+  },
+  {
+    "domain": "apps4rentllc-public.cloud.goog",
+    "name": "gradle-on-debian10.endpoints.apps4rentllc-public.cloud.goog",
+    "title": "Gradle on Debian10"
+  },
+  {
+    "domain": "apps4rentllc-public.cloud.goog",
+    "name": "gradle-on-debian11.endpoints.apps4rentllc-public.cloud.goog",
+    "title": "Gradle on Debian11"
+  },
+  {
+    "domain": "apps4rentllc-public.cloud.goog",
+    "name": "gradle-on-debian12.endpoints.apps4rentllc-public.cloud.goog",
+    "title": "Gradle on Debian12"
+  },
+  {
+    "domain": "apps4rentllc-public.cloud.goog",
+    "name": "gradle-on-ubuntu-24.endpoints.apps4rentllc-public.cloud.goog",
+    "title": "Gradle on Ubuntu 24.04"
+  },
+  {
+    "domain": "apps4rentllc-public.cloud.goog",
+    "name": "gradle-on-ubuntu20.endpoints.apps4rentllc-public.cloud.goog",
+    "title": "Gradle on Ubuntu20.04"
+  },
+  {
+    "domain": "apps4rentllc-public.cloud.goog",
+    "name": "gradle-on-windows-server-2016.endpoints.apps4rentllc-public.cloud.goog",
+    "title": "Gradle on Windows Server 2016"
+  },
+  {
+    "domain": "apps4rentllc-public.cloud.goog",
+    "name": "gradle-on-windows-server-2019.endpoints.apps4rentllc-public.cloud.goog",
+    "title": "Gradle on Windows Server 2019"
+  },
+  {
+    "domain": "apps4rentllc-public.cloud.goog",
+    "name": "gradle-on-windows-server-2022.endpoints.apps4rentllc-public.cloud.goog",
+    "title": "Gradle on Windows Server 2022"
+  },
+  {
+    "domain": "corpsvc-gpm-da-mp-prd-5817.cloud.goog",
+    "name": "graduate-outcomes.endpoints.corpsvc-gpm-da-mp-prd-5817.cloud.goog",
+    "title": "Graduate Outcomes"
+  },
+  {
+    "domain": "cloudpartnerservices.goog",
+    "name": "grafana-07-04-2020-miriinfotech-public.cloudpartnerservices.goog",
+    "title": "Miri Infotech Grafana"
+  },
+  {
+    "domain": "cloudpartnerservices.goog",
+    "name": "grafana-click-to-deploy-images.cloudpartnerservices.goog",
+    "title": "Google Click to Deploy Grafana"
+  },
+  {
+    "domain": "grafana-public.cloud.goog",
+    "name": "grafana-cloud-commit.endpoints.grafana-public.cloud.goog",
+    "title": "Grafana Cloud Commit"
+  },
+  {
+    "domain": "cloudpartnerservices.goog",
+    "name": "grafana-cloud-grafana-public.cloudpartnerservices.goog",
+    "title": "Grafana Cloud"
+  },
+  {
+    "domain": "grafana-public.cloud.goog",
+    "name": "grafana-cloud-subscription.endpoints.grafana-public.cloud.goog",
+    "title": "Grafana Cloud observability platform"
+  },
+  {
+    "domain": "bynet-public.cloud.goog",
+    "name": "grafana-enterprise-1y-contract.endpoints.bynet-public.cloud.goog",
+    "title": "Grafana Enterprise "
+  },
+  {
+    "domain": "bynet-public.cloud.goog",
+    "name": "grafana-enterprise.endpoints.bynet-public.cloud.goog",
+    "title": "Grafana enterprise"
   },
   {
     "documentation": "Manages identity and access control for Google Cloud resources, including the creation of service accounts, which you can use to authenticate to Google and make API calls. Enabling this API also enables the IAM Service Account Credentials API (iamcredentials.googleapis.com). However, disabling this API doesn't disable the IAM Service Account Credentials API.\n",
