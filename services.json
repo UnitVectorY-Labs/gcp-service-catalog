@@ -14596,6 +14596,11 @@
     "title": "Flowmon Networks Flowmon for Google Cloud"
   },
   {
+    "domain": "fluentcommerce-public.cloud.goog",
+    "name": "fluentoms.endpoints.fluentcommerce-public.cloud.goog",
+    "title": "Fluent Order Management"
+  },
+  {
     "domain": "cloudpartnerservices.goog",
     "name": "fluid-slurm-gcp-fluid-cluster-ops.cloudpartnerservices.goog",
     "title": "Fluid Numerics Fluid-Slurm-GCP"
@@ -14945,6 +14950,256 @@
     "domain": "fullcircl-public.cloud.goog",
     "name": "fullcircl-api.endpoints.fullcircl-public.cloud.goog",
     "title": "FullCircl API"
+  },
+  {
+    "domain": "fullstorygcp-public.cloud.goog",
+    "name": "fullstory.endpoints.fullstorygcp-public.cloud.goog",
+    "title": "FullStory"
+  },
+  {
+    "domain": "nodeconnect-public.cloud.goog",
+    "name": "fully-synced-lukso-node.endpoints.nodeconnect-public.cloud.goog",
+    "title": "Fully Synced Lukso Node"
+  },
+  {
+    "domain": "functionize-public.cloud.goog",
+    "name": "functionize.endpoints.functionize-public.cloud.goog",
+    "title": "Functionize: Agentic Test Automation for Enterprises"
+  },
+  {
+    "domain": "exabeam-public.cloud.goog",
+    "name": "fusion-siem.endpoints.exabeam-public.cloud.goog",
+    "title": "Fusion SIEM"
+  },
+  {
+    "domain": "exabeam-public.cloud.goog",
+    "name": "fusion-xdr.endpoints.exabeam-public.cloud.goog",
+    "title": "Fusion XDR"
+  },
+  {
+    "domain": "exabeam-public.cloud.goog",
+    "name": "fusion.endpoints.exabeam-public.cloud.goog",
+    "title": "Exabeam Fusion"
+  },
+  {
+    "domain": "lucidworks-public.cloud.goog",
+    "name": "fusion.endpoints.lucidworks-public.cloud.goog",
+    "title": "Fusion"
+  },
+  {
+    "domain": "fusionauth-public.cloud.goog",
+    "name": "fusionauth-enterprise.endpoints.fusionauth-public.cloud.goog",
+    "title": "FusionAuth Enterprise"
+  },
+  {
+    "domain": "fusionhub-image.cloud.goog",
+    "name": "fusionhub.endpoints.fusionhub-image.cloud.goog",
+    "title": "FusionHub"
+  },
+  {
+    "domain": "futureai-public.cloud.goog",
+    "name": "futureai.endpoints.futureai-public.cloud.goog",
+    "title": "FutureAI"
+  },
+  {
+    "domain": "fonyou-public.cloud.goog",
+    "name": "fy-icarrier-platform.endpoints.fonyou-public.cloud.goog",
+    "title": "iCarrier Platform"
+  },
+  {
+    "domain": "bigquery-connectors-public.cloud.goog",
+    "name": "gainsight-px.endpoints.bigquery-connectors-public.cloud.goog",
+    "title": "Gainsight PX by Windsor.ai"
+  },
+  {
+    "domain": "galileo-public.cloud.goog",
+    "name": "galileo-llm-studio.endpoints.galileo-public.cloud.goog",
+    "title": "Galileo LLM Studio"
+  },
+  {
+    "domain": "secondfront-public.cloud.goog",
+    "name": "game-warden.endpoints.secondfront-public.cloud.goog",
+    "title": "Game Warden"
+  },
+  {
+    "documentation": "The Google Play Games Service allows developers to enhance games with social leaderboards,\n    achievements, game state, sign-in with Google, and more.",
+    "domain": "googleapis.com",
+    "name": "games.googleapis.com",
+    "title": "Google Play Games Services API"
+  },
+  {
+    "documentation": "The Google Play Game Services Publishing API allows developers to configure their games in Game Services.",
+    "domain": "googleapis.com",
+    "name": "gamesconfiguration.googleapis.com",
+    "title": "Google Play Games Services Publishing API"
+  },
+  {
+    "domain": "gameshift-public.cloud.goog",
+    "name": "gameshift-by-solana-labs.endpoints.gameshift-public.cloud.goog",
+    "title": "GameShift by Solana Labs"
+  },
+  {
+    "documentation": "The Google Play Games Management API allows developers to manage resources from the Google\n     Play Game service.",
+    "domain": "googleapis.com",
+    "name": "gamesmanagement.googleapis.com",
+    "title": "Google Play Games Services Management API"
+  },
+  {
+    "domain": "cloudpartnerservices.goog",
+    "name": "garblecloud-for-gcp-garblecloud-public-project.cloudpartnerservices.goog",
+    "title": "Garblecloud Inc. GarbleCloud Encryption Reporting Service"
+  },
+  {
+    "domain": "appspot.com",
+    "name": "gateway.mp-virtru-public.appspot.com",
+    "title": "Virtru for Data Encryption, Protection, and Privacy Reporting Service"
+  },
+  {
+    "domain": "louaosh-acn-ai-agent-marketpla.cloud.goog",
+    "name": "gatherdetailsagent-useragent.endpoints.louaosh-acn-ai-agent-marketpla.cloud.goog",
+    "title": "Gather Details Agent - User Agent(LLM)"
+  },
+  {
+    "domain": "gathr-public.cloud.goog",
+    "name": "gathr-byol.endpoints.gathr-public.cloud.goog",
+    "title": "Gathr (BYOL)"
+  },
+  {
+    "domain": "gathr-public.cloud.goog",
+    "name": "gathr-medium.endpoints.gathr-public.cloud.goog",
+    "title": "Gathr (Medium)"
+  },
+  {
+    "domain": "gathr-public.cloud.goog",
+    "name": "gathr-metered.endpoints.gathr-public.cloud.goog",
+    "title": "Gathr (Metered)"
+  },
+  {
+    "domain": "gathr-public.cloud.goog",
+    "name": "gathr-small.endpoints.gathr-public.cloud.goog",
+    "title": "Gathr (Small)"
+  },
+  {
+    "domain": "bcloud-public.cloud.goog",
+    "name": "gatsby.endpoints.bcloud-public.cloud.goog",
+    "title": "Gatsby"
+  },
+  {
+    "domain": "ms--prodport--mkpl--ad.cloud.goog",
+    "name": "gauss-for-connectedtv-by-making-science.endpoints.ms--prodport--mkpl--ad.cloud.goog",
+    "title": "Gauss For ConnectedTV by Making Science"
+  },
+  {
+    "domain": "cloudpartnerservices.goog",
+    "name": "gazetteer-whosonfirst.cloudpartnerservices.goog",
+    "title": "Mapzen Who's on First Gazetteer"
+  },
+  {
+    "domain": "cloudpartnerservices.goog",
+    "name": "gbif-occurrences-bigquery-public-data.cloudpartnerservices.goog",
+    "title": "BigQuery Public Data GBIF Species Occurrences"
+  },
+  {
+    "domain": "cloudpartnerservices.goog",
+    "name": "gcp-assessment-cloudphysics-saas.cloudpartnerservices.goog",
+    "title": "CloudPhysics Google Cloud Platform Assessment"
+  },
+  {
+    "domain": "tomorrowx-public.cloud.goog",
+    "name": "gcp-cap-rhel.endpoints.tomorrowx-public.cloud.goog",
+    "title": "Composable Architecture Platform"
+  },
+  {
+    "domain": "datadome-public-423915.cloud.goog",
+    "name": "gcp-datadome-account-protect.endpoints.datadome-public-423915.cloud.goog",
+    "title": "DataDome Account Protect"
+  },
+  {
+    "domain": "cloudgenera-public.cloud.goog",
+    "name": "gcp-migration-analyzer.endpoints.cloudgenera-public.cloud.goog",
+    "title": "GCP Migration Analyzer"
+  },
+  {
+    "domain": "launchnodesltd-public.cloud.goog",
+    "name": "gcp-solo-staking.endpoints.launchnodesltd-public.cloud.goog",
+    "title": "GCP Solo Staking"
+  },
+  {
+    "domain": "redisenterprise.com",
+    "name": "gcp.redisenterprise.com",
+    "title": "Redis Enterprise"
+  },
+  {
+    "domain": "itopia.com",
+    "name": "gcpbilling.itopia.com",
+    "title": "itopia Cloud Automation Stack Reporting Service"
+  },
+  {
+    "domain": "netapp.com",
+    "name": "gcpmarketplace.cloudmanager.netapp.com",
+    "title": "NetApp Intelligent Services"
+  },
+  {
+    "domain": "hycu.com",
+    "name": "gcpmarketplace.hycu.com",
+    "title": "HYCU R-Cloud™ Platform"
+  },
+  {
+    "domain": "superquery.io",
+    "name": "gcpmarketplace.superquery.io",
+    "title": "SuperQuery Reporting Service"
+  },
+  {
+    "domain": "googleapis.com",
+    "name": "gdchardwaremanagement.googleapis.com",
+    "title": "GDC Hardware Management API"
+  },
+  {
+    "domain": "cloudpartnerservices.goog",
+    "name": "gdelt-2-events-the-gdelt-project-data.cloudpartnerservices.goog",
+    "title": "The GDELT Project GDELT 2.0 Event Database"
+  },
+  {
+    "documentation": "Collection of APIs for Google DeepMind science projects.",
+    "domain": "googleapis.com",
+    "name": "gdmscience.googleapis.com",
+    "title": "Google DeepMind Science API"
+  },
+  {
+    "domain": "cloudpartnerservices.goog",
+    "name": "gdp-income-by-county-bureau-econonmic-analysis.cloudpartnerservices.goog",
+    "title": "Bureau of Economic Analysis GDP and Income by County"
+  },
+  {
+    "domain": "shake-public-381523.cloud.goog",
+    "name": "geake-saas.endpoints.shake-public-381523.cloud.goog",
+    "title": "Geake"
+  },
+  {
+    "domain": "cloudpartnerservices.goog",
+    "name": "geeklog-17-4-20-miriinfotech-public.cloudpartnerservices.goog",
+    "title": "Miri Infotech Geeklog"
+  },
+  {
+    "domain": "gemsecurity-public.cloud.goog",
+    "name": "gem-security.endpoints.gemsecurity-public.cloud.goog",
+    "title": "Gem Security "
+  },
+  {
+    "documentation": "The AI-powered assistant for Google Cloud.\n",
+    "domain": "googleapis.com",
+    "name": "geminicloudassist.googleapis.com",
+    "title": "Gemini Cloud Assist API"
+  },
+  {
+    "domain": "googleapis.com",
+    "name": "geminidataanalytics.googleapis.com",
+    "title": "Data Analytics API with Gemini"
+  },
+  {
+    "domain": "ath-infosystems-public.cloud.goog",
+    "name": "geminiproversion.endpoints.ath-infosystems-public.cloud.goog",
+    "title": "Gemini Pro Version"
   },
   {
     "documentation": "Manages identity and access control for Google Cloud resources, including the creation of service accounts, which you can use to authenticate to Google and make API calls. Enabling this API also enables the IAM Service Account Credentials API (iamcredentials.googleapis.com). However, disabling this API doesn't disable the IAM Service Account Credentials API.\n",
