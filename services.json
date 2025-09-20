@@ -210,6 +210,11 @@
     "title": "AbiliTec API"
   },
   {
+    "domain": "quectoai-public.cloud.goog",
+    "name": "abs-testing.endpoints.quectoai-public.cloud.goog",
+    "title": "Server Side AB Testing"
+  },
+  {
     "domain": "absolute-labs-public.cloud.goog",
     "name": "absolute-labs-wrm.endpoints.absolute-labs-public.cloud.goog",
     "title": "Absolute Labs Wallet Relationship Management"
@@ -2781,6 +2786,11 @@
     "title": "Amazon Vendor Central Connector by Windsor.ai"
   },
   {
+    "domain": "ambarella-public.cloud.goog",
+    "name": "ambarella-developer-platform.endpoints.ambarella-public.cloud.goog",
+    "title": "Ambarella Developer Platform"
+  },
+  {
     "domain": "gcppublic-mp-adl-55984733.cloud.goog",
     "name": "amdocs-digital-customer-experience-suite.endpoints.gcppublic-mp-adl-55984733.cloud.goog",
     "title": "Amdocs Digital Customer Experience Suite"
@@ -4529,6 +4539,11 @@
     "title": "AVA Energy Efficiency"
   },
   {
+    "domain": "tackle-prd-bqt4g.cloud.goog",
+    "name": "avalara-tax-compliance-automation.endpoints.tackle-prd-bqt4g.cloud.goog",
+    "title": "Avalara: Tax Compliance Automation"
+  },
+  {
     "domain": "dellemc-ddve-public.cloud.goog",
     "name": "avamar-virtual-edition.endpoints.dellemc-ddve-public.cloud.goog",
     "title": "Avamar Virtual Edition"
@@ -4672,6 +4687,11 @@
     "domain": "cloudpartnerservices.goog",
     "name": "backdrop-26-03-2020-miriinfotech-public.cloudpartnerservices.goog",
     "title": "Miri Infotech BACKDROP CMS"
+  },
+  {
+    "domain": "hclsw-gcp-mrktplc-public.cloud.goog",
+    "name": "backup-recovery-agent.endpoints.hclsw-gcp-mrktplc-public.cloud.goog",
+    "title": "Backup \u0026 Recovery Agent"
   },
   {
     "domain": "googleapis.com",
@@ -6074,6 +6094,31 @@
     "domain": "captana-storage-public.cloud.goog",
     "name": "captana-cloud-storage.endpoints.captana-storage-public.cloud.goog",
     "title": "Captana Cloud Storage"
+  },
+  {
+    "domain": "hclsw-gcp-mrktplc-public.cloud.goog",
+    "name": "car-damage-analyzer-agent.endpoints.hclsw-gcp-mrktplc-public.cloud.goog",
+    "title": "Car Damage Analyzer Agent"
+  },
+  {
+    "domain": "hclsw-gcp-mrktplc-public.cloud.goog",
+    "name": "car-driving-license-extractor-agent.endpoints.hclsw-gcp-mrktplc-public.cloud.goog",
+    "title": "Car Driving License Extractor Agent"
+  },
+  {
+    "domain": "hclsw-gcp-mrktplc-public.cloud.goog",
+    "name": "car-insurance-card-extractor-agent.endpoints.hclsw-gcp-mrktplc-public.cloud.goog",
+    "title": "Car Insurance Card Extractor Agent"
+  },
+  {
+    "domain": "hclsw-gcp-mrktplc-public.cloud.goog",
+    "name": "car-insurance-claim-agent-suite.endpoints.hclsw-gcp-mrktplc-public.cloud.goog",
+    "title": "Car Insurance Claim Agent Suite"
+  },
+  {
+    "domain": "hclsw-gcp-mrktplc-public.cloud.goog",
+    "name": "car-service-estimator-agent.endpoints.hclsw-gcp-mrktplc-public.cloud.goog",
+    "title": "Car Service Estimator Agent"
   },
   {
     "domain": "noviqtech-public.cloud.goog",
@@ -9658,6 +9703,26 @@
     "domain": "croct-public.cloud.goog",
     "name": "croct.endpoints.croct-public.cloud.goog",
     "title": "Croct"
+  },
+  {
+    "domain": "hclsw-gcp-mrktplc-public.cloud.goog",
+    "name": "crop-nutrient-management-agent.endpoints.hclsw-gcp-mrktplc-public.cloud.goog",
+    "title": "Crop Nutrient Management Agent"
+  },
+  {
+    "domain": "hclsw-gcp-mrktplc-public.cloud.goog",
+    "name": "crop-pest-management-agent.endpoints.hclsw-gcp-mrktplc-public.cloud.goog",
+    "title": "Crop Pest Management Agent"
+  },
+  {
+    "domain": "hclsw-gcp-mrktplc-public.cloud.goog",
+    "name": "crop-planning-agent.endpoints.hclsw-gcp-mrktplc-public.cloud.goog",
+    "title": "Crop Planning Agent"
+  },
+  {
+    "domain": "hclsw-gcp-mrktplc-public.cloud.goog",
+    "name": "crop-recommendation-agent.endpoints.hclsw-gcp-mrktplc-public.cloud.goog",
+    "title": "Crop Recommendation Agent"
   },
   {
     "domain": "gcp-marketplace-project-427804.cloud.goog",
@@ -13511,6 +13576,26 @@
     "title": "Google Cloud Endpoints"
   },
   {
+    "domain": "hclsw-gcp-mrktplc-public.cloud.goog",
+    "name": "energy-forecaster-agent-suite.endpoints.hclsw-gcp-mrktplc-public.cloud.goog",
+    "title": "Energy Forecaster Agent Suite"
+  },
+  {
+    "domain": "hclsw-gcp-mrktplc-public.cloud.goog",
+    "name": "energy-forecaster-rural-agent.endpoints.hclsw-gcp-mrktplc-public.cloud.goog",
+    "title": "Energy Forecaster Rural Agent"
+  },
+  {
+    "domain": "hclsw-gcp-mrktplc-public.cloud.goog",
+    "name": "energy-forecaster-total-agent.endpoints.hclsw-gcp-mrktplc-public.cloud.goog",
+    "title": "Energy Forecaster Total Agent"
+  },
+  {
+    "domain": "hclsw-gcp-mrktplc-public.cloud.goog",
+    "name": "energy-forecaster-urban-agent.endpoints.hclsw-gcp-mrktplc-public.cloud.goog",
+    "title": "Energy Forecaster Urban Agent"
+  },
+  {
     "domain": "energyworx-public.cloud.goog",
     "name": "energyworx.endpoints.energyworx-public.cloud.goog",
     "title": "Energyworx"
@@ -15110,344 +15195,6 @@
     "domain": "cloudpartnerservices.goog",
     "name": "fortiadc-payg-5gbps-fortigcp-project-001.cloudpartnerservices.goog",
     "title": "Fortinet Inc. Fortinet FortiADC Application Delivery Controller PAYG 5Gbps"
-  },
-  {
-    "domain": "cloudpartnerservices.goog",
-    "name": "fortianalyzer-fortigcp-project-001.cloudpartnerservices.goog",
-    "title": "Fortinet Inc. FortiAnalyzer Centralized Logging/Reporting"
-  },
-  {
-    "domain": "fortigcp-project-001.cloud.goog",
-    "name": "fortiappsec.cloud.payg.endpoints.fortigcp-project-001.cloud.goog",
-    "title": "Fortinet FortiAppSec Cloud Web Application and API Protection"
-  },
-  {
-    "domain": "cloudpartnerservices.goog",
-    "name": "fortigate-fortigcp-project-001.cloudpartnerservices.goog",
-    "title": "Fortinet Inc. FortiGate Next-Generation Firewall (BYOL)"
-  },
-  {
-    "domain": "cloudpartnerservices.goog",
-    "name": "fortigate-payg-fortigcp-project-001.cloudpartnerservices.goog",
-    "title": "Fortinet Inc. FortiGate Next-Generation Firewall (PAYG)"
-  },
-  {
-    "domain": "cloudpartnerservices.goog",
-    "name": "fortimanager-fortigcp-project-001.cloudpartnerservices.goog",
-    "title": "Fortinet Inc. FortiManager Centralized Security Management"
-  },
-  {
-    "domain": "fortigcp-project-001.cloud.goog",
-    "name": "fortinet-fortiaiops-ai-ml-network-operations-byol.endpoints.fortigcp-project-001.cloud.goog",
-    "title": "Fortinet FortiAIOps - AI \u0026 ML Network Operations (BYOL)"
-  },
-  {
-    "domain": "fortigcp-project-001.cloud.goog",
-    "name": "fortinet-fortidevsec.endpoints.fortigcp-project-001.cloud.goog",
-    "title": "Fortinet FortiDevSec"
-  },
-  {
-    "domain": "fortigcp-project-001.cloud.goog",
-    "name": "fortinet-fortiedr-032022-v1.endpoints.fortigcp-project-001.cloud.goog",
-    "title": "Fortinet FortiEDR"
-  },
-  {
-    "domain": "fortigcp-project-001.cloud.goog",
-    "name": "fortinet-fortiguest-guest-access-and-policy-management-byol.endpoints.fortigcp-project-001.cloud.goog",
-    "title": "Fortinet FortiGuest Guest Access and Policy Management (BYOL)"
-  },
-  {
-    "domain": "fortigcp-project-001.cloud.goog",
-    "name": "fortinet-fortimail-byol-secure-email-gateway.endpoints.fortigcp-project-001.cloud.goog",
-    "title": "Fortinet FortiMail (BYOL) Secure Email Gateway"
-  },
-  {
-    "domain": "fortigcp-project-001.cloud.goog",
-    "name": "fortinet-fortinac.endpoints.fortigcp-project-001.cloud.goog",
-    "title": "Fortinet FortiNAC Secure Network Access Control"
-  },
-  {
-    "domain": "fortigcp-project-001.cloud.goog",
-    "name": "fortinet-fortindrcloud-sensor.endpoints.fortigcp-project-001.cloud.goog",
-    "title": "Fortinet FortiNDR Cloud Sensor"
-  },
-  {
-    "domain": "fortigcp-project-001.cloud.goog",
-    "name": "fortinet-fortiportal-byol.endpoints.fortigcp-project-001.cloud.goog",
-    "title": "Fortinet FortiPortal (BYOL)"
-  },
-  {
-    "domain": "fortigcp-project-001.cloud.goog",
-    "name": "fortinet-fortisase.endpoints.fortigcp-project-001.cloud.goog",
-    "title": "Fortinet FortiSASE"
-  },
-  {
-    "domain": "fortigcp-project-001.cloud.goog",
-    "name": "fortinet-security-saas.endpoints.fortigcp-project-001.cloud.goog",
-    "title": "Fortinet Security SaaS"
-  },
-  {
-    "domain": "fortigcp-project-001.cloud.goog",
-    "name": "fortisandbox-advanced-threat-protection-byol.endpoints.fortigcp-project-001.cloud.goog",
-    "title": "FortiSandbox Advanced Threat Protection (BYOL)"
-  },
-  {
-    "domain": "cloudpartnerservices.goog",
-    "name": "fortiweb-fortigcp-project-001.cloudpartnerservices.goog",
-    "title": "Fortinet Inc. Fortinet FortiWeb Web Application Firewall WAF VM"
-  },
-  {
-    "domain": "fortigcp-project-001.cloud.goog",
-    "name": "fortiweb-web-application-firewall-payg.endpoints.fortigcp-project-001.cloud.goog",
-    "title": "FortiWeb Web Application Firewall (PAYG)"
-  },
-  {
-    "domain": "cloudpartnerservices.goog",
-    "name": "fortiwebsaas-fortigcp-project-001.cloudpartnerservices.goog",
-    "title": "Fortinet FortiWeb Cloud WAF-as-a-Service"
-  },
-  {
-    "domain": "veritas-mp-ireland-public.cloud.goog",
-    "name": "fortknox-emea-apj.endpoints.veritas-mp-ireland-public.cloud.goog",
-    "title": "Cohesity FortKnox - EMEA/APJ"
-  },
-  {
-    "domain": "usai-public.cloud.goog",
-    "name": "foundation-usai.endpoints.usai-public.cloud.goog",
-    "title": "Foundation.USAI"
-  },
-  {
-    "domain": "fr0ntierx-public.cloud.goog",
-    "name": "fr0ntierx-polaris-pro-vm.endpoints.fr0ntierx-public.cloud.goog",
-    "title": "Polaris Pro"
-  },
-  {
-    "domain": "fr0ntierx-public.cloud.goog",
-    "name": "fr0ntierx-polaris-vm.endpoints.fr0ntierx-public.cloud.goog",
-    "title": "Polaris"
-  },
-  {
-    "domain": "fractal-c3-public.cloud.goog",
-    "name": "fractal-ai-applications.endpoints.fractal-c3-public.cloud.goog",
-    "title": "Fractal AI Applications"
-  },
-  {
-    "domain": "innovateframebanking-public.cloud.goog",
-    "name": "frame-banking.endpoints.innovateframebanking-public.cloud.goog",
-    "title": "Frame Banking"
-  },
-  {
-    "domain": "prod-sardine-gcp-marketplace.cloud.goog",
-    "name": "fraud-and-compliance-operating-suite.endpoints.prod-sardine-gcp-marketplace.cloud.goog",
-    "title": "Fraud and Compliance OS"
-  },
-  {
-    "domain": "freebsd-org-cloud-dev.cloud.goog",
-    "name": "freebsd.endpoints.freebsd-org-cloud-dev.cloud.goog",
-    "title": "FreeBSD"
-  },
-  {
-    "domain": "freebsd-org-cloud-dev.cloud.goog",
-    "name": "freebsd13.endpoints.freebsd-org-cloud-dev.cloud.goog.endpoints.freebsd-org-cloud-dev.cloud.goog",
-    "title": "FreeBSD 13.5"
-  },
-  {
-    "domain": "cloudpartnerservices.goog",
-    "name": "freepbx-cloud-infrastructure-services.cloudpartnerservices.goog",
-    "title": "Cloud Infrastructure Services IP PBX using FreePBX Solution on Ubuntu (VoIP)"
-  },
-  {
-    "domain": "anarion-technologies-public.cloud.goog",
-    "name": "freepbx.endpoints.anarion-technologies-public.cloud.goog",
-    "title": "FreePBX v17 on Ubuntu v20"
-  },
-  {
-    "domain": "fc-freepik-marketplace-public.cloud.goog",
-    "name": "freepik-marketplace-saas.endpoints.fc-freepik-marketplace-public.cloud.goog",
-    "title": "Freepik"
-  },
-  {
-    "domain": "freeplay-springboard-public.cloud.goog",
-    "name": "freeplay-gcp-byoc.endpoints.freeplay-springboard-public.cloud.goog",
-    "title": "Freeplay"
-  },
-  {
-    "domain": "cloud-infra-services-public.cloud.goog",
-    "name": "freeradius-ubuntu-20-04.endpoints.cloud-infra-services-public.cloud.goog",
-    "title": "freeradius-ubuntu-20-04"
-  },
-  {
-    "domain": "bigquery-connectors-public.cloud.goog",
-    "name": "freshcaller-connector-by-windsor.ai.endpoints.bigquery-connectors-public.cloud.goog",
-    "title": "Freshcaller Connector by Windsor.ai"
-  },
-  {
-    "domain": "bigquery-connectors-public.cloud.goog",
-    "name": "freshcaller.endpoints.bigquery-connectors-public.cloud.goog",
-    "title": "Freshcaller by Windsor.ai"
-  },
-  {
-    "domain": "bigquery-connectors-public.cloud.goog",
-    "name": "freshdesk-connector-by-windsor.ai.endpoints.bigquery-connectors-public.cloud.goog",
-    "title": "Freshdesk Connector by Windsor.ai"
-  },
-  {
-    "domain": "bigquery-connectors-public.cloud.goog",
-    "name": "freshdesk.endpoints.bigquery-connectors-public.cloud.goog",
-    "title": "Freshdesk by Windsor.ai"
-  },
-  {
-    "domain": "bigquery-connectors-public.cloud.goog",
-    "name": "freshsales-connector-by-windsor.ai.endpoints.bigquery-connectors-public.cloud.goog",
-    "title": "Freshsales Connector by Windsor.ai"
-  },
-  {
-    "domain": "bigquery-connectors-public.cloud.goog",
-    "name": "freshsales.endpoints.bigquery-connectors-public.cloud.goog",
-    "title": "Freshsales by Windsor.ai"
-  },
-  {
-    "domain": "bigquery-connectors-public.cloud.goog",
-    "name": "freshservice-connector-by-windsor.ai.endpoints.bigquery-connectors-public.cloud.goog",
-    "title": "Freshservice Connector by Windsor.ai"
-  },
-  {
-    "domain": "bigquery-connectors-public.cloud.goog",
-    "name": "freshservice.endpoints.bigquery-connectors-public.cloud.goog",
-    "title": "Freshservice by Windsor.ai"
-  },
-  {
-    "domain": "cloudpartnerservices.goog",
-    "name": "frontaccounting-07-04-2020-miriinfotech-public.cloudpartnerservices.goog",
-    "title": "Miri Infotech FrontAccounting"
-  },
-  {
-    "domain": "cloudpartnerservices.goog",
-    "name": "ftp-2019-cloud-infrastructure-services.cloudpartnerservices.goog",
-    "title": "Cloud Infrastructure Services Secure FTP Server on Windows 2019"
-  },
-  {
-    "domain": "fullcircl-public.cloud.goog",
-    "name": "fullcircl-api-billing-prod.endpoints.fullcircl-public.cloud.goog",
-    "title": "FullCircl API Billing"
-  },
-  {
-    "domain": "fullcircl-public.cloud.goog",
-    "name": "fullcircl-api.endpoints.fullcircl-public.cloud.goog",
-    "title": "FullCircl API"
-  },
-  {
-    "domain": "fullstorygcp-public.cloud.goog",
-    "name": "fullstory.endpoints.fullstorygcp-public.cloud.goog",
-    "title": "FullStory"
-  },
-  {
-    "domain": "nodeconnect-public.cloud.goog",
-    "name": "fully-synced-lukso-node.endpoints.nodeconnect-public.cloud.goog",
-    "title": "Fully Synced Lukso Node"
-  },
-  {
-    "domain": "functionize-public.cloud.goog",
-    "name": "functionize.endpoints.functionize-public.cloud.goog",
-    "title": "Functionize: Agentic Test Automation for Enterprises"
-  },
-  {
-    "domain": "exabeam-public.cloud.goog",
-    "name": "fusion-siem.endpoints.exabeam-public.cloud.goog",
-    "title": "Fusion SIEM"
-  },
-  {
-    "domain": "exabeam-public.cloud.goog",
-    "name": "fusion-xdr.endpoints.exabeam-public.cloud.goog",
-    "title": "Fusion XDR"
-  },
-  {
-    "domain": "exabeam-public.cloud.goog",
-    "name": "fusion.endpoints.exabeam-public.cloud.goog",
-    "title": "Exabeam Fusion"
-  },
-  {
-    "domain": "lucidworks-public.cloud.goog",
-    "name": "fusion.endpoints.lucidworks-public.cloud.goog",
-    "title": "Fusion"
-  },
-  {
-    "domain": "fusionauth-public.cloud.goog",
-    "name": "fusionauth-enterprise.endpoints.fusionauth-public.cloud.goog",
-    "title": "FusionAuth Enterprise"
-  },
-  {
-    "domain": "fusionhub-image.cloud.goog",
-    "name": "fusionhub.endpoints.fusionhub-image.cloud.goog",
-    "title": "FusionHub"
-  },
-  {
-    "domain": "futureai-public.cloud.goog",
-    "name": "futureai.endpoints.futureai-public.cloud.goog",
-    "title": "FutureAI"
-  },
-  {
-    "domain": "fonyou-public.cloud.goog",
-    "name": "fy-icarrier-platform.endpoints.fonyou-public.cloud.goog",
-    "title": "iCarrier Platform"
-  },
-  {
-    "domain": "bigquery-connectors-public.cloud.goog",
-    "name": "gainsight-px.endpoints.bigquery-connectors-public.cloud.goog",
-    "title": "Gainsight PX by Windsor.ai"
-  },
-  {
-    "domain": "galileo-public.cloud.goog",
-    "name": "galileo-llm-studio.endpoints.galileo-public.cloud.goog",
-    "title": "Galileo LLM Studio"
-  },
-  {
-    "domain": "secondfront-public.cloud.goog",
-    "name": "game-warden.endpoints.secondfront-public.cloud.goog",
-    "title": "Game Warden"
-  },
-  {
-    "documentation": "The Google Play Games Service allows developers to enhance games with social leaderboards,\n    achievements, game state, sign-in with Google, and more.",
-    "domain": "googleapis.com",
-    "name": "games.googleapis.com",
-    "title": "Google Play Games Services API"
-  },
-  {
-    "documentation": "The Google Play Game Services Publishing API allows developers to configure their games in Game Services.",
-    "domain": "googleapis.com",
-    "name": "gamesconfiguration.googleapis.com",
-    "title": "Google Play Games Services Publishing API"
-  },
-  {
-    "domain": "gameshift-public.cloud.goog",
-    "name": "gameshift-by-solana-labs.endpoints.gameshift-public.cloud.goog",
-    "title": "GameShift by Solana Labs"
-  },
-  {
-    "documentation": "The Google Play Games Management API allows developers to manage resources from the Google\n     Play Game service.",
-    "domain": "googleapis.com",
-    "name": "gamesmanagement.googleapis.com",
-    "title": "Google Play Games Services Management API"
-  },
-  {
-    "domain": "cloudpartnerservices.goog",
-    "name": "garblecloud-for-gcp-garblecloud-public-project.cloudpartnerservices.goog",
-    "title": "Garblecloud Inc. GarbleCloud Encryption Reporting Service"
-  },
-  {
-    "domain": "appspot.com",
-    "name": "gateway.mp-virtru-public.appspot.com",
-    "title": "Virtru for Data Encryption, Protection, and Privacy Reporting Service"
-  },
-  {
-    "domain": "louaosh-acn-ai-agent-marketpla.cloud.goog",
-    "name": "gatherdetailsagent-useragent.endpoints.louaosh-acn-ai-agent-marketpla.cloud.goog",
-    "title": "Gather Details Agent - User Agent(LLM)"
-  },
-  {
-    "domain": "gathr-public.cloud.goog",
-    "name": "gathr-byol.endpoints.gathr-public.cloud.goog",
-    "title": "Gathr (BYOL)"
   },
   {
     "documentation": "Manages identity and access control for Google Cloud resources, including the creation of service accounts, which you can use to authenticate to Google and make API calls. Enabling this API also enables the IAM Service Account Credentials API (iamcredentials.googleapis.com). However, disabling this API doesn't disable the IAM Service Account Credentials API.\n",
