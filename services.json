@@ -2428,6 +2428,11 @@
     "title": "Apache Airflow packaged by Bitnami"
   },
   {
+    "domain": "airflows-public.cloud.goog",
+    "name": "airflows-platform.endpoints.airflows-public.cloud.goog",
+    "title": "Airflows Platform"
+  },
+  {
     "domain": "cloudpartnerservices.goog",
     "name": "airlock-waf-and-api-gateway-7-5-ergon-public.cloudpartnerservices.goog",
     "title": "Ergon Informatik AG Airlock Secure Access Hub"
@@ -6065,6 +6070,11 @@
     "title": "Calyptia"
   },
   {
+    "domain": "cambai-public-portal.cloud.goog",
+    "name": "camb-ai-studio.endpoints.cambai-public-portal.cloud.goog",
+    "title": "CAMB.AI STUDIO"
+  },
+  {
     "domain": "cloudpartnerservices.goog",
     "name": "cameyo-gcp-cameyo-marketplace-public.cloudpartnerservices.goog",
     "title": "Cameyo Inc Cameyo Virtual Application Delivery Reporting Service"
@@ -6185,6 +6195,11 @@
     "domain": "bigquery-connectors-public.cloud.goog",
     "name": "cart.endpoints.bigquery-connectors-public.cloud.goog",
     "title": "Cart.com by Windsor.ai"
+  },
+  {
+    "domain": "carto-agentspace-agents-poc.cloud.goog",
+    "name": "carto-commercial-site-selection-ai-agent.endpoints.carto-agentspace-agents-poc.cloud.goog",
+    "title": "Commercial Site Selection AI Agent"
   },
   {
     "domain": "cloudpartnerservices.goog",
@@ -15430,21 +15445,6 @@
     "domain": "bigquery-connectors-public.cloud.goog",
     "name": "freshservice.endpoints.bigquery-connectors-public.cloud.goog",
     "title": "Freshservice by Windsor.ai"
-  },
-  {
-    "domain": "cloudpartnerservices.goog",
-    "name": "frontaccounting-07-04-2020-miriinfotech-public.cloudpartnerservices.goog",
-    "title": "Miri Infotech FrontAccounting"
-  },
-  {
-    "domain": "cloudpartnerservices.goog",
-    "name": "ftp-2019-cloud-infrastructure-services.cloudpartnerservices.goog",
-    "title": "Cloud Infrastructure Services Secure FTP Server on Windows 2019"
-  },
-  {
-    "domain": "fullcircl-public.cloud.goog",
-    "name": "fullcircl-api-billing-prod.endpoints.fullcircl-public.cloud.goog",
-    "title": "FullCircl API Billing"
   },
   {
     "documentation": "Manages identity and access control for Google Cloud resources, including the creation of service accounts, which you can use to authenticate to Google and make API calls. Enabling this API also enables the IAM Service Account Credentials API (iamcredentials.googleapis.com). However, disabling this API doesn't disable the IAM Service Account Credentials API.\n",
