@@ -7132,6 +7132,11 @@
     "title": "Catalyst"
   },
   {
+    "domain": "anarion-technologies-public.cloud.goog",
+    "name": "catboost.endpoints.anarion-technologies-public.cloud.goog",
+    "title": "CatBoost on Ubuntu24"
+  },
+  {
     "domain": "ath-infosystems-public.cloud.goog",
     "name": "catboost.endpoints.ath-infosystems-public.cloud.goog",
     "title": "CatBoost"
@@ -10986,6 +10991,11 @@
     "title": "CSS API"
   },
   {
+    "domain": "cpacket-public.cloud.goog",
+    "name": "cstor-v.endpoints.cpacket-public.cloud.goog",
+    "title": "cPacket cStor-V - Cloud Packet Capture and Network Analytics"
+  },
+  {
     "domain": "commonsensemachines-public.cloud.goog",
     "name": "cube-by-csm.endpoints.commonsensemachines-public.cloud.goog",
     "title": "Cube by CSM"
@@ -11150,6 +11160,11 @@
     "domain": "quectoai-public.cloud.goog",
     "name": "cv-processor-free.endpoints.quectoai-public.cloud.goog",
     "title": "Agentic CV Parser API - Free"
+  },
+  {
+    "domain": "quectoai-public.cloud.goog",
+    "name": "cv-processor.endpoints.quectoai-public.cloud.goog",
+    "title": "Agentic CV Parser API"
   },
   {
     "domain": "cpacket-public.cloud.goog",
@@ -14286,6 +14301,11 @@
     "title": "Miri Infotech e107"
   },
   {
+    "domain": "anarion-technologies-public.cloud.goog",
+    "name": "e107.endpoints.anarion-technologies-public.cloud.goog",
+    "title": "E107 on Ubuntu24"
+  },
+  {
     "domain": "bcloud-public.cloud.goog",
     "name": "e107.endpoints.bcloud-public.cloud.goog",
     "title": "e107"
@@ -15402,26 +15422,6 @@
     "domain": "cloudpartnerservices.goog",
     "name": "f5-big-awf-plus-payg-16vcpu-f5-7626-networks-public.cloudpartnerservices.goog",
     "title": "F5, Inc f5-big-awf-plus-payg-16vcpu"
-  },
-  {
-    "domain": "cloudpartnerservices.goog",
-    "name": "f5-big-awf-plus-payg-200mbps-f5-7626-networks-public.cloudpartnerservices.goog",
-    "title": "F5 Networks F5 Adv WAF with LTM, IPI, Threat Campaigns (PAYG, 200Mbps)"
-  },
-  {
-    "domain": "cloudpartnerservices.goog",
-    "name": "f5-big-awf-plus-payg-25mbps-f5-7626-networks-public.cloudpartnerservices.goog",
-    "title": "F5 Networks F5 Adv WAF with LTM, IPI, Threat Campaigns (PAYG, 25Mbps)"
-  },
-  {
-    "domain": "cloudpartnerservices.goog",
-    "name": "f5-big-awf-plus-payg-3gbps-f5-7626-networks-public.cloudpartnerservices.goog",
-    "title": "F5 Networks F5 Adv WAF with LTM, IPI, Threat Campaigns (PAYG, 3Gbps)"
-  },
-  {
-    "domain": "cloudpartnerservices.goog",
-    "name": "f5-big-awf-plus-pve-payg-200mbps-f5-7626-networks-public.cloudpartnerservices.goog",
-    "title": "F5 Networks F5 Per-App-VE Advanced WAF with LTM, IPI, TC (PAYG, 200Mbps)"
   },
   {
     "documentation": "Manages identity and access control for Google Cloud resources, including the creation of service accounts, which you can use to authenticate to Google and make API calls. Enabling this API also enables the IAM Service Account Credentials API (iamcredentials.googleapis.com). However, disabling this API doesn't disable the IAM Service Account Credentials API.\n",
