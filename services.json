@@ -3471,6 +3471,11 @@
     "title": "AlphaSense"
   },
   {
+    "domain": "nfqrisksolutions-public.cloud.goog",
+    "name": "alquid001.endpoints.nfqrisksolutions-public.cloud.goog",
+    "title": "ALQUID"
+  },
+  {
     "domain": "veritas-public.cloud.goog",
     "name": "alta-data-protection.endpoints.veritas-public.cloud.goog",
     "title": "Alta Data Protection"
@@ -5644,6 +5649,11 @@
     "domain": "marxent-3d-cloud-public.cloud.goog",
     "name": "bathroom-designer-3d.endpoints.marxent-3d-cloud-public.cloud.goog",
     "title": "3D Bathroom Designer"
+  },
+  {
+    "domain": "bcode-public.cloud.goog",
+    "name": "bcode-dpp-container-image.endpoints.bcode-public.cloud.goog",
+    "title": "Bcode DPP"
   },
   {
     "domain": "apps4rentllc-public.cloud.goog",
@@ -15412,16 +15422,6 @@
     "domain": "cloudpartnerservices.goog",
     "name": "exascaler-cloud-ddn-public.cloudpartnerservices.goog",
     "title": "DDN Storage EXAScaler Cloud"
-  },
-  {
-    "domain": "cloudpartnerservices.goog",
-    "name": "exasol-analytic-database-byol-public-marketplace.cloudpartnerservices.goog",
-    "title": "Exasol Analytics Database BYOL"
-  },
-  {
-    "domain": "cloudpartnerservices.goog",
-    "name": "exasol-analytic-database-payg-public-marketplace.cloudpartnerservices.goog",
-    "title": "Exasol Analytics Database PAYG"
   },
   {
     "documentation": "Manages identity and access control for Google Cloud resources, including the creation of service accounts, which you can use to authenticate to Google and make API calls. Enabling this API also enables the IAM Service Account Credentials API (iamcredentials.googleapis.com). However, disabling this API doesn't disable the IAM Service Account Credentials API.\n",
