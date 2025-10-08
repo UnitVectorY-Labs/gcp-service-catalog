@@ -2402,6 +2402,11 @@
     "title": "Access grant revoke"
   },
   {
+    "domain": "crested-studio-473313-f0.cloud.goog",
+    "name": "access-grant-revoke11.endpoints.crested-studio-473313-f0.cloud.goog",
+    "title": "Access Grant Revoke"
+  },
+  {
     "domain": "cloudpartnerservices.goog",
     "name": "access-gudid-national-library-of-medicine.cloudpartnerservices.goog",
     "title": "National Library of Medicine Global Unique Device Identification Database (GUDID)"
@@ -2537,6 +2542,11 @@
     "domain": "cloudpartnerservices.goog",
     "name": "actifio-go-actifio-public.cloudpartnerservices.goog",
     "title": "Actifio GO"
+  },
+  {
+    "domain": "crested-studio-473313-f0.cloud.goog",
+    "name": "action-agent.endpoints.crested-studio-473313-f0.cloud.goog",
+    "title": "Action Agent"
   },
   {
     "domain": "louaosh-acn-ai-agent-marketpla.cloud.goog",
@@ -2898,6 +2908,11 @@
   },
   {
     "domain": "crested-studio-473313-f0.cloud.goog",
+    "name": "aero-parser.endpoints.crested-studio-473313-f0.cloud.goog",
+    "title": "Aero Parser"
+  },
+  {
+    "domain": "crested-studio-473313-f0.cloud.goog",
     "name": "aeromapper.endpoints.crested-studio-473313-f0.cloud.goog",
     "title": "Aeromapper"
   },
@@ -3015,6 +3030,11 @@
     "domain": "touchwood-resortvm-public.cloud.goog",
     "name": "ahlsort-resort-vm.endpoints.touchwood-resortvm-public.cloud.goog",
     "title": "AHLSORT (ReSort) VM"
+  },
+  {
+    "domain": "crested-studio-473313-f0.cloud.goog",
+    "name": "ai-agent-driven-smart-virtual-assistant.endpoints.crested-studio-473313-f0.cloud.goog",
+    "title": "AI Agent-driven Smart Virtual Assistant"
   },
   {
     "domain": "actmedias-public.cloud.goog",
@@ -3714,6 +3734,11 @@
     "domain": "corpsvc-gpm-da-mp-prd-5817.cloud.goog",
     "name": "analytic-dataset.endpoints.corpsvc-gpm-da-mp-prd-5817.cloud.goog",
     "title": "Analytic Dataset"
+  },
+  {
+    "domain": "crested-studio-473313-f0.cloud.goog",
+    "name": "analytics-agent.endpoints.crested-studio-473313-f0.cloud.goog",
+    "title": "Analytics Agent"
   },
   {
     "documentation": "The Analytics API provides access to Analytics configuration and report\n    data.",
@@ -5559,6 +5584,16 @@
     "title": "Ayla Platform"
   },
   {
+    "domain": "crested-studio-473313-f0.cloud.goog",
+    "name": "az-agent-parent-and-sub-agent.endpoints.crested-studio-473313-f0.cloud.goog",
+    "title": "AZ Agent (Parent and Sub Agent)"
+  },
+  {
+    "domain": "crested-studio-473313-f0.cloud.goog",
+    "name": "az1-agent-vertex-ai-search-agent.endpoints.crested-studio-473313-f0.cloud.goog",
+    "title": "AZ1 Agent (Vertex AI Search Agent)"
+  },
+  {
     "domain": "azul-public.cloud.goog",
     "name": "azul-zing.endpoints.azul-public.cloud.goog",
     "title": "Platform Prime: Azul Prime (Zing) Builds of OpenJDK"
@@ -6030,6 +6065,16 @@
     "domain": "pg-us-n-app-465720.cloud.goog",
     "name": "bill-understanding-agent.endpoints.pg-us-n-app-465720.cloud.goog",
     "title": "Bill Understanding Agent"
+  },
+  {
+    "domain": "crested-studio-473313-f0.cloud.goog",
+    "name": "billing-agent.endpoints.crested-studio-473313-f0.cloud.goog",
+    "title": "Billing Agent"
+  },
+  {
+    "domain": "crested-studio-473313-f0.cloud.goog",
+    "name": "billing-and-order-managemnt-agent.endpoints.crested-studio-473313-f0.cloud.goog",
+    "title": "Billing and order managemnt agent"
   },
   {
     "documentation": "The Cloud Billing Budget API stores Cloud Billing budgets, which define a budget plan and the rules to execute as spend is tracked against that plan.",
@@ -6587,6 +6632,11 @@
     "title": "Branch by Windsor.ai"
   },
   {
+    "domain": "tcslimited-public.cloud.goog",
+    "name": "brand-compliance-checker.endpoints.tcslimited-public.cloud.goog",
+    "title": "Brand Compliance Checker"
+  },
+  {
     "domain": "us-con-gcp-sbx-0000427-020625.cloud.goog",
     "name": "brand-compliance-review-agent.endpoints.us-con-gcp-sbx-0000427-020625.cloud.goog",
     "title": "Brand Compliance Review Agent"
@@ -7106,6 +7156,11 @@
     "title": "Captana Cloud Storage"
   },
   {
+    "domain": "crested-studio-473313-f0.cloud.goog",
+    "name": "captcha-agent.endpoints.crested-studio-473313-f0.cloud.goog",
+    "title": "Captcha Agent"
+  },
+  {
     "domain": "hclsw-gcp-mrktplc-public.cloud.goog",
     "name": "car-damage-analyzer-agent.endpoints.hclsw-gcp-mrktplc-public.cloud.goog",
     "title": "Car Damage Analyzer Agent"
@@ -7129,6 +7184,11 @@
     "domain": "hclsw-gcp-mrktplc-public.cloud.goog",
     "name": "car-service-estimator-agent.endpoints.hclsw-gcp-mrktplc-public.cloud.goog",
     "title": "Car Service Estimator Agent"
+  },
+  {
+    "domain": "crested-studio-473313-f0.cloud.goog",
+    "name": "carbon-agent.endpoints.crested-studio-473313-f0.cloud.goog",
+    "title": "Carbon Agent"
   },
   {
     "domain": "noviqtech-public.cloud.goog",
@@ -8490,6 +8550,11 @@
     "title": "Claims - Approve/Reject Decision Assistant"
   },
   {
+    "domain": "crested-studio-473313-f0.cloud.goog",
+    "name": "claire.endpoints.crested-studio-473313-f0.cloud.goog",
+    "title": "Claire"
+  },
+  {
     "domain": "cognosys-public.cloud.goog",
     "name": "clamav-antivirus-on-centos-6-34678.endpoints.cognosys-public.cloud.goog",
     "title": "Clamav Antivirus on Centos 6"
@@ -9419,6 +9484,11 @@
     "title": "NOAA CMIP 6"
   },
   {
+    "domain": "atxdefense-public.cloud.goog",
+    "name": "cmmc-space-main.endpoints.atxdefense-public.cloud.goog",
+    "title": "CMMC Space"
+  },
+  {
     "domain": "cloudpartnerservices.goog",
     "name": "cmorq-ada-data-cmorqs-public.cloudpartnerservices.goog",
     "title": "cmorq Cardano On-Chain Transaction Data"
@@ -9627,6 +9697,11 @@
     "domain": "cntxt-cloud-sandbox-yasmine-ya.cloud.goog",
     "name": "cntxtinsafe2024.endpoints.cntxt-cloud-sandbox-yasmine-ya.cloud.goog",
     "title": "InSafe"
+  },
+  {
+    "domain": "crested-studio-473313-f0.cloud.goog",
+    "name": "coachingagent11.endpoints.crested-studio-473313-f0.cloud.goog",
+    "title": "Coaching Agent"
   },
   {
     "domain": "cobblestone-public.cloud.goog",
@@ -10014,6 +10089,11 @@
     "title": "Companion Agent"
   },
   {
+    "domain": "crested-studio-473313-f0.cloud.goog",
+    "name": "companionagent.endpoints.crested-studio-473313-f0.cloud.goog",
+    "title": "Companion Agent"
+  },
+  {
     "domain": "craft-public-369418.cloud.goog",
     "name": "company-intelligence-and-risk-data-by-craft.endpoints.craft-public-369418.cloud.goog",
     "title": "Company Intelligence and Risk Data by Craft"
@@ -10042,6 +10122,11 @@
     "domain": "cloudpartnerservices.goog",
     "name": "complaint-database-cfpb.cloudpartnerservices.goog",
     "title": "Consumer Financial Protection Bureau CFPB Consumer Complaint Database"
+  },
+  {
+    "domain": "crested-studio-473313-f0.cloud.goog",
+    "name": "completion-agent.endpoints.crested-studio-473313-f0.cloud.goog",
+    "title": "Completion Agent"
   },
   {
     "domain": "crested-studio-473313-f0.cloud.goog",
@@ -10206,6 +10291,11 @@
     "title": "Connected-Stories"
   },
   {
+    "domain": "crested-studio-473313-f0.cloud.goog",
+    "name": "consent-agent.endpoints.crested-studio-473313-f0.cloud.goog",
+    "title": "Consent Agent"
+  },
+  {
     "domain": "edgeless-systems-public.cloud.goog",
     "name": "constellation.endpoints.edgeless-systems-public.cloud.goog",
     "title": "Constellation"
@@ -10333,6 +10423,16 @@
     "title": "Document AI Warehouse API"
   },
   {
+    "domain": "crested-studio-473313-f0.cloud.goog",
+    "name": "context-fetcher-agent.endpoints.crested-studio-473313-f0.cloud.goog",
+    "title": "Context Fetcher Agent"
+  },
+  {
+    "domain": "crested-studio-473313-f0.cloud.goog",
+    "name": "context-retriever-agent.endpoints.crested-studio-473313-f0.cloud.goog",
+    "title": "Context Retriever Agent"
+  },
+  {
     "domain": "contextqa-public.cloud.goog",
     "name": "contextqa-test-automation.endpoints.contextqa-public.cloud.goog",
     "title": "ContextQa Test Automation"
@@ -10392,6 +10492,16 @@
     "domain": "aviatrix-public.cloud.goog",
     "name": "controller-aviatrix-billing-unit-subscritpion.endpoints.aviatrix-public.cloud.goog",
     "title": "Controller Aviatrix Billing Unit Subscritpion"
+  },
+  {
+    "domain": "crested-studio-473313-f0.cloud.goog",
+    "name": "conversation-closer-agent.endpoints.crested-studio-473313-f0.cloud.goog",
+    "title": "Conversation Closer Agent"
+  },
+  {
+    "domain": "crested-studio-473313-f0.cloud.goog",
+    "name": "conversational-agent.endpoints.crested-studio-473313-f0.cloud.goog",
+    "title": "Conversational Agent"
   },
   {
     "domain": "conversense-sales220822.cloud.goog",
@@ -10880,6 +10990,11 @@
     "title": "Create Calendar Event Agent"
   },
   {
+    "domain": "crested-studio-473313-f0.cloud.goog",
+    "name": "credit-agent.endpoints.crested-studio-473313-f0.cloud.goog",
+    "title": "Credit Agent"
+  },
+  {
     "domain": "corpsvc-gpm-da-mp-prd-5817.cloud.goog",
     "name": "creditstyles-pro.endpoints.corpsvc-gpm-da-mp-prd-5817.cloud.goog",
     "title": "CreditStyles Pro®"
@@ -11316,6 +11431,11 @@
     "title": "Customer Cohort Creation Agent"
   },
   {
+    "domain": "crested-studio-473313-f0.cloud.goog",
+    "name": "customer-context-agent.endpoints.crested-studio-473313-f0.cloud.goog",
+    "title": "Customer Context Agent"
+  },
+  {
     "domain": "pg-us-n-app-465720.cloud.goog",
     "name": "customer-engagement-agent.endpoints.pg-us-n-app-465720.cloud.goog",
     "title": "Customer Engagement Agent"
@@ -11336,9 +11456,19 @@
     "title": "Customer Genomics - a Fractal Analytics solution"
   },
   {
+    "domain": "crested-studio-473313-f0.cloud.goog",
+    "name": "customer-insight-agent.endpoints.crested-studio-473313-f0.cloud.goog",
+    "title": "Customer Insight Agent"
+  },
+  {
     "domain": "kyndryl-mkt.cloud.goog",
     "name": "customer-insights-agent.endpoints.kyndryl-mkt.cloud.goog",
     "title": "Customer Insights Agent"
+  },
+  {
+    "domain": "crested-studio-473313-f0.cloud.goog",
+    "name": "customer-interaction-agent.endpoints.crested-studio-473313-f0.cloud.goog",
+    "title": "Customer Interaction Agent"
   },
   {
     "domain": "bigquery-connectors-public.cloud.goog",
@@ -11390,6 +11520,11 @@
     "domain": "cloudpartnerservices.goog",
     "name": "cutenews-9-4-20-miriinfotech-public.cloudpartnerservices.goog",
     "title": "Miri Infotech CuteNews"
+  },
+  {
+    "domain": "crested-studio-473313-f0.cloud.goog",
+    "name": "cv-agent.endpoints.crested-studio-473313-f0.cloud.goog",
+    "title": "CVAgent"
   },
   {
     "domain": "quectoai-public.cloud.goog",
@@ -12837,6 +12972,11 @@
     "title": "Delphix Corp Delphix Data Virtualization for Google Cloud (3TB)"
   },
   {
+    "domain": "crested-studio-473313-f0.cloud.goog",
+    "name": "demand-agent.endpoints.crested-studio-473313-f0.cloud.goog",
+    "title": "Demand Agent"
+  },
+  {
     "domain": "cloudpartnerservices.goog",
     "name": "demand-ml-pluto7-public.cloudpartnerservices.goog",
     "title": "Pluto7 Demand ML"
@@ -13129,6 +13269,11 @@
     "title": "Application Development \u0026 AI Development Services (USA)"
   },
   {
+    "domain": "crested-studio-473313-f0.cloud.goog",
+    "name": "device-data-agent.endpoints.crested-studio-473313-f0.cloud.goog",
+    "title": "Device Data Agent"
+  },
+  {
     "documentation": "The Cloud API for device streaming usage.",
     "domain": "googleapis.com",
     "name": "devicestreaming.googleapis.com",
@@ -13189,6 +13334,11 @@
     "domain": "pg-us-n-app-465720.cloud.goog",
     "name": "diagnosis-code-validation-agent.endpoints.pg-us-n-app-465720.cloud.goog",
     "title": "Diagnosis Code Validation Agent"
+  },
+  {
+    "domain": "crested-studio-473313-f0.cloud.goog",
+    "name": "diagnostics-agent.endpoints.crested-studio-473313-f0.cloud.goog",
+    "title": "Diagnostics Agent"
   },
   {
     "documentation": "Builds conversational interfaces (for example, chatbots, and voice-powered apps and devices).",
@@ -13290,6 +13440,11 @@
     "domain": "credencys-public.cloud.goog",
     "name": "digital-asset-management-portal.endpoints.credencys-public.cloud.goog",
     "title": "Digital Asset Management Portal"
+  },
+  {
+    "domain": "crested-studio-473313-f0.cloud.goog",
+    "name": "digital-footprint-agent.endpoints.crested-studio-473313-f0.cloud.goog",
+    "title": "Digital Footprint Agent"
   },
   {
     "domain": "mozark-marketplace.cloud.goog",
@@ -14527,6 +14682,56 @@
     "title": "Dynamic AI Demo Reporting Service"
   },
   {
+    "domain": "tcslimited-public.cloud.goog",
+    "name": "dynamic-contextual-ads-generator-ad-copy-creator.endpoints.tcslimited-public.cloud.goog",
+    "title": "Dynamic Contextual Ads Generator - Ad Copy Creator"
+  },
+  {
+    "domain": "tcslimited-public.cloud.goog",
+    "name": "dynamic-contextual-ads-generator-adcopycreator.endpoints.tcslimited-public.cloud.goog",
+    "title": "Dynamic Contextual Ads Generator - Ad Copy Creator"
+  },
+  {
+    "domain": "tcslimited-public.cloud.goog",
+    "name": "dynamic-contextual-ads-generator-ethical-guardrail.endpoints.tcslimited-public.cloud.goog",
+    "title": "Dynamic Contextual Ads Generator - Ethical Guardrail"
+  },
+  {
+    "domain": "tcslimited-public.cloud.goog",
+    "name": "dynamic-contextual-ads-generator-fact-verification-guardrail.endpoints.tcslimited-public.cloud.goog",
+    "title": "Dynamic Contextual Ads Generator - Fact Verification Guardrail"
+  },
+  {
+    "domain": "tcslimited-public.cloud.goog",
+    "name": "dynamic-contextual-ads-generator-layout-generator.endpoints.tcslimited-public.cloud.goog",
+    "title": "Dynamic Contextual Ads Generator - Layout Generator"
+  },
+  {
+    "domain": "tcslimited-public.cloud.goog",
+    "name": "dynamic-contextual-ads-generator-marketresearch.endpoints.tcslimited-public.cloud.goog",
+    "title": "Dynamic Contextual Ads Generator - Market Research"
+  },
+  {
+    "domain": "tcslimited-public.cloud.goog",
+    "name": "dynamic-contextual-ads-generator-store-identifier.endpoints.tcslimited-public.cloud.goog",
+    "title": "Dynamic Contextual Ads Generator - Store Identifier"
+  },
+  {
+    "domain": "tcslimited-public.cloud.goog",
+    "name": "dynamic-contextual-ads-generator-visual-creator.endpoints.tcslimited-public.cloud.goog",
+    "title": "Dynamic Contextual Ads Generator - Visual Creator"
+  },
+  {
+    "domain": "tcslimited-public.cloud.goog",
+    "name": "dynamic-contextual-ads-generator-visualcreator.endpoints.tcslimited-public.cloud.goog",
+    "title": "Dynamic Contextual Ads Generator - Visual Creator"
+  },
+  {
+    "domain": "tcslimited-public.cloud.goog",
+    "name": "dynamic-contextual-adsgenerator-layoutgenerator.endpoints.tcslimited-public.cloud.goog",
+    "title": "Dynamic Contextual Ads Generator - Layout Generator"
+  },
+  {
     "domain": "ms--prodport--mkpl--ad.cloud.goog",
     "name": "dynamic-creatives-by-making-science.endpoints.ms--prodport--mkpl--ad.cloud.goog",
     "title": "Dynamic Creatives by Making Science"
@@ -15158,6 +15363,11 @@
     "title": "Google Cloud Endpoints"
   },
   {
+    "domain": "crested-studio-473313-f0.cloud.goog",
+    "name": "energy-agent.endpoints.crested-studio-473313-f0.cloud.goog",
+    "title": "Energy Agent"
+  },
+  {
     "domain": "hclsw-gcp-mrktplc-public.cloud.goog",
     "name": "energy-forecaster-agent-suite.endpoints.hclsw-gcp-mrktplc-public.cloud.goog",
     "title": "Energy Forecaster Agent Suite"
@@ -15421,6 +15631,46 @@
     "domain": "crested-studio-473313-f0.cloud.goog",
     "name": "escalation-agent1.endpoints.crested-studio-473313-f0.cloud.goog",
     "title": "Escalation Agent"
+  },
+  {
+    "domain": "pg-us-n-app-465720.cloud.goog",
+    "name": "escalation-predictor-agent.endpoints.pg-us-n-app-465720.cloud.goog",
+    "title": "Escalation Predictor Agent"
+  },
+  {
+    "domain": "cog01jr0k4wdgnkbdfpte3ab1j92e.cloud.goog",
+    "name": "esg-monitoring.endpoints.cog01jr0k4wdgnkbdfpte3ab1j92e.cloud.goog",
+    "title": "ESG Monitoring from News"
+  },
+  {
+    "domain": "avvale-esgeo-public.cloud.goog",
+    "name": "esgeo-dc-report.endpoints.avvale-esgeo-public.cloud.goog",
+    "title": "ESGeo Data Collection"
+  },
+  {
+    "domain": "rsmetrics-public.cloud.goog",
+    "name": "esgsignals-kubernetes.endpoints.rsmetrics-public.cloud.goog",
+    "title": "RS Metrics ESGSignals®"
+  },
+  {
+    "domain": "rsmetrics-public.cloud.goog",
+    "name": "esgsignals-saas.endpoints.rsmetrics-public.cloud.goog",
+    "title": "RS Metrics ESGSignals®"
+  },
+  {
+    "domain": "saas-services-prod.cloud.goog",
+    "name": "esharat.endpoints.saas-services-prod.cloud.goog",
+    "title": "esharat"
+  },
+  {
+    "domain": "cloudpartnerservices.goog",
+    "name": "espocrm-06-04-2020-miriinfotech-public.cloudpartnerservices.goog",
+    "title": "Miri Infotech EspoCRM"
+  },
+  {
+    "domain": "cloudpartnerservices.goog",
+    "name": "espocrm-bitnami-launchpad.cloudpartnerservices.goog",
+    "title": "Bitnami EspoCRM Certified by Bitnami"
   },
   {
     "documentation": "Manages identity and access control for Google Cloud resources, including the creation of service accounts, which you can use to authenticate to Google and make API calls. Enabling this API also enables the IAM Service Account Credentials API (iamcredentials.googleapis.com). However, disabling this API doesn't disable the IAM Service Account Credentials API.\n",
