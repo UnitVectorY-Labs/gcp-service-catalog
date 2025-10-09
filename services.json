@@ -2505,6 +2505,11 @@
   },
   {
     "domain": "louaosh-acn-ai-agent-marketpla.cloud.goog",
+    "name": "acnai52.endpoints.louaosh-acn-ai-agent-marketpla.cloud.goog",
+    "title": "Live Data Storage Agent"
+  },
+  {
+    "domain": "louaosh-acn-ai-agent-marketpla.cloud.goog",
     "name": "acnai53.endpoints.louaosh-acn-ai-agent-marketpla.cloud.goog",
     "title": "Analytics Agent"
   },
@@ -2522,6 +2527,11 @@
     "domain": "louaosh-acn-ai-agent-marketpla.cloud.goog",
     "name": "acnai57.endpoints.louaosh-acn-ai-agent-marketpla.cloud.goog",
     "title": "Route Optimizer Agent"
+  },
+  {
+    "domain": "louaosh-acn-ai-agent-marketpla.cloud.goog",
+    "name": "acnaiagent40.endpoints.louaosh-acn-ai-agent-marketpla.cloud.goog",
+    "title": "Accenture Ai agent 40"
   },
   {
     "domain": "acryl-public.cloud.goog",
@@ -9939,6 +9949,11 @@
     "title": "CoinMarketCap by Windsor.ai"
   },
   {
+    "domain": "openops-public.cloud.goog",
+    "name": "cokpit-saas.endpoints.openops-public.cloud.goog",
+    "title": "Cokpit - Saas"
+  },
+  {
     "domain": "colab-marketplace-image-public.cloud.goog",
     "name": "colab.endpoints.colab-marketplace-image-public.cloud.goog",
     "title": "Colab"
@@ -12533,13 +12548,103 @@
   },
   {
     "domain": "us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "name": "deloitte-ai-agent34.endpoints.us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "title": "Deloitter AI Agent34"
+  },
+  {
+    "domain": "us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "name": "deloitte-ai-agent35.endpoints.us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "title": "Deloitter AI Agent35"
+  },
+  {
+    "domain": "us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "name": "deloitte-ai-agent36.endpoints.us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "title": "Deloitter AI Agent36"
+  },
+  {
+    "domain": "us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "name": "deloitte-ai-agent37.endpoints.us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "title": "Deloitter AI Agent37"
+  },
+  {
+    "domain": "us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "name": "deloitte-ai-agent38.endpoints.us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "title": "Deloitter AI Agent38"
+  },
+  {
+    "domain": "us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "name": "deloitte-ai-agent39.endpoints.us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "title": "Deloitter AI Agent39"
+  },
+  {
+    "domain": "us-con-gcp-sbx-0000427-020625.cloud.goog",
     "name": "deloitte-ai-agent4.endpoints.us-con-gcp-sbx-0000427-020625.cloud.goog",
     "title": "Deloitter AI Agent4"
   },
   {
     "domain": "us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "name": "deloitte-ai-agent40.endpoints.us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "title": "Deloitter AI Agent40"
+  },
+  {
+    "domain": "us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "name": "deloitte-ai-agent41.endpoints.us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "title": "Deloitter AI Agent41"
+  },
+  {
+    "domain": "us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "name": "deloitte-ai-agent42.endpoints.us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "title": "Deloitter AI Agent42"
+  },
+  {
+    "domain": "us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "name": "deloitte-ai-agent43.endpoints.us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "title": "Deloitter AI Agent43"
+  },
+  {
+    "domain": "us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "name": "deloitte-ai-agent44.endpoints.us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "title": "Deloitter AI Agent44"
+  },
+  {
+    "domain": "us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "name": "deloitte-ai-agent45.endpoints.us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "title": "Deloitter AI Agent45"
+  },
+  {
+    "domain": "us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "name": "deloitte-ai-agent46.endpoints.us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "title": "Deloitte AI Agent46"
+  },
+  {
+    "domain": "us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "name": "deloitte-ai-agent47.endpoints.us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "title": "Deloitte AI Agent47"
+  },
+  {
+    "domain": "us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "name": "deloitte-ai-agent48.endpoints.us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "title": "Deloitte AI Agent48"
+  },
+  {
+    "domain": "us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "name": "deloitte-ai-agent49.endpoints.us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "title": "Deloitte AI Agent49"
+  },
+  {
+    "domain": "us-con-gcp-sbx-0000427-020625.cloud.goog",
     "name": "deloitte-ai-agent5.endpoints.us-con-gcp-sbx-0000427-020625.cloud.goog",
     "title": "Deloitte AI Agent5"
+  },
+  {
+    "domain": "us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "name": "deloitte-ai-agent50.endpoints.us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "title": "Deloitte AI Agent50"
+  },
+  {
+    "domain": "us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "name": "deloitte-ai-agent51.endpoints.us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "title": "Deloitte AI Agent51"
   },
   {
     "domain": "us-con-gcp-sbx-0000427-020625.cloud.goog",
@@ -15566,111 +15671,6 @@
     "domain": "apps4rentllc-public.cloud.goog",
     "name": "eros-api-on-ubuntu-24-04.endpoints.apps4rentllc-public.cloud.goog",
     "title": "Eros-api on Ubuntu 24.04"
-  },
-  {
-    "domain": "crested-studio-473313-f0.cloud.goog",
-    "name": "erp-agent.endpoints.crested-studio-473313-f0.cloud.goog",
-    "title": "ERP Agent"
-  },
-  {
-    "domain": "cloudpartnerservices.goog",
-    "name": "erpnext-bitnami-launchpad.cloudpartnerservices.goog",
-    "title": "Bitnami ERPNext Certified by Bitnami"
-  },
-  {
-    "domain": "cloudpartnerservices.goog",
-    "name": "erpnext-click-to-deploy-images.cloudpartnerservices.goog",
-    "title": "Google Click to Deploy ERPNext"
-  },
-  {
-    "domain": "bigquery-public-data.cloud.goog",
-    "name": "esa-planck.endpoints.bigquery-public-data.cloud.goog",
-    "title": "ESA Planck Mission: Planck Collaboration Products"
-  },
-  {
-    "domain": "atos-esaas-public.cloud.goog",
-    "name": "esaas-frankfurt-colo-1.endpoints.atos-esaas-public.cloud.goog",
-    "title": "Engineered Systems as a Service (Frankfurt-Colo 1)"
-  },
-  {
-    "domain": "atos-esaas-public.cloud.goog",
-    "name": "esaas-frankfurt-colo-2.endpoints.atos-esaas-public.cloud.goog",
-    "title": "Engineered Systems as a Service (Frankfurt-Colo 2)"
-  },
-  {
-    "domain": "atos-esaas-public.cloud.goog",
-    "name": "esaas-london-colo-1.endpoints.atos-esaas-public.cloud.goog",
-    "title": "Engineered Systems as a Service (London-Colo 1)"
-  },
-  {
-    "domain": "atos-esaas-public.cloud.goog",
-    "name": "esaas-london-colo-2.endpoints.atos-esaas-public.cloud.goog",
-    "title": "Engineered Systems as a Service (London-Colo 2)"
-  },
-  {
-    "domain": "louaosh-acn-ai-agent-marketpla.cloud.goog",
-    "name": "escalatex.endpoints.louaosh-acn-ai-agent-marketpla.cloud.goog",
-    "title": "EscalateX"
-  },
-  {
-    "domain": "crested-studio-473313-f0.cloud.goog",
-    "name": "escalation-agent-agentai.endpoints.crested-studio-473313-f0.cloud.goog",
-    "title": "Escalation agent"
-  },
-  {
-    "domain": "crested-studio-473313-f0.cloud.goog",
-    "name": "escalation-agent.endpoints.crested-studio-473313-f0.cloud.goog",
-    "title": "Escalation_agent"
-  },
-  {
-    "domain": "pg-us-n-app-465720.cloud.goog",
-    "name": "escalation-agent.endpoints.pg-us-n-app-465720.cloud.goog",
-    "title": "Escalation Agent"
-  },
-  {
-    "domain": "crested-studio-473313-f0.cloud.goog",
-    "name": "escalation-agent1.endpoints.crested-studio-473313-f0.cloud.goog",
-    "title": "Escalation Agent"
-  },
-  {
-    "domain": "pg-us-n-app-465720.cloud.goog",
-    "name": "escalation-predictor-agent.endpoints.pg-us-n-app-465720.cloud.goog",
-    "title": "Escalation Predictor Agent"
-  },
-  {
-    "domain": "cog01jr0k4wdgnkbdfpte3ab1j92e.cloud.goog",
-    "name": "esg-monitoring.endpoints.cog01jr0k4wdgnkbdfpte3ab1j92e.cloud.goog",
-    "title": "ESG Monitoring from News"
-  },
-  {
-    "domain": "avvale-esgeo-public.cloud.goog",
-    "name": "esgeo-dc-report.endpoints.avvale-esgeo-public.cloud.goog",
-    "title": "ESGeo Data Collection"
-  },
-  {
-    "domain": "rsmetrics-public.cloud.goog",
-    "name": "esgsignals-kubernetes.endpoints.rsmetrics-public.cloud.goog",
-    "title": "RS Metrics ESGSignals®"
-  },
-  {
-    "domain": "rsmetrics-public.cloud.goog",
-    "name": "esgsignals-saas.endpoints.rsmetrics-public.cloud.goog",
-    "title": "RS Metrics ESGSignals®"
-  },
-  {
-    "domain": "saas-services-prod.cloud.goog",
-    "name": "esharat.endpoints.saas-services-prod.cloud.goog",
-    "title": "esharat"
-  },
-  {
-    "domain": "cloudpartnerservices.goog",
-    "name": "espocrm-06-04-2020-miriinfotech-public.cloudpartnerservices.goog",
-    "title": "Miri Infotech EspoCRM"
-  },
-  {
-    "domain": "cloudpartnerservices.goog",
-    "name": "espocrm-bitnami-launchpad.cloudpartnerservices.goog",
-    "title": "Bitnami EspoCRM Certified by Bitnami"
   },
   {
     "documentation": "Manages identity and access control for Google Cloud resources, including the creation of service accounts, which you can use to authenticate to Google and make API calls. Enabling this API also enables the IAM Service Account Credentials API (iamcredentials.googleapis.com). However, disabling this API doesn't disable the IAM Service Account Credentials API.\n",
