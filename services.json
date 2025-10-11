@@ -3243,6 +3243,11 @@
     "title": "Vertex AI API"
   },
   {
+    "domain": "ath-infosystems-public.cloud.goog",
+    "name": "aipowereddevopsmonitoring.endpoints.ath-infosystems-public.cloud.goog",
+    "title": "AI-Powered DevOps Monitoring"
+  },
+  {
     "domain": "blueskyresources-public.cloud.goog",
     "name": "airaware.endpoints.blueskyresources-public.cloud.goog",
     "title": "AirAware"
@@ -5148,6 +5153,11 @@
     "domain": "cloudpartnerservices.goog",
     "name": "astronomer-for-gcp-astronomerio-public.cloudpartnerservices.goog",
     "title": "Apache Airflow™ with Astro by Astronomer"
+  },
+  {
+    "domain": "ath-infosystems-public.cloud.goog",
+    "name": "athaipoweredinsuranceautomationsolution.endpoints.ath-infosystems-public.cloud.goog",
+    "title": " ATH AI-powered insurance automation solution"
   },
   {
     "domain": "atlan-public.cloud.goog",
@@ -7068,6 +7078,11 @@
     "domain": "pg-us-n-app-465720.cloud.goog",
     "name": "call-transcription-agent.endpoints.pg-us-n-app-465720.cloud.goog",
     "title": "Call Transcription Agent"
+  },
+  {
+    "domain": "callers-ai-public.cloud.goog",
+    "name": "callers-ai.endpoints.callers-ai-public.cloud.goog",
+    "title": "Callers AI"
   },
   {
     "domain": "bigquery-connectors-public.cloud.goog",
@@ -10314,6 +10329,11 @@
     "domain": "crested-studio-473313-f0.cloud.goog",
     "name": "consent-agent.endpoints.crested-studio-473313-f0.cloud.goog",
     "title": "Consent Agent"
+  },
+  {
+    "domain": "consoleconnect-public.cloud.goog",
+    "name": "consoleconnet-iotedgesim.endpoints.consoleconnect-public.cloud.goog",
+    "title": "EdgeSIM"
   },
   {
     "domain": "edgeless-systems-public.cloud.goog",
@@ -15167,6 +15187,239 @@
     "domain": "elasticio-public.cloud.goog",
     "name": "elastic.io.endpoints.elasticio-public.cloud.goog",
     "title": "Elastic.io iPaaS - Integration Platform"
+  },
+  {
+    "domain": "cloudpartnerservices.goog",
+    "name": "elasticsearch-click-to-deploy-images.cloudpartnerservices.goog",
+    "title": "Google Click to Deploy Elasticsearch"
+  },
+  {
+    "domain": "cloud-infra-services-public.cloud.goog",
+    "name": "elasticsearch-kibana.endpoints.cloud-infra-services-public.cloud.goog",
+    "title": "Elasticsearch with Kibana on Ubuntu"
+  },
+  {
+    "domain": "apps4rentllc-public.cloud.goog",
+    "name": "elasticsearch-on-debian10.endpoints.apps4rentllc-public.cloud.goog",
+    "title": "Elasticsearch on Debian10"
+  },
+  {
+    "domain": "apps4rentllc-public.cloud.goog",
+    "name": "elasticsearch-on-debian11.endpoints.apps4rentllc-public.cloud.goog",
+    "title": "Elasticsearch-on-Debian11"
+  },
+  {
+    "domain": "apps4rentllc-public.cloud.goog",
+    "name": "elasticsearch-on-debian12.endpoints.apps4rentllc-public.cloud.goog",
+    "title": "Elasticsearch-on-Debian12"
+  },
+  {
+    "domain": "apps4rentllc-public.cloud.goog",
+    "name": "elasticsearch-on-ubuntu24-04.endpoints.apps4rentllc-public.cloud.goog",
+    "title": "Elasticsearch-on-Ubuntu24-04"
+  },
+  {
+    "domain": "apps4rentllc-public.cloud.goog",
+    "name": "elasticsearch-service-on-ubuntu20.endpoints.apps4rentllc-public.cloud.goog",
+    "title": "Elasticsearch-Service-on-ubuntu20.04"
+  },
+  {
+    "domain": "apps4rentllc-public.cloud.goog",
+    "name": "elasticsearch-service-on-ubuntu22.endpoints.apps4rentllc-public.cloud.goog",
+    "title": "Elasticsearch-Service-on-ubuntu22.04"
+  },
+  {
+    "documentation": "Elasticsearch Summary",
+    "domain": "elastic.co",
+    "name": "elasticsearch-service.gcpmarketplace.elastic.co",
+    "title": "Elasticsearch Service on Elastic Cloud - Standard"
+  },
+  {
+    "domain": "ath-infosystems-public.cloud.goog",
+    "name": "elasticsearch.endpoints.ath-infosystems-public.cloud.goog",
+    "title": "Elasticsearch"
+  },
+  {
+    "domain": "cloudpartnerservices.goog",
+    "name": "elastifile-cloud-file-system-ext-elastifle-public-196717.cloudpartnerservices.goog",
+    "title": "Elastifile Cloud File System - Registration Page"
+  },
+  {
+    "domain": "elevate-marketplace-prod.cloud.goog",
+    "name": "elevate.endpoints.elevate-marketplace-prod.cloud.goog",
+    "title": "Elevate"
+  },
+  {
+    "documentation": "Query all locations on the surface of earth, including depth locations on\n    the ocean floor (which return negative values), for elevation data with the\n    Maps Elevation API. Sampled requests are available for elevation data\n    along paths, allowing elevation change calculation along routes.",
+    "domain": "googleapis.com",
+    "name": "elevation-backend.googleapis.com",
+    "title": "Maps Elevation API"
+  },
+  {
+    "domain": "elevenlabs-public.cloud.goog",
+    "name": "elevenlabs-tts-and-audio-ai-platform.endpoints.elevenlabs-public.cloud.goog",
+    "title": "Elevenlabs"
+  },
+  {
+    "domain": "ecmp-public.cloud.goog",
+    "name": "elipedia.endpoints.ecmp-public.cloud.goog",
+    "title": "Elipedia"
+  },
+  {
+    "domain": "apps4rentllc-public.cloud.goog",
+    "name": "elixir-on-debian12.endpoints.apps4rentllc-public.cloud.goog",
+    "title": "Elixir on Debian12"
+  },
+  {
+    "domain": "apps4rentllc-public.cloud.goog",
+    "name": "elixir-on-ubuntu-24.endpoints.apps4rentllc-public.cloud.goog",
+    "title": "Elixir on Ubuntu 24.04"
+  },
+  {
+    "domain": "apps4rentllc-public.cloud.goog",
+    "name": "elixir-on-ubuntu20.endpoints.apps4rentllc-public.cloud.goog",
+    "title": "Elixir on Ubuntu20.04"
+  },
+  {
+    "domain": "apps4rentllc-public.cloud.goog",
+    "name": "elixir-on-ubuntu22.endpoints.apps4rentllc-public.cloud.goog",
+    "title": "Elixir on Ubuntu22.04"
+  },
+  {
+    "domain": "apps4rentllc-public.cloud.goog",
+    "name": "elk-prometheus-grafana-debian11.endpoints.apps4rentllc-public.cloud.goog",
+    "title": "ELK Stack, Prometheus, Grafana on Debian11"
+  },
+  {
+    "domain": "apps4rentllc-public.cloud.goog",
+    "name": "elk-prometheus-grafana-debian12.endpoints.apps4rentllc-public.cloud.goog",
+    "title": "ELK Stack, Prometheus, Grafana on Debian12"
+  },
+  {
+    "domain": "apps4rentllc-public.cloud.goog",
+    "name": "elk-prometheus-grafana-ubuntu20.endpoints.apps4rentllc-public.cloud.goog",
+    "title": "ELK Stack, Prometheus, Grafana on Ubuntu 20.04"
+  },
+  {
+    "domain": "apps4rentllc-public.cloud.goog",
+    "name": "elk-prometheus-grafana-ubuntu22.endpoints.apps4rentllc-public.cloud.goog",
+    "title": "Prometheus, Grafana on Ubuntu 22.04"
+  },
+  {
+    "domain": "apps4rentllc-public.cloud.goog",
+    "name": "elk-prometheus-grafana-ubuntu24.endpoints.apps4rentllc-public.cloud.goog",
+    "title": "ELK Stack, Prometheus, Grafana on Ubuntu 24.04"
+  },
+  {
+    "domain": "cloudpartnerservices.goog",
+    "name": "elk-stack-1-november-2019-miriinfotech-public.cloudpartnerservices.goog",
+    "title": "Miri Infotech ELK powered by MIRI"
+  },
+  {
+    "domain": "apps4rentllc-public.cloud.goog",
+    "name": "elk-stack-on-debian11.endpoints.apps4rentllc-public.cloud.goog",
+    "title": "ELK Stack on debian11"
+  },
+  {
+    "domain": "apps4rentllc-public.cloud.goog",
+    "name": "elk-stack-on-debian12.endpoints.apps4rentllc-public.cloud.goog",
+    "title": "ELK Stack on debian12"
+  },
+  {
+    "domain": "apps4rentllc-public.cloud.goog",
+    "name": "elk-stack-on-ubuntu20.endpoints.apps4rentllc-public.cloud.goog",
+    "title": "ELK Stack on Ubuntu20.04"
+  },
+  {
+    "domain": "apps4rentllc-public.cloud.goog",
+    "name": "elk-stack-on-ubuntu22.endpoints.apps4rentllc-public.cloud.goog",
+    "title": "ELK Stack on Ubuntu22.04"
+  },
+  {
+    "domain": "apps4rentllc-public.cloud.goog",
+    "name": "elk-stack-on-ubuntu24.endpoints.apps4rentllc-public.cloud.goog",
+    "title": "ELK Stack on Ubuntu24.04"
+  },
+  {
+    "domain": "classmethod-can-public.cloud.goog",
+    "name": "elk-ubuntu-2204-powered-by-classmethod.endpoints.classmethod-can-public.cloud.goog",
+    "title": "ELK Ubuntu 2204 powered by Classmethod"
+  },
+  {
+    "domain": "cloudpartnerservices.goog",
+    "name": "elkstack-click-to-deploy-images.cloudpartnerservices.goog",
+    "title": "Google Click to Deploy ELK Stack: Elasticsearch, Logstash, Kibana"
+  },
+  {
+    "domain": "idyllic-pact-214018.cloud.goog",
+    "name": "ellipsis-drive.endpoints.idyllic-pact-214018.cloud.goog",
+    "title": "Ellipsis Drive"
+  },
+  {
+    "domain": "elmcomputing-public.cloud.goog",
+    "name": "elm-rshinyserver.endpoints.elmcomputing-public.cloud.goog",
+    "title": "RShiny Server"
+  },
+  {
+    "domain": "elmcomputing-public.cloud.goog",
+    "name": "elm-rstudioserver.endpoints.elmcomputing-public.cloud.goog",
+    "title": "RStudio Server"
+  },
+  {
+    "domain": "monostate-public.cloud.goog",
+    "name": "eloqkv.endpoints.monostate-public.cloud.goog",
+    "title": "EloqKV"
+  },
+  {
+    "domain": "ema-on-gcp-public.cloud.goog",
+    "name": "ema-saas.endpoints.ema-on-gcp-public.cloud.goog",
+    "title": "Ema's Agentic Business Automation Platform"
+  },
+  {
+    "domain": "pg-us-n-app-465720.cloud.goog",
+    "name": "email-parsing-and-data-extraction-agent.endpoints.pg-us-n-app-465720.cloud.goog",
+    "title": "Email Parsing and data extraction Agent"
+  },
+  {
+    "domain": "louaosh-acn-ai-agent-marketpla.cloud.goog",
+    "name": "email-reader-agent.endpoints.louaosh-acn-ai-agent-marketpla.cloud.goog",
+    "title": "Email Reader Agent"
+  },
+  {
+    "domain": "louaosh-acn-ai-agent-marketpla.cloud.goog",
+    "name": "email-sender-agent.endpoints.louaosh-acn-ai-agent-marketpla.cloud.goog",
+    "title": "Email Sender Agent"
+  },
+  {
+    "domain": "kyndryl-mkt.cloud.goog",
+    "name": "email-service.endpoints.kyndryl-mkt.cloud.goog",
+    "title": "Email Service Agent"
+  },
+  {
+    "domain": "bigquery-connectors-public.cloud.goog",
+    "name": "emailoctopus.endpoints.bigquery-connectors-public.cloud.goog",
+    "title": "EmailOctopus by Windsor.ai"
+  },
+  {
+    "domain": "hclsw-gcp-mrktplc-public.cloud.goog",
+    "name": "emailsummarizationaiagent.endpoints.hclsw-gcp-mrktplc-public.cloud.goog",
+    "title": "Email Summarization"
+  },
+  {
+    "domain": "ema-on-gcp-public.cloud.goog",
+    "name": "emas-generative-workflow-engine.endpoints.ema-on-gcp-public.cloud.goog",
+    "title": "Ema's Generative Workflow Engine"
+  },
+  {
+    "documentation": "Google Assistant API",
+    "domain": "googleapis.com",
+    "name": "embeddedassistant.googleapis.com",
+    "title": "Google Assistant API"
+  },
+  {
+    "domain": "apps4rentllc-public.cloud.goog",
+    "name": "emberjs-on-debian12.endpoints.apps4rentllc-public.cloud.goog",
+    "title": "EmberJS on Debian12"
   },
   {
     "documentation": "Manages identity and access control for Google Cloud resources, including the creation of service accounts, which you can use to authenticate to Google and make API calls. Enabling this API also enables the IAM Service Account Credentials API (iamcredentials.googleapis.com). However, disabling this API doesn't disable the IAM Service Account Credentials API.\n",
