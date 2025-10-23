@@ -4865,7 +4865,7 @@
     "title": "Google Workspace Marketplace SDK"
   },
   {
-    "documentation": "Lets your Google Workspace Marketplace applications integrate with Google's licensing and billing services.\n",
+    "documentation": "Lets your Google Workspace Marketplace applications integrate with Google's installtion and licensing services.\n",
     "domain": "googleapis.com",
     "name": "appsmarket.googleapis.com",
     "title": "Google Workspace Marketplace API"
@@ -4884,6 +4884,11 @@
     "domain": "cloudpartnerservices.goog",
     "name": "appspace-byol-appspace-saas.cloudpartnerservices.goog",
     "title": "Appspace"
+  },
+  {
+    "domain": "googleapis.com",
+    "name": "apptopology.googleapis.com",
+    "title": "App Topology API"
   },
   {
     "domain": "cloudpartnerservices.goog",
@@ -15162,11 +15167,6 @@
     "domain": "eg-universal-agent-public.cloud.goog",
     "name": "eg-innovations.endpoints.eg-universal-agent-public.cloud.goog",
     "title": "eG Innovations"
-  },
-  {
-    "domain": "egnyte-public.cloud.goog",
-    "name": "egnyte.endpoints.egnyte-public.cloud.goog",
-    "title": "Egnyte"
   },
   {
     "documentation": "Manages identity and access control for Google Cloud resources, including the creation of service accounts, which you can use to authenticate to Google and make API calls. Enabling this API also enables the IAM Service Account Credentials API (iamcredentials.googleapis.com). However, disabling this API doesn't disable the IAM Service Account Credentials API.\n",
