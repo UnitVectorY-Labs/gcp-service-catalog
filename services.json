@@ -10314,6 +10314,11 @@
     "title": "Configuration Drift and Change monitor Agent"
   },
   {
+    "domain": "confixa-public.cloud.goog",
+    "name": "confixa-new.endpoints.confixa-public.cloud.goog",
+    "title": "Confixa"
+  },
+  {
     "domain": "ambient-odyssey-417807.cloud.goog",
     "name": "confluence-to-vertex-ai-search.endpoints.ambient-odyssey-417807.cloud.goog",
     "title": "Confluence to Vertex AI Search"
@@ -13607,6 +13612,11 @@
     "title": "digiRunner API Management Platform - HA"
   },
   {
+    "domain": "tpisoftware-digirunner-public.cloud.goog",
+    "name": "digirunnerha.endpoints.tpisoftware-digirunner-public.cloud.goog",
+    "title": "digiRunner API Management Platform - HA"
+  },
+  {
     "domain": "bigquery-connectors-public.cloud.goog",
     "name": "digistorm.endpoints.bigquery-connectors-public.cloud.goog",
     "title": "Digistorm by Windsor.ai"
@@ -15419,6 +15429,248 @@
     "domain": "monostate-public.cloud.goog",
     "name": "eloqkv.endpoints.monostate-public.cloud.goog",
     "title": "EloqKV"
+  },
+  {
+    "domain": "ema-on-gcp-public.cloud.goog",
+    "name": "ema-saas.endpoints.ema-on-gcp-public.cloud.goog",
+    "title": "Ema's Agentic Business Automation Platform"
+  },
+  {
+    "domain": "pg-us-n-app-465720.cloud.goog",
+    "name": "email-parsing-and-data-extraction-agent.endpoints.pg-us-n-app-465720.cloud.goog",
+    "title": "Email Parsing and data extraction Agent"
+  },
+  {
+    "domain": "louaosh-acn-ai-agent-marketpla.cloud.goog",
+    "name": "email-reader-agent.endpoints.louaosh-acn-ai-agent-marketpla.cloud.goog",
+    "title": "Email Reader Agent"
+  },
+  {
+    "domain": "louaosh-acn-ai-agent-marketpla.cloud.goog",
+    "name": "email-sender-agent.endpoints.louaosh-acn-ai-agent-marketpla.cloud.goog",
+    "title": "Email Sender Agent"
+  },
+  {
+    "domain": "kyndryl-mkt.cloud.goog",
+    "name": "email-service.endpoints.kyndryl-mkt.cloud.goog",
+    "title": "Email Service Agent"
+  },
+  {
+    "domain": "bigquery-connectors-public.cloud.goog",
+    "name": "emailoctopus.endpoints.bigquery-connectors-public.cloud.goog",
+    "title": "EmailOctopus by Windsor.ai"
+  },
+  {
+    "domain": "hclsw-gcp-mrktplc-public.cloud.goog",
+    "name": "emailsummarizationaiagent.endpoints.hclsw-gcp-mrktplc-public.cloud.goog",
+    "title": "Email Summarization"
+  },
+  {
+    "domain": "ema-on-gcp-public.cloud.goog",
+    "name": "emas-generative-workflow-engine.endpoints.ema-on-gcp-public.cloud.goog",
+    "title": "Ema's Generative Workflow Engine"
+  },
+  {
+    "documentation": "Google Assistant API",
+    "domain": "googleapis.com",
+    "name": "embeddedassistant.googleapis.com",
+    "title": "Google Assistant API"
+  },
+  {
+    "domain": "apps4rentllc-public.cloud.goog",
+    "name": "emberjs-on-debian12.endpoints.apps4rentllc-public.cloud.goog",
+    "title": "EmberJS on Debian12"
+  },
+  {
+    "domain": "apps4rentllc-public.cloud.goog",
+    "name": "emberjs-on-ubuntu20.endpoints.apps4rentllc-public.cloud.goog",
+    "title": "EmberJS on Ubuntu 20.04"
+  },
+  {
+    "domain": "apps4rentllc-public.cloud.goog",
+    "name": "emberjs-on-ubuntu22.endpoints.apps4rentllc-public.cloud.goog",
+    "title": "EmberJS on Ubuntu 22.04"
+  },
+  {
+    "domain": "bcloud-public.cloud.goog",
+    "name": "emby.endpoints.bcloud-public.cloud.goog",
+    "title": "Emby"
+  },
+  {
+    "domain": "kyndryl-mkt.cloud.goog",
+    "name": "employee-coaching-agent.endpoints.kyndryl-mkt.cloud.goog",
+    "title": "Employee Coaching Agent"
+  },
+  {
+    "domain": "pg-us-n-app-465720.cloud.goog",
+    "name": "employee-details-and-compliance-agent.endpoints.pg-us-n-app-465720.cloud.goog",
+    "title": "Employee Details and Compliance Agent"
+  },
+  {
+    "domain": "kyndryl-mkt.cloud.goog",
+    "name": "employee-engagement-agent.endpoints.kyndryl-mkt.cloud.goog",
+    "title": "Employee Engagement Agent"
+  },
+  {
+    "domain": "kyndryl-mkt.cloud.goog",
+    "name": "employee-onboarding.endpoints.kyndryl-mkt.cloud.goog",
+    "title": "Employee Onboarding Agent"
+  },
+  {
+    "domain": "kyndryl-mkt.cloud.goog",
+    "name": "employee-onboardingsupervisory.endpoints.kyndryl-mkt.cloud.goog",
+    "title": "Employee Onboarding Supervisory Agent"
+  },
+  {
+    "domain": "emq-public-380104.cloud.goog",
+    "name": "emqx-cloudpay-as-you-go.endpoints.emq-public-380104.cloud.goog",
+    "title": "EMQX Cloud(Pay as You Go)"
+  },
+  {
+    "domain": "emq-public-380104.cloud.goog",
+    "name": "emqx-enterprise.endpoints.emq-public-380104.cloud.goog",
+    "title": "EMQX Enterprise"
+  },
+  {
+    "domain": "emq-public-380104.cloud.goog",
+    "name": "emqxps.endpoints.emq-public-380104.cloud.goog",
+    "title": "EMQX Professional Services"
+  },
+  {
+    "domain": "encord-public.cloud.goog",
+    "name": "encord-saas.endpoints.encord-public.cloud.goog",
+    "title": "Encord"
+  },
+  {
+    "domain": "ath-infosystems-public.cloud.goog",
+    "name": "encord.endpoints.ath-infosystems-public.cloud.goog",
+    "title": "Encord"
+  },
+  {
+    "domain": "endeavor-streaming-382718.cloud.goog",
+    "name": "endeavor-streaming.endpoints.endeavor-streaming-382718.cloud.goog",
+    "title": "The Endeavor Streaming Platform"
+  },
+  {
+    "domain": "marketplace-458521.cloud.goog",
+    "name": "endor-labs-private-offer.endpoints.marketplace-458521.cloud.goog",
+    "title": "Endor Labs"
+  },
+  {
+    "documentation": "The Google Cloud Endpoints service enables creation of managed proxies for Endpoints configured services. Enabling this service also enables all of the dependency services needed for using Endpoints on a project. It is enabled automatically when Google Cloud SDK is used to create an Endpoints service. Note: disabling this service does not automatically disable the dependency\n  services.\n",
+    "domain": "googleapis.com",
+    "name": "endpoints.googleapis.com",
+    "title": "Google Cloud Endpoints"
+  },
+  {
+    "domain": "crested-studio-473313-f0.cloud.goog",
+    "name": "energy-agent.endpoints.crested-studio-473313-f0.cloud.goog",
+    "title": "Energy Agent"
+  },
+  {
+    "domain": "hclsw-gcp-mrktplc-public.cloud.goog",
+    "name": "energy-forecaster-agent-suite.endpoints.hclsw-gcp-mrktplc-public.cloud.goog",
+    "title": "Energy Forecaster Agent Suite"
+  },
+  {
+    "domain": "hclsw-gcp-mrktplc-public.cloud.goog",
+    "name": "energy-forecaster-rural-agent.endpoints.hclsw-gcp-mrktplc-public.cloud.goog",
+    "title": "Energy Forecaster Rural Agent"
+  },
+  {
+    "domain": "hclsw-gcp-mrktplc-public.cloud.goog",
+    "name": "energy-forecaster-total-agent.endpoints.hclsw-gcp-mrktplc-public.cloud.goog",
+    "title": "Energy Forecaster Total Agent"
+  },
+  {
+    "domain": "hclsw-gcp-mrktplc-public.cloud.goog",
+    "name": "energy-forecaster-urban-agent.endpoints.hclsw-gcp-mrktplc-public.cloud.goog",
+    "title": "Energy Forecaster Urban Agent"
+  },
+  {
+    "domain": "pcs-gcp-cr-10081-prj-infy-pub.cloud.goog",
+    "name": "energy-usage-analytics-agent.endpoints.pcs-gcp-cr-10081-prj-infy-pub.cloud.goog",
+    "title": "Energy Usage Analytics Agent"
+  },
+  {
+    "domain": "energyworx-public.cloud.goog",
+    "name": "energyworx.endpoints.energyworx-public.cloud.goog",
+    "title": "Energyworx"
+  },
+  {
+    "domain": "bloomreach-public.cloud.goog",
+    "name": "engagement-cdp-marketing-automation.endpoints.bloomreach-public.cloud.goog",
+    "title": "Engagement (CDP, Marketing Automation)"
+  },
+  {
+    "domain": "engflow-public.cloud.goog",
+    "name": "engflow-rbe-2023.endpoints.engflow-public.cloud.goog",
+    "title": "EngFlow Remote Execution"
+  },
+  {
+    "domain": "cloudpartnerservices.goog",
+    "name": "enonic-xp-enonic-xp-launcher.cloudpartnerservices.goog",
+    "title": "Enonic XP"
+  },
+  {
+    "domain": "enterprisebot-public.cloud.goog",
+    "name": "enterprise-bot-cx.endpoints.enterprisebot-public.cloud.goog",
+    "title": "Enterprise Bot CX (Livechat , Chatbot, Voicebot, Emailbot)"
+  },
+  {
+    "domain": "floodlight-public.cloud.goog",
+    "name": "enterprise-emissions-scope-1-and-2.endpoints.floodlight-public.cloud.goog",
+    "title": "SAGE: Enterprise Emissions - Scope 1 and 2"
+  },
+  {
+    "domain": "robinio-public.cloud.goog",
+    "name": "enterprise-sds-by-robin.endpoints.robinio-public.cloud.goog",
+    "title": "Enterprise SDS by Robin"
+  },
+  {
+    "domain": "slalom-public.cloud.goog",
+    "name": "enterprise-search-app.endpoints.slalom-public.cloud.goog",
+    "title": "Enterprise Search App"
+  },
+  {
+    "domain": "googleapis.com",
+    "name": "enterpriseknowledgegraph.googleapis.com",
+    "title": "Enterprise Knowledge Graph API"
+  },
+  {
+    "domain": "googleapis.com",
+    "name": "enterprisepurchasing.googleapis.com",
+    "title": "Enterprise Purchasing API"
+  },
+  {
+    "domain": "hytrust-datacontrol-public.cloud.goog",
+    "name": "entrust-keycontrol-vault-v104.endpoints.hytrust-datacontrol-public.cloud.goog",
+    "title": "Entrust KeyControl Vault v10.4.1"
+  },
+  {
+    "domain": "env0-public.cloud.goog",
+    "name": "env0-deployment.endpoints.env0-public.cloud.goog",
+    "title": "Env0 Deployment"
+  },
+  {
+    "domain": "env0-public.cloud.goog",
+    "name": "env0.endpoints.env0-public.cloud.goog",
+    "title": "Env0"
+  },
+  {
+    "domain": "systango-public.cloud.goog",
+    "name": "envistudios-infomente.endpoints.systango-public.cloud.goog",
+    "title": "Envistudios Infomente"
+  },
+  {
+    "domain": "eon-marketplace-public.cloud.goog",
+    "name": "eon-prod.endpoints.eon-marketplace-public.cloud.goog",
+    "title": "Eon Cloud Backup Posture Management Platform"
+  },
+  {
+    "domain": "ucare-public.cloud.goog",
+    "name": "epac.endpoints.ucare-public.cloud.goog",
+    "title": "ePAC"
   },
   {
     "documentation": "Manages identity and access control for Google Cloud resources, including the creation of service accounts, which you can use to authenticate to Google and make API calls. Enabling this API also enables the IAM Service Account Credentials API (iamcredentials.googleapis.com). However, disabling this API doesn't disable the IAM Service Account Credentials API.\n",
