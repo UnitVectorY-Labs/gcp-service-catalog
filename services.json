@@ -5084,6 +5084,11 @@
     "title": "Arteria"
   },
   {
+    "domain": "arthur-ai-public.cloud.goog",
+    "name": "arthur-ai-public.endpoints.arthur-ai-public.cloud.goog",
+    "title": "Arthur AI"
+  },
+  {
     "domain": "cloudpartnerservices.goog",
     "name": "artifactory-jfrog-app.cloudpartnerservices.goog",
     "title": "JFrog Artifactory"
@@ -15412,11 +15417,6 @@
     "domain": "corpsvc-gpm-da-mp-prd-5817.cloud.goog",
     "name": "efx-ignite-auto-suite.endpoints.corpsvc-gpm-da-mp-prd-5817.cloud.goog",
     "title": "Automotive Data \u0026 Analytics Suite"
-  },
-  {
-    "domain": "eg-universal-agent-public.cloud.goog",
-    "name": "eg-innovations.endpoints.eg-universal-agent-public.cloud.goog",
-    "title": "eG Innovations"
   },
   {
     "documentation": "Manages identity and access control for Google Cloud resources, including the creation of service accounts, which you can use to authenticate to Google and make API calls. Enabling this API also enables the IAM Service Account Credentials API (iamcredentials.googleapis.com). However, disabling this API doesn't disable the IAM Service Account Credentials API.\n",
