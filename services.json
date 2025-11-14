@@ -5206,6 +5206,11 @@
   },
   {
     "domain": "astrocyte1.cloud.goog",
+    "name": "astrocyte-data-gateway-basic-isolated.endpoints.astrocyte1.cloud.goog",
+    "title": "Astrocyte Data Gateway- Basic Edition - Isolated Model"
+  },
+  {
+    "domain": "astrocyte1.cloud.goog",
     "name": "astrocyte-data-gateway.endpoints.astrocyte1.cloud.goog",
     "title": "Astrocyte Data Gateway"
   },
@@ -7238,6 +7243,11 @@
     "domain": "kyndryl-mkt.cloud.goog",
     "name": "campaing-content-agent.endpoints.kyndryl-mkt.cloud.goog",
     "title": "Campaign Content Agent "
+  },
+  {
+    "domain": "quantiphi-public-376012.cloud.goog",
+    "name": "candidatefinder.endpoints.quantiphi-public-376012.cloud.goog",
+    "title": "Candidate Finder"
   },
   {
     "domain": "cloudpartnerservices.goog",
@@ -12097,6 +12107,11 @@
     "title": "Data Validator Agent"
   },
   {
+    "domain": "quantiphi-public-376012.cloud.goog",
+    "name": "dataanalysisagent.endpoints.quantiphi-public-376012.cloud.goog",
+    "title": "Data Analysis Agent"
+  },
+  {
     "domain": "databricks-prod-master.cloud.goog",
     "name": "databricks.endpoints.databricks-prod-master.cloud.goog",
     "title": "Databricks"
@@ -14204,6 +14219,11 @@
     "title": "Cloud DNS API"
   },
   {
+    "domain": "fluentdata-ai.cloud.goog",
+    "name": "docdash.endpoints.fluentdata-ai.cloud.goog",
+    "title": "dotDash"
+  },
+  {
     "domain": "quantiphi-public-376012.cloud.goog",
     "name": "dociphi.endpoints.quantiphi-public-376012.cloud.goog",
     "title": "Dociphi ™"
@@ -15396,27 +15416,6 @@
     "domain": "googleapis.com",
     "name": "edgecache.googleapis.com",
     "title": "Global Edge Cache Service"
-  },
-  {
-    "domain": "googleapis.com",
-    "name": "edgecontainer.googleapis.com",
-    "title": "Distributed Cloud Edge Container API"
-  },
-  {
-    "documentation": "Network management API for Distributed Cloud Edge.",
-    "domain": "googleapis.com",
-    "name": "edgenetwork.googleapis.com",
-    "title": "Distributed Cloud Edge Network API"
-  },
-  {
-    "domain": "cybereason-public.cloud.goog",
-    "name": "edr.endpoints.cybereason-public.cloud.goog",
-    "title": "Endpoint Detection \u0026 Response"
-  },
-  {
-    "domain": "cloudpartnerservices.goog",
-    "name": "education-ml-pluto7-public.cloudpartnerservices.goog",
-    "title": "Pluto7 Education ML"
   },
   {
     "documentation": "Manages identity and access control for Google Cloud resources, including the creation of service accounts, which you can use to authenticate to Google and make API calls. Enabling this API also enables the IAM Service Account Credentials API (iamcredentials.googleapis.com). However, disabling this API doesn't disable the IAM Service Account Credentials API.\n",
