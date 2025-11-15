@@ -6652,6 +6652,11 @@
     "title": "Box AI Agent for Google Agentspace"
   },
   {
+    "domain": "box-jpn-public.cloud.goog",
+    "name": "box-intelligent-content-management-platform.endpoints.box-jpn-public.cloud.goog",
+    "title": "Box - Intelligent Content Management Platform"
+  },
+  {
     "domain": "box-public.cloud.goog",
     "name": "box-the-content-cloud.endpoints.box-public.cloud.goog",
     "title": "Box - The Content Cloud"
@@ -6780,6 +6785,11 @@
     "domain": "cloudpartnerservices.goog",
     "name": "breathe-breathe-gcp-public-data.cloudpartnerservices.goog",
     "title": "BREATHE BioMedical Literature Dataset"
+  },
+  {
+    "domain": "bren-public.cloud.goog",
+    "name": "bren.endpoints.bren-public.cloud.goog",
+    "title": "Bren"
   },
   {
     "domain": "bigquery-connectors-public.cloud.goog",
@@ -15406,16 +15416,6 @@
     "domain": "cloudpartnerservices.goog",
     "name": "edc1050-infamarketplace.cloudpartnerservices.goog",
     "title": "Informatica Enterprise Data Catalog 10.5.0"
-  },
-  {
-    "domain": "cloudpartnerservices.goog",
-    "name": "eddi-eddi-labs-ai-dev.cloudpartnerservices.goog",
-    "title": "LABS.AI E.D.D.I"
-  },
-  {
-    "domain": "googleapis.com",
-    "name": "edgecache.googleapis.com",
-    "title": "Global Edge Cache Service"
   },
   {
     "documentation": "Manages identity and access control for Google Cloud resources, including the creation of service accounts, which you can use to authenticate to Google and make API calls. Enabling this API also enables the IAM Service Account Credentials API (iamcredentials.googleapis.com). However, disabling this API doesn't disable the IAM Service Account Credentials API.\n",
