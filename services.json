@@ -5501,6 +5501,11 @@
     "title": "Automic Automation by Broadcom"
   },
   {
+    "domain": "ath-infosystems-public.cloud.goog",
+    "name": "automl.endpoints.ath-infosystems-public.cloud.goog",
+    "title": "AutoMl"
+  },
+  {
     "documentation": "Train high-quality custom machine learning models with minimum effort and machine learning expertise.",
     "domain": "googleapis.com",
     "name": "automl.googleapis.com",
@@ -15411,11 +15416,6 @@
     "domain": "infamarketplace.cloud.goog",
     "name": "edc-10511.endpoints.infamarketplace.cloud.goog",
     "title": "Informatica Enterprise Data Catalog 10.5.1.1"
-  },
-  {
-    "domain": "cloudpartnerservices.goog",
-    "name": "edc1041-infamarketplace.cloudpartnerservices.goog",
-    "title": "Informatica Enterprise Data Catalog 10.4.1"
   },
   {
     "documentation": "Manages identity and access control for Google Cloud resources, including the creation of service accounts, which you can use to authenticate to Google and make API calls. Enabling this API also enables the IAM Service Account Credentials API (iamcredentials.googleapis.com). However, disabling this API doesn't disable the IAM Service Account Credentials API.\n",
