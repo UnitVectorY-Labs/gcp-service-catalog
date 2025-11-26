@@ -11256,6 +11256,16 @@
   },
   {
     "domain": "cpanel-public-236511.cloud.goog",
+    "name": "cpanel-testing-admin-cloud-alma9.endpoints.cpanel-public-236511.cloud.goog",
+    "title": "cPanel Testing - AlmaLinux 9"
+  },
+  {
+    "domain": "cpanel-public-236511.cloud.goog",
+    "name": "cpanel-testing-admin-cloud-ubun22.endpoints.cpanel-public-236511.cloud.goog",
+    "title": "cPanel Testing - Ubuntu 22"
+  },
+  {
+    "domain": "cpanel-public-236511.cloud.goog",
     "name": "cpanel-whm-almalinux-gcp.endpoints.cpanel-public-236511.cloud.goog",
     "title": "cPanel \u0026 WHM on AlmaLinux"
   },
@@ -15406,16 +15416,6 @@
     "domain": "minsait-public.cloud.goog",
     "name": "ecosystems-archive-delivery-b2b.endpoints.minsait-public.cloud.goog",
     "title": "Ecosystems B2B Archive \u0026 Delivery "
-  },
-  {
-    "domain": "public-edb-ppas.cloud.goog",
-    "name": "edb-biganimal-postgresql-as-a-service.endpoints.public-edb-ppas.cloud.goog",
-    "title": "EDB BigAnimal: PostgreSQL as a Service"
-  },
-  {
-    "domain": "public-edb-ppas.cloud.goog",
-    "name": "edb-postgres-as-a-service-vm.endpoints.public-edb-ppas.cloud.goog",
-    "title": "EDB: 360"
   },
   {
     "documentation": "Manages identity and access control for Google Cloud resources, including the creation of service accounts, which you can use to authenticate to Google and make API calls. Enabling this API also enables the IAM Service Account Credentials API (iamcredentials.googleapis.com). However, disabling this API doesn't disable the IAM Service Account Credentials API.\n",
