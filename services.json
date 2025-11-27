@@ -2922,6 +2922,11 @@
     "title": "Aeris-CVC"
   },
   {
+    "domain": "aeriscom-iotamktplc-prd-202506.cloud.goog",
+    "name": "aeris-iot-watchtower.endpoints.aeriscom-iotamktplc-prd-202506.cloud.goog",
+    "title": "Aeris IoT Watchtower"
+  },
+  {
     "domain": "crested-studio-473313-f0.cloud.goog",
     "name": "aero-parser.endpoints.crested-studio-473313-f0.cloud.goog",
     "title": "Aero Parser"
@@ -5226,6 +5231,11 @@
   },
   {
     "domain": "ath-infosystems-public.cloud.goog",
+    "name": "athai-cloudoptimizer.endpoints.ath-infosystems-public.cloud.goog",
+    "title": "ATH AI-Cloud Optimizer"
+  },
+  {
+    "domain": "ath-infosystems-public.cloud.goog",
     "name": "athaipoweredinsuranceautomationsolution.endpoints.ath-infosystems-public.cloud.goog",
     "title": " ATH AI-powered insurance automation solution"
   },
@@ -6790,6 +6800,11 @@
     "domain": "bigquery-connectors-public.cloud.goog",
     "name": "braze.endpoints.bigquery-connectors-public.cloud.goog",
     "title": "Braze by Windsor.ai"
+  },
+  {
+    "domain": "decisioning-studio-marketplace.cloud.goog",
+    "name": "brazeai-decisioning-studio.endpoints.decisioning-studio-marketplace.cloud.goog",
+    "title": "BrazeAI Decisioning Studio"
   },
   {
     "domain": "cloudpartnerservices.goog",
@@ -12602,6 +12617,11 @@
     "title": "Debian 12 XFCE GUI Desktop"
   },
   {
+    "domain": "elmcomputing-public.cloud.goog",
+    "name": "debian-13-xfce-gui-desktop.endpoints.elmcomputing-public.cloud.goog",
+    "title": "Debian 13 XFCE GUI Desktop"
+  },
+  {
     "domain": "cloudpartnerservices.goog",
     "name": "debian-9-atomized-frontline-public.cloudpartnerservices.goog",
     "title": "Frontline Debian 9"
@@ -15396,26 +15416,6 @@
     "domain": "bigquery-public-data.cloud.goog",
     "name": "ecmwf-opendata.endpoints.bigquery-public-data.cloud.goog",
     "title": "ECMWF Open Data"
-  },
-  {
-    "domain": "corpsvc-gpm-da-mp-prd-5817.cloud.goog",
-    "name": "economic-cohorts.endpoints.corpsvc-gpm-da-mp-prd-5817.cloud.goog",
-    "title": "Economic Cohorts"
-  },
-  {
-    "domain": "economize-public.cloud.goog",
-    "name": "economize-cloud.endpoints.economize-public.cloud.goog",
-    "title": "Economize"
-  },
-  {
-    "domain": "economize-public.cloud.goog",
-    "name": "economize.endpoints.economize-public.cloud.goog",
-    "title": "Economize"
-  },
-  {
-    "domain": "minsait-public.cloud.goog",
-    "name": "ecosystems-archive-delivery-b2b.endpoints.minsait-public.cloud.goog",
-    "title": "Ecosystems B2B Archive \u0026 Delivery "
   },
   {
     "documentation": "Manages identity and access control for Google Cloud resources, including the creation of service accounts, which you can use to authenticate to Google and make API calls. Enabling this API also enables the IAM Service Account Credentials API (iamcredentials.googleapis.com). However, disabling this API doesn't disable the IAM Service Account Credentials API.\n",
