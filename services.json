@@ -12380,6 +12380,11 @@
     "title": "Data pipelines API"
   },
   {
+    "domain": "dataplatr-public.cloud.goog",
+    "name": "dataplatr-oracle-ebs-gl.endpoints.dataplatr-public.cloud.goog",
+    "title": "Dataplatr - GL Accelerator for Oracle EBS"
+  },
+  {
     "documentation": "A unified, intelligent governance solution for data and AI assets.",
     "domain": "googleapis.com",
     "name": "dataplex.googleapis.com",
@@ -15416,6 +15421,254 @@
     "domain": "eclypsium-public.cloud.goog",
     "name": "eclypsium-platform.endpoints.eclypsium-public.cloud.goog",
     "title": "Eclypsium Platform"
+  },
+  {
+    "domain": "ecmp-public.cloud.goog",
+    "name": "ecmp.endpoints.ecmp-public.cloud.goog",
+    "title": "Elite Cloud Management Service"
+  },
+  {
+    "domain": "bigquery-public-data.cloud.goog",
+    "name": "ecmwf-opendata.endpoints.bigquery-public-data.cloud.goog",
+    "title": "ECMWF Open Data"
+  },
+  {
+    "domain": "corpsvc-gpm-da-mp-prd-5817.cloud.goog",
+    "name": "economic-cohorts.endpoints.corpsvc-gpm-da-mp-prd-5817.cloud.goog",
+    "title": "Economic Cohorts"
+  },
+  {
+    "domain": "economize-public.cloud.goog",
+    "name": "economize-cloud.endpoints.economize-public.cloud.goog",
+    "title": "Economize"
+  },
+  {
+    "domain": "economize-public.cloud.goog",
+    "name": "economize.endpoints.economize-public.cloud.goog",
+    "title": "Economize"
+  },
+  {
+    "domain": "minsait-public.cloud.goog",
+    "name": "ecosystems-archive-delivery-b2b.endpoints.minsait-public.cloud.goog",
+    "title": "Ecosystems B2B Archive \u0026 Delivery "
+  },
+  {
+    "domain": "public-edb-ppas.cloud.goog",
+    "name": "edb-biganimal-postgresql-as-a-service.endpoints.public-edb-ppas.cloud.goog",
+    "title": "EDB BigAnimal: PostgreSQL as a Service"
+  },
+  {
+    "domain": "public-edb-ppas.cloud.goog",
+    "name": "edb-postgres-as-a-service-vm.endpoints.public-edb-ppas.cloud.goog",
+    "title": "EDB: 360"
+  },
+  {
+    "domain": "public-edb-ppas.cloud.goog",
+    "name": "edb-postgresql.endpoints.public-edb-ppas.cloud.goog",
+    "title": "EDB Community 360 PostgreSQL"
+  },
+  {
+    "domain": "public-edb-ppas.cloud.goog",
+    "name": "edb-vm.endpoints.public-edb-ppas.cloud.goog",
+    "title": "EDB: Postgres-as-a-Service VM"
+  },
+  {
+    "domain": "infamarketplace.cloud.goog",
+    "name": "edc-10511.endpoints.infamarketplace.cloud.goog",
+    "title": "Informatica Enterprise Data Catalog 10.5.1.1"
+  },
+  {
+    "domain": "cloudpartnerservices.goog",
+    "name": "edc1041-infamarketplace.cloudpartnerservices.goog",
+    "title": "Informatica Enterprise Data Catalog 10.4.1"
+  },
+  {
+    "domain": "cloudpartnerservices.goog",
+    "name": "edc1050-infamarketplace.cloudpartnerservices.goog",
+    "title": "Informatica Enterprise Data Catalog 10.5.0"
+  },
+  {
+    "domain": "cloudpartnerservices.goog",
+    "name": "eddi-eddi-labs-ai-dev.cloudpartnerservices.goog",
+    "title": "LABS.AI E.D.D.I"
+  },
+  {
+    "domain": "googleapis.com",
+    "name": "edgecache.googleapis.com",
+    "title": "Global Edge Cache Service"
+  },
+  {
+    "domain": "googleapis.com",
+    "name": "edgecontainer.googleapis.com",
+    "title": "Distributed Cloud Edge Container API"
+  },
+  {
+    "documentation": "Network management API for Distributed Cloud Edge.",
+    "domain": "googleapis.com",
+    "name": "edgenetwork.googleapis.com",
+    "title": "Distributed Cloud Edge Network API"
+  },
+  {
+    "domain": "cybereason-public.cloud.goog",
+    "name": "edr.endpoints.cybereason-public.cloud.goog",
+    "title": "Endpoint Detection \u0026 Response"
+  },
+  {
+    "domain": "cloudpartnerservices.goog",
+    "name": "education-ml-pluto7-public.cloudpartnerservices.goog",
+    "title": "Pluto7 Education ML"
+  },
+  {
+    "domain": "cloudpartnerservices.goog",
+    "name": "education-the-world-bank.cloudpartnerservices.goog",
+    "title": "The World Bank International Education"
+  },
+  {
+    "domain": "hclsw-gcp-mrktplc-public.cloud.goog",
+    "name": "educational-shorts-pdf-images-agent-suite.endpoints.hclsw-gcp-mrktplc-public.cloud.goog",
+    "title": "Educational Shorts PDF Images Agent Suite"
+  },
+  {
+    "domain": "spoors-cloud-public.cloud.goog",
+    "name": "effort.endpoints.spoors-cloud-public.cloud.goog",
+    "title": "EFFORT"
+  },
+  {
+    "domain": "corpsvc-gpm-da-mp-prd-5817.cloud.goog",
+    "name": "efx-ignite-auto-suite.endpoints.corpsvc-gpm-da-mp-prd-5817.cloud.goog",
+    "title": "Automotive Data \u0026 Analytics Suite"
+  },
+  {
+    "domain": "eg-universal-agent-public.cloud.goog",
+    "name": "eg-innovations.endpoints.eg-universal-agent-public.cloud.goog",
+    "title": "eG Innovations"
+  },
+  {
+    "domain": "egnyte-public.cloud.goog",
+    "name": "egnyte.endpoints.egnyte-public.cloud.goog",
+    "title": "Egnyte"
+  },
+  {
+    "domain": "bcloud-public.cloud.goog",
+    "name": "einops.endpoints.bcloud-public.cloud.goog",
+    "title": "Einops"
+  },
+  {
+    "domain": "bitnami-launchpad.cloud.goog",
+    "name": "ejbca.endpoints.bitnami-launchpad.cloud.goog",
+    "title": "EJBCA packaged by Bitnami"
+  },
+  {
+    "domain": "cloudpartnerservices.goog",
+    "name": "ekms-dpod-dev1-thales-cpl-slingshot-dev.cloudpartnerservices.goog",
+    "title": "Thales - Dev Environment CipherTrust Key Broker (DEV1) Reporting Service"
+  },
+  {
+    "domain": "cloudpartnerservices.goog",
+    "name": "ekms-dpod-eu-thales-cpl-public.cloudpartnerservices.goog",
+    "title": "Thales CPL ekms-dpod-eu Reporting Service"
+  },
+  {
+    "domain": "prod-elastic-cloud-billing.cloud.goog",
+    "name": "elastic-agent.endpoints.prod-elastic-cloud-billing.cloud.goog",
+    "title": "Elastic Agent"
+  },
+  {
+    "domain": "prod-elastic-cloud-billing.cloud.goog",
+    "name": "elastic-cloud.endpoints.prod-elastic-cloud-billing.cloud.goog",
+    "title": "Elastic Cloud (Elasticsearch Service)"
+  },
+  {
+    "domain": "prod-elastic-cloud-billing.cloud.goog",
+    "name": "elastic-content-agent.endpoints.prod-elastic-cloud-billing.cloud.goog",
+    "title": "Elastic Content Analysis Agent "
+  },
+  {
+    "domain": "ambient-odyssey-417807.cloud.goog",
+    "name": "elastic-to-vertex-ai-search.endpoints.ambient-odyssey-417807.cloud.goog",
+    "title": "Elastic to Vertex AI Search"
+  },
+  {
+    "domain": "elasticio-public.cloud.goog",
+    "name": "elastic.io.endpoints.elasticio-public.cloud.goog",
+    "title": "Elastic.io iPaaS - Integration Platform"
+  },
+  {
+    "domain": "cloudpartnerservices.goog",
+    "name": "elasticsearch-click-to-deploy-images.cloudpartnerservices.goog",
+    "title": "Google Click to Deploy Elasticsearch"
+  },
+  {
+    "domain": "cloud-infra-services-public.cloud.goog",
+    "name": "elasticsearch-kibana.endpoints.cloud-infra-services-public.cloud.goog",
+    "title": "Elasticsearch with Kibana on Ubuntu"
+  },
+  {
+    "domain": "apps4rentllc-public.cloud.goog",
+    "name": "elasticsearch-on-debian10.endpoints.apps4rentllc-public.cloud.goog",
+    "title": "Elasticsearch on Debian10"
+  },
+  {
+    "domain": "apps4rentllc-public.cloud.goog",
+    "name": "elasticsearch-on-debian11.endpoints.apps4rentllc-public.cloud.goog",
+    "title": "Elasticsearch-on-Debian11"
+  },
+  {
+    "domain": "apps4rentllc-public.cloud.goog",
+    "name": "elasticsearch-on-debian12.endpoints.apps4rentllc-public.cloud.goog",
+    "title": "Elasticsearch-on-Debian12"
+  },
+  {
+    "domain": "apps4rentllc-public.cloud.goog",
+    "name": "elasticsearch-on-ubuntu24-04.endpoints.apps4rentllc-public.cloud.goog",
+    "title": "Elasticsearch-on-Ubuntu24-04"
+  },
+  {
+    "domain": "apps4rentllc-public.cloud.goog",
+    "name": "elasticsearch-service-on-ubuntu20.endpoints.apps4rentllc-public.cloud.goog",
+    "title": "Elasticsearch-Service-on-ubuntu20.04"
+  },
+  {
+    "domain": "apps4rentllc-public.cloud.goog",
+    "name": "elasticsearch-service-on-ubuntu22.endpoints.apps4rentllc-public.cloud.goog",
+    "title": "Elasticsearch-Service-on-ubuntu22.04"
+  },
+  {
+    "documentation": "Elasticsearch Summary",
+    "domain": "elastic.co",
+    "name": "elasticsearch-service.gcpmarketplace.elastic.co",
+    "title": "Elasticsearch Service on Elastic Cloud - Standard"
+  },
+  {
+    "domain": "ath-infosystems-public.cloud.goog",
+    "name": "elasticsearch.endpoints.ath-infosystems-public.cloud.goog",
+    "title": "Elasticsearch"
+  },
+  {
+    "domain": "cloudpartnerservices.goog",
+    "name": "elastifile-cloud-file-system-ext-elastifle-public-196717.cloudpartnerservices.goog",
+    "title": "Elastifile Cloud File System - Registration Page"
+  },
+  {
+    "domain": "elevate-marketplace-prod.cloud.goog",
+    "name": "elevate.endpoints.elevate-marketplace-prod.cloud.goog",
+    "title": "Elevate"
+  },
+  {
+    "documentation": "Query all locations on the surface of earth, including depth locations on\n    the ocean floor (which return negative values), for elevation data with the\n    Maps Elevation API. Sampled requests are available for elevation data\n    along paths, allowing elevation change calculation along routes.",
+    "domain": "googleapis.com",
+    "name": "elevation-backend.googleapis.com",
+    "title": "Maps Elevation API"
+  },
+  {
+    "domain": "elevenlabs-public.cloud.goog",
+    "name": "elevenlabs-tts-and-audio-ai-platform.endpoints.elevenlabs-public.cloud.goog",
+    "title": "Elevenlabs"
+  },
+  {
+    "domain": "ecmp-public.cloud.goog",
+    "name": "elipedia.endpoints.ecmp-public.cloud.goog",
+    "title": "Elipedia"
   },
   {
     "documentation": "Manages identity and access control for Google Cloud resources, including the creation of service accounts, which you can use to authenticate to Google and make API calls. Enabling this API also enables the IAM Service Account Credentials API (iamcredentials.googleapis.com). However, disabling this API doesn't disable the IAM Service Account Credentials API.\n",
