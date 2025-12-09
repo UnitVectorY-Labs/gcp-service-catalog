@@ -4828,6 +4828,7 @@
     "title": "AppGate - ZTNA"
   },
   {
+    "documentation": "App Hub lets you build, operate, and manage applications on Google Cloud.",
     "domain": "googleapis.com",
     "name": "apphub.googleapis.com",
     "title": "App Hub API"
