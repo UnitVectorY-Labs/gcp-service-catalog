@@ -226,6 +226,11 @@
   },
   {
     "domain": "abs-techcompany-public-2025.cloud.goog",
+    "name": "abs.premimum.ver4.endpoints.abs-techcompany-public-2025.cloud.goog",
+    "title": "ABS Premium LMS powered by Moodle™ ver4"
+  },
+  {
+    "domain": "abs-techcompany-public-2025.cloud.goog",
     "name": "abs.premium.lms.version457.endpoints.abs-techcompany-public-2025.cloud.goog",
     "title": "ABS Professional LMS powered by Moodle™ ver4"
   },
@@ -5795,6 +5800,11 @@
     "title": "Miri Infotech BACKDROP CMS"
   },
   {
+    "domain": "backslash-security-public.cloud.goog",
+    "name": "backslash.security.endpoints.backslash-security-public.cloud.goog",
+    "title": "backslash.security"
+  },
+  {
     "domain": "hclsw-gcp-mrktplc-public.cloud.goog",
     "name": "backup-recovery-agent.endpoints.hclsw-gcp-mrktplc-public.cloud.goog",
     "title": "Backup \u0026 Recovery Agent"
@@ -6418,6 +6428,11 @@
     "domain": "bigquery-connectors-public.cloud.goog",
     "name": "bling.endpoints.bigquery-connectors-public.cloud.goog",
     "title": "Bling by Windsor.ai"
+  },
+  {
+    "domain": "blitzy-public.cloud.goog",
+    "name": "blitzy-public-main.endpoints.blitzy-public.cloud.goog",
+    "title": "Blitzy"
   },
   {
     "domain": "blitzy-public.cloud.goog",
@@ -8261,6 +8276,11 @@
   },
   {
     "domain": "cis-public.cloud.goog",
+    "name": "cis-hi-l1-on-rhel-10.endpoints.cis-public.cloud.goog",
+    "title": "CIS Hardened Image Level 1 on Red Hat Enterprise Linux 10"
+  },
+  {
+    "domain": "cis-public.cloud.goog",
     "name": "cis-hi-l1-on-rhel-8.endpoints.cis-public.cloud.goog",
     "title": "CIS Hardened Image Level 1 on CIS Red Hat Enterprise Linux 8"
   },
@@ -8318,6 +8338,11 @@
     "domain": "cis-public.cloud.goog",
     "name": "cis-hi-l2-on-ms-windows-2025.endpoints.cis-public.cloud.goog",
     "title": "CIS Hardened Image Level 2 on Microsoft Windows Server 2025"
+  },
+  {
+    "domain": "cis-public.cloud.goog",
+    "name": "cis-hi-l2-on-rhel-10.endpoints.cis-public.cloud.goog",
+    "title": "CIS Hardened Image Level 2 on Red Hat Enterprise Linux 10"
   },
   {
     "domain": "cis-public.cloud.goog",
@@ -11993,6 +12018,16 @@
     "title": "Agentic CV Parser API"
   },
   {
+    "domain": "cvlt-marketplace-public.cloud.goog",
+    "name": "cvlt-cloud-linux-media-agent-node.endpoints.cvlt-marketplace-public.cloud.goog",
+    "title": "Commvault Cloud Linux Media Agent Node BYOL"
+  },
+  {
+    "domain": "cvlt-marketplace-public.cloud.goog",
+    "name": "cvlt-windows-mediaagent.endpoints.cvlt-marketplace-public.cloud.goog",
+    "title": "Commvault MediaAgent (Windows) BYOL"
+  },
+  {
     "domain": "cpacket-public.cloud.goog",
     "name": "cvu-v.endpoints.cpacket-public.cloud.goog",
     "title": " cPacket cVu-V - Cloud Packet Broker"
@@ -15632,42 +15667,6 @@
     "domain": "googleapis.com",
     "name": "edgecontainer.googleapis.com",
     "title": "Distributed Cloud Edge Container API"
-  },
-  {
-    "documentation": "Network management API for Distributed Cloud Edge.",
-    "domain": "googleapis.com",
-    "name": "edgenetwork.googleapis.com",
-    "title": "Distributed Cloud Edge Network API"
-  },
-  {
-    "domain": "cybereason-public.cloud.goog",
-    "name": "edr.endpoints.cybereason-public.cloud.goog",
-    "title": "Endpoint Detection \u0026 Response"
-  },
-  {
-    "domain": "cloudpartnerservices.goog",
-    "name": "education-ml-pluto7-public.cloudpartnerservices.goog",
-    "title": "Pluto7 Education ML"
-  },
-  {
-    "domain": "cloudpartnerservices.goog",
-    "name": "education-the-world-bank.cloudpartnerservices.goog",
-    "title": "The World Bank International Education"
-  },
-  {
-    "domain": "hclsw-gcp-mrktplc-public.cloud.goog",
-    "name": "educational-shorts-pdf-images-agent-suite.endpoints.hclsw-gcp-mrktplc-public.cloud.goog",
-    "title": "Educational Shorts PDF Images Agent Suite"
-  },
-  {
-    "domain": "spoors-cloud-public.cloud.goog",
-    "name": "effort.endpoints.spoors-cloud-public.cloud.goog",
-    "title": "EFFORT"
-  },
-  {
-    "domain": "corpsvc-gpm-da-mp-prd-5817.cloud.goog",
-    "name": "efx-ignite-auto-suite.endpoints.corpsvc-gpm-da-mp-prd-5817.cloud.goog",
-    "title": "Automotive Data \u0026 Analytics Suite"
   },
   {
     "documentation": "Manages identity and access control for Google Cloud resources, including the creation of service accounts, which you can use to authenticate to Google and make API calls. Enabling this API also enables the IAM Service Account Credentials API (iamcredentials.googleapis.com). However, disabling this API doesn't disable the IAM Service Account Credentials API.\n",
