@@ -3570,6 +3570,11 @@
     "title": "Google Click to Deploy Alfresco Community Edition"
   },
   {
+    "domain": "ath-infosystems-public.cloud.goog",
+    "name": "alibabacloudoss.endpoints.ath-infosystems-public.cloud.goog",
+    "title": "Gencore AI for Alibaba Cloud OSS"
+  },
+  {
     "domain": "cloud-prod-0.cloud.goog",
     "name": "alice-bob-quantum-cloud.endpoints.cloud-prod-0.cloud.goog",
     "title": "Alice \u0026 Bob Quantum Cloud"
@@ -9714,6 +9719,11 @@
   },
   {
     "domain": "cloudtriosolutions-public.cloud.goog",
+    "name": "cloudtrio-clickhouse-debian12.endpoints.cloudtriosolutions-public.cloud.goog",
+    "title": "Cloudtrio-Clickhouse-Debian12"
+  },
+  {
+    "domain": "cloudtriosolutions-public.cloud.goog",
     "name": "cloudtrio-clickhouse-ubuntu22.endpoints.cloudtriosolutions-public.cloud.goog",
     "title": "Cloudtrio-Clickhouse-Ubuntu22"
   },
@@ -9731,6 +9741,16 @@
     "domain": "cloudtriosolutions-public.cloud.goog",
     "name": "cloudtrio-dockerengine-debian12.endpoints.cloudtriosolutions-public.cloud.goog",
     "title": "Cloudtrio-Dockerengine-Debian12"
+  },
+  {
+    "domain": "cloudtriosolutions-public.cloud.goog",
+    "name": "cloudtrio-dockerengine-ubuntu24-04lts.endpoints.cloudtriosolutions-public.cloud.goog",
+    "title": "Cloudtrio-Dockerengine-Ubuntu24-04LTS"
+  },
+  {
+    "domain": "cloudtriosolutions-public.cloud.goog",
+    "name": "cloudtrio-dockerengineubuntu25.endpoints.cloudtriosolutions-public.cloud.goog",
+    "title": "Cloudtrio-Dockerengine-Ubuntu25"
   },
   {
     "domain": "cloudtriosolutions-public.cloud.goog",
@@ -9811,6 +9831,11 @@
     "domain": "cloudtriosolutions-public.cloud.goog",
     "name": "cloudtrio-lampstack-ubuntu22-04lts.endpoints.cloudtriosolutions-public.cloud.goog",
     "title": "Cloudtrio-Lampstack-Ubuntu22-04LTS"
+  },
+  {
+    "domain": "cloudtriosolutions-public.cloud.goog",
+    "name": "cloudtrio-lampstack-ubuntu24-04lts.endpoints.cloudtriosolutions-public.cloud.goog",
+    "title": "Cloudtrio-Lampstack-Ubuntu24-04LTS"
   },
   {
     "domain": "cloudtriosolutions-public.cloud.goog",
@@ -15161,6 +15186,237 @@
     "domain": "louaosh-acn-ai-agent-marketpla.cloud.goog",
     "name": "docuverse-navigator.endpoints.louaosh-acn-ai-agent-marketpla.cloud.goog",
     "title": "DocuVerse Navigator"
+  },
+  {
+    "domain": "cloudpartnerservices.goog",
+    "name": "docxtend-for-oracle-byol-tecknolab-public.cloudpartnerservices.goog",
+    "title": "Tecknolab docXtend no-code business app integration with content manager"
+  },
+  {
+    "domain": "cloudpartnerservices.goog",
+    "name": "docxtend-for-sqlserver-byol-tecknolab-public.cloudpartnerservices.goog",
+    "title": "Tecknolab docxtend-for-sqlserver-byol"
+  },
+  {
+    "domain": "duskrise-public.cloud.goog",
+    "name": "dogma.endpoints.duskrise-public.cloud.goog",
+    "title": "DOGMA"
+  },
+  {
+    "domain": "doit-intl-public.cloud.goog",
+    "name": "doit-cloud-cost-anomaly-detection.endpoints.doit-intl-public.cloud.goog",
+    "title": "DoiT Cloud Cost Anomaly Detection"
+  },
+  {
+    "domain": "doit-intl-public.cloud.goog",
+    "name": "doit-cloud-intelligence.endpoints.doit-intl-public.cloud.goog",
+    "title": "DoiT Cloud Intelligence"
+  },
+  {
+    "domain": "doit-intl-public.cloud.goog",
+    "name": "doit-flexsave.endpoints.doit-intl-public.cloud.goog",
+    "title": "DoiT Flexsave"
+  },
+  {
+    "domain": "cloudpartnerservices.goog",
+    "name": "dokuwiki-25-3-20-miriinfotech-public.cloudpartnerservices.goog",
+    "title": "Miri Infotech Dokuwiki"
+  },
+  {
+    "domain": "cloudpartnerservices.goog",
+    "name": "dokuwiki-bitnami-launchpad.cloudpartnerservices.goog",
+    "title": "Bitnami DokuWiki Certified by Bitnami"
+  },
+  {
+    "domain": "cloudpartnerservices.goog",
+    "name": "dokuwiki-click-to-deploy-images.cloudpartnerservices.goog",
+    "title": "Google Click to Deploy DokuWiki"
+  },
+  {
+    "domain": "cloudpartnerservices.goog",
+    "name": "dolibarr-05-02-2020-miriinfotech-public.cloudpartnerservices.goog",
+    "title": "Miri Infotech Dolibarr"
+  },
+  {
+    "domain": "cloudpartnerservices.goog",
+    "name": "dolibarr-bitnami-launchpad.cloudpartnerservices.goog",
+    "title": "Bitnami Dolibarr Certified by Bitnami"
+  },
+  {
+    "domain": "cloudpartnerservices.goog",
+    "name": "dolibarr-click-to-deploy-images.cloudpartnerservices.goog",
+    "title": "Google Click to Deploy Dolibarr"
+  },
+  {
+    "domain": "anarion-technologies-public.cloud.goog",
+    "name": "dolibarr.endpoints.anarion-technologies-public.cloud.goog",
+    "title": "Dolibarr v21.0.4 on Ubuntu24"
+  },
+  {
+    "domain": "miriinfotech-public.cloud.goog",
+    "name": "dolphin.endpoints.miriinfotech-public.cloud.goog",
+    "title": "Dolphin"
+  },
+  {
+    "documentation": "Enables management and configuration of domain names.",
+    "domain": "googleapis.com",
+    "name": "domains.googleapis.com",
+    "title": "Cloud Domains API"
+  },
+  {
+    "domain": "trydome-public.cloud.goog",
+    "name": "dome-platform.endpoints.trydome-public.cloud.goog",
+    "title": "Dome Platform"
+  },
+  {
+    "domain": "domo-public.cloud.goog",
+    "name": "domo-platform.endpoints.domo-public.cloud.goog",
+    "title": "Domo"
+  },
+  {
+    "domain": "doppel-public.cloud.goog",
+    "name": "doppel-vision.endpoints.doppel-public.cloud.goog",
+    "title": "Doppel Vision"
+  },
+  {
+    "domain": "apps4rentllc-public.cloud.goog",
+    "name": "dot-net-on-debian11.endpoints.apps4rentllc-public.cloud.goog",
+    "title": "Dot Net on Debian11"
+  },
+  {
+    "domain": "apps4rentllc-public.cloud.goog",
+    "name": "dot-net-on-debian12.endpoints.apps4rentllc-public.cloud.goog",
+    "title": "Dot Net on Debian12"
+  },
+  {
+    "domain": "apps4rentllc-public.cloud.goog",
+    "name": "dot-net-on-ubuntu-20.endpoints.apps4rentllc-public.cloud.goog",
+    "title": "Dot Net on Ubuntu 20.04"
+  },
+  {
+    "domain": "apps4rentllc-public.cloud.goog",
+    "name": "dot-net-on-ubuntu-22.endpoints.apps4rentllc-public.cloud.goog",
+    "title": "Dot Net on Ubuntu 22.04"
+  },
+  {
+    "domain": "apps4rentllc-public.cloud.goog",
+    "name": "dot-net-on-ubuntu-24.endpoints.apps4rentllc-public.cloud.goog",
+    "title": "Dot Net on Ubuntu 24.04"
+  },
+  {
+    "domain": "cloudpartnerservices.goog",
+    "name": "dotclear-25-3-20-miriinfotech-public.cloudpartnerservices.goog",
+    "title": "Miri Infotech Dotclear"
+  },
+  {
+    "documentation": "DoubleClick Bid Manager API allows users to manage and create campaigns and reports.",
+    "domain": "googleapis.com",
+    "name": "doubleclickbidmanager.googleapis.com",
+    "title": "DoubleClick Bid Manager API"
+  },
+  {
+    "documentation": "The Search Ads 360 API allows developers to automate uploading conversions and downloading reports from Search Ads 360.",
+    "domain": "googleapis.com",
+    "name": "doubleclicksearch.googleapis.com",
+    "title": "Search Ads 360 API"
+  },
+  {
+    "domain": "tim-prod-prj-1.cloud.goog",
+    "name": "doxee-platform-1.endpoints.tim-prod-prj-1.cloud.goog",
+    "title": "Doxee Platform"
+  },
+  {
+    "domain": "datapelago-public.cloud.goog",
+    "name": "dpsa-1111-1111-1111.endpoints.datapelago-public.cloud.goog",
+    "title": "DataPelago Spark Accelerator"
+  },
+  {
+    "domain": "dng-production.cloud.goog",
+    "name": "draftngoal-standalone.endpoints.dng-production.cloud.goog",
+    "title": "Draft\u0026Goal"
+  },
+  {
+    "domain": "dragonflydb-public.cloud.goog",
+    "name": "dragonfly-cloud.endpoints.dragonflydb-public.cloud.goog",
+    "title": "Dragonfly Cloud"
+  },
+  {
+    "domain": "bigquery-connectors-public.cloud.goog",
+    "name": "dragonmetrics.endpoints.bigquery-connectors-public.cloud.goog",
+    "title": "Dragon Metrics by Windsor.ai"
+  },
+  {
+    "domain": "drata-public.cloud.goog",
+    "name": "drata-security-compliance-automation-platform.endpoints.drata-public.cloud.goog",
+    "title": "Drata Security \u0026 Compliance Automation Platform"
+  },
+  {
+    "domain": "caddi-public.cloud.goog",
+    "name": "drawer-us-privateoffer.endpoints.caddi-public.cloud.goog",
+    "title": "CADDi Drawer "
+  },
+  {
+    "domain": "cloudpartnerservices.goog",
+    "name": "dreamfactory-bitnami-launchpad.cloudpartnerservices.goog",
+    "title": "Bitnami DreamFactory Certified by Bitnami"
+  },
+  {
+    "domain": "cloudpartnerservices.goog",
+    "name": "dreamfactory-click-to-deploy-images.cloudpartnerservices.goog",
+    "title": "Google Click to Deploy DreamFactory"
+  },
+  {
+    "documentation": "The Google Drive API allows clients to access resources from Google Drive.",
+    "domain": "googleapis.com",
+    "name": "drive.googleapis.com",
+    "title": "Google Drive API"
+  },
+  {
+    "documentation": "Provides a historical view of activity in Google Drive.",
+    "domain": "googleapis.com",
+    "name": "driveactivity.googleapis.com",
+    "title": "Drive Activity API"
+  },
+  {
+    "documentation": "An API for managing Drive Labels",
+    "domain": "googleapis.com",
+    "name": "drivelabels.googleapis.com",
+    "title": "Drive Labels API"
+  },
+  {
+    "domain": "drivepoint-public.cloud.goog",
+    "name": "drivepointfullsolution.endpoints.drivepoint-public.cloud.goog",
+    "title": "Drivepoint"
+  },
+  {
+    "domain": "bcloud-public.cloud.goog",
+    "name": "druid.endpoints.bcloud-public.cloud.goog",
+    "title": "Apache Druid"
+  },
+  {
+    "domain": "cloudpartnerservices.goog",
+    "name": "drupal-30-september-2019-miriinfotech-public.cloudpartnerservices.goog",
+    "title": "Miri Infotech DRUPAL8"
+  },
+  {
+    "domain": "cloudpartnerservices.goog",
+    "name": "drupal-bitnami-launchpad.cloudpartnerservices.goog",
+    "title": "Bitnami Drupal Certified by Bitnami"
+  },
+  {
+    "domain": "cloudpartnerservices.goog",
+    "name": "drupal-click-to-deploy-images.cloudpartnerservices.goog",
+    "title": "Google Click to Deploy Drupal"
+  },
+  {
+    "domain": "cognosys-public.cloud.goog",
+    "name": "drupal-on-centos-6-34633.endpoints.cognosys-public.cloud.goog",
+    "title": "Drupal on Centos 6"
+  },
+  {
+    "domain": "cognosys-public.cloud.goog",
+    "name": "drupal-on-centos-7-34632.endpoints.cognosys-public.cloud.goog",
+    "title": "Drupal on Centos 7"
   },
   {
     "documentation": "Manages identity and access control for Google Cloud resources, including the creation of service accounts, which you can use to authenticate to Google and make API calls. Enabling this API also enables the IAM Service Account Credentials API (iamcredentials.googleapis.com). However, disabling this API doesn't disable the IAM Service Account Credentials API.\n",
