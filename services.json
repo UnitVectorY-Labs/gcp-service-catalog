@@ -6607,6 +6607,16 @@
     "title": "BMC Control-M Listing for VM Transations - PRIVATE"
   },
   {
+    "domain": "saascribe-public-cloudzone.cloud.goog",
+    "name": "bmc-helix-discovery-saas-wrapper.endpoints.saascribe-public-cloudzone.cloud.goog",
+    "title": "BMC Helix Discovery"
+  },
+  {
+    "domain": "saascribe-public-cloudzone.cloud.goog",
+    "name": "bmc-helix-discovery-saas.endpoints.saascribe-public-cloudzone.cloud.goog",
+    "title": "BMC Helix Discovery"
+  },
+  {
     "domain": "bmcmarketplace.cloud.goog",
     "name": "bmc-helix-enterprise-service-management.endpoints.bmcmarketplace.cloud.goog",
     "title": "BMC Helix Enterprise Service Management"
@@ -9971,6 +9981,11 @@
     "domain": "cloudtriosolutions-public.cloud.goog",
     "name": "cloudtrio-pytorch-debian12.endpoints.cloudtriosolutions-public.cloud.goog",
     "title": "Cloudtrio-Pytorch-Debian12"
+  },
+  {
+    "domain": "cloudtriosolutions-public.cloud.goog",
+    "name": "cloudtrio-pytorch-ubuntu22-04lts.endpoints.cloudtriosolutions-public.cloud.goog",
+    "title": "Cloudtrio-Pytorch-Ubuntu22-04LTS"
   },
   {
     "domain": "cloudtriosolutions-public.cloud.goog",
@@ -14894,21 +14909,6 @@
     "domain": "apps4rentllc-public.cloud.goog",
     "name": "docker-engine-java-on-debian12.endpoints.apps4rentllc-public.cloud.goog",
     "title": "Docker Engine, Java on Debian12"
-  },
-  {
-    "domain": "apps4rentllc-public.cloud.goog",
-    "name": "docker-engine-java-on-ubuntu20.endpoints.apps4rentllc-public.cloud.goog",
-    "title": "Docker Engine, Java on Ubuntu 20.04"
-  },
-  {
-    "domain": "apps4rentllc-public.cloud.goog",
-    "name": "docker-engine-java-on-ubuntu22.endpoints.apps4rentllc-public.cloud.goog",
-    "title": "Docker Engine, Java on Ubuntu 22.04"
-  },
-  {
-    "domain": "apps4rentllc-public.cloud.goog",
-    "name": "docker-engine-java-on-ubuntu24.endpoints.apps4rentllc-public.cloud.goog",
-    "title": "Docker Engine, Java on Ubuntu 24.04"
   },
   {
     "documentation": "Manages identity and access control for Google Cloud resources, including the creation of service accounts, which you can use to authenticate to Google and make API calls. Enabling this API also enables the IAM Service Account Credentials API (iamcredentials.googleapis.com). However, disabling this API doesn't disable the IAM Service Account Credentials API.\n",
