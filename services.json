@@ -5635,6 +5635,11 @@
     "title": "Auxia Inc"
   },
   {
+    "domain": "on2it-public.cloud.goog",
+    "name": "auxo-curator.endpoints.on2it-public.cloud.goog",
+    "title": "AUXO Curator"
+  },
+  {
     "domain": "cinesearchsaas-public.cloud.goog",
     "name": "ava-cinesearch.endpoints.cinesearchsaas-public.cloud.goog",
     "title": "cineSearch"
@@ -7833,6 +7838,11 @@
     "title": "CentOS Stream 9 Hardened Desktop image (GUI/RDP)"
   },
   {
+    "domain": "hossted-public.cloud.goog",
+    "name": "centrifugo-supported-and-secured-by-the-hossted-platform.endpoints.hossted-public.cloud.goog",
+    "title": "Centrifugo - Supported and Secured by the Hossted Platform"
+  },
+  {
     "domain": "cloudpartnerservices.goog",
     "name": "ceph-click-to-deploy-images.cloudpartnerservices.goog",
     "title": "Google Click to Deploy Ceph Cluster"
@@ -7891,6 +7901,11 @@
     "domain": "cloudpartnerservices.goog",
     "name": "chamilo-3-february-2020-miriinfotech-public.cloudpartnerservices.goog",
     "title": "Miri Infotech Chamilo"
+  },
+  {
+    "domain": "hossted-public.cloud.goog",
+    "name": "changedetection-supported-and-secured-by-the-hossted-platform.endpoints.hossted-public.cloud.goog",
+    "title": "Changedetection - Supported and Secured by the Hossted Platform"
   },
   {
     "domain": "kyndryl-mkt.cloud.goog",
@@ -8854,6 +8869,11 @@
     "domain": "tf-custom-bug-bash2.cloud.goog",
     "name": "cjsu-prod-agent-free.endpoints.tf-custom-bug-bash2.cloud.goog",
     "title": "cjsu-prod-agent-free"
+  },
+  {
+    "domain": "hossted-public.cloud.goog",
+    "name": "ckan-supported-and-secured-by-the-hossted-platform.endpoints.hossted-public.cloud.goog",
+    "title": "CKAN - Supported and Secured by the Hossted Platform"
   },
   {
     "domain": "tcslimited-public.cloud.goog",
@@ -12019,6 +12039,11 @@
     "domain": "croct-public.cloud.goog",
     "name": "croct.endpoints.croct-public.cloud.goog",
     "title": "Croct"
+  },
+  {
+    "domain": "hossted-public.cloud.goog",
+    "name": "cronicle-supported-and-secured-by-the-hossted-platform.endpoints.hossted-public.cloud.goog",
+    "title": "Cronicle - Supported and Secured by the Hossted Platform"
   },
   {
     "domain": "hclsw-gcp-mrktplc-public.cloud.goog",
@@ -15385,31 +15410,6 @@
     "domain": "louaosh-acn-ai-agent-marketpla.cloud.goog",
     "name": "document-agent.endpoints.louaosh-acn-ai-agent-marketpla.cloud.goog",
     "title": "Document Agent"
-  },
-  {
-    "domain": "kyndryl-mkt.cloud.goog",
-    "name": "document-digitization-agent.endpoints.kyndryl-mkt.cloud.goog",
-    "title": "Document digitization Agent"
-  },
-  {
-    "domain": "slalom-public.cloud.goog",
-    "name": "document-extraction-agent1.endpoints.slalom-public.cloud.goog",
-    "title": "Document Extraction Agent"
-  },
-  {
-    "domain": "hclsw-gcp-mrktplc-public.cloud.goog",
-    "name": "document-extractor-1.endpoints.hclsw-gcp-mrktplc-public.cloud.goog",
-    "title": "Document Extractor"
-  },
-  {
-    "domain": "hclsw-gcp-mrktplc-public.cloud.goog",
-    "name": "document-extractor.endpoints.hclsw-gcp-mrktplc-public.cloud.goog",
-    "title": "Document Extractor"
-  },
-  {
-    "domain": "resistant-ai-public.cloud.goog",
-    "name": "document-forensics-saas.endpoints.resistant-ai-public.cloud.goog",
-    "title": "Document Forensics SaaS"
   },
   {
     "documentation": "Manages identity and access control for Google Cloud resources, including the creation of service accounts, which you can use to authenticate to Google and make API calls. Enabling this API also enables the IAM Service Account Credentials API (iamcredentials.googleapis.com). However, disabling this API doesn't disable the IAM Service Account Credentials API.\n",
