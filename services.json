@@ -9257,6 +9257,11 @@
     "title": "ClickHouse on Ubuntu 24.04"
   },
   {
+    "domain": "hossted-public.cloud.goog",
+    "name": "clickhouse-supported-and-secured-by-the-hossted-platform.endpoints.hossted-public.cloud.goog",
+    "title": "ClickHouse - Supported and Secured by the Hossted Platform"
+  },
+  {
     "domain": "anarion-technologies-public.cloud.goog",
     "name": "clickhouse.endpoints.anarion-technologies-public.cloud.goog",
     "title": "ClickHouse on Ubuntu v20"
@@ -12698,6 +12703,11 @@
     "title": "Dagster on Ubuntu 24.04"
   },
   {
+    "domain": "hossted-public.cloud.goog",
+    "name": "dagster-supported-and-secured-by-the-hossted-platform.endpoints.hossted-public.cloud.goog",
+    "title": "Dagster - Supported and Secured by the Hossted Platform"
+  },
+  {
     "domain": "gcp-india-partnership.cloud.goog",
     "name": "dai-dmf.endpoints.gcp-india-partnership.cloud.goog",
     "title": "DAI-DMF"
@@ -15400,16 +15410,6 @@
     "domain": "tcslimited-public.cloud.goog",
     "name": "doctor-provider-agent.endpoints.tcslimited-public.cloud.goog",
     "title": "Doctor provider agent"
-  },
-  {
-    "domain": "pg-us-n-app-465720.cloud.goog",
-    "name": "doctor-referral-agent.endpoints.pg-us-n-app-465720.cloud.goog",
-    "title": "Doctor Referral Agent"
-  },
-  {
-    "domain": "ath-infosystems-public.cloud.goog",
-    "name": "docufai.endpoints.ath-infosystems-public.cloud.goog",
-    "title": "Docufai"
   },
   {
     "documentation": "Manages identity and access control for Google Cloud resources, including the creation of service accounts, which you can use to authenticate to Google and make API calls. Enabling this API also enables the IAM Service Account Credentials API (iamcredentials.googleapis.com). However, disabling this API doesn't disable the IAM Service Account Credentials API.\n",
