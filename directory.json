@@ -6084,6 +6084,22 @@
     {
       "description": "",
       "discoveryLink": "",
+      "discoveryRestUrl": "https://policytroubleshooter.googleapis.com/$discovery/rest?version=v3beta",
+      "documentationLink": "https://cloud.google.com/iam/",
+      "icons": {
+        "x16": "https://www.gstatic.com/images/branding/product/1x/googleg_16dp.png",
+        "x32": "https://www.gstatic.com/images/branding/product/1x/googleg_32dp.png"
+      },
+      "id": "policytroubleshooter:v3beta",
+      "kind": "discovery#directoryItem",
+      "name": "policytroubleshooter",
+      "preferred": false,
+      "title": "Policy Troubleshooter API",
+      "version": "v3beta"
+    },
+    {
+      "description": "",
+      "discoveryLink": "",
       "discoveryRestUrl": "https://policytroubleshooter.googleapis.com/$discovery/rest?version=v1",
       "documentationLink": "https://cloud.google.com/iam/",
       "icons": {
@@ -6093,9 +6109,25 @@
       "id": "policytroubleshooter:v1",
       "kind": "discovery#directoryItem",
       "name": "policytroubleshooter",
-      "preferred": true,
+      "preferred": false,
       "title": "Policy Troubleshooter API",
       "version": "v1"
+    },
+    {
+      "description": "",
+      "discoveryLink": "",
+      "discoveryRestUrl": "https://policytroubleshooter.googleapis.com/$discovery/rest?version=v3",
+      "documentationLink": "https://cloud.google.com/iam/",
+      "icons": {
+        "x16": "https://www.gstatic.com/images/branding/product/1x/googleg_16dp.png",
+        "x32": "https://www.gstatic.com/images/branding/product/1x/googleg_32dp.png"
+      },
+      "id": "policytroubleshooter:v3",
+      "kind": "discovery#directoryItem",
+      "name": "policytroubleshooter",
+      "preferred": true,
+      "title": "Policy Troubleshooter API",
+      "version": "v3"
     },
     {
       "description": "The Pollen API.",
