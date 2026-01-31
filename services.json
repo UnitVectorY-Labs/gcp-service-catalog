@@ -13032,6 +13032,11 @@
     "title": "Data Analysis Agent"
   },
   {
+    "domain": "teradata-public.cloud.goog",
+    "name": "dataanalystagent-as-a-service-v1.endpoints.teradata-public.cloud.goog",
+    "title": "Teradata Data Analyst Agent"
+  },
+  {
     "documentation": "Database Center provides an organization-wide, cross-product fleet health platform to eliminate the overhead, complexity, and risk associated with aggregating and summarizing health signals through custom dashboards. Through Database Center’s fleet health dashboard and API, database platform teams that are responsible for reliability, compliance, security, cost, and administration of database fleets will now have a single pane of glass that pinpoints issues relevant to each team.\n",
     "domain": "googleapis.com",
     "name": "databasecenter.googleapis.com",
@@ -14898,12 +14903,6 @@
     "domain": "dinmo-public.cloud.goog",
     "name": "dinmo.endpoints.dinmo-public.cloud.goog",
     "title": "DinMo"
-  },
-  {
-    "documentation": "Access driving, cycling, walking and public transportation routing with the\n    Directions API using an HTTP request. Waypoints offer the\n    ability to alter a route through a specific location. Specify origins,\n    destinations and waypoints either as text strings (e.g. \"Chicago, IL\" or\n    \"Darwin, NT, Australia\") or as latitude/longitude coordinates.",
-    "domain": "googleapis.com",
-    "name": "directions-backend.googleapis.com",
-    "title": "Directions API"
   },
   {
     "domain": "googleapis.com",
