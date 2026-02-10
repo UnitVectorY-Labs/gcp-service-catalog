@@ -5305,6 +5305,11 @@
     "title": "Astra DB Vertex AI Search Integration"
   },
   {
+    "domain": "astrato-marketplace-public.cloud.goog",
+    "name": "astrato-saas.endpoints.astrato-marketplace-public.cloud.goog",
+    "title": "Astrato Analytics"
+  },
+  {
     "domain": "astrix-marketplace.cloud.goog",
     "name": "astrix-security.endpoints.astrix-marketplace.cloud.goog",
     "title": "Astrix Security"
@@ -5569,6 +5574,11 @@
     "domain": "partnerdemotest.cloud.goog",
     "name": "auto-ingest-autogen.endpoints.partnerdemotest.cloud.goog",
     "title": "auto ingest autogen"
+  },
+  {
+    "domain": "arabesque-ai-public.cloud.goog",
+    "name": "autocio-financial-forecasting-agent.endpoints.arabesque-ai-public.cloud.goog",
+    "title": "AutoCIO Financial Forecasting Agent"
   },
   {
     "domain": "arabesque-ai-public.cloud.goog",
@@ -15150,16 +15160,6 @@
     "domain": "apps4rentllc-public.cloud.goog",
     "name": "django-scikit-learn-on-debian12.endpoints.apps4rentllc-public.cloud.goog",
     "title": "Django, Scikit-learn on Debian12"
-  },
-  {
-    "domain": "apps4rentllc-public.cloud.goog",
-    "name": "django-scikit-learn-ubuntu20.endpoints.apps4rentllc-public.cloud.goog",
-    "title": "Django, Scikit-learn on Ubuntu20.04"
-  },
-  {
-    "domain": "apps4rentllc-public.cloud.goog",
-    "name": "django-scikit-learn-ubuntu22-04.endpoints.apps4rentllc-public.cloud.goog",
-    "title": "Django, Scikit-learn on Ubuntu22.04"
   },
   {
     "domain": "googleapis.com",
