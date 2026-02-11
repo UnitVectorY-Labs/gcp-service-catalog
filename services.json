@@ -3553,12 +3553,6 @@
     "title": "Alert Logic Enterprise"
   },
   {
-    "documentation": "Manages alerts on issues affecting your domain. Note: The current version of this API (v1beta1) is available to all Google Workspace customers.\n",
-    "domain": "googleapis.com",
-    "name": "alertcenter.googleapis.com",
-    "title": "Google Workspace Alert Center API"
-  },
-  {
     "domain": "louaosh-acn-ai-agent-marketpla.cloud.goog",
     "name": "alertwave-execution-agent.endpoints.louaosh-acn-ai-agent-marketpla.cloud.goog",
     "title": "AlertWave – Execution Agent"
@@ -7570,6 +7564,11 @@
     "domain": "hclsw-gcp-mrktplc-public.cloud.goog",
     "name": "car-service-estimator-agent.endpoints.hclsw-gcp-mrktplc-public.cloud.goog",
     "title": "Car Service Estimator Agent"
+  },
+  {
+    "domain": "carahsoft-public.cloud.goog",
+    "name": "carahsoft-box.endpoints.carahsoft-public.cloud.goog",
+    "title": "Box by Carahsoft"
   },
   {
     "domain": "crested-studio-473313-f0.cloud.goog",
