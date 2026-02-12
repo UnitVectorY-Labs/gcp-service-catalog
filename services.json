@@ -3553,6 +3553,12 @@
     "title": "Alert Logic Enterprise"
   },
   {
+    "documentation": "Manages alerts on issues affecting your domain. Note: The current version of this API (v1beta1) is available to all Google Workspace customers.\n",
+    "domain": "googleapis.com",
+    "name": "alertcenter.googleapis.com",
+    "title": "Google Workspace Alert Center API"
+  },
+  {
     "domain": "louaosh-acn-ai-agent-marketpla.cloud.goog",
     "name": "alertwave-execution-agent.endpoints.louaosh-acn-ai-agent-marketpla.cloud.goog",
     "title": "AlertWave – Execution Agent"
@@ -10233,6 +10239,16 @@
   },
   {
     "domain": "cloudtriosolutions-public.cloud.goog",
+    "name": "cloudtrio-mediawiki-debian12.endpoints.cloudtriosolutions-public.cloud.goog",
+    "title": "Cloudtrio Mediawiki Debian12"
+  },
+  {
+    "domain": "cloudtriosolutions-public.cloud.goog",
+    "name": "cloudtrio-nextcloud-debian12.endpoints.cloudtriosolutions-public.cloud.goog",
+    "title": "Cloudtrio Nextcloud Debian12"
+  },
+  {
+    "domain": "cloudtriosolutions-public.cloud.goog",
     "name": "cloudtrio-nextcloud-ubuntu24.endpoints.cloudtriosolutions-public.cloud.goog",
     "title": "Cloudtrio Nextcloud Ubuntu24"
   },
@@ -15144,21 +15160,6 @@
     "domain": "apps4rentllc-public.cloud.goog",
     "name": "django-on-ubuntu20.endpoints.apps4rentllc-public.cloud.goog",
     "title": "Django on Ubuntu20.04"
-  },
-  {
-    "domain": "apps4rentllc-public.cloud.goog",
-    "name": "django-on-ubuntu22.endpoints.apps4rentllc-public.cloud.goog",
-    "title": "Django on Ubuntu22.04"
-  },
-  {
-    "domain": "apps4rentllc-public.cloud.goog",
-    "name": "django-scikit-learn-on-debian11.endpoints.apps4rentllc-public.cloud.goog",
-    "title": "Django, Scikit-learn on Debian11"
-  },
-  {
-    "domain": "apps4rentllc-public.cloud.goog",
-    "name": "django-scikit-learn-on-debian12.endpoints.apps4rentllc-public.cloud.goog",
-    "title": "Django, Scikit-learn on Debian12"
   },
   {
     "domain": "googleapis.com",
