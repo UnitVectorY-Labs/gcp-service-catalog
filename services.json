@@ -9552,6 +9552,11 @@
     "title": "Cloud Managed Services"
   },
   {
+    "domain": "cloudpartnerservices.goog",
+    "name": "cloud-marketplace-f96b1432-be6a-4db4-ad29-508e75c3de82.cloudpartnerservices.goog",
+    "title": ""
+  },
+  {
     "domain": "devsecops-maturity-assessment.cloud.goog",
     "name": "cloud-migration-service.endpoints.devsecops-maturity-assessment.cloud.goog",
     "title": "Cloud Migration Service"
@@ -15406,11 +15411,6 @@
     "domain": "cloudpartnerservices.goog",
     "name": "docker-ce-with-centos-8-3-cognosys-public.cloudpartnerservices.goog",
     "title": "Cognosys Inc. Docker CE With Centos 8.3"
-  },
-  {
-    "domain": "cloudpartnerservices.goog",
-    "name": "docker-ce-with-centos-8-stream-cognosys-public.cloudpartnerservices.goog",
-    "title": "Cognosys Inc. Docker CE With Centos 8 Stream"
   },
   {
     "documentation": "Manages identity and access control for Google Cloud resources, including the creation of service accounts, which you can use to authenticate to Google and make API calls. Enabling this API also enables the IAM Service Account Credentials API (iamcredentials.googleapis.com). However, disabling this API doesn't disable the IAM Service Account Credentials API.\n",
