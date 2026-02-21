@@ -4291,6 +4291,11 @@
   },
   {
     "domain": "cloudtriosolutions-public.cloud.goog",
+    "name": "apache-on-ubuntu24.endpoints.cloudtriosolutions-public.cloud.goog",
+    "title": "Apache-On-Ubuntu24"
+  },
+  {
+    "domain": "cloudtriosolutions-public.cloud.goog",
     "name": "apache-on-ubuntu25.endpoints.cloudtriosolutions-public.cloud.goog",
     "title": "Apache-On-Ubuntu25"
   },
@@ -4675,6 +4680,11 @@
     "title": "apache2"
   },
   {
+    "domain": "cloudtriosolutions-public.cloud.goog",
+    "name": "apacheactivemq-on-ubuntu24.endpoints.cloudtriosolutions-public.cloud.goog",
+    "title": "Apacheactivemq-On-Ubuntu24"
+  },
+  {
     "domain": "anarion-technologies-public.cloud.goog",
     "name": "apachekafka.endpoints.anarion-technologies-public.cloud.goog",
     "title": "Apache Kafka v4.0.0 on Ubuntu24"
@@ -4688,6 +4698,21 @@
     "domain": "cloudpartnerservices.goog",
     "name": "apachetomcat-miriinfotech-public.cloudpartnerservices.goog",
     "title": "Miri Infotech apachetomcat"
+  },
+  {
+    "domain": "cloudtriosolutions-public.cloud.goog",
+    "name": "apachetomcat-on-debian12.endpoints.cloudtriosolutions-public.cloud.goog",
+    "title": "Apachetomcat On Debian12"
+  },
+  {
+    "domain": "cloudtriosolutions-public.cloud.goog",
+    "name": "apachetomcat-on-ubuntu22.endpoints.cloudtriosolutions-public.cloud.goog",
+    "title": "Apachetomcat On Ubuntu22"
+  },
+  {
+    "domain": "cloudtriosolutions-public.cloud.goog",
+    "name": "apachetomcat-on-ubuntu24.endpoints.cloudtriosolutions-public.cloud.goog",
+    "title": "Apachetomcat On Ubuntu24"
   },
   {
     "domain": "cloudtriosolutions-public.cloud.goog",
@@ -9996,6 +10021,11 @@
     "domain": "cloudtriosolutions-public.cloud.goog",
     "name": "cloudtrio-clickhouse-ubuntu25-04lts.endpoints.cloudtriosolutions-public.cloud.goog",
     "title": "Cloudtrio-Clickhouse-Ubuntu25-04LTS"
+  },
+  {
+    "domain": "cloudtriosolutions-public.cloud.goog",
+    "name": "cloudtrio-codellama-debian12.endpoints.cloudtriosolutions-public.cloud.goog",
+    "title": "Cloudtrio Codellama Debian12"
   },
   {
     "domain": "cloudtriosolutions-public.cloud.goog",
@@ -15381,36 +15411,6 @@
     "domain": "apps4rentllc-public.cloud.goog",
     "name": "docker-ansible-jenkins-grafana-gradle-on-debian11.endpoints.apps4rentllc-public.cloud.goog",
     "title": "Docker, Ansible, Jenkins, Grafana, Gradle on Debian11"
-  },
-  {
-    "domain": "apps4rentllc-public.cloud.goog",
-    "name": "docker-ansible-jenkins-grafana-gradle-on-debian12.endpoints.apps4rentllc-public.cloud.goog",
-    "title": "Docker, Ansible, Jenkins, Grafana, Gradle on Debian12"
-  },
-  {
-    "domain": "apps4rentllc-public.cloud.goog",
-    "name": "docker-ansible-jenkins-grafana-gradle-on-ubuntu20.endpoints.apps4rentllc-public.cloud.goog",
-    "title": "Docker, Ansible, Jenkins, Grafana, Gradle on Ubuntu 20.04"
-  },
-  {
-    "domain": "apps4rentllc-public.cloud.goog",
-    "name": "docker-ansible-jenkins-grafana-gradle-on-ubuntu22.endpoints.apps4rentllc-public.cloud.goog",
-    "title": "Docker, Ansible, Jenkins, Grafana, Gradle on Ubuntu 22.04"
-  },
-  {
-    "domain": "apps4rentllc-public.cloud.goog",
-    "name": "docker-ansible-jenkins-grafana-gradle-on-ubuntu24.endpoints.apps4rentllc-public.cloud.goog",
-    "title": "Docker, Ansible, Jenkins, Grafana, Gradle on Ubuntu 24.04"
-  },
-  {
-    "domain": "docker-public-445216.cloud.goog",
-    "name": "docker-business-build-develop-and-run-applications.endpoints.docker-public-445216.cloud.goog",
-    "title": "Docker Business - Build, develop, and run applications"
-  },
-  {
-    "domain": "cloudpartnerservices.goog",
-    "name": "docker-ce-with-centos-8-3-cognosys-public.cloudpartnerservices.goog",
-    "title": "Cognosys Inc. Docker CE With Centos 8.3"
   },
   {
     "documentation": "Manages identity and access control for Google Cloud resources, including the creation of service accounts, which you can use to authenticate to Google and make API calls. Enabling this API also enables the IAM Service Account Credentials API (iamcredentials.googleapis.com). However, disabling this API doesn't disable the IAM Service Account Credentials API.\n",
