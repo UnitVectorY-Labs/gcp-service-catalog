@@ -5824,6 +5824,11 @@
     "title": "Awin by Windsor.ai"
   },
   {
+    "domain": "hossted-public.cloud.goog",
+    "name": "awx-supported-and-secured-by-the-hossted-platform.endpoints.hossted-public.cloud.goog",
+    "title": "AWX - Supported and Secured by the Hossted Platform"
+  },
+  {
     "domain": "cloudpartnerservices.goog",
     "name": "axi-ai-axiai-public.cloudpartnerservices.goog",
     "title": "AXI AI SAP EasyConnect"
@@ -7437,6 +7442,11 @@
     "domain": "cloudpartnerservices.goog",
     "name": "caffe-python3-cuda9-jetware-public.cloudpartnerservices.goog",
     "title": "Jetware Caffe Python 3.6 NVidia GPU Production"
+  },
+  {
+    "domain": "facecake-saas.cloud.goog",
+    "name": "cake-visual-commerce.endpoints.facecake-saas.cloud.goog",
+    "title": "CAKE Visual Commerce"
   },
   {
     "domain": "bcloud-public.cloud.goog",
@@ -15147,17 +15157,6 @@
     "domain": "cloudpartnerservices.goog",
     "name": "discourse-bitnami-launchpad.cloudpartnerservices.goog",
     "title": "Bitnami Discourse Certified by Bitnami"
-  },
-  {
-    "domain": "cloudpartnerservices.goog",
-    "name": "discourse-click-to-deploy-images.cloudpartnerservices.goog",
-    "title": "Google Click to Deploy Discourse"
-  },
-  {
-    "documentation": "Google API Discovery Service allows service consumers to list the discovery metadata of all public APIs managed by the API Platform.",
-    "domain": "googleapis.com",
-    "name": "discovery.googleapis.com",
-    "title": "API Discovery Service"
   },
   {
     "domain": "googleapis.com",
