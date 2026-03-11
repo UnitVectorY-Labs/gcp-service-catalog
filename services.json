@@ -4180,6 +4180,11 @@
     "title": "Apache Airflow on Ubuntu 24.04"
   },
   {
+    "domain": "cloudtriosolutions-public.cloud.goog",
+    "name": "apache-airflow-on-ubuntu24.endpoints.cloudtriosolutions-public.cloud.goog",
+    "title": "Apache Airflow On Ubuntu24"
+  },
+  {
     "domain": "apps4rentllc-public.cloud.goog",
     "name": "apache-ant-on-debian11.endpoints.apps4rentllc-public.cloud.goog",
     "title": "Apache Ant on Debian11"
@@ -5558,6 +5563,11 @@
     "domain": "cloudpartnerservices.goog",
     "name": "audience-platform-flywheel-technologies-public.cloudpartnerservices.goog",
     "title": "Flywheel Software Audience Platform Reporting Service"
+  },
+  {
+    "domain": "audiomob-public.cloud.goog",
+    "name": "audiomob-ad-platform.endpoints.audiomob-public.cloud.goog",
+    "title": "Audiomob Ad Platform"
   },
   {
     "domain": "pg-us-n-app-465720.cloud.goog",
@@ -13805,6 +13815,11 @@
     "title": "Debian GNU/Linux 12 Hardened Desktop image (GUI/RDP)"
   },
   {
+    "domain": "decagon-public-marketplace.cloud.goog",
+    "name": "decagongcp.endpoints.decagon-public-marketplace.cloud.goog",
+    "title": "Decagon"
+  },
+  {
     "domain": "louaosh-acn-ai-agent-marketpla.cloud.goog",
     "name": "decision-engine-agent.endpoints.louaosh-acn-ai-agent-marketpla.cloud.goog",
     "title": "decision-engine-agent"
@@ -15397,21 +15412,6 @@
     "domain": "datametica-public.cloud.goog",
     "name": "dm-raven-ddl.endpoints.datametica-public.cloud.goog",
     "title": "DM-Raven-DDL"
-  },
-  {
-    "domain": "datametica-public.cloud.goog",
-    "name": "dm-raven-etl.endpoints.datametica-public.cloud.goog",
-    "title": "DM-Raven-ETL"
-  },
-  {
-    "domain": "datametica-public.cloud.goog",
-    "name": "dm-raven-non-sql.endpoints.datametica-public.cloud.goog",
-    "title": "DM-Raven- NON-SQL"
-  },
-  {
-    "domain": "datametica-public.cloud.goog",
-    "name": "dm-raven-sql-views.endpoints.datametica-public.cloud.goog",
-    "title": "DM-Raven-SQL-Views"
   },
   {
     "domain": "googleapis.com",
