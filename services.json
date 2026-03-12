@@ -3056,6 +3056,11 @@
     "title": "Apiiro AutoFix Agent MCP Server"
   },
   {
+    "domain": "dataplatr-public.cloud.goog",
+    "name": "agents--procure-to-pay.endpoints.dataplatr-public.cloud.goog",
+    "title": "Agentic AI–Powered Procure-to-Pay Analytics"
+  },
+  {
     "domain": "crested-studio-473313-f0.cloud.goog",
     "name": "aggregation-agent.endpoints.crested-studio-473313-f0.cloud.goog",
     "title": "Aggregation Agent"
@@ -15407,11 +15412,6 @@
     "domain": "datametica-public.cloud.goog",
     "name": "dm-raven-dag.endpoints.datametica-public.cloud.goog",
     "title": "DM-Raven-DAG"
-  },
-  {
-    "domain": "datametica-public.cloud.goog",
-    "name": "dm-raven-ddl.endpoints.datametica-public.cloud.goog",
-    "title": "DM-Raven-DDL"
   },
   {
     "domain": "googleapis.com",
