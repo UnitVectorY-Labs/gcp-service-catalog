@@ -2711,7 +2711,7 @@
     "title": "Address Validation API"
   },
   {
-    "documentation": "Accesses the latest features for managing Authorized Buyers accounts, Real-Time Bidding configurations and auction metrics, and Marketplace programmatic deals.",
+    "documentation": "Access the latest features for managing Authorized Buyers accounts, Real-Time Bidding configurations and auction metrics, and Marketplace programmatic deals.",
     "domain": "googleapis.com",
     "name": "adexchangebuyer.googleapis.com",
     "title": "Ad Exchange Buyer API II"
@@ -10972,6 +10972,11 @@
     "title": "Coaching Agent"
   },
   {
+    "domain": "coalesce-public.cloud.goog",
+    "name": "coalesce.endpoints.coalesce-public.cloud.goog",
+    "title": "Coalesce"
+  },
+  {
     "domain": "cobblestone-public.cloud.goog",
     "name": "cobblestone-contract-insight-clm-software.endpoints.cobblestone-public.cloud.goog",
     "title": "CobbleStone Contract Insight CLM Software"
@@ -12416,6 +12421,11 @@
     "domain": "bbpsaas-public.cloud.goog",
     "name": "cree8-enterprise.endpoints.bbpsaas-public.cloud.goog",
     "title": "CREE8 Enterprise"
+  },
+  {
+    "domain": "cresclab-ai-internal.cloud.goog",
+    "name": "cresclab-daac.endpoints.cresclab-ai-internal.cloud.goog",
+    "title": "Crescendo Lab - DAAC Al Agent"
   },
   {
     "domain": "cresclab-ai-internal.cloud.goog",
@@ -15147,16 +15157,6 @@
     "domain": "digitalai-public.cloud.goog",
     "name": "digital-ai.endpoints.digitalai-public.cloud.goog",
     "title": "Digital AI"
-  },
-  {
-    "domain": "credencys-public.cloud.goog",
-    "name": "digital-asset-management-portal.endpoints.credencys-public.cloud.goog",
-    "title": "Digital Asset Management Portal"
-  },
-  {
-    "domain": "crested-studio-473313-f0.cloud.goog",
-    "name": "digital-footprint-agent.endpoints.crested-studio-473313-f0.cloud.goog",
-    "title": "Digital Footprint Agent"
   },
   {
     "domain": "googleapis.com",
