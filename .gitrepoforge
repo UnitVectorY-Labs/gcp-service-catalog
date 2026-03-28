@@ -1,0 +1,21 @@
+name: gcp-service-catalog
+default_branch: main
+config:
+  description: "A catalog of GCP services for easy browsing and filtering."
+  license: MIT
+  language: go
+  release: release-go
+  justfile: true
+  codecov: true
+  gitignore:
+    - html/
+  repver:
+    goversion:
+      paths:
+        - .github/workflows/gcp-service-catalog-crawl.yml
+        - .github/workflows/gcp-service-catalog-generate.yaml
+  clip4llm:
+    exclude:
+      - services.json
+      - directory.json
+      - html
