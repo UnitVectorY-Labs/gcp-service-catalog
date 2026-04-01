@@ -6638,7 +6638,7 @@
       "kind": "discovery#directoryItem",
       "name": "saasservicemgmt",
       "preferred": false,
-      "title": "SaaS Runtime API",
+      "title": "App Lifecycle Manager API",
       "version": "v1beta1"
     },
     {
@@ -6654,7 +6654,7 @@
       "kind": "discovery#directoryItem",
       "name": "saasservicemgmt",
       "preferred": true,
-      "title": "SaaS Runtime API",
+      "title": "App Lifecycle Manager API",
       "version": "v1"
     },
     {
