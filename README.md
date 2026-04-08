@@ -1,8 +1,8 @@
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT) [![Active](https://img.shields.io/badge/Status-Active-green)](https://guide.unitvectorylabs.com/bestpractices/status/#active) [![Go Report Card](https://goreportcard.com/badge/github.com/UnitVectorY-Labs/gcp-service-catalog)](https://goreportcard.com/report/github.com/UnitVectorY-Labs/gcp-service-catalog)
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT) [![Active](https://img.shields.io/badge/Status-Active-green)](https://guide.unitvectorylabs.com/bestpractices/status/#active) 
 
 # gcp-service-catalog
 
-A catalog of GCP services for easy browsing and filtering
+A catalog of GCP services for easy browsing and filtering.
 
 **Website:** https://gcp-service-catalog.unitvectorylabs.com/
 
