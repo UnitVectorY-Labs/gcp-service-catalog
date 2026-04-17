@@ -281,6 +281,11 @@
     "title": "Acalvio ShadowPlex"
   },
   {
+    "domain": "acal-mkt-shadowplex-public.cloud.goog",
+    "name": "acalvio-preemeptivesec-agenticai.endpoints.acal-mkt-shadowplex-public.cloud.goog",
+    "title": "Preemptive Security — Runtime Guardrails for Agentic AI"
+  },
+  {
     "documentation": "Retrieves the list of AMP URLs (and equivalent AMP Cache URLs) for a given list of public URL(s).\n",
     "domain": "googleapis.com",
     "name": "acceleratedmobilepageurl.googleapis.com",
@@ -3041,6 +3046,11 @@
     "title": "aSaaS"
   },
   {
+    "domain": "agentforce-sales-experience-p.cloud.goog",
+    "name": "agentforce-sales-agent.endpoints.agentforce-sales-experience-p.cloud.goog",
+    "title": "Agentforce Sales Agent"
+  },
+  {
     "domain": "tcslimited-public.cloud.goog",
     "name": "agenti-data-summerizer-agent.endpoints.tcslimited-public.cloud.goog",
     "title": "TCS Agentic Data Summerizer Agent"
@@ -3826,6 +3836,11 @@
     "title": "Amdocs Kenan"
   },
   {
+    "domain": "gcppublic-mp-adl-55984733.cloud.goog",
+    "name": "amdocsagent.endpoints.gcppublic-mp-adl-55984733.cloud.goog",
+    "title": "Telco Customer Experience Agent "
+  },
+  {
     "domain": "amelia-public.cloud.goog",
     "name": "amelia-conversational-ai-platform.endpoints.amelia-public.cloud.goog",
     "title": "Amelia Conversational AI Platform"
@@ -4209,6 +4224,11 @@
     "domain": "apporchid-public.cloud.goog",
     "name": "ao-platform1.endpoints.apporchid-public.cloud.goog",
     "title": "AO Platform"
+  },
+  {
+    "domain": "aodocs-public.cloud.goog",
+    "name": "aodocs-aida-agent.endpoints.aodocs-public.cloud.goog",
+    "title": "AODocs AI Agent"
   },
   {
     "domain": "cloudpartnerservices.goog",
@@ -4784,6 +4804,11 @@
     "domain": "anarion-technologies-public.cloud.goog",
     "name": "apachekafka.endpoints.anarion-technologies-public.cloud.goog",
     "title": "Apache Kafka v4.0.0 on Ubuntu24"
+  },
+  {
+    "domain": "ath-infosystems-public.cloud.goog",
+    "name": "apachekafka.endpoints.ath-infosystems-public.cloud.goog",
+    "title": "Apache Kafka"
   },
   {
     "domain": "bcloud-public.cloud.goog",
@@ -6053,6 +6078,11 @@
     "domain": "backslash-security-public.cloud.goog",
     "name": "backslash.security.endpoints.backslash-security-public.cloud.goog",
     "title": "backslash.security"
+  },
+  {
+    "domain": "aagent-for-a2a.cloud.goog",
+    "name": "backstory-revenue-answers-agent.endpoints.aagent-for-a2a.cloud.goog",
+    "title": "Backstory Revenue Answers Agent"
   },
   {
     "domain": "hclsw-gcp-mrktplc-public.cloud.goog",
@@ -8566,6 +8596,11 @@
     "title": "Rocky Linux 9.4 LTS with CIQ Long Term Support (x86_64)"
   },
   {
+    "domain": "ciqrocky-public.cloud.goog",
+    "name": "ciqrl96lts.endpoints.ciqrocky-public.cloud.goog",
+    "title": "Rocky Linux 9.6 LTS with CIQ Long Term Support (x86_64)"
+  },
+  {
     "domain": "elated-card-386512.cloud.goog",
     "name": "circana-proscores.endpoints.elated-card-386512.cloud.goog",
     "title": "Circana ProScores"
@@ -9205,6 +9240,11 @@
     "domain": "tcslimited-public.cloud.goog",
     "name": "claim-data-retriever-agent.endpoints.tcslimited-public.cloud.goog",
     "title": "Claim Data Retriever Agent"
+  },
+  {
+    "domain": "mediconcen-public.cloud.goog",
+    "name": "claim-document-ai-agent.endpoints.mediconcen-public.cloud.goog",
+    "title": "Claim Document AI Agent"
   },
   {
     "domain": "tcslimited-public.cloud.goog",
@@ -15115,47 +15155,6 @@
     "domain": "devsecops-maturity-assessment.cloud.goog",
     "name": "devsecops-maturity-assessment.endpoints.devsecops-maturity-assessment.cloud.goog",
     "title": "DevSecOps Maturity Assessment"
-  },
-  {
-    "documentation": "Build applications to efficiently manage large or complex trafficking, reporting, and attribution workflows for Campaign Manager 360.",
-    "domain": "googleapis.com",
-    "name": "dfareporting.googleapis.com",
-    "title": "Campaign Manager 360 API"
-  },
-  {
-    "domain": "cloudpartnerservices.goog",
-    "name": "dfp-dt-2364.cloudpartnerservices.goog",
-    "title": "Google Ad Manager Transfers"
-  },
-  {
-    "domain": "deepgram-public.cloud.goog",
-    "name": "dg-ps.endpoints.deepgram-public.cloud.goog",
-    "title": "Deepgram Support"
-  },
-  {
-    "domain": "nvidia-vgpu-public.cloud.goog",
-    "name": "dgx-cloud.endpoints.nvidia-vgpu-public.cloud.goog",
-    "title": "DGX Cloud"
-  },
-  {
-    "domain": "dhuo-api-plus-public.cloud.goog",
-    "name": "dhuo-api-plus.endpoints.dhuo-api-plus-public.cloud.goog",
-    "title": "DHuO API Plus"
-  },
-  {
-    "domain": "ambient-odyssey-417807.cloud.goog",
-    "name": "diabolocom-to-vertex-ai-search.endpoints.ambient-odyssey-417807.cloud.goog",
-    "title": "Diabolocom to Vertex AI Search"
-  },
-  {
-    "domain": "crested-studio-473313-f0.cloud.goog",
-    "name": "diagnoses-agent.endpoints.crested-studio-473313-f0.cloud.goog",
-    "title": "Diagnoses Agent"
-  },
-  {
-    "domain": "crested-studio-473313-f0.cloud.goog",
-    "name": "diagnosis-agent.endpoints.crested-studio-473313-f0.cloud.goog",
-    "title": "Diagnosis agent"
   },
   {
     "domain": "googleapis.com",
