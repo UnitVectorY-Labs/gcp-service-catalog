@@ -5556,6 +5556,11 @@
     "title": "Atlas Studio"
   },
   {
+    "domain": "atlasgtm-public.cloud.goog",
+    "name": "atlas-the-product.endpoints.atlasgtm-public.cloud.goog",
+    "title": "Atlas the Platform"
+  },
+  {
     "domain": "gradienthealth-public-7850.cloud.goog",
     "name": "atlas.endpoints.gradienthealth-public-7850.cloud.goog",
     "title": "Atlas"
@@ -7732,6 +7737,11 @@
     "title": "Campaign Content Agent "
   },
   {
+    "domain": "konaai-public.cloud.goog",
+    "name": "cams.endpoints.konaai-public.cloud.goog",
+    "title": "CAMS"
+  },
+  {
     "domain": "quantiphi-public-376012.cloud.goog",
     "name": "candidatefinder.endpoints.quantiphi-public-376012.cloud.goog",
     "title": "Candidate Finder"
@@ -8620,6 +8630,11 @@
     "domain": "ciqrocky-public.cloud.goog",
     "name": "ciqrl94lts.endpoints.ciqrocky-public.cloud.goog",
     "title": "Rocky Linux 9.4 LTS with CIQ Long Term Support (x86_64)"
+  },
+  {
+    "domain": "ciqrocky-public.cloud.goog",
+    "name": "ciqrl96lts-arm64.endpoints.ciqrocky-public.cloud.goog",
+    "title": "Rocky Linux 9.6 LTS with CIQ Long Term Support (arm64)"
   },
   {
     "domain": "ciqrocky-public.cloud.goog",
@@ -13005,6 +13020,11 @@
     "title": "CubeBackup License"
   },
   {
+    "domain": "cubewire.cloud.goog",
+    "name": "cubewire-p8.endpoints.cubewire.cloud.goog",
+    "title": "Cubewire"
+  },
+  {
     "domain": "apps4rentllc-public.cloud.goog",
     "name": "cubicweb-on-debian-12.endpoints.apps4rentllc-public.cloud.goog",
     "title": "CubicWeb on Debian 12"
@@ -13981,6 +14001,11 @@
     "domain": "cloudpartnerservices.goog",
     "name": "dcm-dt-2364.cloudpartnerservices.goog",
     "title": "Google DoubleClick Campaign Manager (DCM) Transfers"
+  },
+  {
+    "domain": "tdsynnexcorporation-public.cloud.goog",
+    "name": "dcpo-tdsynnex-imperva.endpoints.tdsynnexcorporation-public.cloud.goog.endpoints.tdsynnexcorporation-public.cloud.goog",
+    "title": "DCPO Imperva for Google Cloud Private Offer"
   },
   {
     "domain": "tackle-prd-bqt4g.cloud.goog",
@@ -15639,32 +15664,6 @@
     "domain": "cloudpartnerservices.goog",
     "name": "djangostack-bitnami-launchpad.cloudpartnerservices.goog",
     "title": "Bitnami Django Certified by Bitnami"
-  },
-  {
-    "domain": "cloudpartnerservices.goog",
-    "name": "djangostack-click-to-deploy-images.cloudpartnerservices.goog",
-    "title": "Google Click to Deploy Django Stack"
-  },
-  {
-    "documentation": "Discover and protect your sensitive data. A fully managed service designed to help you discover, classify, and protect your valuable data assets with ease.",
-    "domain": "googleapis.com",
-    "name": "dlp.googleapis.com",
-    "title": "Sensitive Data Protection (DLP)"
-  },
-  {
-    "domain": "datametica-public.cloud.goog",
-    "name": "dm-eagle-monthly-ui-access.endpoints.datametica-public.cloud.goog",
-    "title": "DM-Eagle-Monthly-UI-Access"
-  },
-  {
-    "domain": "datametica-public.cloud.goog",
-    "name": "dm-pelican-data-validation.endpoints.datametica-public.cloud.goog",
-    "title": "DM-Pelican-Data-Validation"
-  },
-  {
-    "domain": "datametica-public.cloud.goog",
-    "name": "dm-pelican-setup.endpoints.datametica-public.cloud.goog",
-    "title": "DM-Pelican-SETUP"
   },
   {
     "domain": "googleapis.com",
