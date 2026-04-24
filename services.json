@@ -3152,11 +3152,6 @@
     "title": "AI Cockpit - AI-Driven Software Engineering Platform"
   },
   {
-    "domain": "vianai-public.cloud.goog",
-    "name": "ai-data-analyst-by-hila.endpoints.vianai-public.cloud.goog",
-    "title": "AI Data Analyst, by hila"
-  },
-  {
     "domain": "onna-public.cloud.goog",
     "name": "ai-data-preprocessing.endpoints.onna-public.cloud.goog",
     "title": "AI Data Preprocessing"
@@ -15664,6 +15659,11 @@
     "domain": "apps4rentllc-public.cloud.goog",
     "name": "django-scikit-learn-ubuntu20.endpoints.apps4rentllc-public.cloud.goog",
     "title": "Django, Scikit-learn on Ubuntu20.04"
+  },
+  {
+    "domain": "apps4rentllc-public.cloud.goog",
+    "name": "django-scikit-learn-ubuntu22-04.endpoints.apps4rentllc-public.cloud.goog",
+    "title": "Django, Scikit-learn on Ubuntu22.04"
   },
   {
     "domain": "googleapis.com",
