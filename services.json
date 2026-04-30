@@ -10124,6 +10124,11 @@
     "title": " CloudM"
   },
   {
+    "domain": "niveussolutions-public-42.cloud.goog",
+    "name": "cloudmigrationfactory.endpoints.niveussolutions-public-42.cloud.goog",
+    "title": "Cloud Migration Factory"
+  },
+  {
     "domain": "googleapis.com",
     "name": "cloudnumberregistry.googleapis.com",
     "title": "Cloud Number Registry API"
@@ -15403,11 +15408,6 @@
     "domain": "tpisoftware-digirunner-public.cloud.goog",
     "name": "digirunnerha.endpoints.tpisoftware-digirunner-public.cloud.goog",
     "title": "digiRunner API Management Platform - HA"
-  },
-  {
-    "domain": "bigquery-connectors-public.cloud.goog",
-    "name": "digistorm.endpoints.bigquery-connectors-public.cloud.goog",
-    "title": "Digistorm by Windsor.ai"
   },
   {
     "domain": "googleapis.com",
