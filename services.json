@@ -60,6 +60,11 @@
     "title": "Articul8 GenAI Platform"
   },
   {
+    "domain": "articul8-public.cloud.goog",
+    "name": "a8genaisaasplatform.endpoints.articul8-public.cloud.goog",
+    "title": "Articul8 GenAI SaaS Platform"
+  },
+  {
     "domain": "anarion-technologies-public.cloud.goog",
     "name": "aapanel.endpoints.anarion-technologies-public.cloud.goog",
     "title": "aaPanel v7.0.16 on Ubuntu v20"
@@ -13822,6 +13827,11 @@
   },
   {
     "domain": "dataplatr-public.cloud.goog",
+    "name": "dataplatr-workday-hr-analytics-accelerator.endpoints.dataplatr-public.cloud.goog",
+    "title": " Dataplatr - Workday HR Analytics Accelerator"
+  },
+  {
+    "domain": "dataplatr-public.cloud.goog",
     "name": "dataplatraranalyticsaccelerator.endpoints.dataplatr-public.cloud.goog",
     "title": "Dataplatr - AR Analytics Accelerator"
   },
@@ -14401,6 +14411,246 @@
     "domain": "us-con-gcp-sbx-0000427-020625.cloud.goog",
     "name": "deloitte-ai-agent31.endpoints.us-con-gcp-sbx-0000427-020625.cloud.goog",
     "title": "Deloitter AI Agent31"
+  },
+  {
+    "domain": "us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "name": "deloitte-ai-agent32.endpoints.us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "title": "Deloitter AI Agent32"
+  },
+  {
+    "domain": "us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "name": "deloitte-ai-agent33.endpoints.us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "title": "Deloitter AI Agent33"
+  },
+  {
+    "domain": "us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "name": "deloitte-ai-agent34.endpoints.us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "title": "Deloitter AI Agent34"
+  },
+  {
+    "domain": "us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "name": "deloitte-ai-agent35.endpoints.us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "title": "Deloitter AI Agent35"
+  },
+  {
+    "domain": "us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "name": "deloitte-ai-agent36.endpoints.us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "title": "Deloitter AI Agent36"
+  },
+  {
+    "domain": "us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "name": "deloitte-ai-agent37.endpoints.us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "title": "Deloitter AI Agent37"
+  },
+  {
+    "domain": "us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "name": "deloitte-ai-agent38.endpoints.us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "title": "Deloitter AI Agent38"
+  },
+  {
+    "domain": "us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "name": "deloitte-ai-agent39.endpoints.us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "title": "Deloitter AI Agent39"
+  },
+  {
+    "domain": "us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "name": "deloitte-ai-agent4.endpoints.us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "title": "Deloitter AI Agent4"
+  },
+  {
+    "domain": "us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "name": "deloitte-ai-agent40.endpoints.us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "title": "Deloitter AI Agent40"
+  },
+  {
+    "domain": "us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "name": "deloitte-ai-agent41.endpoints.us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "title": "Deloitter AI Agent41"
+  },
+  {
+    "domain": "us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "name": "deloitte-ai-agent42.endpoints.us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "title": "Deloitter AI Agent42"
+  },
+  {
+    "domain": "us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "name": "deloitte-ai-agent43.endpoints.us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "title": "Deloitter AI Agent43"
+  },
+  {
+    "domain": "us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "name": "deloitte-ai-agent44.endpoints.us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "title": "Deloitter AI Agent44"
+  },
+  {
+    "domain": "us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "name": "deloitte-ai-agent45.endpoints.us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "title": "Deloitter AI Agent45"
+  },
+  {
+    "domain": "us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "name": "deloitte-ai-agent46.endpoints.us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "title": "Deloitte AI Agent46"
+  },
+  {
+    "domain": "us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "name": "deloitte-ai-agent47.endpoints.us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "title": "Deloitte AI Agent47"
+  },
+  {
+    "domain": "us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "name": "deloitte-ai-agent48.endpoints.us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "title": "Deloitte AI Agent48"
+  },
+  {
+    "domain": "us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "name": "deloitte-ai-agent49.endpoints.us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "title": "Deloitte AI Agent49"
+  },
+  {
+    "domain": "us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "name": "deloitte-ai-agent5.endpoints.us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "title": "Deloitte AI Agent5"
+  },
+  {
+    "domain": "us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "name": "deloitte-ai-agent50.endpoints.us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "title": "Deloitte AI Agent50"
+  },
+  {
+    "domain": "us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "name": "deloitte-ai-agent51.endpoints.us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "title": "Deloitte AI Agent51"
+  },
+  {
+    "domain": "us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "name": "deloitte-ai-agent6.endpoints.us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "title": "Deloitte AI Agent6"
+  },
+  {
+    "domain": "us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "name": "deloitte-ai-agent7.endpoints.us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "title": "Deloitter AI Agent7"
+  },
+  {
+    "domain": "us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "name": "deloitte-ai-agent8.endpoints.us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "title": "Deloitter AI Agent8"
+  },
+  {
+    "domain": "us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "name": "deloitte-ai-agent9.endpoints.us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "title": "Deloitter AI Agent9"
+  },
+  {
+    "domain": "us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "name": "deloitte-aml-etl-codegen-agent.endpoints.us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "title": "AML ETL CodeGen Agent"
+  },
+  {
+    "domain": "us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "name": "deloitte-aml-insight-investigator-agent.endpoints.us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "title": "AML Insight Investigator Agent"
+  },
+  {
+    "domain": "us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "name": "deloitte-aml-investigation-agent-standalone.endpoints.us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "title": "AML Investigation Agent"
+  },
+  {
+    "domain": "us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "name": "deloitte-auditgen-compliance-insights-agent.endpoints.us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "title": "AuditGen Compliance Insights Agent"
+  },
+  {
+    "domain": "us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "name": "deloitte-brandguard-compliance-review-agent.endpoints.us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "title": "BrandGuard Compliance Review Agent"
+  },
+  {
+    "domain": "us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "name": "deloitte-campaigncraft-agent.endpoints.us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "title": "CampaignCraft - Content Generation Agent"
+  },
+  {
+    "domain": "us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "name": "deloitte-care-finder-agent-standalone.endpoints.us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "title": "Care Finder Agent"
+  },
+  {
+    "domain": "us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "name": "deloitte-care-finder-agent1.endpoints.us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "title": "Care Finder Agent"
+  },
+  {
+    "domain": "us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "name": "deloitte-clause-guard-contract-redlining-agent.endpoints.us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "title": "Clause Guard - Contract Redlining Agent"
+  },
+  {
+    "domain": "us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "name": "deloitte-clinical-trial-agent-suite.endpoints.us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "title": "Clinical Trial Agent Suite"
+  },
+  {
+    "domain": "us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "name": "deloitte-code-and-data-management-agent-suite.endpoints.us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "title": "Code and Data Management Agent Suite"
+  },
+  {
+    "domain": "us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "name": "deloitte-code-documetation-agent.endpoints.us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "title": "DocuCode - Code Documetation Agent"
+  },
+  {
+    "domain": "us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "name": "deloitte-code-knowledge-sharing-agent.endpoints.us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "title": "CodeConnect - Code Knowledge Sharing Agent"
+  },
+  {
+    "domain": "us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "name": "deloitte-commercial-customer-onboarding-agent.endpoints.us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "title": "Commercial Customer Onboarding Agent"
+  },
+  {
+    "domain": "us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "name": "deloitte-contract-guard-agent-suite.endpoints.us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "title": "Contract Guard Agent Suite"
+  },
+  {
+    "domain": "us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "name": "deloitte-contractsummarize-pro-agent.endpoints.us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "title": "ContractSummarize Pro Agent"
+  },
+  {
+    "domain": "us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "name": "deloitte-customer-insights-agent-suite.endpoints.us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "title": "Customer Insights Agent Suite"
+  },
+  {
+    "domain": "us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "name": "deloitte-cyberguard-compliance-agent.endpoints.us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "title": "CyberGuard Compliance Agent"
+  },
+  {
+    "domain": "us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "name": "deloitte-data-visualization-report-converter-agent-suite.endpoints.us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "title": "Data Visualization Report Converter Agent Suite"
+  },
+  {
+    "domain": "us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "name": "deloitte-digital-product-passport-generator-agent.endpoints.us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "title": "EcoTrace - Digital Product Passport Generator Agent"
+  },
+  {
+    "domain": "us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "name": "deloitte-fhir-patient-navigator-agent.endpoints.us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "title": "FHIR Patient Navigator Agent"
+  },
+  {
+    "domain": "us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "name": "deloitte-financial-market-mentor-agent-1.endpoints.us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "title": "FinSight - Financial Market Mentor Agent"
   },
   {
     "domain": "googleapis.com",
