@@ -3086,6 +3086,11 @@
     "title": "Agentic Saas"
   },
   {
+    "domain": "cloudjunction-public.cloud.goog",
+    "name": "agentjunction.endpoints.cloudjunction-public.cloud.goog",
+    "title": "AgentJunction for Gemini"
+  },
+  {
     "domain": "apiiromarketplace-public.cloud.goog",
     "name": "agentmcpserver.endpoints.apiiromarketplace-public.cloud.goog",
     "title": "Apiiro AutoFix Agent MCP Server"
@@ -14651,6 +14656,251 @@
     "domain": "us-con-gcp-sbx-0000427-020625.cloud.goog",
     "name": "deloitte-financial-market-mentor-agent-1.endpoints.us-con-gcp-sbx-0000427-020625.cloud.goog",
     "title": "FinSight - Financial Market Mentor Agent"
+  },
+  {
+    "domain": "us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "name": "deloitte-financial-market-mentor-agent.endpoints.us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "title": "Financial Market Mentor Agent"
+  },
+  {
+    "domain": "us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "name": "deloitte-hr-process-optimization-agent-suite.endpoints.us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "title": "HR Process Optimization Agent Suite"
+  },
+  {
+    "domain": "us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "name": "deloitte-information-finder-agent.endpoints.us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "title": "InfoFind Enterprise - Information Finder Agent"
+  },
+  {
+    "domain": "us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "name": "deloitte-inno-synth-scientific-research-synthesizer-agent.endpoints.us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "title": "InnoSynth - Scientific Research Synthesizer Agent"
+  },
+  {
+    "domain": "us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "name": "deloitte-innovation-support-agent-suite.endpoints.us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "title": "Innovation Support Agent Suite"
+  },
+  {
+    "domain": "us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "name": "deloitte-insightedge-competitive-intelligence-agent.endpoints.us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "title": "InsightEdge - Competitive Intelligence Agent"
+  },
+  {
+    "domain": "us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "name": "deloitte-inventory-and-order-management-agent-suite.endpoints.us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "title": "Inventory and Order Management Agent Suite"
+  },
+  {
+    "domain": "us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "name": "deloitte-inventory-management-optimization-agent.endpoints.us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "title": "StockFlow - Inventory Management \u0026 Optimization Agent "
+  },
+  {
+    "domain": "us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "name": "deloitte-invoice-po-validator-agent.endpoints.us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "title": "Invoice-PO Validator Agent"
+  },
+  {
+    "domain": "us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "name": "deloitte-it-ticket-solutioning-agent.endpoints.us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "title": "IT TicketGenie Agent"
+  },
+  {
+    "domain": "us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "name": "deloitte-legal-assist-agent.endpoints.us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "title": "Legal Assist Agent"
+  },
+  {
+    "domain": "us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "name": "deloitte-legal-assist-agentai.endpoints.us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "title": "InsightCounsel - Legal Assist Agent"
+  },
+  {
+    "domain": "us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "name": "deloitte-life-sciences-enterprise-agent.endpoints.us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "title": "Life Sciences Enterprise Agent"
+  },
+  {
+    "domain": "us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "name": "deloitte-marketing-campaign-reporting-agent.endpoints.us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "title": "CampaignPulse - Marketing Campaign Reporting Agent"
+  },
+  {
+    "domain": "us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "name": "deloitte-marketing-content-and-campaign-agent-suite.endpoints.us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "title": "Marketing Content and Campaign Agent Suite"
+  },
+  {
+    "domain": "us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "name": "deloitte-marketing-content-localization-agent.endpoints.us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "title": "LocalizePro - Marketing Content Localization Agent"
+  },
+  {
+    "domain": "us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "name": "deloitte-medical-claim-record-review-agent.endpoints.us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "title": "ClaimGuard - Medical Claim Record Review Agent"
+  },
+  {
+    "domain": "us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "name": "deloitte-merchinsight-retail-intelligence-agent.endpoints.us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "title": "MerchInsight - Retail Intelligence Agent"
+  },
+  {
+    "domain": "us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "name": "deloitte-onboard360-commercial-customer-onboarding-agent.endpoints.us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "title": "Onboard360 - Commercial Customer Onboarding Agent"
+  },
+  {
+    "domain": "us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "name": "deloitte-patient-navigator-agent-suite.endpoints.us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "title": "Patient Navigator Agent Suite"
+  },
+  {
+    "domain": "us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "name": "deloitte-performance-enhancement-agent.endpoints.us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "title": "SalesEdge - Performance Enhancement Agent"
+  },
+  {
+    "domain": "us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "name": "deloitte-performedge-performance-assist-agent.endpoints.us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "title": "PerformEdge - Performance Assist Agent"
+  },
+  {
+    "domain": "us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "name": "deloitte-policy-pulse-hr-policy-qa-agent.endpoints.us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "title": "PolicyPulse: HR Policy Q\u0026A Agent"
+  },
+  {
+    "domain": "us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "name": "deloitte-product-description-pro-agent.endpoints.us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "title": "Product Description Pro Agent"
+  },
+  {
+    "domain": "us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "name": "deloitte-project-management-agent.endpoints.us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "title": "ProjectPulse - Project Management Agent"
+  },
+  {
+    "domain": "us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "name": "deloitte-project-optimizer-agent-suite.endpoints.us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "title": "Project Optimizer Agent Suite"
+  },
+  {
+    "domain": "us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "name": "deloitte-retail-merchandizing-agent-standalone.endpoints.us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "title": "Retail Merchandizing Agent"
+  },
+  {
+    "domain": "us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "name": "deloitte-retail-store-optimization-agent-suite.endpoints.us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "title": "Retail Store Optimization Agent Suite"
+  },
+  {
+    "domain": "us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "name": "deloitte-revcycle-intelligence-agent.endpoints.us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "title": "RevCycle Intelligence Agent"
+  },
+  {
+    "domain": "us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "name": "deloitte-revenue-cycle-insights-agent-suite.endpoints.us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "title": "Revenue Cycle Insights Agent Suite"
+  },
+  {
+    "domain": "us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "name": "deloitte-rfp-rfi-response-agent.endpoints.us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "title": "BidSmart - RFP/RFI Response Agent"
+  },
+  {
+    "domain": "us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "name": "deloitte-risk-calculator-agent-standalone.endpoints.us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "title": "Risk Calculator Agent"
+  },
+  {
+    "domain": "us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "name": "deloitte-risk-monitor-agent-suite.endpoints.us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "title": "Risk Monitor Agent Suite"
+  },
+  {
+    "domain": "us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "name": "deloitte-riskpulse-supplier-risk-monitor-agent.endpoints.us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "title": "RiskPulse - Supplier Risk Monitor Agent"
+  },
+  {
+    "domain": "us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "name": "deloitte-sales-management-agent-suite.endpoints.us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "title": "Sales Management Agent Suite"
+  },
+  {
+    "domain": "us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "name": "deloitte-sales-pitch-pro-agent.endpoints.us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "title": "Sales PitchPro Agent"
+  },
+  {
+    "domain": "us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "name": "deloitte-security-and-incident-management-agent-suite.endpoints.us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "title": "Security and Incident Management Agent Suite"
+  },
+  {
+    "domain": "us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "name": "deloitte-security-support-patch-agent.endpoints.us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "title": "VulneraGuard - Security Support Patch Agent"
+  },
+  {
+    "domain": "us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "name": "deloitte-skillgauge-technical-assessment-generator-agent.endpoints.us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "title": "SkillGauge - Technical Assessment Generator Agent"
+  },
+  {
+    "domain": "us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "name": "deloitte-skillsprint-training-content-generator.endpoints.us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "title": "SkillSprint - Training Content Generator"
+  },
+  {
+    "domain": "us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "name": "deloitte-socialpulse-feedback-analyzer-agent.endpoints.us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "title": "SocialPulse Feedback Analyzer Agent"
+  },
+  {
+    "domain": "us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "name": "deloitte-staffiq-planning-insights-agent.endpoints.us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "title": "StaffIQ Planning Insights Agent"
+  },
+  {
+    "domain": "us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "name": "deloitte-store-reporting-agent.endpoints.us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "title": "InsightShelf - Store Reporting Agent"
+  },
+  {
+    "domain": "us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "name": "deloitte-sttm1-generator-agent.endpoints.us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "title": "STTMGen Agent"
+  },
+  {
+    "domain": "us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "name": "deloitte-supplyguard-inventory-monitor-agent.endpoints.us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "title": "SupplyGuard - Inventory Monitor Agent"
+  },
+  {
+    "domain": "us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "name": "deloitte-support-feedback-analyzer-agent.endpoints.us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "title": "InsightBridge – Support \u0026 Feedback Analyzer Agent"
+  },
+  {
+    "domain": "us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "name": "deloitte-surveysense-insights-agent.endpoints.us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "title": "SurveySense Insights Agent"
+  },
+  {
+    "domain": "us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "name": "deloitte-synthetic1-data-generator-agent.endpoints.us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "title": "Synthetic Data Generator Agent"
+  },
+  {
+    "domain": "us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "name": "deloitte-talent-optimization-agent.endpoints.us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "title": "Talent Optimization Agent"
   },
   {
     "domain": "googleapis.com",
