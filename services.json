@@ -8064,6 +8064,11 @@
     "title": "cato-gcp-ha"
   },
   {
+    "domain": "catonetworks-public.cloud.goog",
+    "name": "cato-networks-app-connector.endpoints.catonetworks-public.cloud.goog",
+    "title": "Cato Networks App Connector"
+  },
+  {
     "domain": "cloudpartnerservices.goog",
     "name": "cavirinfree-cavirin-systems.cloudpartnerservices.goog",
     "title": "Cavirin Systems CavirinFree"
@@ -14646,11 +14651,6 @@
     "domain": "us-con-gcp-sbx-0000427-020625.cloud.goog",
     "name": "deloitte-customer-insights-agent-suite.endpoints.us-con-gcp-sbx-0000427-020625.cloud.goog",
     "title": "Customer Insights Agent Suite"
-  },
-  {
-    "domain": "us-con-gcp-sbx-0000427-020625.cloud.goog",
-    "name": "deloitte-cyberguard-compliance-agent.endpoints.us-con-gcp-sbx-0000427-020625.cloud.goog",
-    "title": "CyberGuard Compliance Agent"
   },
   {
     "domain": "googleapis.com",
