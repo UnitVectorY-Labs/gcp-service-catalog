@@ -1858,6 +1858,22 @@
       "version": "v1"
     },
     {
+      "description": "",
+      "discoveryLink": "",
+      "discoveryRestUrl": "https://cloudnumberregistry.googleapis.com/$discovery/rest?version=v1alpha",
+      "documentationLink": "https://docs.cloud.google.com/number-registry/reference/rest",
+      "icons": {
+        "x16": "https://www.gstatic.com/images/branding/product/1x/googleg_16dp.png",
+        "x32": "https://www.gstatic.com/images/branding/product/1x/googleg_32dp.png"
+      },
+      "id": "cloudnumberregistry:v1alpha",
+      "kind": "discovery#directoryItem",
+      "name": "cloudnumberregistry",
+      "preferred": true,
+      "title": "Cloud Number Registry API",
+      "version": "v1alpha"
+    },
+    {
       "description": "Manages continuous profiling information.",
       "discoveryLink": "",
       "discoveryRestUrl": "https://cloudprofiler.googleapis.com/$discovery/rest?version=v2",
