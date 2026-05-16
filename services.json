@@ -8109,6 +8109,11 @@
     "title": "Etrans Lab Hosting Control Panel"
   },
   {
+    "domain": "veritas-mp-ireland-public.cloud.goog",
+    "name": "ccs-emea-apj.endpoints.veritas-mp-ireland-public.cloud.goog",
+    "title": "Cohesity Cloud Services - EMEA/APJ"
+  },
+  {
     "domain": "cdata-software-public.cloud.goog",
     "name": "cdata-connect-server.endpoints.cdata-software-public.cloud.goog",
     "title": "CData Connect Server"
@@ -15151,6 +15156,251 @@
     "domain": "dellemc-ddve-public.cloud.goog",
     "name": "dell-powerprotect-cyber-recovery-solution-for-google.endpoints.dellemc-ddve-public.cloud.goog",
     "title": "Dell PowerProtect Cyber Recovery Solution for Google"
+  },
+  {
+    "domain": "us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "name": "deloitte-ai-agent1.endpoints.us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "title": "Deloitter AI Agent1"
+  },
+  {
+    "domain": "us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "name": "deloitte-ai-agent10.endpoints.us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "title": "Deloitter AI Agent10"
+  },
+  {
+    "domain": "us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "name": "deloitte-ai-agent11.endpoints.us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "title": "Deloitter AI Agent11"
+  },
+  {
+    "domain": "us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "name": "deloitte-ai-agent12.endpoints.us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "title": "Deloitter AI Agent12"
+  },
+  {
+    "domain": "us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "name": "deloitte-ai-agent13.endpoints.us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "title": "Deloitter AI Agent13"
+  },
+  {
+    "domain": "us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "name": "deloitte-ai-agent15.endpoints.us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "title": "Deloitter AI Agent15"
+  },
+  {
+    "domain": "us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "name": "deloitte-ai-agent16.endpoints.us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "title": "Deloitter AI Agent16"
+  },
+  {
+    "domain": "us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "name": "deloitte-ai-agent17.endpoints.us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "title": "Deloitter AI Agent17"
+  },
+  {
+    "domain": "us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "name": "deloitte-ai-agent18.endpoints.us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "title": "Deloitter AI Agent18"
+  },
+  {
+    "domain": "us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "name": "deloitte-ai-agent19.endpoints.us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "title": "Deloitter AI Agent19"
+  },
+  {
+    "domain": "us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "name": "deloitte-ai-agent2.endpoints.us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "title": "Deloitter AI Agent2"
+  },
+  {
+    "domain": "us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "name": "deloitte-ai-agent20.endpoints.us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "title": "Deloitter AI Agent20"
+  },
+  {
+    "domain": "us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "name": "deloitte-ai-agent21.endpoints.us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "title": "Deloitter AI Agent21"
+  },
+  {
+    "domain": "us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "name": "deloitte-ai-agent22.endpoints.us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "title": "Deloitter AI Agent22"
+  },
+  {
+    "domain": "us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "name": "deloitte-ai-agent23.endpoints.us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "title": "Deloitter AI Agent23"
+  },
+  {
+    "domain": "us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "name": "deloitte-ai-agent24.endpoints.us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "title": "Deloitter AI Agent24"
+  },
+  {
+    "domain": "us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "name": "deloitte-ai-agent25.endpoints.us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "title": "Deloitter AI Agent25"
+  },
+  {
+    "domain": "us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "name": "deloitte-ai-agent26.endpoints.us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "title": "InsightShelf - Store Reporting Agent"
+  },
+  {
+    "domain": "us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "name": "deloitte-ai-agent27.endpoints.us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "title": "Deloitter AI Agent27"
+  },
+  {
+    "domain": "us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "name": "deloitte-ai-agent28.endpoints.us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "title": "Deloitter AI Agent28"
+  },
+  {
+    "domain": "us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "name": "deloitte-ai-agent29.endpoints.us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "title": "Deloitter AI Agent29"
+  },
+  {
+    "domain": "us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "name": "deloitte-ai-agent3.endpoints.us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "title": "Deloitter AI Agent3"
+  },
+  {
+    "domain": "us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "name": "deloitte-ai-agent30.endpoints.us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "title": "Deloitter AI Agent30"
+  },
+  {
+    "domain": "us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "name": "deloitte-ai-agent31.endpoints.us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "title": "Deloitter AI Agent31"
+  },
+  {
+    "domain": "us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "name": "deloitte-ai-agent32.endpoints.us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "title": "Deloitter AI Agent32"
+  },
+  {
+    "domain": "us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "name": "deloitte-ai-agent33.endpoints.us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "title": "Deloitter AI Agent33"
+  },
+  {
+    "domain": "us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "name": "deloitte-ai-agent34.endpoints.us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "title": "Deloitter AI Agent34"
+  },
+  {
+    "domain": "us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "name": "deloitte-ai-agent35.endpoints.us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "title": "Deloitter AI Agent35"
+  },
+  {
+    "domain": "us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "name": "deloitte-ai-agent36.endpoints.us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "title": "Deloitter AI Agent36"
+  },
+  {
+    "domain": "us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "name": "deloitte-ai-agent37.endpoints.us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "title": "Deloitter AI Agent37"
+  },
+  {
+    "domain": "us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "name": "deloitte-ai-agent38.endpoints.us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "title": "Deloitter AI Agent38"
+  },
+  {
+    "domain": "us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "name": "deloitte-ai-agent39.endpoints.us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "title": "Deloitter AI Agent39"
+  },
+  {
+    "domain": "us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "name": "deloitte-ai-agent4.endpoints.us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "title": "Deloitter AI Agent4"
+  },
+  {
+    "domain": "us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "name": "deloitte-ai-agent40.endpoints.us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "title": "Deloitter AI Agent40"
+  },
+  {
+    "domain": "us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "name": "deloitte-ai-agent41.endpoints.us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "title": "Deloitter AI Agent41"
+  },
+  {
+    "domain": "us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "name": "deloitte-ai-agent42.endpoints.us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "title": "Deloitter AI Agent42"
+  },
+  {
+    "domain": "us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "name": "deloitte-ai-agent43.endpoints.us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "title": "Deloitter AI Agent43"
+  },
+  {
+    "domain": "us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "name": "deloitte-ai-agent44.endpoints.us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "title": "Deloitter AI Agent44"
+  },
+  {
+    "domain": "us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "name": "deloitte-ai-agent45.endpoints.us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "title": "Deloitter AI Agent45"
+  },
+  {
+    "domain": "us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "name": "deloitte-ai-agent46.endpoints.us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "title": "Deloitte AI Agent46"
+  },
+  {
+    "domain": "us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "name": "deloitte-ai-agent47.endpoints.us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "title": "Deloitte AI Agent47"
+  },
+  {
+    "domain": "us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "name": "deloitte-ai-agent48.endpoints.us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "title": "Deloitte AI Agent48"
+  },
+  {
+    "domain": "us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "name": "deloitte-ai-agent49.endpoints.us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "title": "Deloitte AI Agent49"
+  },
+  {
+    "domain": "us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "name": "deloitte-ai-agent5.endpoints.us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "title": "Deloitte AI Agent5"
+  },
+  {
+    "domain": "us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "name": "deloitte-ai-agent50.endpoints.us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "title": "Deloitte AI Agent50"
+  },
+  {
+    "domain": "us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "name": "deloitte-ai-agent51.endpoints.us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "title": "Deloitte AI Agent51"
+  },
+  {
+    "domain": "us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "name": "deloitte-ai-agent6.endpoints.us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "title": "Deloitte AI Agent6"
+  },
+  {
+    "domain": "us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "name": "deloitte-ai-agent7.endpoints.us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "title": "Deloitter AI Agent7"
+  },
+  {
+    "domain": "us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "name": "deloitte-ai-agent8.endpoints.us-con-gcp-sbx-0000427-020625.cloud.goog",
+    "title": "Deloitter AI Agent8"
   },
   {
     "domain": "googleapis.com",
