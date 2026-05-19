@@ -3891,6 +3891,11 @@
     "title": "Amundsen v7.5.1 on Ubuntu24"
   },
   {
+    "domain": "bcloud-public.cloud.goog",
+    "name": "amundsen.endpoints.bcloud-public.cloud.goog",
+    "title": "Amundsen"
+  },
+  {
     "domain": "miriinfotech-public.cloud.goog",
     "name": "amundsen.endpoints.miriinfotech-public.cloud.goog",
     "title": "amundsen"
@@ -15146,11 +15151,6 @@
     "domain": "dellemc-international-public.cloud.goog",
     "name": "dell-emc-data-protection-suite-international.endpoints.dellemc-international-public.cloud.goog",
     "title": "Dell EMC Data Protection Suite - International"
-  },
-  {
-    "domain": "dellemc-international-public.cloud.goog",
-    "name": "dell-international-powerscale.endpoints.dellemc-international-public.cloud.goog",
-    "title": "Dell PowerScale for Google Cloud"
   },
   {
     "domain": "googleapis.com",
