@@ -6921,6 +6921,11 @@
     "title": "BlueFletch Enterprise"
   },
   {
+    "domain": "bluemarvel-public.cloud.goog",
+    "name": "bluemarvel-ai.endpoints.bluemarvel-public.cloud.goog",
+    "title": "BlueMarvel Snapshot"
+  },
+  {
     "domain": "blumeglobal-public.cloud.goog",
     "name": "blume-visibility.endpoints.blumeglobal-public.cloud.goog",
     "title": "Blume Visibility"
@@ -14384,6 +14389,258 @@
     "domain": "cog01jr0k4wdgnkbdfpte3ab1j92e.cloud.goog",
     "name": "data-hub-agent1.endpoints.cog01jr0k4wdgnkbdfpte3ab1j92e.cloud.goog",
     "title": "Data Hub Agent"
+  },
+  {
+    "domain": "pg-us-n-app-465720.cloud.goog",
+    "name": "data-importer-agent.endpoints.pg-us-n-app-465720.cloud.goog",
+    "title": "Data Importer Agent"
+  },
+  {
+    "domain": "louaosh-acn-ai-agent-marketpla.cloud.goog",
+    "name": "data-ingestion-agent.endpoints.louaosh-acn-ai-agent-marketpla.cloud.goog",
+    "title": "data_ingestion_agent"
+  },
+  {
+    "domain": "wandisco-public-384719.cloud.goog",
+    "name": "data-migrator-vm.endpoints.wandisco-public-384719.cloud.goog",
+    "title": "Data Migrator VM"
+  },
+  {
+    "domain": "tcslimited-public.cloud.goog",
+    "name": "data-mod-validation-agent.endpoints.tcslimited-public.cloud.goog",
+    "title": "Data Mod - Validation Agent "
+  },
+  {
+    "domain": "tcslimited-public.cloud.goog",
+    "name": "data-modernization-agent.endpoints.tcslimited-public.cloud.goog",
+    "title": "Data Modernization Agent "
+  },
+  {
+    "domain": "mf-esp-voltsdagc-nonprod.cloud.goog",
+    "name": "data-privacy-and-protection-securedata.endpoints.mf-esp-voltsdagc-nonprod.cloud.goog",
+    "title": "Data Privacy and Protection (SecureData)"
+  },
+  {
+    "domain": "fiskil-public.cloud.goog",
+    "name": "data-provider.endpoints.fiskil-public.cloud.goog",
+    "title": "Data Provider - Open Banking"
+  },
+  {
+    "domain": "crested-studio-473313-f0.cloud.goog",
+    "name": "data-quality-agent.endpoints.crested-studio-473313-f0.cloud.goog",
+    "title": "DataQualityAgent"
+  },
+  {
+    "domain": "ms--prodport--mkpl--ad.cloud.goog",
+    "name": "data-quality-by-making-science.endpoints.ms--prodport--mkpl--ad.cloud.goog",
+    "title": "Data Quality by Making Science"
+  },
+  {
+    "domain": "cloudpartnerservices.goog",
+    "name": "data-studio-weathersource-com.cloudpartnerservices.goog",
+    "title": "Weather Source OnPoint Weather - Temperature History \u0026 Climatology Sample"
+  },
+  {
+    "domain": "pg-us-n-app-465720.cloud.goog",
+    "name": "data-validation-agent.endpoints.pg-us-n-app-465720.cloud.goog",
+    "title": "Data Validation Agent"
+  },
+  {
+    "domain": "pg-us-n-app-465720.cloud.goog",
+    "name": "data-validator-agent.endpoints.pg-us-n-app-465720.cloud.goog",
+    "title": "Data Validator Agent"
+  },
+  {
+    "domain": "quantiphi-public-376012.cloud.goog",
+    "name": "dataanalysisagent.endpoints.quantiphi-public-376012.cloud.goog",
+    "title": "Data Analysis Agent"
+  },
+  {
+    "domain": "teradata-public.cloud.goog",
+    "name": "dataanalystagent-as-a-service-v1.endpoints.teradata-public.cloud.goog",
+    "title": "Teradata Data Analyst Agent"
+  },
+  {
+    "documentation": "Database Center offers a comprehensive, organization-wide platform for monitoring database fleet health across various products. It simplifies management and reduces risk by automatically aggregating and summarizing key health signals, removing the need for custom dashboards. The platform provides a unified view through its dashboard and API, enabling teams focused on reliability, compliance, security, cost, and administration to quickly identify and address relevant issues within their database fleets.\n",
+    "domain": "googleapis.com",
+    "name": "databasecenter.googleapis.com",
+    "title": "Database Center API"
+  },
+  {
+    "documentation": "Database Insights is a platform to monitor the performance of your cloud databases. It provides information on how well the database is running, finding query performance issues, execution plans, correlate between application level tags with queries as well integrated with OpenTelemetry to provide end to end trace.",
+    "domain": "googleapis.com",
+    "name": "databaseinsights.googleapis.com",
+    "title": "Database Insights API"
+  },
+  {
+    "domain": "databiomes-public.cloud.goog",
+    "name": "databiomes-saas.endpoints.databiomes-public.cloud.goog",
+    "title": "Databiomes"
+  },
+  {
+    "domain": "databricks-prod-master.cloud.goog",
+    "name": "databricks.endpoints.databricks-prod-master.cloud.goog",
+    "title": "Databricks"
+  },
+  {
+    "documentation": "A fully managed and highly scalable data discovery and metadata management service.\n",
+    "domain": "googleapis.com",
+    "name": "datacatalog.googleapis.com",
+    "title": "Google Cloud Data Catalog API"
+  },
+  {
+    "domain": "datachat-ai.cloud.goog",
+    "name": "datachat.endpoints.datachat-ai.cloud.goog",
+    "title": "DataChat"
+  },
+  {
+    "domain": "googleapis.com",
+    "name": "dataconnectors.googleapis.com",
+    "title": "Data Connectors API"
+  },
+  {
+    "domain": "dataddo-public.cloud.goog",
+    "name": "dataddo.endpoints.dataddo-public.cloud.goog",
+    "title": "Dataddo Data Anywhere"
+  },
+  {
+    "domain": "cloudpartnerservices.goog",
+    "name": "datadog-datadog-saas.cloudpartnerservices.goog",
+    "title": "Datadog"
+  },
+  {
+    "domain": "datadog-public.cloud.goog",
+    "name": "datadog-private-plans-2.endpoints.datadog-public.cloud.goog",
+    "title": "Datadog Private Plans 2"
+  },
+  {
+    "domain": "datadog-public.cloud.goog",
+    "name": "datadog-private-plans-3.endpoints.datadog-public.cloud.goog",
+    "title": "Datadog Private Plans 3"
+  },
+  {
+    "domain": "datadog-public.cloud.goog",
+    "name": "datadog-private-plans-4.endpoints.datadog-public.cloud.goog",
+    "title": "Datadog Private Plans 4"
+  },
+  {
+    "domain": "datadog-public.cloud.goog",
+    "name": "datadog-private-plans-5.endpoints.datadog-public.cloud.goog",
+    "title": "Datadog Private Plans 5"
+  },
+  {
+    "domain": "datadog-public.cloud.goog",
+    "name": "datadog-private.endpoints.datadog-public.cloud.goog",
+    "title": "Datadog Private Plans"
+  },
+  {
+    "domain": "datadog-public.cloud.goog",
+    "name": "datadog-professional-services.endpoints.datadog-public.cloud.goog",
+    "title": "Datadog Professional Services"
+  },
+  {
+    "domain": "datadog-public.cloud.goog",
+    "name": "datadog-public.endpoints.datadog-public.cloud.goog",
+    "title": "Datadog"
+  },
+  {
+    "domain": "cloudpartnerservices.goog",
+    "name": "datadog-saas-datadog-saas.cloudpartnerservices.goog",
+    "title": "Datadog"
+  },
+  {
+    "domain": "bigquery-connectors-public.cloud.goog",
+    "name": "datadog.endpoints.bigquery-connectors-public.cloud.goog",
+    "title": "Datadog by Windsor.ai"
+  },
+  {
+    "domain": "datadome-public-423915.cloud.goog",
+    "name": "datadome-bot-online-fraud-mitigation.endpoints.datadome-public-423915.cloud.goog",
+    "title": "DataDome Bot \u0026 Online Fraud Mitigation"
+  },
+  {
+    "domain": "dataedo-public.cloud.goog",
+    "name": "dataedo-portal-agent-vm-linux-x86-64.endpoints.dataedo-public.cloud.goog",
+    "title": "Dataedo Portal + Agent"
+  },
+  {
+    "domain": "dataedo-public.cloud.goog",
+    "name": "dataedo-portal-mssql-vm-linux-x86-64.endpoints.dataedo-public.cloud.goog",
+    "title": "Dataedo Portal + MSSQL Repository"
+  },
+  {
+    "domain": "dataedo-public.cloud.goog",
+    "name": "dataedo-portal-vm-linux-x86-64.endpoints.dataedo-public.cloud.goog",
+    "title": "Dataedo Portal"
+  },
+  {
+    "documentation": "Manages Google Cloud Dataflow projects on Google Cloud Platform.",
+    "domain": "googleapis.com",
+    "name": "dataflow.googleapis.com",
+    "title": "Dataflow API"
+  },
+  {
+    "domain": "datafold-public.cloud.goog",
+    "name": "datafold.endpoints.datafold-public.cloud.goog",
+    "title": "Datafold"
+  },
+  {
+    "documentation": "Service to develop, version control, and operationalize SQL pipelines in BigQuery.",
+    "domain": "googleapis.com",
+    "name": "dataform.googleapis.com",
+    "title": "Dataform API"
+  },
+  {
+    "documentation": "Cloud Data Fusion is a fully-managed, cloud native, enterprise data integration service for\n    quickly building and managing data pipelines. It provides a graphical interface to increase\n    time efficiency and reduce complexity, and allows business users, developers, and data\n    scientists to easily and reliably build scalable data integration solutions to cleanse,\n    prepare, blend, transfer and transform data without having to wrestle with infrastructure.",
+    "domain": "googleapis.com",
+    "name": "datafusion.googleapis.com",
+    "title": "Cloud Data Fusion API"
+  },
+  {
+    "domain": "dataheroes-public.cloud.goog",
+    "name": "dataheroes-ml-vm.endpoints.dataheroes-public.cloud.goog",
+    "title": "DataHeroes ML Model Training Platform"
+  },
+  {
+    "domain": "cloudpartnerservices.goog",
+    "name": "dataiku-dss-design-dataiku-public.cloudpartnerservices.goog",
+    "title": "Dataiku"
+  },
+  {
+    "domain": "cloudpartnerservices.goog",
+    "name": "dataiku-enterprise-ready-ai-dataiku-public.cloudpartnerservices.goog",
+    "title": "Dataiku Enterprise Ready AI Reporting Service"
+  },
+  {
+    "domain": "louaosh-acn-ai-agent-marketpla.cloud.goog",
+    "name": "dataingestionagent.endpoints.louaosh-acn-ai-agent-marketpla.cloud.goog",
+    "title": "Data Ingestion Agent"
+  },
+  {
+    "domain": "datakrypto-public.cloud.goog",
+    "name": "datakrypto-fhenomai-saas.endpoints.datakrypto-public.cloud.goog",
+    "title": "FHEnomAI"
+  },
+  {
+    "documentation": "Public API for Google Cloud AI Data Labeling Service.",
+    "domain": "googleapis.com",
+    "name": "datalabeling.googleapis.com",
+    "title": "Data Labeling API"
+  },
+  {
+    "domain": "incubeta-gcpmarketplace-public.cloud.goog",
+    "name": "datalaksajumpstart.endpoints.incubeta-gcpmarketplace-public.cloud.goog",
+    "title": "Datalaksa Jumpstart"
+  },
+  {
+    "domain": "hossted-public.cloud.goog",
+    "name": "datalens-supported-and-secured-by-the-hossted-platform.endpoints.hossted-public.cloud.goog",
+    "title": "DataLens - Supported and Secured by the Hossted Platform"
+  },
+  {
+    "domain": "googleapis.com",
+    "name": "datalineage.googleapis.com",
+    "title": "Data Lineage API"
   },
   {
     "domain": "googleapis.com",
