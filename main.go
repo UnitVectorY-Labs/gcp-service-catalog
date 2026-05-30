@@ -143,7 +143,7 @@ func crawlServiceUsage(ctx context.Context) error {
 	parent := fmt.Sprintf("projects/%s", projectID)
 
 	// Map to hold unique services keyed by service name.
-	servicesMap := make(map[string]map[string]interface{})
+	servicesMap := make(map[string]map[string]any)
 
 	// Function to call the API with the given filter.
 	callAPI := func(filter string) error {
@@ -171,7 +171,7 @@ func crawlServiceUsage(ctx context.Context) error {
 				continue
 			}
 
-			svc := map[string]interface{}{
+			svc := map[string]any{
 				"name":  name,
 				"title": resp.Config.Title,
 			}
@@ -208,7 +208,7 @@ func crawlServiceUsage(ctx context.Context) error {
 	}
 
 	// Create a slice from the map.
-	var services []map[string]interface{}
+	var services []map[string]any
 	for _, svc := range servicesMap {
 		services = append(services, svc)
 	}
