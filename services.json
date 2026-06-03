@@ -5746,6 +5746,7 @@
     "title": "Audit Query Resolution Agent"
   },
   {
+    "documentation": "The Audit Manager API allows customers to manage compliance audits.",
     "domain": "googleapis.com",
     "name": "auditmanager.googleapis.com",
     "title": "Audit Manager API"
@@ -6470,6 +6471,16 @@
     "domain": "barefoot-coders-public.cloud.goog",
     "name": "bfc-cloud-expansion-assessment.endpoints.barefoot-coders-public.cloud.goog",
     "title": "Cloud Expansion Assessment by Barefoot Coders"
+  },
+  {
+    "domain": "barefoot-coders-public.cloud.goog",
+    "name": "bfc-guided-ai-assisted-coding-workshops.endpoints.barefoot-coders-public.cloud.goog",
+    "title": "Guided AI-Assisted Coding Workshops"
+  },
+  {
+    "domain": "barefoot-coders-public.cloud.goog",
+    "name": "bfc-professional-services.endpoints.barefoot-coders-public.cloud.goog",
+    "title": "Barefoot Coders Professional Services"
   },
   {
     "domain": "corover-public.cloud.goog",
@@ -14901,6 +14912,246 @@
     "domain": "prod-dnb-mp-saas-publicae85678.cloud.goog",
     "name": "db-hoovers.endpoints.prod-dnb-mp-saas-publicae85678.cloud.goog",
     "title": "D\u0026B Hoovers"
+  },
+  {
+    "domain": "prod-dnb-mp-data-publicaa56fc8.cloud.goog",
+    "name": "db-hotlist.endpoints.prod-dnb-mp-data-publicaa56fc8.cloud.goog",
+    "title": "D\u0026B HotList® Data"
+  },
+  {
+    "domain": "prod-dnb-mp-data-publicaa56fc8.cloud.goog",
+    "name": "db-mdr-education-data.endpoints.prod-dnb-mp-data-publicaa56fc8.cloud.goog",
+    "title": "D\u0026B MDR Education Data"
+  },
+  {
+    "domain": "kyndryl-mkt.cloud.goog",
+    "name": "db-query-agent.endpoints.kyndryl-mkt.cloud.goog",
+    "title": "DB Query Agent"
+  },
+  {
+    "domain": "prod-dnb-mp-data-publicaa56fc8.cloud.goog",
+    "name": "db-strategic-database-marketing-record-sdmr.endpoints.prod-dnb-mp-data-publicaa56fc8.cloud.goog",
+    "title": "D\u0026B Strategic Database Marketing Record (SDMR)"
+  },
+  {
+    "domain": "cloudpartnerservices.goog",
+    "name": "dbcloudbin-for-oracle-byol-tecknolab-public.cloudpartnerservices.goog",
+    "title": "Tecknolab DBcloudbin for Oracle bring-your-own-license (BYOL)"
+  },
+  {
+    "domain": "cloudpartnerservices.goog",
+    "name": "dbcloudbin-for-oracle-pay-as-you-go-tecknolab-public.cloudpartnerservices.goog",
+    "title": "Tecknolab DBcloudbin for Oracle Pay-As-You-Go"
+  },
+  {
+    "domain": "cloudpartnerservices.goog",
+    "name": "dbcloudbin-for-sqlserver-byol-tecknolab-public.cloudpartnerservices.goog",
+    "title": "Tecknolab DBcloudbin for SQLServer bring-your-own-license (BYOL)"
+  },
+  {
+    "domain": "cloudpartnerservices.goog",
+    "name": "dbcloudbin-for-sqlserver-pay-as-you-go-tecknolab-public.cloudpartnerservices.goog",
+    "title": "Tecknolab DBcloudbin for SQLServer Pay-As-You-Go"
+  },
+  {
+    "domain": "techlatest-public.cloud.goog",
+    "name": "dbeaver-vm.endpoints.techlatest-public.cloud.goog",
+    "title": "Pre-configured DBeaver for Seamless Database Management"
+  },
+  {
+    "domain": "postgresai-public-374205.cloud.goog",
+    "name": "dblabse.endpoints.postgresai-public-374205.cloud.goog",
+    "title": "DBLAB SE"
+  },
+  {
+    "domain": "dbt-marketplace-public.cloud.goog",
+    "name": "dbt-cloud.endpoints.dbt-marketplace-public.cloud.goog",
+    "title": "dbt Cloud"
+  },
+  {
+    "domain": "cloudpartnerservices.goog",
+    "name": "dbx-xtremedatainc-public.cloudpartnerservices.goog",
+    "title": "XtremeData, Inc. dbX"
+  },
+  {
+    "domain": "dcc-p-me-west1-mp.cloud.goog",
+    "name": "dcc.endpoints.dcc-p-me-west1-mp.cloud.goog",
+    "title": "Digital Contact Center"
+  },
+  {
+    "domain": "cloudpartnerservices.goog",
+    "name": "dcm-dt-2364.cloudpartnerservices.goog",
+    "title": "Google DoubleClick Campaign Manager (DCM) Transfers"
+  },
+  {
+    "domain": "world-wide-technology-public.cloud.goog",
+    "name": "dcpo-cisco-secure-workload-by-wwt.endpoints.world-wide-technology-public.cloud.goog",
+    "title": "DCPO | Cisco - Secure Workload by WWT"
+  },
+  {
+    "domain": "carahsoft-public.cloud.goog",
+    "name": "dcpo-gitlab-carahsoft.endpoints.carahsoft-public.cloud.goog",
+    "title": "DCPO - GitLab - by Carahsoft "
+  },
+  {
+    "domain": "carahsoft-public.cloud.goog",
+    "name": "dcpo-paloalto-by-carahsoft.endpoints.carahsoft-public.cloud.goog",
+    "title": "DCPO - Palo Alto Platformization - by Carahsoft"
+  },
+  {
+    "domain": "bynet-public.cloud.goog",
+    "name": "dcpo-servicenow.endpoints.bynet-public.cloud.goog.endpoints.bynet-public.cloud.goog",
+    "title": "DCPO - ServiceNow on Google Cloud - by Bynet Data Communications"
+  },
+  {
+    "domain": "tdsynnexcorporation-public.cloud.goog",
+    "name": "dcpo-tdsynnex-imperva.endpoints.tdsynnexcorporation-public.cloud.goog.endpoints.tdsynnexcorporation-public.cloud.goog",
+    "title": "DCPO Imperva for Google Cloud Private Offer"
+  },
+  {
+    "domain": "tackle-prd-bqt4g.cloud.goog",
+    "name": "dcr-test-agent.endpoints.tackle-prd-bqt4g.cloud.goog",
+    "title": "dcr-test-agent"
+  },
+  {
+    "domain": "louaosh-acn-ai-agent-marketpla.cloud.goog",
+    "name": "dealreviewerapprovalagent.endpoints.louaosh-acn-ai-agent-marketpla.cloud.goog",
+    "title": "DealReviewer (ApprovalAgent)"
+  },
+  {
+    "domain": "deasylabs-public.cloud.goog",
+    "name": "deasy-labs.endpoints.deasylabs-public.cloud.goog",
+    "title": "Deasy Labs"
+  },
+  {
+    "domain": "cloudpartnerservices.goog",
+    "name": "debian-10-atomized-frontline-public.cloudpartnerservices.goog",
+    "title": "Frontline Debian 10"
+  },
+  {
+    "domain": "cloud-infra-services-public.cloud.goog",
+    "name": "debian-11.endpoints.cloud-infra-services-public.cloud.goog",
+    "title": "Debian 11 \"Bullseye\" Server"
+  },
+  {
+    "domain": "server-build-415714.cloud.goog",
+    "name": "debian-12-web-desktop.endpoints.server-build-415714.cloud.goog",
+    "title": "Debian 12 Web Desktop"
+  },
+  {
+    "domain": "elmcomputing-public.cloud.goog",
+    "name": "debian-12-xfce-gui-desktop.endpoints.elmcomputing-public.cloud.goog",
+    "title": "Debian 12 XFCE GUI Desktop"
+  },
+  {
+    "domain": "elmcomputing-public.cloud.goog",
+    "name": "debian-13-xfce-gui-desktop.endpoints.elmcomputing-public.cloud.goog",
+    "title": "Debian 13 XFCE GUI Desktop"
+  },
+  {
+    "domain": "cloudpartnerservices.goog",
+    "name": "debian-9-atomized-frontline-public.cloudpartnerservices.goog",
+    "title": "Frontline Debian 9"
+  },
+  {
+    "domain": "cloudpartnerservices.goog",
+    "name": "debian-gui-linux-techlatest-public.cloudpartnerservices.goog",
+    "title": "Techlatest.net debian-gui-linux"
+  },
+  {
+    "domain": "cloudpartnerservices.goog",
+    "name": "debian10-cloud-infrastructure-services.cloudpartnerservices.goog",
+    "title": "Cloud Infrastructure Services Debian 10 \"Buster\" Server"
+  },
+  {
+    "domain": "madarsonit-public.cloud.goog",
+    "name": "debian11-l1.endpoints.madarsonit-public.cloud.goog",
+    "title": "Debian GNU/Linux11 Hardened Image Level 1: Foundational Security"
+  },
+  {
+    "domain": "madarsonit-public.cloud.goog",
+    "name": "debian11-l2.endpoints.madarsonit-public.cloud.goog",
+    "title": "Debian GNU/Linux 11 Hardened Image – Level 2: Advanced Security"
+  },
+  {
+    "domain": "madarsonit-public.cloud.goog",
+    "name": "debian12-desk.endpoints.madarsonit-public.cloud.goog",
+    "title": "Debian GNU/Linux 12 Desktop image (GUI/RDP) "
+  },
+  {
+    "domain": "madarsonit-public.cloud.goog",
+    "name": "debian12-l1.endpoints.madarsonit-public.cloud.goog",
+    "title": "Debian GNU/Linux12 Hardened Image Level 1: Foundational Security"
+  },
+  {
+    "domain": "madarsonit-public.cloud.goog",
+    "name": "debian12-l2.endpoints.madarsonit-public.cloud.goog",
+    "title": "Debian GNU/Linux 12 Hardened Image – Level 2: Advanced Security"
+  },
+  {
+    "domain": "madarsonit-public.cloud.goog",
+    "name": "debian12desk-l1.endpoints.madarsonit-public.cloud.goog",
+    "title": "Debian GNU/Linux 12 Hardened Desktop image (GUI/RDP)"
+  },
+  {
+    "domain": "decagon-public-marketplace.cloud.goog",
+    "name": "decagongcp.endpoints.decagon-public-marketplace.cloud.goog",
+    "title": "Decagon"
+  },
+  {
+    "domain": "louaosh-acn-ai-agent-marketpla.cloud.goog",
+    "name": "decision-engine-agent.endpoints.louaosh-acn-ai-agent-marketpla.cloud.goog",
+    "title": "decision-engine-agent"
+  },
+  {
+    "domain": "causalens-public.cloud.goog",
+    "name": "decisionos-platform-poc.endpoints.causalens-public.cloud.goog",
+    "title": "decisionOS Platform"
+  },
+  {
+    "domain": "marxent-3d-cloud-public.cloud.goog",
+    "name": "deck-designer-3d.endpoints.marxent-3d-cloud-public.cloud.goog",
+    "title": "3D Deck Designer"
+  },
+  {
+    "domain": "decode-ga4-public.cloud.goog",
+    "name": "decode-ga4.endpoints.decode-ga4-public.cloud.goog",
+    "title": "Decode GA4"
+  },
+  {
+    "domain": "decube-public.cloud.goog",
+    "name": "decube-data-observability-catalog-and-governance-byol.endpoints.decube-public.cloud.goog",
+    "title": " decube | Data Observability, Catalog and Governance"
+  },
+  {
+    "domain": "decube-public.cloud.goog",
+    "name": "decube-data-observability-catalog-and-governance-saas.endpoints.decube-public.cloud.goog",
+    "title": " decube | Data Observability, Catalog and Governance"
+  },
+  {
+    "domain": "sibros-public.cloud.goog",
+    "name": "deep-connected-platform.endpoints.sibros-public.cloud.goog",
+    "title": "Deep Connected Platform"
+  },
+  {
+    "domain": "cloudpartnerservices.goog",
+    "name": "deep-globalids-public.cloudpartnerservices.goog",
+    "title": "Global IDs Inc Global IDs Data Ecosystem Evolution Platform"
+  },
+  {
+    "domain": "ath-infosystems-public.cloud.goog",
+    "name": "deepface.endpoints.ath-infosystems-public.cloud.goog",
+    "title": "DeepFace"
+  },
+  {
+    "domain": "corsound-public.cloud.goog",
+    "name": "deepfake-detect.endpoints.corsound-public.cloud.goog",
+    "title": "Deepfake Detect"
+  },
+  {
+    "domain": "deepgram-public.cloud.goog",
+    "name": "deepgram-language-ai.endpoints.deepgram-public.cloud.goog",
+    "title": "Deepgram Voice AI"
   },
   {
     "domain": "googleapis.com",
