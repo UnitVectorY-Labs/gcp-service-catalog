@@ -5536,6 +5536,11 @@
     "title": "AstroFarm"
   },
   {
+    "domain": "astronomerio-public.cloud.goog",
+    "name": "astronomer-center-of-excellence.endpoints.astronomerio-public.cloud.goog",
+    "title": "Astro Center of Excellence"
+  },
+  {
     "domain": "cloudpartnerservices.goog",
     "name": "astronomer-for-gcp-astronomerio-public.cloudpartnerservices.goog",
     "title": "Apache Airflow™ with Astro by Astronomer"
@@ -15582,11 +15587,6 @@
   {
     "domain": "cloudpartnerservices.goog",
     "name": "cloud-marketplace-eed0659d-0c54-4f1d-acb8-660171e40e06.cloudpartnerservices.goog",
-    "title": ""
-  },
-  {
-    "domain": "cloudpartnerservices.goog",
-    "name": "cloud-marketplace-eef1decc-cb2d-41db-824b-bc9c96ed021a.cloudpartnerservices.goog",
     "title": ""
   },
   {
