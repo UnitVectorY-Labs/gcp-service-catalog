@@ -5636,6 +5636,11 @@
     "title": "Atom"
   },
   {
+    "domain": "usai-public.cloud.goog",
+    "name": "atom.endpoints.usai-public.cloud.goog",
+    "title": "Atom"
+  },
+  {
     "domain": "cloudpartnerservices.goog",
     "name": "atomicorp-enterprise-ossec-atomicorp-public.cloudpartnerservices.goog",
     "title": "Atomicorp Enterprise Ossec"
@@ -7781,6 +7786,11 @@
     "domain": "bigquery-connectors-public.cloud.goog",
     "name": "callrail.endpoints.bigquery-connectors-public.cloud.goog",
     "title": "CallRail by Windsor.ai"
+  },
+  {
+    "domain": "callsign-public-30df.cloud.goog",
+    "name": "callsign-platform.endpoints.callsign-public-30df.cloud.goog",
+    "title": "Callsign Platform"
   },
   {
     "domain": "nobroker-callzen-public.cloud.goog",
@@ -12061,11 +12071,6 @@
   },
   {
     "domain": "cloudpartnerservices.goog",
-    "name": "cloud-marketplace-596b3dd0-a9cf-4706-bfc2-d5cb070bf89a.cloudpartnerservices.goog",
-    "title": ""
-  },
-  {
-    "domain": "cloudpartnerservices.goog",
     "name": "cloud-marketplace-599f269a-98ac-4ae2-83ea-94f20c1e6d80.cloudpartnerservices.goog",
     "title": ""
   },
@@ -15332,11 +15337,6 @@
   {
     "domain": "cloudpartnerservices.goog",
     "name": "cloud-marketplace-e127c249-9ddc-4d70-8738-e956e19598a5.cloudpartnerservices.goog",
-    "title": ""
-  },
-  {
-    "domain": "cloudpartnerservices.goog",
-    "name": "cloud-marketplace-e13fee5c-3274-4fb1-a515-ca2a6027cc6b.cloudpartnerservices.goog",
     "title": ""
   },
   {
