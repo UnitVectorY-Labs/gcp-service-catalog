@@ -1093,11 +1093,6 @@
   },
   {
     "domain": "louaosh-acn-ai-agent-marketpla.cloud.goog",
-    "name": "accenture-ai-agent243.endpoints.louaosh-acn-ai-agent-marketpla.cloud.goog",
-    "title": "accenture-ai-agent243"
-  },
-  {
-    "domain": "louaosh-acn-ai-agent-marketpla.cloud.goog",
     "name": "accenture-ai-agent244.endpoints.louaosh-acn-ai-agent-marketpla.cloud.goog",
     "title": "accenture-ai-agent244"
   },
@@ -6763,6 +6758,11 @@
     "domain": "cloudpartnerservices.goog",
     "name": "bitpod-survey-bitpod-public.cloudpartnerservices.goog",
     "title": "Bitpod Survey"
+  },
+  {
+    "domain": "cubewire.cloud.goog",
+    "name": "bixie.endpoints.cubewire.cloud.goog",
+    "title": "Bixie"
   },
   {
     "domain": "bizstats.ai",
