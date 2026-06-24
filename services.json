@@ -1093,6 +1093,11 @@
   },
   {
     "domain": "louaosh-acn-ai-agent-marketpla.cloud.goog",
+    "name": "accenture-ai-agent243.endpoints.louaosh-acn-ai-agent-marketpla.cloud.goog",
+    "title": "accenture-ai-agent243"
+  },
+  {
+    "domain": "louaosh-acn-ai-agent-marketpla.cloud.goog",
     "name": "accenture-ai-agent244.endpoints.louaosh-acn-ai-agent-marketpla.cloud.goog",
     "title": "accenture-ai-agent244"
   },
@@ -6558,7 +6563,7 @@
     "title": "BigID, Inc. BigID Data Intelligence Platform"
   },
   {
-    "documentation": "The BigLake API provides access to BigLake Metastore, a serverless, fully managed, and highly available metastore for open-source data that can be used for querying Apache Iceberg tables in BigQuery.",
+    "documentation": "The Lakehouse API (formerly BigLake API) provides access to a serverless, fully managed, and highly available metastore that provides a single source of truth for your data lakehouse. It lets multiple engines—including Apache Spark, Google Managed Spark, Apache Flink, Trino and BigQuery—share tables and metadata for key open formats (Apache Iceberg, Apache Hive), and query the same copy of data. Plus, through the Lakehouse runtime catalog federation seamlessly unite your lakehouse ecosystem, letting Iceberg compatible engines on Google Cloud (BigQuery, Google Managed Spark) discover and analyze enterprise data across Snowflake, Databricks, and AWS Glue.",
     "domain": "googleapis.com",
     "name": "biglake.googleapis.com",
     "title": "BigLake API"
@@ -7758,6 +7763,11 @@
     "domain": "cloudpartnerservices.goog",
     "name": "calc-sys-nifi-calculated-systems-mp-public.cloudpartnerservices.goog",
     "title": "Calculated Systems LLC Calculated Systems Certified Nifi"
+  },
+  {
+    "domain": "meetrix-public.cloud.goog",
+    "name": "calcom.endpoints.meetrix-public.cloud.goog",
+    "title": "Cal.diy Scheduling: Self Hosted Booking and Appointment Platform"
   },
   {
     "documentation": "The CalDAV API lets you manage your Google calendars and events.",
@@ -15327,16 +15337,6 @@
   {
     "domain": "cloudpartnerservices.goog",
     "name": "cloud-marketplace-df02e25a-c8e1-4ed7-a9d5-9a7d5ffc1cd2.cloudpartnerservices.goog",
-    "title": ""
-  },
-  {
-    "domain": "cloudpartnerservices.goog",
-    "name": "cloud-marketplace-df4db94a-85d3-4581-8eec-3eba27013a3e.cloudpartnerservices.goog",
-    "title": ""
-  },
-  {
-    "domain": "cloudpartnerservices.goog",
-    "name": "cloud-marketplace-df8c1298-75b2-4dd1-918f-ccd132b9715a.cloudpartnerservices.goog",
     "title": ""
   },
   {
