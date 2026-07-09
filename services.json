@@ -3723,6 +3723,11 @@
   },
   {
     "domain": "bellsoft-public.cloud.goog",
+    "name": "alpaquita-base.endpoints.bellsoft-public.cloud.goog",
+    "title": "Alpaquita Linux Stream"
+  },
+  {
+    "domain": "bellsoft-public.cloud.goog",
     "name": "alpaquita.endpoints.bellsoft-public.cloud.goog",
     "title": "Alpaquita Linux"
   },
@@ -15083,11 +15088,6 @@
   {
     "domain": "cloudpartnerservices.goog",
     "name": "cloud-marketplace-d2c21eba-217e-4dd9-ad2c-f0354e567633.cloudpartnerservices.goog",
-    "title": ""
-  },
-  {
-    "domain": "cloudpartnerservices.goog",
-    "name": "cloud-marketplace-d2c8c396-1dc4-44a6-9be0-72f3da60334f.cloudpartnerservices.goog",
     "title": ""
   },
   {
