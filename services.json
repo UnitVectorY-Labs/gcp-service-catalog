@@ -6589,6 +6589,11 @@
     "title": "BetterCloud"
   },
   {
+    "domain": "hossted-public.cloud.goog",
+    "name": "bewcloud-supported-and-secured-by-the-hossted-platform.endpoints.hossted-public.cloud.goog",
+    "title": "bewCloud - Supported and Secured by the Hossted Platform"
+  },
+  {
     "domain": "sada-public.cloud.goog",
     "name": "beyondcorp.endpoints.sada-public.cloud.goog",
     "title": "Cloud Native Access Control (BeyondCorp)"
@@ -14334,11 +14339,6 @@
   {
     "domain": "cloudpartnerservices.goog",
     "name": "cloud-marketplace-a90e0dec-0ac2-4be6-bc13-15b7c2080b51.cloudpartnerservices.goog",
-    "title": ""
-  },
-  {
-    "domain": "cloudpartnerservices.goog",
-    "name": "cloud-marketplace-a93c0d1d-ac58-4303-9e05-d521ca4069a7.cloudpartnerservices.goog",
     "title": ""
   },
   {
