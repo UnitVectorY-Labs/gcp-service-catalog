@@ -2640,6 +2640,11 @@
     "title": "Actions API"
   },
   {
+    "domain": "parallelworks-public.cloud.goog",
+    "name": "activate.endpoints.parallelworks-public.cloud.goog",
+    "title": "Parallel Works ACTIVATE"
+  },
+  {
     "domain": "bigquery-connectors-public.cloud.goog",
     "name": "active-campaign.endpoints.bigquery-connectors-public.cloud.goog",
     "title": "ActiveCampaign Connector by Windsor.ai"
@@ -15084,11 +15089,6 @@
   {
     "domain": "cloudpartnerservices.goog",
     "name": "cloud-marketplace-cc3f8592-4f31-435d-bbee-a57ab1479c8c.cloudpartnerservices.goog",
-    "title": ""
-  },
-  {
-    "domain": "cloudpartnerservices.goog",
-    "name": "cloud-marketplace-cc71d0bd-d3ac-4467-a15e-02ddd1e90e5e.cloudpartnerservices.goog",
     "title": ""
   },
   {
