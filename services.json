@@ -2794,6 +2794,11 @@
     "title": "Cloud Infrastructure Services ADFS Windows Server 2019"
   },
   {
+    "domain": "anarion-technologies-public.cloud.goog",
+    "name": "adguard.home.endpoints.anarion-technologies-public.cloud.goog",
+    "title": "AdGuard Home on Ubuntu26"
+  },
+  {
     "domain": "cloudpartnerservices.goog",
     "name": "adi-broadstreet-public-data.cloudpartnerservices.goog",
     "title": "BroadStreet Area Deprivation Index (ADI)"
@@ -4924,6 +4929,11 @@
     "title": "Apache WebServer on Windows server 2022"
   },
   {
+    "domain": "anarion-technologies-public.cloud.goog",
+    "name": "apache.rocketmq.endpoints.anarion-technologies-public.cloud.goog",
+    "title": "Apache RocketMQ on Ubuntu26"
+  },
+  {
     "domain": "cloudpartnerservices.goog",
     "name": "apache2-click-to-deploy-images.cloudpartnerservices.goog",
     "title": "Google Click to Deploy Apache HTTP Server"
@@ -5592,6 +5602,11 @@
     "domain": "mcloud-marketplace-public.cloud.goog",
     "name": "assetcare-wind-farm-management.endpoints.mcloud-marketplace-public.cloud.goog",
     "title": "AssetCare® Wind Farm Management"
+  },
+  {
+    "domain": "assis-marketplace.cloud.goog",
+    "name": "assis.endpoints.assis-marketplace.cloud.goog",
+    "title": "Assis"
   },
   {
     "domain": "konaai-public.cloud.goog",
@@ -15325,21 +15340,6 @@
   {
     "domain": "cloudpartnerservices.goog",
     "name": "cloud-marketplace-d6101645-4567-47ec-a806-3140c4ea6022.cloudpartnerservices.goog",
-    "title": ""
-  },
-  {
-    "domain": "cloudpartnerservices.goog",
-    "name": "cloud-marketplace-d66a6fa0-dfb6-4ea3-87e5-ae4801b61f46.cloudpartnerservices.goog",
-    "title": ""
-  },
-  {
-    "domain": "cloudpartnerservices.goog",
-    "name": "cloud-marketplace-d6940628-c0de-46a9-aed7-77193a92fa3c.cloudpartnerservices.goog",
-    "title": ""
-  },
-  {
-    "domain": "cloudpartnerservices.goog",
-    "name": "cloud-marketplace-d6a5a0e6-512a-49bb-88bc-a8a5d16102bf.cloudpartnerservices.goog",
     "title": ""
   },
   {
