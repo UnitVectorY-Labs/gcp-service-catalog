@@ -5528,12 +5528,6 @@
     "title": "JFrog Artifactory"
   },
   {
-    "documentation": "Store and manage build artifacts in a scalable and integrated service built on Google infrastructure.",
-    "domain": "googleapis.com",
-    "name": "artifactregistry.googleapis.com",
-    "title": "Artifact Registry API"
-  },
-  {
     "domain": "arya-apis-public.cloud.goog",
     "name": "arya-passive-liveness-detection.endpoints.arya-apis-public.cloud.goog",
     "title": "arya-passive-liveness-detection"
@@ -14841,40 +14835,5 @@
     "domain": "cloudpartnerservices.goog",
     "name": "cloud-marketplace-bca802fd-fb94-40b9-85c2-eddebecbf1e2.cloudpartnerservices.goog",
     "title": ""
-  },
-  {
-    "documentation": "Creates, reads, and updates metadata for Google Cloud Platform resource containers.",
-    "domain": "googleapis.com",
-    "name": "cloudresourcemanager.googleapis.com",
-    "title": "Cloud Resource Manager API"
-  },
-  {
-    "domain": "googleapis.com",
-    "name": "dns.googleapis.com",
-    "title": "Cloud DNS API"
-  },
-  {
-    "documentation": "Manages identity and access control for Google Cloud resources, including the creation of service accounts, which you can use to authenticate to Google and make API calls. Enabling this API also enables the IAM Service Account Credentials API (iamcredentials.googleapis.com). However, disabling this API doesn't disable the IAM Service Account Credentials API.\n",
-    "domain": "googleapis.com",
-    "name": "iam.googleapis.com",
-    "title": "Identity and Access Management (IAM) API"
-  },
-  {
-    "documentation": "Creates short-lived credentials for impersonating IAM service accounts. Disabling this API also disables the IAM API (iam.googleapis.com). However, enabling this API doesn't enable the IAM API.\n",
-    "domain": "googleapis.com",
-    "name": "iamcredentials.googleapis.com",
-    "title": "IAM Service Account Credentials API"
-  },
-  {
-    "documentation": "Privileged Access Manager (PAM) helps you to follow least privilege best practice to mitigate risks tied to privileged access misuse and abuse. You can shift from always-on standing privileges to on-demand access using time-bound and approval-based access elevations.\nIAM administrators specifically can use PAM to create entitlements that can grant temporary access to a specific resource scope. Requesters can explore eligible entitlements and request the access needed for their task, and approvers are notified when approvals require their attention.\nStreamlined workflows facilitated using PAM support several use cases, including the following:\n\n  * Emergency access for incident responders\n\n  * Time-boxed access for developers for critical deployment or maintenance\n\n  * Temporary access for operators for data ingestion and audits\n\n  * Temporary access to service accounts for automated tasks\n",
-    "domain": "googleapis.com",
-    "name": "privilegedaccessmanager.googleapis.com",
-    "title": "Privileged Access Manager API"
-  },
-  {
-    "documentation": "Enables services that service consumers want to use on Google Cloud Platform, lists the available or enabled services, or disables services that service consumers no longer use.",
-    "domain": "googleapis.com",
-    "name": "serviceusage.googleapis.com",
-    "title": "Service Usage API"
   }
 ]
