@@ -55,6 +55,11 @@
     "title": "Menlo A2A Agent (Preview)"
   },
   {
+    "domain": "namalas-test00.cloud.goog",
+    "name": "a2a.endpoints.namalas-test00.cloud.goog",
+    "title": "VinodtestA2A"
+  },
+  {
     "domain": "articul8-public.cloud.goog",
     "name": "a8genaiplatform.endpoints.articul8-public.cloud.goog",
     "title": "Articul8 GenAI Platform"
@@ -5526,6 +5531,12 @@
     "domain": "cloudpartnerservices.goog",
     "name": "artifactory-jfrog-app.cloudpartnerservices.goog",
     "title": "JFrog Artifactory"
+  },
+  {
+    "documentation": "Store and manage build artifacts in a scalable and integrated service built on Google infrastructure.",
+    "domain": "googleapis.com",
+    "name": "artifactregistry.googleapis.com",
+    "title": "Artifact Registry API"
   },
   {
     "domain": "arya-apis-public.cloud.goog",
@@ -14835,5 +14846,285 @@
     "domain": "cloudpartnerservices.goog",
     "name": "cloud-marketplace-bca802fd-fb94-40b9-85c2-eddebecbf1e2.cloudpartnerservices.goog",
     "title": ""
+  },
+  {
+    "domain": "cloudpartnerservices.goog",
+    "name": "cloud-marketplace-bd2e5f65-ddf2-45cd-beee-3a66c408dc55.cloudpartnerservices.goog",
+    "title": ""
+  },
+  {
+    "domain": "cloudpartnerservices.goog",
+    "name": "cloud-marketplace-bd58c35c-9bfa-4515-8083-c741980b79a7.cloudpartnerservices.goog",
+    "title": ""
+  },
+  {
+    "domain": "cloudpartnerservices.goog",
+    "name": "cloud-marketplace-bdb350dd-f34e-4288-a6e3-8b46d247cf32.cloudpartnerservices.goog",
+    "title": ""
+  },
+  {
+    "domain": "cloudpartnerservices.goog",
+    "name": "cloud-marketplace-be2de199-7002-4430-9c55-df96bcb42aa7.cloudpartnerservices.goog",
+    "title": ""
+  },
+  {
+    "domain": "cloudpartnerservices.goog",
+    "name": "cloud-marketplace-be712bf6-e2dc-4825-b3c0-58533bfe0763.cloudpartnerservices.goog",
+    "title": ""
+  },
+  {
+    "domain": "cloudpartnerservices.goog",
+    "name": "cloud-marketplace-be749e2c-cef4-4019-aa18-cd1bf1bbc4f6.cloudpartnerservices.goog",
+    "title": ""
+  },
+  {
+    "domain": "cloudpartnerservices.goog",
+    "name": "cloud-marketplace-bee56fae-bc58-4eef-af88-63f1b4c486cd.cloudpartnerservices.goog",
+    "title": ""
+  },
+  {
+    "domain": "cloudpartnerservices.goog",
+    "name": "cloud-marketplace-beff16ea-3baf-4022-9493-2bd0029ff5b5.cloudpartnerservices.goog",
+    "title": ""
+  },
+  {
+    "domain": "cloudpartnerservices.goog",
+    "name": "cloud-marketplace-bf168638-5412-4f97-b59c-1d93192d7a95.cloudpartnerservices.goog",
+    "title": ""
+  },
+  {
+    "domain": "cloudpartnerservices.goog",
+    "name": "cloud-marketplace-bf79aff6-499d-4cd7-a69b-ea356e9e7d4c.cloudpartnerservices.goog",
+    "title": ""
+  },
+  {
+    "domain": "cloudpartnerservices.goog",
+    "name": "cloud-marketplace-bfc6680e-3d01-4dbd-bd99-407faa50259d.cloudpartnerservices.goog",
+    "title": ""
+  },
+  {
+    "domain": "cloudpartnerservices.goog",
+    "name": "cloud-marketplace-bfff6fe4-2960-4f13-a66c-eb79bb9f351b.cloudpartnerservices.goog",
+    "title": ""
+  },
+  {
+    "domain": "cloudpartnerservices.goog",
+    "name": "cloud-marketplace-c0145fe0-d6e9-4e0c-baf0-1dd7a77f927a.cloudpartnerservices.goog",
+    "title": ""
+  },
+  {
+    "domain": "cloudpartnerservices.goog",
+    "name": "cloud-marketplace-c0dea4ff-534e-48cc-a070-67182550e1d6.cloudpartnerservices.goog",
+    "title": ""
+  },
+  {
+    "domain": "cloudpartnerservices.goog",
+    "name": "cloud-marketplace-c17e3c44-b153-4e8c-915e-bd1c2505f82a.cloudpartnerservices.goog",
+    "title": ""
+  },
+  {
+    "domain": "cloudpartnerservices.goog",
+    "name": "cloud-marketplace-c18ef9ea-e71d-4ffb-95c0-0c772fe85496.cloudpartnerservices.goog",
+    "title": ""
+  },
+  {
+    "domain": "cloudpartnerservices.goog",
+    "name": "cloud-marketplace-c22acfbe-5eff-44bf-9401-06234fc01f8f.cloudpartnerservices.goog",
+    "title": ""
+  },
+  {
+    "domain": "cloudpartnerservices.goog",
+    "name": "cloud-marketplace-c2370d73-a231-4f04-a572-5f03fab4c922.cloudpartnerservices.goog",
+    "title": ""
+  },
+  {
+    "domain": "cloudpartnerservices.goog",
+    "name": "cloud-marketplace-c25147fc-78d3-4ed3-a8dc-1ab239b4bd7a.cloudpartnerservices.goog",
+    "title": ""
+  },
+  {
+    "domain": "cloudpartnerservices.goog",
+    "name": "cloud-marketplace-c2652d2c-960c-49ae-834a-d0c9049c17c9.cloudpartnerservices.goog",
+    "title": ""
+  },
+  {
+    "domain": "cloudpartnerservices.goog",
+    "name": "cloud-marketplace-c2819424-0d6f-46f8-84ce-f9512cb0df7e.cloudpartnerservices.goog",
+    "title": ""
+  },
+  {
+    "domain": "cloudpartnerservices.goog",
+    "name": "cloud-marketplace-c2ba25cd-b9c5-4ec8-99b1-f31e88153485.cloudpartnerservices.goog",
+    "title": ""
+  },
+  {
+    "domain": "cloudpartnerservices.goog",
+    "name": "cloud-marketplace-c32b7723-5a50-4ee0-8f53-a00ee5a62d0b.cloudpartnerservices.goog",
+    "title": ""
+  },
+  {
+    "domain": "cloudpartnerservices.goog",
+    "name": "cloud-marketplace-c3329cae-556d-4046-a31d-461ef5c937aa.cloudpartnerservices.goog",
+    "title": ""
+  },
+  {
+    "domain": "cloudpartnerservices.goog",
+    "name": "cloud-marketplace-c37376df-43f0-475e-b796-6c7035bf3aad.cloudpartnerservices.goog",
+    "title": ""
+  },
+  {
+    "domain": "cloudpartnerservices.goog",
+    "name": "cloud-marketplace-c3a26f2c-eb81-41fc-aaa0-2c6b3e93b596.cloudpartnerservices.goog",
+    "title": ""
+  },
+  {
+    "domain": "cloudpartnerservices.goog",
+    "name": "cloud-marketplace-c44d06c9-f388-49a9-af03-7062e9df0a61.cloudpartnerservices.goog",
+    "title": ""
+  },
+  {
+    "domain": "cloudpartnerservices.goog",
+    "name": "cloud-marketplace-c47f6154-1c46-4f14-842d-cc897629c018.cloudpartnerservices.goog",
+    "title": ""
+  },
+  {
+    "domain": "cloudpartnerservices.goog",
+    "name": "cloud-marketplace-c4ce0b4e-c53a-43c4-8c7e-5c0dd4b19904.cloudpartnerservices.goog",
+    "title": ""
+  },
+  {
+    "domain": "cloudpartnerservices.goog",
+    "name": "cloud-marketplace-c50349ba-a42c-4d8a-80cd-e1fead370221.cloudpartnerservices.goog",
+    "title": ""
+  },
+  {
+    "domain": "cloudpartnerservices.goog",
+    "name": "cloud-marketplace-c52a0c49-25ad-4b56-974a-6c4cfa2c5420.cloudpartnerservices.goog",
+    "title": ""
+  },
+  {
+    "domain": "cloudpartnerservices.goog",
+    "name": "cloud-marketplace-c53179a6-eb2e-4c8d-b7a4-414be9c2e622.cloudpartnerservices.goog",
+    "title": ""
+  },
+  {
+    "domain": "cloudpartnerservices.goog",
+    "name": "cloud-marketplace-c5428557-35c8-4fe6-9963-1fc602be8f38.cloudpartnerservices.goog",
+    "title": ""
+  },
+  {
+    "domain": "cloudpartnerservices.goog",
+    "name": "cloud-marketplace-c5633827-a20e-46af-a899-347cba0c03cc.cloudpartnerservices.goog",
+    "title": ""
+  },
+  {
+    "domain": "cloudpartnerservices.goog",
+    "name": "cloud-marketplace-c5731a97-bcca-446d-b4a8-d3801b1bd2da.cloudpartnerservices.goog",
+    "title": ""
+  },
+  {
+    "domain": "cloudpartnerservices.goog",
+    "name": "cloud-marketplace-c59cb26e-3643-4c54-b55f-96afeae06682.cloudpartnerservices.goog",
+    "title": ""
+  },
+  {
+    "domain": "cloudpartnerservices.goog",
+    "name": "cloud-marketplace-c5fc7967-7e05-4c20-971e-3f66e3c9da8e.cloudpartnerservices.goog",
+    "title": ""
+  },
+  {
+    "domain": "cloudpartnerservices.goog",
+    "name": "cloud-marketplace-c66dec13-b793-4d6f-b1f8-fcfeafc6692c.cloudpartnerservices.goog",
+    "title": ""
+  },
+  {
+    "domain": "cloudpartnerservices.goog",
+    "name": "cloud-marketplace-c6e7b48e-d9fb-459f-aca1-0b0fb53bb9e6.cloudpartnerservices.goog",
+    "title": ""
+  },
+  {
+    "domain": "cloudpartnerservices.goog",
+    "name": "cloud-marketplace-c7d70e30-d9c9-4135-af89-b529ceb6f663.cloudpartnerservices.goog",
+    "title": ""
+  },
+  {
+    "domain": "cloudpartnerservices.goog",
+    "name": "cloud-marketplace-c8110069-5498-4e40-9acc-d4b264842b9c.cloudpartnerservices.goog",
+    "title": ""
+  },
+  {
+    "domain": "cloudpartnerservices.goog",
+    "name": "cloud-marketplace-c893da72-e931-4632-9777-ae578321dab3.cloudpartnerservices.goog",
+    "title": ""
+  },
+  {
+    "domain": "cloudpartnerservices.goog",
+    "name": "cloud-marketplace-c8c50feb-78eb-481e-9e89-abe40c2b9aee.cloudpartnerservices.goog",
+    "title": ""
+  },
+  {
+    "domain": "cloudpartnerservices.goog",
+    "name": "cloud-marketplace-c8d3fced-f73e-4e1a-a2c3-f3f20d4f9fe8.cloudpartnerservices.goog",
+    "title": ""
+  },
+  {
+    "domain": "cloudpartnerservices.goog",
+    "name": "cloud-marketplace-c8d9c56e-8501-48be-9a9e-05a61430beae.cloudpartnerservices.goog",
+    "title": ""
+  },
+  {
+    "domain": "cloudpartnerservices.goog",
+    "name": "cloud-marketplace-c8de8648-41a1-483a-a69a-9b7c964b9677.cloudpartnerservices.goog",
+    "title": ""
+  },
+  {
+    "domain": "cloudpartnerservices.goog",
+    "name": "cloud-marketplace-c8f95b4c-c958-46e6-bd88-37f863af8aea.cloudpartnerservices.goog",
+    "title": ""
+  },
+  {
+    "domain": "cloudpartnerservices.goog",
+    "name": "cloud-marketplace-c901e885-d645-48f4-a8c8-ac84ceed0973.cloudpartnerservices.goog",
+    "title": ""
+  },
+  {
+    "domain": "cloudpartnerservices.goog",
+    "name": "cloud-marketplace-c97a1480-ad17-429b-8227-1b1732e960d5.cloudpartnerservices.goog",
+    "title": ""
+  },
+  {
+    "documentation": "Creates, reads, and updates metadata for Google Cloud Platform resource containers.",
+    "domain": "googleapis.com",
+    "name": "cloudresourcemanager.googleapis.com",
+    "title": "Cloud Resource Manager API"
+  },
+  {
+    "domain": "googleapis.com",
+    "name": "dns.googleapis.com",
+    "title": "Cloud DNS API"
+  },
+  {
+    "documentation": "Manages identity and access control for Google Cloud resources, including the creation of service accounts, which you can use to authenticate to Google and make API calls. Enabling this API also enables the IAM Service Account Credentials API (iamcredentials.googleapis.com). However, disabling this API doesn't disable the IAM Service Account Credentials API.\n",
+    "domain": "googleapis.com",
+    "name": "iam.googleapis.com",
+    "title": "Identity and Access Management (IAM) API"
+  },
+  {
+    "documentation": "Creates short-lived credentials for impersonating IAM service accounts. Disabling this API also disables the IAM API (iam.googleapis.com). However, enabling this API doesn't enable the IAM API.\n",
+    "domain": "googleapis.com",
+    "name": "iamcredentials.googleapis.com",
+    "title": "IAM Service Account Credentials API"
+  },
+  {
+    "documentation": "Privileged Access Manager (PAM) helps you to follow least privilege best practice to mitigate risks tied to privileged access misuse and abuse. You can shift from always-on standing privileges to on-demand access using time-bound and approval-based access elevations.\nIAM administrators specifically can use PAM to create entitlements that can grant temporary access to a specific resource scope. Requesters can explore eligible entitlements and request the access needed for their task, and approvers are notified when approvals require their attention.\nStreamlined workflows facilitated using PAM support several use cases, including the following:\n\n  * Emergency access for incident responders\n\n  * Time-boxed access for developers for critical deployment or maintenance\n\n  * Temporary access for operators for data ingestion and audits\n\n  * Temporary access to service accounts for automated tasks\n",
+    "domain": "googleapis.com",
+    "name": "privilegedaccessmanager.googleapis.com",
+    "title": "Privileged Access Manager API"
+  },
+  {
+    "documentation": "Enables services that service consumers want to use on Google Cloud Platform, lists the available or enabled services, or disables services that service consumers no longer use.",
+    "domain": "googleapis.com",
+    "name": "serviceusage.googleapis.com",
+    "title": "Service Usage API"
   }
 ]
