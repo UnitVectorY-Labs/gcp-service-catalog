@@ -322,7 +322,7 @@
       "version": "v1"
     },
     {
-      "description": "agentidentitycredentials.googleapis.com API.",
+      "description": "The Agent Identity Credentials API retrieves and finalizes authorization credentials for auth providers.",
       "discoveryLink": "",
       "discoveryRestUrl": "https://agentidentitycredentials.googleapis.com/$discovery/rest?version=v1alpha",
       "documentationLink": "https://cloud.google.com/iam/docs/",
@@ -338,7 +338,7 @@
       "version": "v1alpha"
     },
     {
-      "description": "agentidentitycredentials.googleapis.com API.",
+      "description": "The Agent Identity Credentials API retrieves and finalizes authorization credentials for auth providers.",
       "discoveryLink": "",
       "discoveryRestUrl": "https://agentidentitycredentials.googleapis.com/$discovery/rest?version=v1beta",
       "documentationLink": "https://cloud.google.com/iam/docs/",
@@ -354,7 +354,7 @@
       "version": "v1beta"
     },
     {
-      "description": "agentidentitycredentials.googleapis.com API.",
+      "description": "The Agent Identity Credentials API retrieves and finalizes authorization credentials for auth providers.",
       "discoveryLink": "",
       "discoveryRestUrl": "https://agentidentitycredentials.googleapis.com/$discovery/rest?version=v1",
       "documentationLink": "https://cloud.google.com/iam/docs/",
