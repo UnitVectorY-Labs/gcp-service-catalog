@@ -5432,6 +5432,7 @@
     "title": "Appspace"
   },
   {
+    "documentation": "Correlate data to answer questions about the health, performance, and security posture of your resources.",
     "domain": "googleapis.com",
     "name": "apptopology.googleapis.com",
     "title": "App Topology API"
@@ -5633,6 +5634,11 @@
     "domain": "arraynetworks-public.cloud.goog",
     "name": "array-networks-vasf-byol.endpoints.arraynetworks-public.cloud.goog",
     "title": "Array Networks vASF - BYOL"
+  },
+  {
+    "domain": "turintech-marketplace-public.cloud.goog",
+    "name": "artemis-saas.endpoints.turintech-marketplace-public.cloud.goog",
+    "title": "Artemis"
   },
   {
     "domain": "arteria-public.cloud.goog",
@@ -8779,6 +8785,11 @@
     "title": "CFE Suite"
   },
   {
+    "domain": "gc-fr-1046-prj-public.cloud.goog",
+    "name": "cgi-retail-suite-pos.endpoints.gc-fr-1046-prj-public.cloud.goog",
+    "title": "CGI Retail Suite - POS"
+  },
+  {
     "domain": "chainguard-public.cloud.goog",
     "name": "chainguard-enterprise-images.endpoints.chainguard-public.cloud.goog",
     "title": "Chainguard Images"
@@ -10591,6 +10602,11 @@
   {
     "domain": "cloudpartnerservices.goog",
     "name": "cloud-marketplace-0650bba6-cd20-45ea-813c-33caf804daaa.cloudpartnerservices.goog",
+    "title": ""
+  },
+  {
+    "domain": "cloudpartnerservices.goog",
+    "name": "cloud-marketplace-06715354-8dd0-4a64-b414-baf93aef54c0.cloudpartnerservices.goog",
     "title": ""
   },
   {
@@ -15576,21 +15592,6 @@
   {
     "domain": "cloudpartnerservices.goog",
     "name": "cloud-marketplace-d6940628-c0de-46a9-aed7-77193a92fa3c.cloudpartnerservices.goog",
-    "title": ""
-  },
-  {
-    "domain": "cloudpartnerservices.goog",
-    "name": "cloud-marketplace-d6a5a0e6-512a-49bb-88bc-a8a5d16102bf.cloudpartnerservices.goog",
-    "title": ""
-  },
-  {
-    "domain": "cloudpartnerservices.goog",
-    "name": "cloud-marketplace-d6d3f29f-20d3-4519-b0e3-06f100f25b43.cloudpartnerservices.goog",
-    "title": ""
-  },
-  {
-    "domain": "cloudpartnerservices.goog",
-    "name": "cloud-marketplace-d6ec7ef0-0119-4f71-b2fc-2b1b8d321e6c.cloudpartnerservices.goog",
     "title": ""
   },
   {
