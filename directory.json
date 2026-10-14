@@ -7013,7 +7013,7 @@
       "description": "Model, deploy, and operate your SaaS at scale.",
       "discoveryLink": "",
       "discoveryRestUrl": "https://saasservicemgmt.googleapis.com/$discovery/rest?version=v1beta1",
-      "documentationLink": "https://cloud.google.com/saas-runtime/docs",
+      "documentationLink": "https://docs.cloud.google.com/app-lifecycle-manager",
       "icons": {
         "x16": "https://www.gstatic.com/images/branding/product/1x/googleg_16dp.png",
         "x32": "https://www.gstatic.com/images/branding/product/1x/googleg_32dp.png"
@@ -7029,7 +7029,7 @@
       "description": "Model, deploy, and operate your SaaS at scale.",
       "discoveryLink": "",
       "discoveryRestUrl": "https://saasservicemgmt.googleapis.com/$discovery/rest?version=v1",
-      "documentationLink": "https://cloud.google.com/saas-runtime/docs",
+      "documentationLink": "https://docs.cloud.google.com/app-lifecycle-manager",
       "icons": {
         "x16": "https://www.gstatic.com/images/branding/product/1x/googleg_16dp.png",
         "x32": "https://www.gstatic.com/images/branding/product/1x/googleg_32dp.png"
