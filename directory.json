@@ -3058,10 +3058,10 @@
       "version": "v1"
     },
     {
-      "description": "Deep Review API for automated conference-quality scientific paper reviews.",
+      "description": "Deep Review API for automated, in-depth document reviews.",
       "discoveryLink": "",
       "discoveryRestUrl": "https://deepreview.googleapis.com/$discovery/rest?version=v1",
-      "documentationLink": "https://research.google/",
+      "documentationLink": "https://research.google/deepreview",
       "icons": {
         "x16": "https://www.gstatic.com/images/branding/product/1x/googleg_16dp.png",
         "x32": "https://www.gstatic.com/images/branding/product/1x/googleg_32dp.png"
@@ -3405,9 +3405,25 @@
       "id": "displayvideo:v4",
       "kind": "discovery#directoryItem",
       "name": "displayvideo",
-      "preferred": true,
+      "preferred": false,
       "title": "Display \u0026 Video 360 API",
       "version": "v4"
+    },
+    {
+      "description": "Display \u0026 Video 360 API allows users to automate complex Display \u0026 Video 360 workflows, such as creating insertion orders and setting targeting options for individual line items.",
+      "discoveryLink": "",
+      "discoveryRestUrl": "https://displayvideo.googleapis.com/$discovery/rest?version=v5",
+      "documentationLink": "https://developers.google.com/display-video/",
+      "icons": {
+        "x16": "https://www.gstatic.com/images/branding/product/1x/googleg_16dp.png",
+        "x32": "https://www.gstatic.com/images/branding/product/1x/googleg_32dp.png"
+      },
+      "id": "displayvideo:v5",
+      "kind": "discovery#directoryItem",
+      "name": "displayvideo",
+      "preferred": true,
+      "title": "Display \u0026 Video 360 API",
+      "version": "v5"
     },
     {
       "description": "Discover and protect your sensitive data. A fully managed service designed to help you discover, classify, and protect your valuable data assets with ease.",
