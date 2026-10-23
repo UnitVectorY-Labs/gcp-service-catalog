@@ -21,3 +21,4 @@ config:
       - services.json
       - directory.json
       - html
+  osv: sarif
