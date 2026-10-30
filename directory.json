@@ -2387,6 +2387,38 @@
     },
     {
       "description": "Creates and runs virtual machines on Google Cloud Platform.",
+      "discoveryLink": "",
+      "discoveryRestUrl": "https://compute.googleapis.com/$discovery/rest?version=2026-11-01",
+      "documentationLink": "https://cloud.google.com/compute/",
+      "icons": {
+        "x16": "https://www.gstatic.com/images/branding/product/1x/googleg_16dp.png",
+        "x32": "https://www.gstatic.com/images/branding/product/1x/googleg_32dp.png"
+      },
+      "id": "compute:2026-11-01",
+      "kind": "discovery#directoryItem",
+      "name": "compute",
+      "preferred": false,
+      "title": "Compute Engine API",
+      "version": "2026-11-01"
+    },
+    {
+      "description": "Creates and runs virtual machines on Google Cloud Platform.",
+      "discoveryLink": "",
+      "discoveryRestUrl": "https://compute.googleapis.com/$discovery/rest?version=2026-12-01-preview",
+      "documentationLink": "https://cloud.google.com/compute/",
+      "icons": {
+        "x16": "https://www.gstatic.com/images/branding/product/1x/googleg_16dp.png",
+        "x32": "https://www.gstatic.com/images/branding/product/1x/googleg_32dp.png"
+      },
+      "id": "compute:2026-12-01-preview",
+      "kind": "discovery#directoryItem",
+      "name": "compute",
+      "preferred": false,
+      "title": "Compute Engine API",
+      "version": "2026-12-01-preview"
+    },
+    {
+      "description": "Creates and runs virtual machines on Google Cloud Platform.",
       "discoveryLink": "./apis/compute/alpha/rest",
       "discoveryRestUrl": "https://www.googleapis.com/discovery/v1/apis/compute/alpha/rest",
       "documentationLink": "https://developers.google.com/compute/docs/reference/latest/",
