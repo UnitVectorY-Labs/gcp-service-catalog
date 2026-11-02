@@ -8018,7 +8018,7 @@
       "version": "v3"
     },
     {
-      "description": "This API converts video files into formats suitable for consumer distribution. For more information, see the Transcoder API overview \u003chttps://cloud.google.com/transcoder/docs/concepts/overview\u003e.",
+      "description": "This API converts video files into formats suitable for consumer distribution.",
       "discoveryLink": "",
       "discoveryRestUrl": "https://transcoder.googleapis.com/$discovery/rest?version=v1",
       "documentationLink": "https://cloud.google.com/transcoder/docs/",
