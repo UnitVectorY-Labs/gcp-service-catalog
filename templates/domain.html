@@ -47,7 +47,7 @@
             <h1>Services in the "{{.Domain}}" Domain</h1>
             <div class="search-container">
                 <label class="sr-only" for="searchInput">Search services</label>
-                <input type="search" id="searchInput" onkeyup="filterDomainServices()" placeholder="Search services in this domain...">
+                <input type="search" id="searchInput" oninput="filterDomainServices()" placeholder="Search services in this domain...">
                 <span class="search-icon">{{template "icon-search"}}</span>
             </div>
             <table id="domainServicesTable">
