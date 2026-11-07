@@ -367,6 +367,16 @@ func generateHTML() error {
 		log.Fatalf("Error copying style.css: %v", err)
 	}
 
+	// Shared design files are vendored and served with the generated website.
+	if err := os.MkdirAll(filepath.Join(htmlDir, "uvy-design"), 0755); err != nil {
+		return err
+	}
+	for _, name := range []string{"uvy-tokens.css", "uvy-theme.js", "uvy-elements.css", "LICENSE", "TABLER-ICONS-LICENSE"} {
+		if err := copyFile(filepath.Join("assets", "uvy-design", name), filepath.Join(htmlDir, "uvy-design", name)); err != nil {
+			return fmt.Errorf("copy shared design file %s: %w", name, err)
+		}
+	}
+
 	// Create a template function map with the urlSafe function
 	funcMap := template.FuncMap{
 		"urlize": urlSafe,
