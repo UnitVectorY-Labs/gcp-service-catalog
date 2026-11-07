@@ -1,7 +1,7 @@
 # UVY Design adoption
 
-- Release: [v0.1.0](https://github.com/UnitVectorY-Labs/uvy-design/releases/tag/v0.1.0)
-- Source commit: `396a65021c2bcab8dbcb3d1bb4cb498c807a4396`
+- Release: [v0.1.0](https://github.com/UnitVectorY-Labs/uvy-design/tree/12f8e3d964785d78628346516351fe4dac583cef)
+- Source commit: `12f8e3d964785d78628346516351fe4dac583cef`
 - Shared files are copied verbatim; application rules remain in `assets/style.css`.
 - No new framework or HTMX is introduced. Assets are copied into generated `html/uvy-design/`, including both licenses.
 
