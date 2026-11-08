@@ -17,7 +17,7 @@
 
 ## Adapter and invariants
 
-The adapter uses the standard type/spacing scale with compact mobile table cell padding. It preserves the existing horizontal navigation and home/services/APIs/domain/service/detail page hierarchy, table columns, data files and local filter functions. The only responsive changes wrap the same navigation and long values within fixed-width tables; no fields are hidden or moved behind tabs. Existing non-preferred API coloring is themed and supplemented by a short textual version label.
+The adapter uses the standard type/spacing scale with compact mobile table cell padding. It preserves the existing horizontal navigation and home/services/APIs/domain/service/detail page hierarchy, table columns, data files and local filter functions. On mobile the project title and theme control occupy the first line, with navigation below; long values wrap within fixed-width tables; no fields are hidden or moved behind tabs. Existing non-preferred API coloring is themed and supplemented by a short textual version label.
 
 The top-right binary toggle uses the shared host-only cookie controller. First visit follows OS preference; explicit light/dark survives navigation and reload. The project source and MIT license footer stays in normal document flow.
 
@@ -28,3 +28,5 @@ Official Tabler moon, sun, search and brand-github SVGs are inlined into `templa
 Generation uses the committed `services.json` (2,806 services) and `directory.json` (542 API records), unchanged. Run `WEBSITE=https://gcp-service-catalog.unitvectorylabs.com go run . -generate`, `go test ./...`, `go vet ./...` and `go build .`. Browser checks cover each route type, exact before/after filtering parity, theme persistence, 320/390px fit, no-JS browse and local-only runtime requests. Screenshot matrix and full method are linked from the PR. The original site lacks dark mode, so before screenshots under both OS preferences show its unchanged light presentation.
 
 To update, review a tagged UVY Design release, copy shared files verbatim, refresh this provenance/checksum table, and retest the adapter and screenshot matrix. Never fetch mutable shared assets at runtime.
+
+Current human-readable guidance reviewed at `64017af64fd58e4cf3a2a0e6ed66f6f5d9c0d09a`; the previously vendored release assets remain local.

@@ -18,8 +18,9 @@ a:hover { text-decoration:underline; }
 .icon { width:20px; height:20px; flex-shrink:0; vertical-align:middle; }
 main { flex:1; padding:var(--uvy-section-gap); min-width:0; }
 section { background:var(--uvy-surface); padding:var(--uvy-panel-pad); margin-bottom:var(--uvy-section-gap); border:1px solid var(--uvy-divider); border-radius:var(--uvy-radius-panel); box-shadow:var(--uvy-shadow); min-width:0; overflow-wrap:anywhere; }
-h1 { font-size:28px; line-height:1.25; color:var(--uvy-text); margin-bottom:16px; letter-spacing:-.02em; }
+h1 { font-size:28px; line-height:1.25; color:var(--uvy-link); margin-bottom:16px; letter-spacing:-.02em; }
 h2 { font-size:18px; line-height:1.35; color:var(--uvy-link); margin-bottom:16px; font-weight:650; }
+h1::after,h2::after { content:""; display:block; width:48px; max-width:100%; height:3px; margin-top:8px; background:var(--uvy-accent-fill); }
 p+p { margin-top:12px; }
 .muted-text { color:var(--uvy-muted); }
 ul.item-list { list-style:none; margin-top:16px; }
@@ -53,7 +54,8 @@ footer .icon { width:16px; height:16px; }
  main { padding:16px; }
  section { padding:16px; margin-bottom:16px; }
  h1 { font-size:24px; }
- .navbar { gap:0 4px; padding-left:8px; }
+ .navbar { gap:0 4px; padding:12px 8px; }
+ .navbar a:first-child { flex-basis:100%; padding-right:68px; }
  .navbar a { padding:8px 10px; font-size:14px; }
  .navbar>span { padding:0 4px; }
  table th,table td { padding:10px 8px; }
