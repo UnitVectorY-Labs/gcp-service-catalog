@@ -3,9 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <title>GCP Services - All Services - gcp-service-catalog</title>
-    <script src="uvy-design/uvy-theme.js"></script>
-    <link rel="stylesheet" href="uvy-design/uvy-tokens.css">
-    <link rel="stylesheet" href="uvy-design/uvy-elements.css">
+    {{template "theme"}}
     <link rel="stylesheet" href="style.css">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="Complete list of Google Cloud Platform (GCP) services. Search and browse all available GCP services.">
@@ -47,7 +45,7 @@
         <span>|</span>
         <a href="apis.html">APIs</a>
 
-        <button class="uvy-theme-toggle" data-uvy-theme-toggle type="button" aria-label="Switch to dark mode" hidden><span class="uvy-theme-dark-icon">{{template "icon-moon"}}</span><span class="uvy-theme-light-icon">{{template "icon-sun"}}</span></button>
+        <button class="uvy-theme-toggle" data-uvy-theme-toggle type="button" aria-label="Switch to dark mode" hidden><span class="uvy-theme-dark-icon">&#9790;</span><span class="uvy-theme-light-icon">&#9728;</span></button>
     </nav>
     <main>
         <section class="services">
@@ -55,7 +53,7 @@
             <div class="search-container">
                 <label class="sr-only" for="searchInput">Search services</label>
                 <input type="search" id="searchInput" oninput="debounceFilterServices()" placeholder="Search for services...">
-                <span class="search-icon">{{template "icon-search"}}</span>
+                <span class="search-icon">&#128269;</span>
             </div>
             <table id="servicesTable">
                 <thead>

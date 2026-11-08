@@ -3,9 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <title>GCP Services - {{.Name}} - gcp-service-catalog</title>
-    <script src="../uvy-design/uvy-theme.js"></script>
-    <link rel="stylesheet" href="../uvy-design/uvy-tokens.css">
-    <link rel="stylesheet" href="../uvy-design/uvy-elements.css">
+    {{template "theme"}}
     <link rel="stylesheet" href="../style.css">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="The '{{.Title}}' Google Cloud Platform (GCP) service.">
@@ -19,7 +17,7 @@
         <span>|</span>
         <a href="../apis.html">APIs</a>
 
-        <button class="uvy-theme-toggle" data-uvy-theme-toggle type="button" aria-label="Switch to dark mode" hidden><span class="uvy-theme-dark-icon">{{template "icon-moon"}}</span><span class="uvy-theme-light-icon">{{template "icon-sun"}}</span></button>
+        <button class="uvy-theme-toggle" data-uvy-theme-toggle type="button" aria-label="Switch to dark mode" hidden><span class="uvy-theme-dark-icon">&#9790;</span><span class="uvy-theme-light-icon">&#9728;</span></button>
     </nav>
     <main>
         <section class="service-detail">
