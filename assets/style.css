@@ -68,3 +68,11 @@ footer .icon { width:16px; height:16px; }
 @media(prefers-reduced-motion:reduce) { * { transition:none!important; } }
 
 .version-note { display:block; margin-top:4px; color:var(--uvy-danger); font-size:12px; font-weight:600; }
+
+/* Shared typography and layout defaults; dense catalog rows remain compact. */
+main { width: min(100% - 2rem, 75rem); max-width: 75rem; margin-inline: auto; padding: 2rem 0; }
+section { padding: 1rem; margin-bottom: 2rem; }
+h1 { font-size: 2rem; line-height: 1.2; font-weight: 600; }
+h2 { font-size: 1.5rem; line-height: 1.2; font-weight: 600; }
+code, pre { font-family: var(--uvy-mono); overflow-wrap: anywhere; }
+@media (min-width: 48rem) { main { width: min(100% - 4rem, 75rem); } }
