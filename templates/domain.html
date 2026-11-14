@@ -1,8 +1,9 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
     <meta charset="UTF-8">
     <title>GCP Services - {{.Domain}} Services - gcp-service-catalog</title>
+    {{template "theme"}}
     <link rel="stylesheet" href="../style.css">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="List of Google Cloud Platform services in the '{{.Domain}}' domain.">
@@ -29,19 +30,22 @@
 </head>
 <body>
     <!-- Top Navigation -->
-    <div class="navbar">
+    <nav class="navbar" aria-label="Main navigation">
         <a href="../index.html">gcp-service-catalog</a>
         <a href="../services.html">Services</a>
         <a href="../bydomain.html">By Domain</a>
-        <a href="domain-{{.Domain | urlquery}}.html" class="active">{{.Domain}}</a>
+        <a href="domain-{{.Domain | urlquery}}.html" class="active" aria-current="page">{{.Domain}}</a>
         <span>|</span>
         <a href="../apis.html">APIs</a>
-    </div>
+
+        <button class="uvy-theme-toggle" data-uvy-theme-toggle type="button" aria-label="Switch to dark mode" hidden><span class="uvy-theme-dark-icon">&#9790;</span><span class="uvy-theme-light-icon">&#9728;</span></button>
+    </nav>
     <main>
         <section class="domain-detail">
             <h1>Services in the "{{.Domain}}" Domain</h1>
             <div class="search-container">
-                <input type="text" id="searchInput" onkeyup="filterDomainServices()" placeholder="Search services in this domain...">
+                <label class="sr-only" for="searchInput">Search services</label>
+                <input type="search" id="searchInput" oninput="filterDomainServices()" placeholder="Search services in this domain...">
                 <span class="search-icon">&#128269;</span>
             </div>
             <table id="domainServicesTable">

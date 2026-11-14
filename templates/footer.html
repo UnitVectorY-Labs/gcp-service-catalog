@@ -1,11 +1,44 @@
+{{define "theme"}}
+    <script>
+(() => {
+  if (window.__uvyThemeInitialized) return;
+  window.__uvyThemeInitialized = true;
+  const root = document.documentElement;
+  const selector = '[data-uvy-theme-toggle], #theme-toggle';
+  const system = matchMedia('(prefers-color-scheme: dark)');
+  let preference = null;
+  try {
+    const cookie = document.cookie.split('; ').find(value => value.startsWith('uvy-theme='));
+    const saved = cookie?.slice('uvy-theme='.length);
+    if (saved === 'light' || saved === 'dark') preference = saved;
+  } catch {}
+  const sync = () => {
+    const dark = preference ? preference === 'dark' : system.matches;
+    root.dataset.theme = dark ? 'dark' : 'light';
+    root.style.colorScheme = dark ? 'dark' : 'light';
+    document.querySelectorAll(selector).forEach(button => {
+      button.hidden = false;
+      button.setAttribute('aria-label', dark ? 'Switch to light mode' : 'Switch to dark mode');
+      button.title = dark ? 'Switch to light mode' : 'Switch to dark mode';
+    });
+  };
+  sync();
+  system.addEventListener('change', () => { if (!preference) sync(); });
+  document.addEventListener('click', event => {
+    if (!(event.target instanceof Element) || !event.target.closest(selector)) return;
+    preference = root.dataset.theme === 'dark' ? 'light' : 'dark';
+    try {
+      document.cookie = `uvy-theme=${preference}; Path=/; Max-Age=31536000; SameSite=Lax${location.protocol === 'https:' ? '; Secure' : ''}`;
+    } catch {}
+    sync();
+  });
+  if (document.readyState === 'loading') document.addEventListener('DOMContentLoaded', sync, { once: true });
+  else sync();
+})();
+    </script>
+{{end}}
 {{define "footer"}}
 <footer>
-    <p>
-        <a href="https://github.com/UnitVectorY-Labs">UnitVectorY Labs</a> | 
-        <a href="https://opensource.org/licenses/MIT">MIT License</a> | 
-        <a href="https://github.com/UnitVectorY-Labs/gcp-service-catalog">
-            <strong>gcp-service-catalog</strong> on GitHub
-        </a>
-    </p>
+    <p><a href="https://github.com/UnitVectorY-Labs/gcp-service-catalog">Open source on GitHub</a><span aria-hidden="true"> · </span><a href="https://github.com/UnitVectorY-Labs/gcp-service-catalog/blob/main/LICENSE">MIT License</a></p>
 </footer>
 {{end}}
