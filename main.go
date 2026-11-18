@@ -2,7 +2,8 @@ package main
 
 import (
 	"context"
-	"encoding/json"
+	"encoding/json/jsontext"
+	"encoding/json/v2"
 	"encoding/xml"
 	"flag"
 	"fmt"
@@ -218,7 +219,7 @@ func crawlServiceUsage(ctx context.Context) error {
 		return services[i]["name"].(string) < services[j]["name"].(string)
 	})
 
-	jsonData, err := json.MarshalIndent(services, "", "  ")
+	jsonData, err := json.Marshal(services, jsontext.WithIndent("  "), json.Deterministic(true))
 	if err != nil {
 		return fmt.Errorf("failed to marshal JSON: %v", err)
 	}
@@ -271,7 +272,7 @@ func crawlAPIDirectory() error {
 	}
 
 	// Pretty print the JSON to a file
-	jsonData, err := json.MarshalIndent(directory, "", "  ")
+	jsonData, err := json.Marshal(directory, jsontext.WithIndent("  "), json.Deterministic(true))
 	if err != nil {
 		return fmt.Errorf("failed to marshal directory JSON: %v", err)
 	}
