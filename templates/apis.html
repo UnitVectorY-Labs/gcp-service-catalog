@@ -1,8 +1,9 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
     <meta charset="UTF-8">
     <title>GCP APIs - All APIs - gcp-service-catalog</title>
+    {{template "theme"}}
     <link rel="stylesheet" href="style.css">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="Complete list of Google Cloud Platform (GCP) apis. Search and browse all available GCP APIs.">
@@ -37,18 +38,21 @@
 </head>
 <body>
     <!-- Top Navigation -->
-    <div class="navbar">
+    <nav class="navbar" aria-label="Main navigation">
         <a href="index.html">gcp-service-catalog</a>
         <a href="services.html">Services</a>
         <a href="bydomain.html">By Domain</a>
         <span>|</span>
-        <a href="apis.html" class="active">APIs</a>
-    </div>
+        <a href="apis.html" class="active" aria-current="page">APIs</a>
+
+        <button class="uvy-theme-toggle" data-uvy-theme-toggle type="button" aria-label="Switch to dark mode" hidden><span class="uvy-theme-dark-icon">&#9790;</span><span class="uvy-theme-light-icon">&#9728;</span></button>
+    </nav>
     <main>
         <section class="services">
             <h1>All Google Cloud APIs</h1>
             <div class="search-container">
-                <input type="text" id="searchInput" oninput="debounceFilterServices()" placeholder="Search for APIs by ID or title...">
+                <label class="sr-only" for="searchInput">Search APIs</label>
+                <input type="search" id="searchInput" oninput="debounceFilterServices()" placeholder="Search for APIs by ID or title...">
                 <span class="search-icon">&#128269;</span>
             </div>
             <table id="servicesTable">
@@ -63,7 +67,7 @@
                     {{range .Services}}
                     <tr class="{{if not .Preferred}}non-preferred{{end}}">
                         <td><a href="api/{{.ID | urlize}}.html">{{.Title}}</a></td>
-                        <td>{{.Version}}</td>
+                        <td>{{.Version}}{{if not .Preferred}}<span class="version-note">Not preferred</span>{{end}}</td>
                         <td>{{.Description}}</td>
                     </tr>
                     {{end}}
