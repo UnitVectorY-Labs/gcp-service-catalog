@@ -21,4 +21,8 @@ config:
       - services.json
       - directory.json
       - html
+  indexer:
+    exclude:
+      - directory.json
+      - services.json
   osv: sarif
